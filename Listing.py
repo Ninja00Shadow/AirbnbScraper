@@ -6,19 +6,29 @@ from selenium.webdriver.support import expected_conditions as EC
 
 from bs4 import BeautifulSoup
 
-import time
-from datetime import date
-
 
 class Listing:
     closed_language_popup = False
+
+    AMENITIES_TO_SEARCH_FOR = ["TV", "Klimatyzacja", "Basen", "Kuchnia", "Pralka", "Wanna z hydromasażem", "Wi-Fi",
+                               "Żelazko", "Centralne ogrzewanie", "Zamek w drzwiach do sypialni", "Czujnik dymu",
+                               "Ciepła woda", "Lodówka", "Moskitiera", "Apteczka",
+                               "Bezpłatny dostęp do ośrodka wypoczynkowego",
+                               "Grill", "Gaśnica", "Podstawy", "Klimatyzacja centralna", "Prywatny taras lub balkon",
+                               "Ogród",
+                               "Ogrzewanie podłogowe", "Bezpłatny parking na miejscu", "Kominek",
+                               "Darmowy parking na ulicy",
+                               "Skrytka", "Elektroniczna niania", "Przenośne wentylatory", "Czujnik czadu",
+                               "Prywatne wejście",
+                               "Lodówka klarstein", "Akcesoria do grillowania", "Wypiekacz do chleba",
+                               "Grill: na węgiel drzewny",
+                               "Widok na dolinę", "Kominek: na prąd", "Wspólny taras lub balkon"]
 
     def __init__(self, link, driver):
         self.link = link
         self.driver = driver
 
         self.wait = WebDriverWait(self.driver, 5)
-        self.minimal_stay = 0
 
     def show(self):
         self.driver.get(self.link)
@@ -63,7 +73,7 @@ class Listing:
         name = soup.find('div', {'class': '_b8stb0'}).text
         return name
 
-    def get_price(self):
+    def get_price_per_night(self):
         price_str = self.wait.until(EC.presence_of_element_located((By.XPATH, "//div[@class='_m6lwl6']")))
         price = BeautifulSoup(price_str.get_attribute("outerHTML"), 'html.parser')
         price = price.find('div', {'class': '_m6lwl6'}).text
@@ -116,28 +126,72 @@ class Listing:
 
         return None
 
-    def get_location(self):
+    def get_country(self):
         location_str = self.wait.until(EC.presence_of_element_located((By.XPATH, "//span[@class='_9xiloll']")))
-        city, region, country = location_str.text.split(", ")
-        return city, region, country
+        country = location_str.text.split(", ")[-1]
+        return country
 
     def get_link(self):
         return self.link
+
+    def get_number_of_amenities(self):
+        amenities = self.wait.until(
+            EC.presence_of_element_located((By.XPATH, "//button[@class='l1j9v1wn b65jmrv v7aged4 dir dir-ltr']")))
+        amenities = amenities.text
+        amenities = amenities.split("(")[1]
+        amenities = amenities.split(")")[0]
+        amenities = int(amenities)
+        return amenities
+
+    def get_amenities(self):
+        amenities_button = self.wait.until(
+            EC.presence_of_element_located((By.XPATH, "//button[@class='l1j9v1wn b65jmrv v7aged4 dir dir-ltr']")))
+        amenities_button.click()
+        amenities = self.wait.until(EC.presence_of_element_located((By.XPATH, "//div[@class='_1seuw5go']")))
+        amenities = BeautifulSoup(amenities.get_attribute("innerHTML"), 'html.parser')
+        amenities = amenities.find_all('div', {'class': '_11jhslp'})
+
+        amenities_list = {}
+        for amenity in amenities:
+            for sub_amenity in amenity.find_all('div', {'class': 't1dx2edb dir dir-ltr'}):
+                section_title = amenity.find('h3', {'class': 'hghzvl1 dir dir-ltr'}).text
+                sub_amenity = sub_amenity.text
+                sub_amenity = sub_amenity.replace(" ", " ")
+                if amenities_list.get(section_title) is None:
+                    amenities_list[section_title] = [sub_amenity]
+                else:
+                    amenities_list[section_title].append(sub_amenity)
+
+        if amenities_list.get("Nie zapewniono") is not None:
+            amenities_list.__delitem__("Nie zapewniono")
+
+        return amenities_list
+
+    def get_amenities_score(self):
+        score = 0
+        amenities = self.get_amenities()
+        for category in amenities.values():
+            for amenity in category:
+                if amenity in self.AMENITIES_TO_SEARCH_FOR:
+                    score += 1
+
+        return score
 
     def set_link(self, link):
         self.link = link
 
     def get_all_data(self):
-        city, region, country = self.get_location()
+        try:
+            data = {"name": self.get_name(),
+                    "number of reviews": self.get_number_of_reviews(),
+                    "rating": self.get_rating(),
+                    "number of guests": self.get_number_of_guests(),
+                    "country": self.get_country(),
+                    "price per night": self.get_price_per_night(),
+                    "number of amenities": self.get_number_of_amenities(),
+                    "amenities score": self.get_amenities_score(),
+                    }
 
-        data = {"name": self.get_name(),
-                "number of reviews": self.get_number_of_reviews(),
-                "rating": self.get_rating(),
-                "number of guests": self.get_number_of_guests(),
-                "city": city,
-                "region": region,
-                "country": country,
-                "link": self.get_link(),
-                "price": self.get_price()}
-
-        return data
+            return data
+        except Exception as e:
+            return None
