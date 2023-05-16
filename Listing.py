@@ -126,10 +126,20 @@ class Listing:
 
         return None
 
-    def get_country(self):
+    def get_location(self):
         location_str = self.wait.until(EC.presence_of_element_located((By.XPATH, "//span[@class='_9xiloll']")))
-        country = location_str.text.split(", ")[-1]
-        return country
+        location_str = location_str.text.split(", ")
+        if len(location_str) == 3:
+            city, district, country = location_str
+        elif len(location_str) == 2:
+            city, country = location_str
+            district = None
+        else:
+            city = None
+            district = None
+            country = None
+
+        return city, district, country
 
     def get_link(self):
         return self.link
@@ -170,6 +180,10 @@ class Listing:
     def get_amenities_score(self):
         score = 0
         amenities = self.get_amenities()
+        with open('amenities.txt', 'a') as file:
+            for amenity in amenities.values():
+                for sub_amenity in amenity:
+                    file.write(sub_amenity + "\n")
         for category in amenities.values():
             for amenity in category:
                 if amenity in self.AMENITIES_TO_SEARCH_FOR:
@@ -181,12 +195,15 @@ class Listing:
         self.link = link
 
     def get_all_data(self):
+        city, district, country = self.get_location()
         try:
             data = {"name": self.get_name(),
                     "number of reviews": self.get_number_of_reviews(),
                     "rating": self.get_rating(),
                     "number of guests": self.get_number_of_guests(),
-                    "country": self.get_country(),
+                    "city": city,
+                    "district": district,
+                    "country": country,
                     "price per night": self.get_price_per_night(),
                     "number of amenities": self.get_number_of_amenities(),
                     "amenities score": self.get_amenities_score(),

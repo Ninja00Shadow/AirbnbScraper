@@ -5,14 +5,31 @@ from selenium.webdriver.support.ui import WebDriverWait
 import ListingsPage
 import json
 
+import concurrent.futures
+
 
 def read_links(file_name):
     with open(file_name, 'r') as file:
         return file.readlines()
 
 
+def scrape_country(link):
+    listing_page = ListingsPage.ListingsPage(link, driver)
+
+    j = 0
+    data_of_country = []
+    while listing_page.has_next_page():
+        print(f"{link.split('/')[-2]} - {j} - ", end="")
+        data_of_country.extend(listing_page.get_all_data_from_listings())
+        json.dump(data_of_country, open(f"data/data_partial.json", "w"), indent=4)
+        listing_page.next_listing_page()
+        print()
+        j += 1
+
+    json.dump(data_of_country, open(rf"data{link.split('/')[-2]}.json", "w"), indent=4)
+
+
 if __name__ == '__main__':
-    link = "https://www.airbnb.pl/s/Francja/homes"
 
     options = Options()
     options.add_argument("--disable-notifications")
@@ -21,18 +38,12 @@ if __name__ == '__main__':
 
     driver = webdriver.Chrome("C:\Python\MSID\chromedriver_win32\chromedriver.exe", options=options)
 
-    data = []
-    for link in read_links("links.txt"):
-        listing_page = ListingsPage.ListingsPage(link, driver)
+    # data = []
+    # for link in read_links("links.txt"):
+    #     scrape_country(link)
 
-        for j in range(0, 10):
-            print(f"{j} - ", end="")
-            data.extend(listing_page.get_all_data_from_listings())
-            json.dump(data, open(f"data/data_partial.json", "w"), indent=4)
-            listing_page.next_listing_page()
-            print()
-
-        json.dump(data, open(rf"data{link.split('/')[-2]}.json", "w"), indent=4)
-        data = []
+    with concurrent.futures.ThreadPoolExecutor(max_workers=12) as executor:
+        # Uruchomienie funkcji scrape_country dla każdego linku
+        executor.map(scrape_country, read_links("links.txt"))
 
     driver.quit()

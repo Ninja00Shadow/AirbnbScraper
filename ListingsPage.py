@@ -1,6 +1,6 @@
 import time
 
-from selenium.common import TimeoutException
+from selenium.common import TimeoutException, NoSuchElementException
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
@@ -56,6 +56,17 @@ class ListingsPage:
         self.wait.until(EC.presence_of_element_located((By.XPATH, "//div[@data-testid='card-container']")))
         self.scrap_listings()
         self.link = self.driver.current_url
+
+    def has_next_page(self):
+        self.driver.get(self.link)
+        self.wait.until(EC.presence_of_element_located((By.XPATH, "//div[@class='ctnq8en dir dir-ltr']")))
+
+        self.scroll_to_element_middle_screen(By.XPATH, "//div[@class='ctnq8en dir dir-ltr']")
+        try:
+            self.driver.find_element(By.XPATH, "//a[@class='l1j9v1wn c1ytbx3a dir dir-ltr']")
+            return True
+        except NoSuchElementException:
+            return False
 
     def scrap_listings(self):
         self.wait.until(EC.presence_of_element_located((By.XPATH, "//div[@data-testid='card-container']")))

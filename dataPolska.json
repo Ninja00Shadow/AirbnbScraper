@@ -1,0 +1,1793 @@
+[
+    {
+        "name": "Kierunek Natura - Tiny House z jacuzzi",
+        "number of reviews": 16,
+        "rating": 5.0,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 450.0,
+        "number of amenities": 42,
+        "amenities score": 15
+    },
+    {
+        "name": "chata wrzosowa, domek na stawie + 2 hektary powierzchni",
+        "number of reviews": 55,
+        "rating": 4.78,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 441.0,
+        "number of amenities": 24,
+        "amenities score": 13
+    },
+    {
+        "name": "Domek przy pla\u017cy nad jeziorem",
+        "number of reviews": 24,
+        "rating": 4.71,
+        "number of guests": 8,
+        "country": "Polska",
+        "price per night": 449.0,
+        "number of amenities": 30,
+        "amenities score": 11
+    },
+    {
+        "name": "Przytulny i blisko centrum apart & spa Hyrny deLux",
+        "number of reviews": 141,
+        "rating": 4.67,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 459.0,
+        "number of amenities": 33,
+        "amenities score": 11
+    },
+    {
+        "name": "chata po\u015brodku niczego + staw prywatny +3 ha",
+        "number of reviews": 395,
+        "rating": 4.79,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 370.0,
+        "number of amenities": 52,
+        "amenities score": 17
+    },
+    {
+        "name": "#2 Apiterapia na Roztoczu - Domek wypoczynkowy",
+        "number of reviews": 18,
+        "rating": 5.0,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 250.0,
+        "number of amenities": 30,
+        "amenities score": 12
+    },
+    {
+        "name": "Osady Poli - domek 5",
+        "number of reviews": 14,
+        "rating": 4.86,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 811.0,
+        "number of amenities": 22,
+        "amenities score": 14
+    },
+    {
+        "name": "Widok 1 Gardenia",
+        "number of reviews": 11,
+        "rating": 4.91,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 820.0,
+        "number of amenities": 54,
+        "amenities score": 12
+    },
+    {
+        "name": "Bac\u00f3wka 'Przytulas'",
+        "number of reviews": 212,
+        "rating": 4.99,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 400.0,
+        "number of amenities": 35,
+        "amenities score": 12
+    },
+    {
+        "name": "Gruszk\u00f3wka 1  Domek Letniskowy  (7 km od Bia\u0142ki )",
+        "number of reviews": 86,
+        "rating": 4.98,
+        "number of guests": 9,
+        "country": "Polska",
+        "price per night": 301.0,
+        "number of amenities": 39,
+        "amenities score": 15
+    },
+    {
+        "name": "Luksusowy domek na wodzie z saun\u0105 i motor\u00f3wk\u0105",
+        "number of reviews": 22,
+        "rating": 4.55,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 700.0,
+        "number of amenities": 46,
+        "amenities score": 11
+    },
+    {
+        "name": "Apartament w rodzinnym domu nad rzek\u0105",
+        "number of reviews": 137,
+        "rating": 4.73,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 113.0,
+        "number of amenities": 44,
+        "amenities score": 13
+    },
+    {
+        "name": "P\u00f3\u0142 na p\u00f3\u0142",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 576.0,
+        "number of amenities": 19,
+        "amenities score": 9
+    },
+    {
+        "name": "Jarga Chata gliniana ca\u0142oroczna",
+        "number of reviews": 37,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 333.0,
+        "number of amenities": 52,
+        "amenities score": 14
+    },
+    {
+        "name": "Domek KOTlina",
+        "number of reviews": 23,
+        "rating": 4.96,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 350.0,
+        "number of amenities": 36,
+        "amenities score": 13
+    },
+    {
+        "name": "Apartamenty Wieza - Apartamenty w Wie\u017cy",
+        "number of reviews": 27,
+        "rating": 4.96,
+        "number of guests": 10,
+        "country": "Polska",
+        "price per night": 420.0,
+        "number of amenities": 20,
+        "amenities score": 9
+    },
+    {
+        "name": "Domki. Bieszczady pl",
+        "number of reviews": 66,
+        "rating": 4.88,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 315.0,
+        "number of amenities": 30,
+        "amenities score": 15
+    },
+    {
+        "name": "Zak\u0105tek G\u00f3rski",
+        "number of reviews": 23,
+        "rating": 4.59,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 475.0,
+        "number of amenities": 58,
+        "amenities score": 19
+    },
+    {
+        "name": "Zak\u0105tek G\u00f3rski",
+        "number of reviews": 23,
+        "rating": 4.59,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 475.0,
+        "number of amenities": 58,
+        "amenities score": 19
+    },
+    {
+        "name": "Puszczysko nad jeziorem - dom na wynajem",
+        "number of reviews": 6,
+        "rating": 4.67,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 605.0,
+        "number of amenities": 54,
+        "amenities score": 11
+    },
+    {
+        "name": "Lost Garden _ dom w drzewach na skraju rezerwatu",
+        "number of reviews": 137,
+        "rating": 4.96,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 438.0,
+        "number of amenities": 51,
+        "amenities score": 14
+    },
+    {
+        "name": "Osada Poli - domek 1",
+        "number of reviews": 11,
+        "rating": 4.82,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 350.0,
+        "number of amenities": 27,
+        "amenities score": 13
+    },
+    {
+        "name": "Domek na drzewie kt\u00f3ry znika w lesie z jacuzzi",
+        "number of reviews": 16,
+        "rating": 4.88,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 585.0,
+        "number of amenities": 52,
+        "amenities score": 18
+    },
+    {
+        "name": "W\u0142\u00f3kna Inn - nowoczesna stodo\u0142a blisko natury",
+        "number of reviews": 60,
+        "rating": 4.95,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 633.0,
+        "number of amenities": 56,
+        "amenities score": 16
+    },
+    {
+        "name": "Delightfull Dome z wann\u0105 z hydromasa\u017cem i saun\u0105 na pla\u017cy",
+        "number of reviews": 51,
+        "rating": 4.98,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 1170.0,
+        "number of amenities": 54,
+        "amenities score": 16
+    },
+    {
+        "name": "LushHills | Tiny House - Domek Na K\u00f3\u0142kach",
+        "number of reviews": 79,
+        "rating": 4.91,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 286.0,
+        "number of amenities": 44,
+        "amenities score": 14
+    },
+    {
+        "name": "Przytulny domek na drzewie PICEA otoczony przyrod\u0105",
+        "number of reviews": 24,
+        "rating": 4.92,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 870.0,
+        "number of amenities": 31,
+        "amenities score": 7
+    },
+    {
+        "name": "HONAY HOUSE z widokiem na Tatry",
+        "number of reviews": 70,
+        "rating": 4.99,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 476.0,
+        "number of amenities": 39,
+        "amenities score": 11
+    },
+    {
+        "name": "Urocza chatka z saun\u0105 i jacuzzi",
+        "number of reviews": 52,
+        "rating": 4.98,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 500.0,
+        "number of amenities": 39,
+        "amenities score": 13
+    },
+    {
+        "name": "Domek Ptasiak w Karkonoszach",
+        "number of reviews": 6,
+        "rating": 5.0,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 600.0,
+        "number of amenities": 44,
+        "amenities score": 10
+    },
+    {
+        "name": "Domki Marczyce,Karpacz,Karkonosze,Szklarska Por\u0119ba",
+        "number of reviews": 18,
+        "rating": 4.83,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 573.0,
+        "number of amenities": 46,
+        "amenities score": 14
+    },
+    {
+        "name": "Domek na Jeleniej \u0142\u0105ce.",
+        "number of reviews": 55,
+        "rating": 4.89,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 300.0,
+        "number of amenities": 18,
+        "amenities score": 8
+    },
+    {
+        "name": "Urocza chatka dla dw\u00f3ch os\u00f3b",
+        "number of reviews": 57,
+        "rating": 4.98,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 220.0,
+        "number of amenities": 5,
+        "amenities score": 4
+    },
+    {
+        "name": "Dom na Jeziorze \u0141ab\u0119d\u017a - Polska, woj. pomorskie",
+        "number of reviews": 7,
+        "rating": 4.86,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 414.0,
+        "number of amenities": 31,
+        "amenities score": 13
+    },
+    {
+        "name": "Iny Miny Tiny Nature Villa :) Teraz zima gotowa!",
+        "number of reviews": 109,
+        "rating": 4.95,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 307.0,
+        "number of amenities": 32,
+        "amenities score": 8
+    },
+    {
+        "name": "Bia\u0142oborski LAS",
+        "number of reviews": 6,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 315.0,
+        "number of amenities": 43,
+        "amenities score": 11
+    },
+    {
+        "name": "Houseboat \u0141ab\u0105d\u017a 1",
+        "number of reviews": 6,
+        "rating": 4.83,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 240.0,
+        "number of amenities": 21,
+        "amenities score": 3
+    },
+    {
+        "name": "\u015awi\u0119tna Chatka",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 360.0,
+        "number of amenities": 26,
+        "amenities score": 12
+    },
+    {
+        "name": "Ma\u0142e nad jeziorem.",
+        "number of reviews": 21,
+        "rating": 5.0,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 403.0,
+        "number of amenities": 44,
+        "amenities score": 14
+    },
+    {
+        "name": "LushHills I Naturalna i Nowoczesna Jurta",
+        "number of reviews": 55,
+        "rating": 4.96,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 515.0,
+        "number of amenities": 45,
+        "amenities score": 14
+    },
+    {
+        "name": "Domandi lodge 2 luksusowy i przytulny domek g\u00f3rski",
+        "number of reviews": 108,
+        "rating": 4.97,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 584.0,
+        "number of amenities": 52,
+        "amenities score": 12
+    },
+    {
+        "name": "Domek na drzewie z widokiem na jezioro \u015aNIADANIE",
+        "number of reviews": 8,
+        "rating": 5.0,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 300.0,
+        "number of amenities": 57,
+        "amenities score": 15
+    },
+    {
+        "name": "Pomi\u0119dzy Izerami a Karkonoszami ...",
+        "number of reviews": 46,
+        "rating": 4.89,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 216.0,
+        "number of amenities": 40,
+        "amenities score": 10
+    },
+    {
+        "name": "Beskidzka Stodo\u0142a przy szlaku",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 12,
+        "country": "Polska",
+        "price per night": 450.0,
+        "number of amenities": 52,
+        "amenities score": 11
+    },
+    {
+        "name": "Sun & Snow Resorts II, Apartament 3117 dla 4 os\u00f3b",
+        "number of reviews": 18,
+        "rating": 4.61,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 292.0,
+        "number of amenities": 23,
+        "amenities score": 8
+    },
+    {
+        "name": "Pod Srebrzystym \u015awierkiem - Gor\u0105ca balia z jacuzzi",
+        "number of reviews": 54,
+        "rating": 4.96,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 318.0,
+        "number of amenities": 53,
+        "amenities score": 16
+    },
+    {
+        "name": "Casa Piccola",
+        "number of reviews": 76,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 366.0,
+        "number of amenities": 27,
+        "amenities score": 8
+    },
+    {
+        "name": "Rolnicz\u00f3wka - apartament na podhala\u0144skiej wsi",
+        "number of reviews": 50,
+        "rating": 5.0,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 347.0,
+        "number of amenities": 31,
+        "amenities score": 12
+    },
+    {
+        "name": "Mazurska chatka nad jeziorem , las",
+        "number of reviews": 28,
+        "rating": 4.57,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 250.0,
+        "number of amenities": 45,
+        "amenities score": 10
+    },
+    {
+        "name": "Le\u015bneM3 - na terenie Dworku Aleksandr\u00f3wka",
+        "number of reviews": 91,
+        "rating": 4.92,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 252.0,
+        "number of amenities": 24,
+        "amenities score": 11
+    },
+    {
+        "name": "Drewniany domek w kaszubskiej wiosce",
+        "number of reviews": 38,
+        "rating": 4.95,
+        "number of guests": 8,
+        "country": "Polska",
+        "price per night": 450.0,
+        "number of amenities": 9,
+        "amenities score": 4
+    },
+    {
+        "name": "B\u0142ogostan",
+        "number of reviews": 32,
+        "rating": 4.94,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 387.0,
+        "number of amenities": 34,
+        "amenities score": 11
+    },
+    {
+        "name": "Domek na wzg\u00f3rzu z \u0142\u0105k\u0105 zamiast ogrodu.",
+        "number of reviews": 5,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 503.0,
+        "number of amenities": 38,
+        "amenities score": 10
+    },
+    {
+        "name": "Kreatywny, minimalistyczny domek przy Kampinosie",
+        "number of reviews": 4,
+        "rating": 5.0,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 413.0,
+        "number of amenities": 32,
+        "amenities score": 10
+    },
+    {
+        "name": "Pok\u00f3j Twin 02 z tarasem i widokiem na G\u00d3RY",
+        "number of reviews": 47,
+        "rating": 4.74,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 288.0,
+        "number of amenities": 44,
+        "amenities score": 16
+    },
+    {
+        "name": "Agroturystyka Izba-Kominkowa",
+        "number of reviews": 150,
+        "rating": 4.91,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 120.0,
+        "number of amenities": 59,
+        "amenities score": 15
+    },
+    {
+        "name": "Alejka do tarniny",
+        "number of reviews": 76,
+        "rating": 4.99,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 350.0,
+        "number of amenities": 16,
+        "amenities score": 11
+    },
+    {
+        "name": "\u263c Jantaris B36 \u263c Klimatyzacja, Widok na morze",
+        "number of reviews": 12,
+        "rating": 4.58,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 191.0,
+        "number of amenities": 43,
+        "amenities score": 10
+    },
+    {
+        "name": "Domek Spa",
+        "number of reviews": 4,
+        "rating": 4.5,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 728.0,
+        "number of amenities": 42,
+        "amenities score": 13
+    },
+    {
+        "name": "Jawa czy Zen - ma\u0142y domek",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 550.0,
+        "number of amenities": 38,
+        "amenities score": 11
+    },
+    {
+        "name": "LushHills | Stylowa i Naturalna Jurta",
+        "number of reviews": 35,
+        "rating": 4.86,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 286.0,
+        "number of amenities": 29,
+        "amenities score": 13
+    },
+    {
+        "name": "Rajska Chata w g\u00f3rach z Bali\u0105 i Saun\u0105",
+        "number of reviews": 58,
+        "rating": 5.0,
+        "number of guests": 9,
+        "country": "Polska",
+        "price per night": 462.0,
+        "number of amenities": 46,
+        "amenities score": 16
+    },
+    {
+        "name": "Le\u015bny domek w g\u00f3rach z kominkiem & placem zabaw.",
+        "number of reviews": 45,
+        "rating": 4.93,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 409.0,
+        "number of amenities": 51,
+        "amenities score": 17
+    },
+    {
+        "name": "Beskidzka Oaza",
+        "number of reviews": 16,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 149.0,
+        "number of amenities": 49,
+        "amenities score": 9
+    },
+    {
+        "name": "Romantyczny domek dla pary nr 3 Mi\u0119towa G\u00f3rka",
+        "number of reviews": 68,
+        "rating": 4.88,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 369.0,
+        "number of amenities": 33,
+        "amenities score": 14
+    },
+    {
+        "name": "Chata na Rowienkach",
+        "number of reviews": 59,
+        "rating": 4.98,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 520.0,
+        "number of amenities": 33,
+        "amenities score": 8
+    },
+    {
+        "name": "\"Biebrza Starorzecze\"",
+        "number of reviews": 20,
+        "rating": 5.0,
+        "number of guests": 7,
+        "country": "Polska",
+        "price per night": 250.0,
+        "number of amenities": 51,
+        "amenities score": 16
+    },
+    {
+        "name": "Chatka nad stawami.",
+        "number of reviews": 37,
+        "rating": 4.97,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 104.0,
+        "number of amenities": 24,
+        "amenities score": 7
+    },
+    {
+        "name": "Samotnia w Uroczysku",
+        "number of reviews": 45,
+        "rating": 4.93,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 127.0,
+        "number of amenities": 22,
+        "amenities score": 8
+    },
+    {
+        "name": "Chatka Bez i Agrest - Wied\u017amia G\u00f3rka",
+        "number of reviews": 16,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 369.0,
+        "number of amenities": 42,
+        "amenities score": 15
+    },
+    {
+        "name": "Chatka Ch\u0142opska",
+        "number of reviews": 190,
+        "rating": 4.82,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 380.0,
+        "number of amenities": 35,
+        "amenities score": 14
+    },
+    {
+        "name": "Zajawka",
+        "number of reviews": 54,
+        "rating": 4.98,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 120.0,
+        "number of amenities": 34,
+        "amenities score": 14
+    },
+    {
+        "name": "Chatka nad stawami.",
+        "number of reviews": 37,
+        "rating": 4.97,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 104.0,
+        "number of amenities": 24,
+        "amenities score": 7
+    },
+    {
+        "name": "Samotnia w Uroczysku",
+        "number of reviews": 45,
+        "rating": 4.93,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 127.0,
+        "number of amenities": 22,
+        "amenities score": 8
+    },
+    {
+        "name": "Chatka Bez i Agrest - Wied\u017amia G\u00f3rka",
+        "number of reviews": 16,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 369.0,
+        "number of amenities": 42,
+        "amenities score": 15
+    },
+    {
+        "name": "Chatka Ch\u0142opska",
+        "number of reviews": 190,
+        "rating": 4.82,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 380.0,
+        "number of amenities": 35,
+        "amenities score": 14
+    },
+    {
+        "name": "Zajawka",
+        "number of reviews": 54,
+        "rating": 4.98,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 120.0,
+        "number of amenities": 34,
+        "amenities score": 14
+    },
+    {
+        "name": "*Uroczy domek u st\u00f3p Magurskiego Parku Narodowego*",
+        "number of reviews": 50,
+        "rating": 4.98,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 232.0,
+        "number of amenities": 54,
+        "amenities score": 17
+    },
+    {
+        "name": "Pies i Kot - Domek ze \u015bniadaniami",
+        "number of reviews": 37,
+        "rating": 4.97,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 225.0,
+        "number of amenities": 49,
+        "amenities score": 15
+    },
+    {
+        "name": "Apartament na Skarpie",
+        "number of reviews": 40,
+        "rating": 4.95,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 167.0,
+        "number of amenities": 50,
+        "amenities score": 13
+    },
+    {
+        "name": "Aparthotel Szklarska Por\u0119ba, Apartament dla 4 os\u00f3b",
+        "number of reviews": 34,
+        "rating": 4.68,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 180.0,
+        "number of amenities": 32,
+        "amenities score": 9
+    },
+    {
+        "name": "Lukasowy domek w Puszczy Noteckiej",
+        "number of reviews": 59,
+        "rating": 4.95,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 450.0,
+        "number of amenities": 51,
+        "amenities score": 14
+    },
+    {
+        "name": "Domek w D\u0119bowym Gaju do wynaj\u0119cia",
+        "number of reviews": 37,
+        "rating": 4.86,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 326.0,
+        "number of amenities": 43,
+        "amenities score": 18
+    },
+    {
+        "name": "Sol Marina 6 by Downtown Apartments",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 199.0,
+        "number of amenities": 32,
+        "amenities score": 9
+    },
+    null,
+    {
+        "name": "Tiny Domek w g\u00f3rach z kominkiem, Piwniczna-Zdr\u00f3j",
+        "number of reviews": 12,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 350.0,
+        "number of amenities": 45,
+        "amenities score": 15
+    },
+    {
+        "name": "Le\u015bnicz\u00f3wka nad Jeziorem Z\u0142otnickim.",
+        "number of reviews": 34,
+        "rating": 4.79,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 280.0,
+        "number of amenities": 51,
+        "amenities score": 11
+    },
+    {
+        "name": "Niebieski domek nad jeziorem",
+        "number of reviews": 16,
+        "rating": 4.88,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 520.0,
+        "number of amenities": 63,
+        "amenities score": 15
+    },
+    {
+        "name": "Jurta z widokiem na Jezioro Czorszty\u0144skie i Tatry",
+        "number of reviews": 4,
+        "rating": 5.0,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 500.0,
+        "number of amenities": 13,
+        "amenities score": 7
+    },
+    {
+        "name": "Chatka na Wzg\u00f3rzu",
+        "number of reviews": 11,
+        "rating": 5.0,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 520.0,
+        "number of amenities": 28,
+        "amenities score": 8
+    },
+    {
+        "name": "Domek na wyspie",
+        "number of reviews": 20,
+        "rating": 4.95,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 550.0,
+        "number of amenities": 42,
+        "amenities score": 8
+    },
+    {
+        "name": "Domek letniskowy w W\u0119gorzewie",
+        "number of reviews": 41,
+        "rating": 4.95,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 238.0,
+        "number of amenities": 29,
+        "amenities score": 13
+    },
+    {
+        "name": "AgroWychodne",
+        "number of reviews": 96,
+        "rating": 4.96,
+        "number of guests": 8,
+        "country": "Polska",
+        "price per night": 120.0,
+        "number of amenities": 31,
+        "amenities score": 14
+    },
+    {
+        "name": "Montezera",
+        "number of reviews": 14,
+        "rating": 5.0,
+        "number of guests": null,
+        "country": "Polska",
+        "price per night": 390.0,
+        "number of amenities": 54,
+        "amenities score": 14
+    },
+    {
+        "name": "Uroczy domek z widokiem na g\u00f3ry i zbiornik wody.",
+        "number of reviews": 17,
+        "rating": 4.82,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 400.0,
+        "number of amenities": 44,
+        "amenities score": 15
+    },
+    {
+        "name": "Makosieje Resort-20 m od jeziora, ogrzewanie,bon",
+        "number of reviews": 30,
+        "rating": 4.97,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 197.0,
+        "number of amenities": 47,
+        "amenities score": 13
+    },
+    {
+        "name": "Osada August\u00f3w, Bear's Cottage",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 614.0,
+        "number of amenities": 15,
+        "amenities score": 8
+    },
+    {
+        "name": "Skandynawski domek z widokiem na jezioro",
+        "number of reviews": 53,
+        "rating": 4.89,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 380.0,
+        "number of amenities": 39,
+        "amenities score": 11
+    },
+    {
+        "name": "NA skraju LASU domek nr 1 z bali\u0105/ jacuzzi.",
+        "number of reviews": 12,
+        "rating": 5.0,
+        "number of guests": 7,
+        "country": "Polska",
+        "price per night": 660.0,
+        "number of amenities": 49,
+        "amenities score": 13
+    },
+    {
+        "name": "Osada Janosika Domek B- jacuzzi drewniana balia",
+        "number of reviews": 9,
+        "rating": 5.0,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 686.0,
+        "number of amenities": 48,
+        "amenities score": 14
+    },
+    {
+        "name": "EKOterapia w drewnianym domku",
+        "number of reviews": 28,
+        "rating": 4.96,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 302.0,
+        "number of amenities": 35,
+        "amenities score": 14
+    },
+    {
+        "name": "nr1 - W POLU DOBREJ ENERGII",
+        "number of reviews": 41,
+        "rating": 4.93,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 130.0,
+        "number of amenities": 50,
+        "amenities score": 15
+    },
+    {
+        "name": "Lost Garden for 2 - domek w drzewach",
+        "number of reviews": 11,
+        "rating": 4.82,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 436.0,
+        "number of amenities": 47,
+        "amenities score": 14
+    },
+    {
+        "name": "ApartView",
+        "number of reviews": 7,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 275.0,
+        "number of amenities": 56,
+        "amenities score": 13
+    },
+    {
+        "name": "100% uroku z widokiem na Karkonosze, dla dwojga :)",
+        "number of reviews": 223,
+        "rating": 4.97,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 260.0,
+        "number of amenities": 22,
+        "amenities score": 11
+    },
+    {
+        "name": "Le\u015bne zacisze",
+        "number of reviews": 11,
+        "rating": 4.91,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 320.0,
+        "number of amenities": 20,
+        "amenities score": 7
+    },
+    {
+        "name": "Domek nad jeziorem z kortem tenisowym.",
+        "number of reviews": 10,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 700.0,
+        "number of amenities": 44,
+        "amenities score": 13
+    },
+    {
+        "name": "Zielony Domek",
+        "number of reviews": 48,
+        "rating": 4.98,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 400.0,
+        "number of amenities": 46,
+        "amenities score": 15
+    },
+    {
+        "name": "TINY HOUSE KR\u00d3LEWO",
+        "number of reviews": 16,
+        "rating": 5.0,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 450.0,
+        "number of amenities": 44,
+        "amenities score": 14
+    },
+    {
+        "name": "Cydrowe Wzg\u00f3rze nowoczesna stodo\u0142a z bali\u0105 i saun\u0105",
+        "number of reviews": 11,
+        "rating": 5.0,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 774.0,
+        "number of amenities": 65,
+        "amenities score": 16
+    },
+    {
+        "name": "Tyci Domek",
+        "number of reviews": 8,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 300.0,
+        "number of amenities": 31,
+        "amenities score": 10
+    },
+    {
+        "name": "Ustronny, drewniany domek nad Dunajcem.",
+        "number of reviews": 84,
+        "rating": 4.9,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 230.0,
+        "number of amenities": 45,
+        "amenities score": 14
+    },
+    {
+        "name": "Uroczy ma\u0142y domek na le\u015bnej dzia\u0142ce - \u0141osi\u00f3wka",
+        "number of reviews": 25,
+        "rating": 4.96,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 375.0,
+        "number of amenities": 32,
+        "amenities score": 9
+    },
+    {
+        "name": "Alejka do tarniny",
+        "number of reviews": 56,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 340.0,
+        "number of amenities": 18,
+        "amenities score": 12
+    },
+    {
+        "name": "Brzozowisko Warmia - TinyHouse na warmi\u0144skiej wsi.",
+        "number of reviews": 21,
+        "rating": 5.0,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 242.0,
+        "number of amenities": 46,
+        "amenities score": 15
+    },
+    {
+        "name": "Przytulny domek w \u015brodku lasu GM / Polska",
+        "number of reviews": 12,
+        "rating": 4.83,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 507.0,
+        "number of amenities": 71,
+        "amenities score": 14
+    },
+    {
+        "name": "Le\u015bna Baza Tuczno - Chatka",
+        "number of reviews": 28,
+        "rating": 4.96,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 175.0,
+        "number of amenities": 44,
+        "amenities score": 12
+    },
+    {
+        "name": "Szumi Las",
+        "number of reviews": 10,
+        "rating": 4.6,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 550.0,
+        "number of amenities": 34,
+        "amenities score": 11
+    },
+    {
+        "name": "Rajska Kolonia",
+        "number of reviews": 7,
+        "rating": 4.57,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 320.0,
+        "number of amenities": 32,
+        "amenities score": 10
+    },
+    {
+        "name": "Apartamenty Le\u015bne Historie 2",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 420.0,
+        "number of amenities": 42,
+        "amenities score": 10
+    },
+    {
+        "name": "Laba na Chechle-SPA z widokiem na las",
+        "number of reviews": 34,
+        "rating": 4.97,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 600.0,
+        "number of amenities": 53,
+        "amenities score": 13
+    },
+    {
+        "name": "Dom blisko natury!",
+        "number of reviews": 3,
+        "rating": 5.0,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 320.0,
+        "number of amenities": 15,
+        "amenities score": 6
+    },
+    {
+        "name": "Dom Letniskowy - Patio - ognisko & koza",
+        "number of reviews": 89,
+        "rating": 4.85,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 330.0,
+        "number of amenities": 40,
+        "amenities score": 12
+    },
+    {
+        "name": "Stryj\u00f3wka.",
+        "number of reviews": 42,
+        "rating": 4.98,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 270.0,
+        "number of amenities": 21,
+        "amenities score": 10
+    },
+    {
+        "name": "Domek z basenem i kominkiem w D\u0119bowym Gaju",
+        "number of reviews": 48,
+        "rating": 4.94,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 334.0,
+        "number of amenities": 37,
+        "amenities score": 15
+    },
+    {
+        "name": "Chata przy lipie",
+        "number of reviews": 30,
+        "rating": 4.8,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 240.0,
+        "number of amenities": 33,
+        "amenities score": 14
+    },
+    {
+        "name": "Ca\u0142oroczne stodo\u0142y mieszkalne z saun\u0105 i jacuzzi",
+        "number of reviews": 9,
+        "rating": 4.78,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 550.0,
+        "number of amenities": 58,
+        "amenities score": 17
+    },
+    {
+        "name": "Domek Umilenie",
+        "number of reviews": 39,
+        "rating": 4.97,
+        "number of guests": 7,
+        "country": "Polska",
+        "price per night": 250.0,
+        "number of amenities": 41,
+        "amenities score": 19
+    },
+    {
+        "name": "Dom nad jeziorem z rusk\u0105 bani\u0105 i kominkiem",
+        "number of reviews": 14,
+        "rating": 5.0,
+        "number of guests": 8,
+        "country": "Polska",
+        "price per night": 800.0,
+        "number of amenities": 61,
+        "amenities score": 14
+    },
+    {
+        "name": "Odpoczynek blisko pla\u017cy i Odry w starym klimacie",
+        "number of reviews": 147,
+        "rating": 4.84,
+        "number of guests": null,
+        "country": "Polska",
+        "price per night": 177.0,
+        "number of amenities": 68,
+        "amenities score": 16
+    },
+    {
+        "name": "Morgi na \u0141ebkach - Dzika Jurta",
+        "number of reviews": 34,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 200.0,
+        "number of amenities": 6,
+        "amenities score": 4
+    },
+    {
+        "name": "Czaruj\u0105ca zabytkowa chata w polskim lesie",
+        "number of reviews": 154,
+        "rating": 4.87,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 370.0,
+        "number of amenities": 23,
+        "amenities score": 13
+    },
+    {
+        "name": "Your Cute Hytte",
+        "number of reviews": 2,
+        "rating": null,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 450.0,
+        "number of amenities": 34,
+        "amenities score": 9
+    },
+    {
+        "name": "Domek na wodzie blisko portu jachtowego.",
+        "number of reviews": 5,
+        "rating": 4.8,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 250.0,
+        "number of amenities": 14,
+        "amenities score": 5
+    },
+    {
+        "name": "Domek nad Potokiem u st\u00f3p Bieszczad",
+        "number of reviews": 35,
+        "rating": 4.89,
+        "number of guests": 8,
+        "country": "Polska",
+        "price per night": 428.0,
+        "number of amenities": 36,
+        "amenities score": 15
+    },
+    {
+        "name": "Uroczy domek blisko rzeki w Puszczy Kozienickiej",
+        "number of reviews": 4,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 270.0,
+        "number of amenities": 48,
+        "amenities score": 11
+    },
+    {
+        "name": "Pi\u0119kny wiejski dom z 2 stawami",
+        "number of reviews": 3,
+        "rating": 5.0,
+        "number of guests": null,
+        "country": "Polska",
+        "price per night": 150.0,
+        "number of amenities": 63,
+        "amenities score": 14
+    },
+    {
+        "name": "Domek Jod\u0142owa Dolina",
+        "number of reviews": 44,
+        "rating": 4.98,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 250.0,
+        "number of amenities": 51,
+        "amenities score": 18
+    },
+    {
+        "name": "uroczy dom Przy Chlebowym Piecu Puszcza Knyszy\u0144ska",
+        "number of reviews": 33,
+        "rating": 5.0,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 314.0,
+        "number of amenities": 56,
+        "amenities score": 15
+    },
+    {
+        "name": "Przytulny apartament SUDECKI KLIMAT +rowery gratis",
+        "number of reviews": 22,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 312.0,
+        "number of amenities": 40,
+        "amenities score": 15
+    },
+    {
+        "name": "Komfortowy i s\u0142oneczny apartament Pod \u015awierkami",
+        "number of reviews": 31,
+        "rating": 4.9,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 211.0,
+        "number of amenities": 35,
+        "amenities score": 8
+    },
+    {
+        "name": "Mazury nad jeziorem 2",
+        "number of reviews": 84,
+        "rating": 4.96,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 260.0,
+        "number of amenities": 48,
+        "amenities score": 12
+    },
+    {
+        "name": "Glamping na \u0141\u0105ce",
+        "number of reviews": 56,
+        "rating": 4.89,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 200.0,
+        "number of amenities": 30,
+        "amenities score": 10
+    },
+    {
+        "name": "Ca\u0142oroczny dom letniskowy Laskownica nad jeziorem",
+        "number of reviews": 4,
+        "rating": 4.75,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 1216.0,
+        "number of amenities": 60,
+        "amenities score": 13
+    },
+    {
+        "name": "Glamping na \u0141\u0105ce",
+        "number of reviews": 56,
+        "rating": 4.89,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 200.0,
+        "number of amenities": 30,
+        "amenities score": 10
+    },
+    {
+        "name": "Ca\u0142oroczny dom letniskowy Laskownica nad jeziorem",
+        "number of reviews": 4,
+        "rating": 4.75,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 1216.0,
+        "number of amenities": 60,
+        "amenities score": 13
+    },
+    {
+        "name": "Twarog\u00f3wka - domek w Gorcach",
+        "number of reviews": 3,
+        "rating": 5.0,
+        "number of guests": 8,
+        "country": "Polska",
+        "price per night": 300.0,
+        "number of amenities": 37,
+        "amenities score": 13
+    },
+    {
+        "name": "Le\u015bnicz\u00f3wka",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 288.0,
+        "number of amenities": 26,
+        "amenities score": 7
+    },
+    {
+        "name": "TATRAHOLIDAY- Domek na wierchu",
+        "number of reviews": 10,
+        "rating": 4.7,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 290.0,
+        "number of amenities": 28,
+        "amenities score": 6
+    },
+    {
+        "name": "Domek Chmury i G\u00f3ry w Karkonoszach",
+        "number of reviews": 9,
+        "rating": 5.0,
+        "number of guests": 8,
+        "country": "Polska",
+        "price per night": 510.0,
+        "number of amenities": 15,
+        "amenities score": 8
+    },
+    {
+        "name": "Domek z prze\u015bwitem na jezioro",
+        "number of reviews": 12,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 423.0,
+        "number of amenities": 40,
+        "amenities score": 12
+    },
+    {
+        "name": "Chatka Babci i Dziadka",
+        "number of reviews": 6,
+        "rating": 5.0,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 400.0,
+        "number of amenities": 37,
+        "amenities score": 15
+    },
+    {
+        "name": "Domek nad Potokiem w Beskidach",
+        "number of reviews": 10,
+        "rating": 5.0,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 370.0,
+        "number of amenities": 45,
+        "amenities score": 9
+    },
+    {
+        "name": "\"Stara Szko\u0142a\"  Agroturystyka",
+        "number of reviews": 9,
+        "rating": 5.0,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 230.0,
+        "number of amenities": 54,
+        "amenities score": 14
+    },
+    {
+        "name": "Masuria nad jeziorem",
+        "number of reviews": 78,
+        "rating": 4.91,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 320.0,
+        "number of amenities": 53,
+        "amenities score": 16
+    },
+    {
+        "name": "BioDomek z przepi\u0119knym widokiem na g\u00f3ry i ogrodem",
+        "number of reviews": 44,
+        "rating": 4.86,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 440.0,
+        "number of amenities": 51,
+        "amenities score": 13
+    },
+    {
+        "name": "\u263cKlifowa 3/19 \u263c widok na morze, SPA \u263c100m do pla\u017cy",
+        "number of reviews": 26,
+        "rating": 4.88,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 264.0,
+        "number of amenities": 49,
+        "amenities score": 10
+    },
+    {
+        "name": "Szalka",
+        "number of reviews": 29,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 316.0,
+        "number of amenities": 36,
+        "amenities score": 13
+    },
+    {
+        "name": "Uroczy domek na wzg\u00f3rzu",
+        "number of reviews": 10,
+        "rating": 4.9,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 447.0,
+        "number of amenities": 39,
+        "amenities score": 11
+    },
+    {
+        "name": "Tatraholiday  Domek zb\u00f3jnicki",
+        "number of reviews": 6,
+        "rating": 5.0,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 350.0,
+        "number of amenities": 22,
+        "amenities score": 12
+    },
+    {
+        "name": "\u015alusarnia-domek z  saun\u0105 nad jeziorem,  Kaszuby",
+        "number of reviews": 20,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 400.0,
+        "number of amenities": 68,
+        "amenities score": 16
+    },
+    {
+        "name": "Domek Czere\u015bniowy+ Sauna na Kaszubach - Natura Sad",
+        "number of reviews": 33,
+        "rating": 4.97,
+        "number of guests": 7,
+        "country": "Polska",
+        "price per night": 490.0,
+        "number of amenities": 53,
+        "amenities score": 14
+    },
+    {
+        "name": "Dadaj Park-domki Tiny House",
+        "number of reviews": 2,
+        "rating": null,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 277.0,
+        "number of amenities": 21,
+        "amenities score": 10
+    },
+    {
+        "name": "Uroczy domek z kominkiem, w lesie nad jeziorem",
+        "number of reviews": 7,
+        "rating": 4.57,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 150.0,
+        "number of amenities": 18,
+        "amenities score": 8
+    },
+    {
+        "name": "Chata pod orzechem",
+        "number of reviews": 56,
+        "rating": 4.98,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 312.0,
+        "number of amenities": 49,
+        "amenities score": 14
+    },
+    {
+        "name": "Glamping Brzozowy Zak\u0105tek",
+        "number of reviews": 26,
+        "rating": 5.0,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 155.0,
+        "number of amenities": 29,
+        "amenities score": 10
+    },
+    {
+        "name": "Domek w lesie z widokiem na jezioro na Kaszubach",
+        "number of reviews": 23,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 322.0,
+        "number of amenities": 59,
+        "amenities score": 14
+    },
+    {
+        "name": "Uroczy azjatycki domek w sercu Kaszub K\u0142\u0105czno",
+        "number of reviews": 7,
+        "rating": 5.0,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 350.0,
+        "number of amenities": 47,
+        "amenities score": 13
+    },
+    {
+        "name": "Domek we wsi",
+        "number of reviews": 7,
+        "rating": 5.0,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 350.0,
+        "number of amenities": 15,
+        "amenities score": 7
+    },
+    {
+        "name": "Houseboat Water Man bez p\u0142ywania dom na wodzie",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 600.0,
+        "number of amenities": 45,
+        "amenities score": 15
+    },
+    {
+        "name": "Domki na Widoku",
+        "number of reviews": 5,
+        "rating": 5.0,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 300.0,
+        "number of amenities": 45,
+        "amenities score": 12
+    },
+    {
+        "name": "Wiejska Sowa Domek 1",
+        "number of reviews": 7,
+        "rating": 4.29,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 320.0,
+        "number of amenities": 36,
+        "amenities score": 12
+    },
+    {
+        "name": "Dom Malarki",
+        "number of reviews": 4,
+        "rating": 4.75,
+        "number of guests": 3,
+        "country": "Polska",
+        "price per night": 350.0,
+        "number of amenities": 17,
+        "amenities score": 8
+    },
+    {
+        "name": "Wiejska Sowa Domek 3",
+        "number of reviews": 9,
+        "rating": 4.67,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 330.0,
+        "number of amenities": 34,
+        "amenities score": 12
+    },
+    {
+        "name": "Dziko\u015b\u0107 Serca - Jurta z widokiem",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 380.0,
+        "number of amenities": 17,
+        "amenities score": 9
+    },
+    {
+        "name": "Poddasze w Domu Rodzinnym nad rzek\u0105",
+        "number of reviews": 71,
+        "rating": 4.89,
+        "number of guests": 2,
+        "country": "Polska",
+        "price per night": 105.0,
+        "number of amenities": 35,
+        "amenities score": 10
+    },
+    {
+        "name": "Chata Ole\u0144ka i Agata",
+        "number of reviews": 91,
+        "rating": 4.99,
+        "number of guests": 6,
+        "country": "Polska",
+        "price per night": 200.0,
+        "number of amenities": 28,
+        "amenities score": 13
+    },
+    {
+        "name": "Stylowe Letnisko pod lasem, 45 minut z Warszawy",
+        "number of reviews": 15,
+        "rating": 4.8,
+        "number of guests": 5,
+        "country": "Polska",
+        "price per night": 295.0,
+        "number of amenities": 39,
+        "amenities score": 12
+    },
+    {
+        "name": "beGLAMP - glamping przy lesie i Zalewie Pr\u00f3ba",
+        "number of reviews": 6,
+        "rating": 4.83,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 578.0,
+        "number of amenities": 56,
+        "amenities score": 11
+    },
+    {
+        "name": "Jurta Jura",
+        "number of reviews": null,
+        "rating": null,
+        "number of guests": 4,
+        "country": "Polska",
+        "price per night": 302.0,
+        "number of amenities": 33,
+        "amenities score": 8
+    }
+]
