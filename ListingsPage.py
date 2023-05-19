@@ -59,9 +59,9 @@ class ListingsPage:
 
     def has_next_page(self):
         self.driver.get(self.link)
-        self.wait.until(EC.presence_of_element_located((By.XPATH, "//div[@class='ctnq8en dir dir-ltr']")))
+        self.wait.until(EC.presence_of_element_located((By.XPATH, "//div[@class='cn6uggc dir dir-ltr']")))
 
-        self.scroll_to_element_middle_screen(By.XPATH, "//div[@class='ctnq8en dir dir-ltr']")
+        self.scroll_to_element_middle_screen(By.XPATH, "//div[@class='cn6uggc dir dir-ltr']")
         try:
             self.driver.find_element(By.XPATH, "//a[@class='l1j9v1wn c1ytbx3a dir dir-ltr']")
             return True

@@ -214,8 +214,8 @@ class Listing:
         self.link = link
 
     def get_all_data(self):
-        city, district, country = self.get_location()
         try:
+            city, district, country = self.get_location()
             data = {"name": self.get_name(),
                     "number of reviews": self.get_number_of_reviews(),
                     "rating": self.get_rating(),
