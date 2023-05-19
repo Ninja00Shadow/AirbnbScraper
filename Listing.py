@@ -10,21 +10,9 @@ from bs4 import BeautifulSoup
 class Listing:
     closed_language_popup = False
 
-    AMENITIES_TO_SEARCH_FOR = ["TV", "Klimatyzacja", "Basen", "Kuchnia", "Pralka", "Wanna z hydromasażem", "Wi-Fi",
-                               "Żelazko", "Centralne ogrzewanie", "Zamek w drzwiach do sypialni", "Czujnik dymu",
-                               "Ciepła woda", "Lodówka", "Moskitiera", "Apteczka",
-                               "Bezpłatny dostęp do ośrodka wypoczynkowego",
-                               "Grill", "Gaśnica", "Podstawy", "Klimatyzacja centralna", "Prywatny taras lub balkon",
-                               "Ogród",
-                               "Ogrzewanie podłogowe", "Bezpłatny parking na miejscu", "Kominek",
-                               "Darmowy parking na ulicy",
-                               "Skrytka", "Elektroniczna niania", "Przenośne wentylatory", "Czujnik czadu",
-                               "Prywatne wejście",
-                               "Lodówka klarstein", "Akcesoria do grillowania", "Wypiekacz do chleba",
-                               "Grill: na węgiel drzewny",
-                               "Widok na dolinę", "Kominek: na prąd", "Wspólny taras lub balkon"]
-
     def __init__(self, link, driver):
+        self.AMENITIES_TO_LOOK_IF_IS = self.read_and_process_positive_amenities_from_file()
+        self.AMENITIES_TO_LOOK_IF_NOT_FOUND = self.read_and_process_negative_amenities_from_file()
         self.link = link
         self.driver = driver
 
@@ -54,6 +42,24 @@ class Listing:
             self.closed_language_popup = True
         except TimeoutException:
             pass
+
+    def read_and_process_positive_amenities_from_file(self):
+        with open("amenities_plus.txt", "r") as file:
+            amenities_score_dict = {}
+            for line in file.readlines():
+                name, score = line.strip().split(";")
+                amenities_score_dict[name] = int(score)
+
+            return amenities_score_dict
+
+    def read_and_process_negative_amenities_from_file(self):
+        with open("amenities_minus.txt", "r") as file:
+            amenities_score_dict = {}
+            for line in file.readlines():
+                name, score = line.strip().split(";")
+                amenities_score_dict[name] = int(score)
+
+            return amenities_score_dict
 
     def close_privacy_popup(self):
         try:
@@ -167,6 +173,8 @@ class Listing:
                 section_title = amenity.find('h3', {'class': 'hghzvl1 dir dir-ltr'}).text
                 sub_amenity = sub_amenity.text
                 sub_amenity = sub_amenity.replace(" ", " ")
+                if sub_amenity.startswith("Niedost�pne:"):
+                    continue
                 if amenities_list.get(section_title) is None:
                     amenities_list[section_title] = [sub_amenity]
                 else:
@@ -178,18 +186,29 @@ class Listing:
         return amenities_list
 
     def get_amenities_score(self):
-        score = 0
+        total_score = 0
         amenities = self.get_amenities()
-        with open('amenities.txt', 'a') as file:
-            for amenity in amenities.values():
-                for sub_amenity in amenity:
-                    file.write(sub_amenity + "\n")
+        amenities_list = []
         for category in amenities.values():
             for amenity in category:
-                if amenity in self.AMENITIES_TO_SEARCH_FOR:
-                    score += 1
+                amenities_list.append(amenity)
 
-        return score
+        for amenity in amenities_list:
+            for name, score in self.AMENITIES_TO_LOOK_IF_IS.items():
+                if name == amenity:
+                    total_score += score
+                    break
+
+        found = False
+        for name, score in self.AMENITIES_TO_LOOK_IF_NOT_FOUND.items():
+            for amenity in amenities_list:
+                if name in amenity:
+                    found = True
+                    break
+            if not found:
+                total_score += score
+
+        return total_score
 
     def set_link(self, link):
         self.link = link

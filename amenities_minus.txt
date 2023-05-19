@@ -1,0 +1,16 @@
+Zamra�arka;-1
+Wi-Fi;-2
+Zabezpieczenia okien;-1
+Schowek na ubrania;-1
+Po�ciel;-1
+Ga�nica;-1
+Czujnik dymu;-1
+Czajnik;-1
+Pralka;-1
+Lod�wka;-2
+Apteczka;-2
+Podstawy;-3
+Kuchnia;-1
+Ogrzewanie;-1
+Ciep�a woda;-1
+P�atny parking;-1

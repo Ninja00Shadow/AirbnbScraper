@@ -38,12 +38,7 @@ if __name__ == '__main__':
 
     driver = webdriver.Chrome("C:\Python\MSID\chromedriver_win32\chromedriver.exe", options=options)
 
-    # data = []
-    # for link in read_links("links.txt"):
-    #     scrape_country(link)
-
-    with concurrent.futures.ThreadPoolExecutor(max_workers=12) as executor:
-        # Uruchomienie funkcji scrape_country dla każdego linku
-        executor.map(scrape_country, read_links("links.txt"))
+    for link in read_links("links.txt"):
+        scrape_country(link)
 
     driver.quit()
