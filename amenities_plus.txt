@@ -34,7 +34,7 @@ Grill: na gaz;1
 Do u�ytku wsp�lnego na zewn�trz basen � dost�pne przez ca�y rok, dost�pne w okre�lonych godzinach, os�ona basenu, ze s�on� wod�;1
 Prywatne podw�rko za domem;1
 Palenisko;1
-Bezp�atna wiata parkingowa na miejscu
+Bezp�atna wiata parkingowa na miejscu;1
 P�atny parking na miejscu � 1 miejsce;-1
 Moskitiera;1
 P�atny parking poza terenem miejsca na pobyt;-1
