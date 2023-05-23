@@ -104,7 +104,7 @@ class Listing:
 
         return int(reviews_str)
 
-    def get_rating(self):
+    def get_general_rating(self):
         wait = WebDriverWait(self.driver, 3)
         try:
             rating_str = wait.until(EC.presence_of_element_located((By.XPATH, "//span[@class='_17p6nbba']")))
@@ -115,6 +115,23 @@ class Listing:
         rating = rating.split(" ")[0]
         rating = rating.replace(",", ".")
         return float(rating)
+
+    def get_specific_ratings(self):
+        wait = WebDriverWait(self.driver, 3)
+        try:
+            wait.until(EC.presence_of_element_located((By.XPATH, "//div[@class='r1f90fvr dir dir-ltr']")))
+        except TimeoutException:
+            return [None, None, None, None, None, None]
+
+        soup = BeautifulSoup(self.driver.page_source, 'html.parser')
+        ratings = soup.find_all('div', {'class': '_1s11ltsf'})
+        ratings_list = []
+        for rating in ratings:
+            rating_value = rating.find('span', {'class': '_4oybiu'}).text
+            rating_value = rating_value.replace(",", ".")
+            ratings_list.append(float(rating_value))
+
+        return ratings_list
 
     def get_number_of_guests(self):
         self.wait.until(EC.presence_of_element_located((By.XPATH, "//li[@class='l7n4lsf dir dir-ltr']")))
@@ -215,17 +232,23 @@ class Listing:
 
     def get_all_data(self):
         try:
-            city, district, country = self.get_location()
+            city, region, country = self.get_location()
+            cleanness, accuracy, communication, location, check_in, value = self.get_specific_ratings()
             data = {"name": self.get_name(),
                     "number of reviews": self.get_number_of_reviews(),
-                    "rating": self.get_rating(),
+                    "general rating": self.get_general_rating(),
                     "number of guests": self.get_number_of_guests(),
                     "city": city,
-                    "district": district,
+                    "region": region,
                     "country": country,
                     "price per night": self.get_price_per_night(),
                     "number of amenities": self.get_number_of_amenities(),
-                    "amenities score": self.get_amenities_score(),
+                    "cleanness rating": cleanness,
+                    "accuracy rating": accuracy,
+                    "communication rating": communication,
+                    "location rating": location,
+                    "check in rating": check_in,
+                    "value rating": value,
                     }
 
             return data
