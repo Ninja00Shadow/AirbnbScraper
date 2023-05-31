@@ -5,7 +5,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Terlingua",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 315.0,
         "number of amenities": 24,
@@ -14,7 +13,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Teksas"
     },
     {
         "name": "Tr\u00f3jk\u0105t: Kabina A-Frame dla Twojego o\u015brodka miejskiego",
@@ -22,7 +22,6 @@
         "general rating": 4.91,
         "number of guests": 4,
         "city": "West Farmington",
-        "district": "Ohio",
         "country": "Stany Zjednoczone",
         "price per night": 435.0,
         "number of amenities": 51,
@@ -31,7 +30,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ohio"
     },
     {
         "name": "Peacock Tiny House w pobli\u017cu Las Vegas",
@@ -39,7 +39,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "Sandy Valley",
-        "district": "Nevada",
         "country": "Stany Zjednoczone",
         "price per night": 561.0,
         "number of amenities": 25,
@@ -48,7 +47,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nevada"
     },
     {
         "name": "Joshua Tree Casita, Niesamowite widoki z Parku Narodowego",
@@ -56,7 +56,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "Joshua Tree",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 500.0,
         "number of amenities": 38,
@@ -65,7 +64,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Uroczy dom z fortepianem i \u015bniadaniem i parkingiem",
@@ -73,7 +73,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Pasadena",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 416.0,
         "number of amenities": 42,
@@ -82,7 +81,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Tullihas in the Trees Off-Grid Treehouse",
@@ -90,7 +90,6 @@
         "general rating": 4.98,
         "number of guests": 5,
         "city": "Frazeysburg",
-        "district": "Ohio",
         "country": "Stany Zjednoczone",
         "price per night": 525.0,
         "number of amenities": 17,
@@ -99,7 +98,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ohio"
     },
     {
         "name": "Kabina Heartwood na Mt. Rainier",
@@ -107,7 +107,6 @@
         "general rating": 4.98,
         "number of guests": 6,
         "city": "Packwood",
-        "district": "Waszyngton",
         "country": "Stany Zjednoczone",
         "price per night": 1390.0,
         "number of amenities": 59,
@@ -116,7 +115,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Waszyngton"
     },
     {
         "name": "Kraj:  Off-grid Adobe Dome w pobli\u017cu Big Bend",
@@ -124,7 +124,6 @@
         "general rating": 4.95,
         "number of guests": 3,
         "city": "Terlingua",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 496.0,
         "number of amenities": 20,
@@ -133,7 +132,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Teksas"
     },
     {
         "name": "PRYWATNY romantyczny DOMEK NA DRZEWIE z \u2605 klimatyzacj\u0105!",
@@ -141,7 +141,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Stanton",
-        "district": "Kentucky",
         "country": "Stany Zjednoczone",
         "price per night": 794.0,
         "number of amenities": 42,
@@ -150,7 +149,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Kentucky"
     },
     {
         "name": "Kabina nadbrze\u017cna Lake Sutherland z obszernym dokiem",
@@ -158,7 +158,6 @@
         "general rating": 4.82,
         "number of guests": 6,
         "city": "Port Angeles",
-        "district": "Waszyngton",
         "country": "Stany Zjednoczone",
         "price per night": 2382.0,
         "number of amenities": 57,
@@ -167,7 +166,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Waszyngton"
     },
     {
         "name": "Luksusowy domek na drzewie X Magiczny romantyczny las! Basen!",
@@ -175,7 +175,6 @@
         "general rating": 4.91,
         "number of guests": 3,
         "city": "Fredericksburg",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 1526.0,
         "number of amenities": 45,
@@ -184,7 +183,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Teksas"
     },
     {
         "name": "*Cozy A-Frame 2BR, Pines, Fishing, Deck, Firepit*",
@@ -192,7 +192,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Winnsboro",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 617.0,
         "number of amenities": 52,
@@ -201,7 +200,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Teksas"
     },
     {
         "name": "Lakefront A-Frame Cabin on Table Rock Lake",
@@ -209,7 +209,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "Branson",
-        "district": "Missouri",
         "country": "Stany Zjednoczone",
         "price per night": 550.0,
         "number of amenities": 47,
@@ -218,7 +217,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Missouri"
     },
     {
         "name": "Jurta Kwitn\u0105ca Wi\u015bnia na G\u00f3rze Rozgl\u0105dacza",
@@ -226,7 +226,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "Rising Fawn",
-        "district": "Georgia",
         "country": "Stany Zjednoczone",
         "price per night": 558.0,
         "number of amenities": 44,
@@ -235,7 +234,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Georgia"
     },
     {
         "name": "\"\u017b\u00f3\u0142ty i niebieski\" Elegancki pojemnik Tiny House",
@@ -243,7 +243,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Waco",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 442.0,
         "number of amenities": 32,
@@ -252,7 +251,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Teksas"
     },
     {
         "name": "Highland Haus- Cozy 70s AFrame-short to Lake",
@@ -260,7 +260,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Stoddard",
-        "district": "New Hampshire",
         "country": "Stany Zjednoczone",
         "price per night": 588.0,
         "number of amenities": 57,
@@ -269,7 +268,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "New Hampshire"
     },
     {
         "name": "Restore - Modern Rustic Tiny Home",
@@ -277,7 +277,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Blue Ridge",
-        "district": "Georgia",
         "country": "Stany Zjednoczone",
         "price per night": 428.0,
         "number of amenities": 43,
@@ -286,7 +285,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Georgia"
     },
     {
         "name": "Seamist Beach Cottage, Prywatna pla\u017ca i widok na ocean",
@@ -294,7 +294,6 @@
         "general rating": 4.69,
         "number of guests": 4,
         "city": "Bodega Bay",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 2814.0,
         "number of amenities": 60,
@@ -303,7 +302,8 @@
         "communication rating": 4.7,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Kalifornia"
     },
     {
         "name": "Luksusowe mieszkanie z jedn\u0105 sypialni\u0105 i prywatnym balkonem",
@@ -311,7 +311,6 @@
         "general rating": 4.9,
         "number of guests": 6,
         "city": "Daytona Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 491.0,
         "number of amenities": 19,
@@ -320,7 +319,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Circle J Pensjonat ze \u015bniadaniem",
@@ -328,7 +328,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "White Pigeon",
-        "district": "Michigan",
         "country": "Stany Zjednoczone",
         "price per night": 336.0,
         "number of amenities": 41,
@@ -337,7 +336,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Michigan"
     },
     {
         "name": "Pobyt w Little Coop Farm - bez op\u0142at za sprz\u0105tanie!",
@@ -345,7 +345,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Tallahassee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 211.0,
         "number of amenities": 41,
@@ -354,7 +353,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Pi\u0119kne studio przy basenie, serce Miami",
@@ -362,7 +362,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "Miami",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 421.0,
         "number of amenities": 57,
@@ -371,7 +370,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "\u201eThe Retreat\u201d  bardzo blisko w\u0119dkarstwa/jazdy na skuterze \u015bnie\u017cnym",
@@ -379,7 +379,6 @@
         "general rating": 4.99,
         "number of guests": null,
         "city": "Pulaski",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 252.0,
         "number of amenities": 63,
@@ -388,7 +387,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nowy Jork"
     },
     {
         "name": "\"Oaza\" czeka na Ciebie z patio i basenem",
@@ -396,7 +396,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Scottsdale",
-        "district": "Arizona",
         "country": "Stany Zjednoczone",
         "price per night": 284.0,
         "number of amenities": 64,
@@ -405,7 +404,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Arizona"
     },
     {
         "name": "Kolorowy r\u00f3g z prywatnym wej\u015bciem i wann\u0105!",
@@ -413,7 +413,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Eureka",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 294.0,
         "number of amenities": 26,
@@ -422,7 +421,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kalifornia"
     },
     {
         "name": "Garden Gate Getaway",
@@ -430,7 +430,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "McKinney",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 191.0,
         "number of amenities": 69,
@@ -439,7 +438,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Teksas"
     },
     {
         "name": "The Glass Greenhouse",
@@ -447,7 +447,6 @@
         "general rating": 4.8,
         "number of guests": 3,
         "city": "Salida",
-        "district": "Kolorado",
         "country": "Stany Zjednoczone",
         "price per night": 648.0,
         "number of amenities": 39,
@@ -456,7 +455,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Kolorado"
     },
     {
         "name": "Strona wody Przytulna kabina",
@@ -464,7 +464,6 @@
         "general rating": 4.91,
         "number of guests": 5,
         "city": "Summertown",
-        "district": "Tennessee",
         "country": "Stany Zjednoczone",
         "price per night": 357.0,
         "number of amenities": 42,
@@ -473,7 +472,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Tennessee"
     },
     {
         "name": "- Urocze i przytulne studio dla 2- 1 przecznicy od pla\u017cy",
@@ -481,7 +481,6 @@
         "general rating": 4.16,
         "number of guests": 2,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 380.0,
         "number of amenities": 28,
@@ -490,7 +489,8 @@
         "communication rating": 4.7,
         "location rating": 4.7,
         "check in rating": 4.5,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": "Floryda"
     },
     {
         "name": "The Seaside Cottage",
@@ -498,7 +498,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Pensacola",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 416.0,
         "number of amenities": 35,
@@ -507,7 +506,8 @@
         "communication rating": 4.8,
         "location rating": 3.5,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "*Przytulny i uroczy apartament* 1 przecznica od pla\u017cy",
@@ -515,7 +515,6 @@
         "general rating": 4.09,
         "number of guests": 2,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 396.0,
         "number of amenities": 31,
@@ -524,7 +523,8 @@
         "communication rating": 4.7,
         "location rating": 4.6,
         "check in rating": 4.4,
-        "value rating": 4.1
+        "value rating": 4.1,
+        "region": "Floryda"
     },
     {
         "name": "G\u0142\u00f3wna sypialnia z wann\u0105 z hydromasa\u017cem w Willowbrook, CA LAX",
@@ -532,7 +532,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Los Angeles",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 349.0,
         "number of amenities": 40,
@@ -541,7 +540,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kalifornia"
     },
     {
         "name": "Przy pla\u017cy - Widok na ocean - Du\u017ce \u0142\u00f3\u017cko",
@@ -549,7 +549,6 @@
         "general rating": 4.81,
         "number of guests": 4,
         "city": "Daytona Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 797.0,
         "number of amenities": 63,
@@ -558,7 +557,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Floryda"
     },
     {
         "name": "Groove A Frame Sandy Pond 420 & Pet friendly",
@@ -566,7 +566,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Pulaski",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 444.0,
         "number of amenities": 49,
@@ -575,7 +574,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "King Bed Studio! Po drugiej stronie ulicy od pla\u017cy!",
@@ -583,7 +583,6 @@
         "general rating": 4.83,
         "number of guests": 4,
         "city": "Myrtle Beach",
-        "district": "Karolina Po\u0142udniowa",
         "country": "Stany Zjednoczone",
         "price per night": 357.0,
         "number of amenities": 36,
@@ -592,7 +591,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Karolina Po\u0142udniowa"
     },
     {
         "name": "+Studio Beach Haven+ Kuchnia | Basen | parking",
@@ -600,7 +600,6 @@
         "general rating": 4.46,
         "number of guests": 4,
         "city": "Pompano Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 396.0,
         "number of amenities": 34,
@@ -609,7 +608,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Floryda"
     },
     {
         "name": "Hermosa Flor apartment( Duplex).",
@@ -617,7 +617,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Pensacola",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 378.0,
         "number of amenities": 41,
@@ -626,7 +625,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Relaksuj\u0105ce i jasne studio na pla\u017cy (63)",
@@ -634,7 +634,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Gulf Shores",
-        "district": "Alabama",
         "country": "Stany Zjednoczone",
         "price per night": 483.0,
         "number of amenities": 37,
@@ -643,7 +642,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Alabama"
     },
     {
         "name": "Prywatny pok\u00f3j(e) w odnowionym szeregowcu na Manhattanie",
@@ -651,7 +651,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 840.0,
         "number of amenities": 68,
@@ -660,7 +659,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "PI\u0118KNY apartament na pla\u017cy, WIDOK NA OCEAN! Co trzeba zobaczy\u0107!",
@@ -668,7 +668,6 @@
         "general rating": 4.81,
         "number of guests": 2,
         "city": "Long Beach",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 602.0,
         "number of amenities": 50,
@@ -677,7 +676,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalifornia"
     },
     {
         "name": "+przestronny i wygodny APARTAMENT w Victoria Park z basenem+",
@@ -685,7 +685,6 @@
         "general rating": 4.15,
         "number of guests": 4,
         "city": "Fort Lauderdale",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 411.0,
         "number of amenities": 41,
@@ -694,7 +693,8 @@
         "communication rating": 4.6,
         "location rating": 4.5,
         "check in rating": 4.7,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": "Floryda"
     },
     {
         "name": "Sea Spray, Studio 114, Beach steps away! basen+WiFi",
@@ -702,7 +702,6 @@
         "general rating": 4.84,
         "number of guests": 4,
         "city": "Ruskin",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 519.0,
         "number of amenities": 39,
@@ -711,7 +710,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Pok\u00f3j z baldachimem w pobli\u017cu Disney z basenem",
@@ -719,7 +719,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 206.0,
         "number of amenities": 53,
@@ -728,7 +727,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Rustykalny apartament z szarym dachem w pobli\u017cu Disneya z  basenem",
@@ -736,7 +736,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 248.0,
         "number of amenities": 51,
@@ -745,7 +744,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Uroczy prywatny pok\u00f3j - Manhattan, 70s-Upper East Side",
@@ -753,7 +753,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 374.0,
         "number of amenities": 36,
@@ -762,7 +761,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Tropical Paradise Central do Wilton Manors!",
@@ -770,7 +770,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Fort Lauderdale",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 376.0,
         "number of amenities": 52,
@@ -779,7 +778,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Peace, Beauty & Ocean View, Malibu",
@@ -787,7 +787,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Malibu",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 693.0,
         "number of amenities": 45,
@@ -796,7 +795,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Nowoczesny pok\u00f3j w hotelu butikowym w pobli\u017cu park\u00f3w rozrywki",
@@ -804,7 +804,6 @@
         "general rating": 4.81,
         "number of guests": 4,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 231.0,
         "number of amenities": 32,
@@ -813,7 +812,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Sunset View Jurta Applegate Valley z JACUZZI!",
@@ -821,7 +821,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Grants Pass",
-        "district": "Oregon",
         "country": "Stany Zjednoczone",
         "price per night": 403.0,
         "number of amenities": 41,
@@ -830,7 +829,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Oregon"
     },
     {
         "name": "Apartament nad wod\u0105 1Bed - 2Couches - podgrzewany basen.",
@@ -838,7 +838,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Tampa",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 628.0,
         "number of amenities": 54,
@@ -847,7 +846,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Pok\u00f3j w rustykalnym stylu z basenem i spa w pobli\u017cu Disneya",
@@ -855,7 +855,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 201.0,
         "number of amenities": 60,
@@ -864,7 +863,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "LUKSUSOWE STUDIO CONDO, COSTA HOLLYWOOD BEACH RESORT",
@@ -872,7 +872,6 @@
         "general rating": 4.7,
         "number of guests": 2,
         "city": "Hollywood",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 405.0,
         "number of amenities": 50,
@@ -881,7 +880,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Floryda"
     },
     {
         "name": "Apartament Rustic w pobli\u017cu Disneya z basenem i spa",
@@ -889,7 +889,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 253.0,
         "number of amenities": 50,
@@ -898,7 +897,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "POK\u00d3J SUNNY ISLES OCEAN VIEW!!! (+ op\u0142aty hotelowe)",
@@ -906,7 +906,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Sunny Isles Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 548.0,
         "number of amenities": 32,
@@ -915,7 +914,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Przestronny pok\u00f3j z baldachimem i basenem w pobli\u017cu Disneya",
@@ -923,7 +923,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 205.0,
         "number of amenities": 53,
@@ -932,7 +931,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Apartament Big Thunder Mountain z basenem w pobli\u017cu Disneya",
@@ -940,7 +940,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 260.0,
         "number of amenities": 61,
@@ -949,7 +948,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "SUNNY ISLES POK\u00d3J HOTELOWY PI\u0118TRO 24!!! (+ op\u0142aty hotelowe)",
@@ -957,7 +957,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Sunny Isles Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 565.0,
         "number of amenities": 32,
@@ -966,7 +965,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Floryda"
     },
     {
         "name": "Rekolekcje dla par,prywatny dost\u0119p do pla\u017cy przy basenie",
@@ -974,7 +974,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": "Hollywood",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 550.0,
         "number of amenities": 69,
@@ -983,7 +982,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Jasny, nowoczesny pok\u00f3j w East Village!",
@@ -991,7 +991,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 612.0,
         "number of amenities": 50,
@@ -1000,7 +999,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "\u2605 NOWY lokalny luksus z widokiem na dach - tylko kobiety",
@@ -1008,7 +1008,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Houston",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 251.0,
         "number of amenities": 34,
@@ -1017,7 +1016,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Teksas"
     },
     {
         "name": "NOWE prywatne studio! Blisko SF/SFO/Beach Sanitize",
@@ -1025,7 +1025,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "Pacifica",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 454.0,
         "number of amenities": 42,
@@ -1034,7 +1033,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Nad pla\u017c\u0105 Penthouse studio z basenem na Miami Beach",
@@ -1042,7 +1042,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 554.0,
         "number of amenities": 59,
@@ -1051,7 +1050,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Jasny i przytulny domek w pobli\u017cu Disney",
@@ -1059,7 +1059,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 359.0,
         "number of amenities": 44,
@@ -1068,7 +1067,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Du\u017ce \u0142\u00f3\u017cko w spokojnym kurorcie w pobli\u017cu Disney #4",
@@ -1076,7 +1076,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 273.0,
         "number of amenities": 51,
@@ -1085,7 +1084,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "DU\u017bA g\u0142\u00f3wna sypialnia z widokiem na \u015br\u00f3dmie\u015bcie LA",
@@ -1093,7 +1093,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Los Angeles",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 557.0,
         "number of amenities": 44,
@@ -1102,7 +1101,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalifornia"
     },
     {
         "name": "Przestronny pok\u00f3j w domu architekta East Village",
@@ -1110,7 +1110,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 882.0,
         "number of amenities": 42,
@@ -1119,7 +1118,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Pi\u0119kny pok\u00f3j hotelowy z basenem blisko Disney",
@@ -1127,7 +1127,6 @@
         "general rating": 4.76,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 218.0,
         "number of amenities": 22,
@@ -1136,7 +1135,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Floryda"
     },
     {
         "name": "PI\u0118KNY POK\u00d3J,  SPACER DO PLA\u017bY, WSPANIA\u0141Y POK\u0141AD",
@@ -1144,7 +1144,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Panama City Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 462.0,
         "number of amenities": 36,
@@ -1153,7 +1152,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Floryda"
     },
     {
         "name": "Las Vegas Getaway!",
@@ -1161,7 +1161,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Las Vegas",
-        "district": "Nevada",
         "country": "Stany Zjednoczone",
         "price per night": 344.0,
         "number of amenities": 32,
@@ -1170,7 +1169,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nevada"
     },
     {
         "name": "Przytulna 1 sypialnia w pobli\u017cu Orlando & Atrakcje",
@@ -1178,7 +1178,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 141.0,
         "number of amenities": 43,
@@ -1187,7 +1186,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Affordale Hotel Villa w pobli\u017cu Disney #07718",
@@ -1195,7 +1195,6 @@
         "general rating": 4.38,
         "number of guests": 4,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 265.0,
         "number of amenities": 34,
@@ -1204,7 +1203,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Floryda"
     },
     {
         "name": "Bay Loft Apartament 2",
@@ -1212,7 +1212,6 @@
         "general rating": 4.77,
         "number of guests": 2,
         "city": "Clearwater Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 378.0,
         "number of amenities": 31,
@@ -1221,7 +1220,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Luksusowy apartament dla go\u015bci - idealny basen i parking",
@@ -1229,7 +1229,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Miami",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 360.0,
         "number of amenities": 43,
@@ -1238,7 +1237,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "- Niezwyk\u0142e studio z balkonem 400\u02bb od pla\u017cy",
@@ -1246,7 +1246,6 @@
         "general rating": 4.28,
         "number of guests": 4,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 372.0,
         "number of amenities": 27,
@@ -1255,7 +1254,8 @@
         "communication rating": 4.7,
         "location rating": 4.7,
         "check in rating": 4.5,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Floryda"
     },
     {
         "name": "Prywatny pok\u00f3j na Manhattanie 15 min. od centrum miasta!",
@@ -1263,7 +1263,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 416.0,
         "number of amenities": 36,
@@ -1272,7 +1271,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Prywatny apartament w pobli\u017cu lotniska",
@@ -1280,7 +1280,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "Tampa",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 202.0,
         "number of amenities": 27,
@@ -1289,7 +1288,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "COZY Guesthouse in Covina-Private Bath/Own Entranc",
@@ -1297,7 +1297,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Covina",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 218.0,
         "number of amenities": 34,
@@ -1306,7 +1305,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Prywatna sypialnia, 8 min do Disney Main Gate #1",
@@ -1314,7 +1314,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 281.0,
         "number of amenities": 54,
@@ -1323,7 +1322,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Riverview Yellow: Downtown Melbourne Apartment",
@@ -1331,7 +1331,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Melbourne",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 310.0,
         "number of amenities": 48,
@@ -1340,7 +1339,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "BeachWalk Studio Apmt 2 Beds",
@@ -1348,7 +1348,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Hallandale Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 420.0,
         "number of amenities": 62,
@@ -1357,7 +1356,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Pi\u0119kne studio z widokiem na ocean bezpo\u015brednio na pla\u017cy",
@@ -1365,7 +1365,6 @@
         "general rating": 4.28,
         "number of guests": 4,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 468.0,
         "number of amenities": 30,
@@ -1374,7 +1373,8 @@
         "communication rating": 4.4,
         "location rating": 4.7,
         "check in rating": 4.4,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": "Floryda"
     },
     {
         "name": "Podstawowa ma\u0142a kabina z dost\u0119pem do jeziora",
@@ -1382,7 +1382,6 @@
         "general rating": 4.72,
         "number of guests": 6,
         "city": "Sevierville",
-        "district": "Tennessee",
         "country": "Stany Zjednoczone",
         "price per night": 294.0,
         "number of amenities": 54,
@@ -1391,7 +1390,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Tennessee"
     },
     {
         "name": "La Buena Vida  https://youtu.be/zgFouC8J3ss",
@@ -1399,7 +1399,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "McAllen",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 200.0,
         "number of amenities": 22,
@@ -1408,7 +1407,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Teksas"
     },
     {
         "name": "Ca\u0142e kondominium, 4 sypialnie, 3 pi\u0119tro, \u015bwietne miejsce na pobyt!",
@@ -1416,7 +1416,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Sunset Beach",
-        "district": "Karolina P\u00f3\u0142nocna",
         "country": "Stany Zjednoczone",
         "price per night": 202.0,
         "number of amenities": 28,
@@ -1425,7 +1424,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Karolina P\u00f3\u0142nocna"
     },
     {
         "name": "Darmowe \u015bniadanie! Nowoczesny prywatny raj basen Golf",
@@ -1433,7 +1433,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "La Quinta",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 479.0,
         "number of amenities": 78,
@@ -1442,7 +1441,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kalifornia"
     },
     {
         "name": "Prywatny przytulny pok\u00f3j w doskona\u0142ej lokalizacji Bed-Stuy.",
@@ -1450,7 +1450,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 284.0,
         "number of amenities": 43,
@@ -1459,7 +1458,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "\u2605 Nowoczesny apartament, jacuzzi, poddasze do jogi niedaleko Bostonu #2\u2605",
@@ -1467,7 +1467,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Everett",
-        "district": "Massachusetts",
         "country": "Stany Zjednoczone",
         "price per night": 406.0,
         "number of amenities": 50,
@@ -1476,7 +1475,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Massachusetts"
     },
     {
         "name": "Mod 3 BR duplex-East Village",
@@ -1484,7 +1484,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 471.0,
         "number of amenities": 39,
@@ -1493,7 +1492,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Prywatny pok\u00f3j w Orlando/Kissimmee (2Twins) T1",
@@ -1501,7 +1501,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 151.0,
         "number of amenities": 43,
@@ -1510,7 +1509,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Floryda"
     },
     {
         "name": "Restauracje w pobli\u017cu Beach Getaway/Near Convention Center",
@@ -1518,7 +1518,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Long Beach",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 504.0,
         "number of amenities": 46,
@@ -1527,7 +1526,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "\u2605 Nowoczesny apartament, jacuzzi, poddasze do jogi niedaleko Bostonu #2\u2605",
@@ -1535,7 +1535,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Everett",
-        "district": "Massachusetts",
         "country": "Stany Zjednoczone",
         "price per night": 406.0,
         "number of amenities": 50,
@@ -1544,7 +1543,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Massachusetts"
     },
     {
         "name": "Mod 3 BR duplex-East Village",
@@ -1552,7 +1552,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 471.0,
         "number of amenities": 39,
@@ -1561,7 +1560,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Prywatny pok\u00f3j w Orlando/Kissimmee (2Twins) T1",
@@ -1569,7 +1569,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 151.0,
         "number of amenities": 43,
@@ -1578,7 +1577,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Floryda"
     },
     {
         "name": "Restauracje w pobli\u017cu Beach Getaway/Near Convention Center",
@@ -1586,7 +1586,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Long Beach",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 504.0,
         "number of amenities": 46,
@@ -1595,7 +1594,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Oceanfront 1bd/1br mieszkanie HOLLYWOOD PLA\u017bA",
@@ -1603,7 +1603,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Hollywood",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 588.0,
         "number of amenities": 60,
@@ -1612,7 +1611,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.5,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Luksusowy widok na ocean studio bezpo\u015brednie wyj\u015bcie na pla\u017c\u0119",
@@ -1620,7 +1620,6 @@
         "general rating": 4.27,
         "number of guests": 4,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 448.0,
         "number of amenities": 26,
@@ -1629,7 +1628,8 @@
         "communication rating": 4.4,
         "location rating": 4.7,
         "check in rating": 4.3,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Floryda"
     },
     {
         "name": "Przytulny pok\u00f3j 2, bezp\u0142atny parking na ulicy",
@@ -1637,7 +1637,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Boston",
-        "district": "Massachusetts",
         "country": "Stany Zjednoczone",
         "price per night": 317.0,
         "number of amenities": 47,
@@ -1646,7 +1645,8 @@
         "communication rating": 4.8,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Massachusetts"
     },
     {
         "name": "Prywatny bungalow w centrum miasta w pobli\u017cu Fremont experience",
@@ -1654,7 +1654,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Las Vegas",
-        "district": "Nevada",
         "country": "Stany Zjednoczone",
         "price per night": 218.0,
         "number of amenities": 27,
@@ -1663,7 +1662,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nevada"
     },
     {
         "name": "Cichy pok\u00f3j w domku nad jeziorem w pobli\u017cu centrum Orlando.",
@@ -1671,7 +1671,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Orlando",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 210.0,
         "number of amenities": 42,
@@ -1680,7 +1679,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Horse&Cattle Farm 30min do Dollywood 20 do Knox",
@@ -1688,7 +1688,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Seymour",
-        "district": "Tennessee",
         "country": "Stany Zjednoczone",
         "price per night": 255.0,
         "number of amenities": 67,
@@ -1697,7 +1696,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Tennessee"
     },
     {
         "name": "Prywatny pok\u00f3j i \u0142azienka",
@@ -1705,7 +1705,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "St Petersburg",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 189.0,
         "number of amenities": 55,
@@ -1714,7 +1713,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Przytulne pokoje w Little Haiti",
@@ -1722,7 +1722,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Miami",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 239.0,
         "number of amenities": 33,
@@ -1731,7 +1730,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Royal Orleans at Redington Beach ( Studio )",
@@ -1739,7 +1739,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Redington Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 357.0,
         "number of amenities": 35,
@@ -1748,7 +1747,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "JoyfulStay in Hapeville, GA",
@@ -1756,7 +1756,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Hapeville",
-        "district": "Georgia",
         "country": "Stany Zjednoczone",
         "price per night": 143.0,
         "number of amenities": 54,
@@ -1765,7 +1764,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Georgia"
     },
     {
         "name": "Doskonale po\u0142o\u017cony 1 sypialnia w Nowym Jorku",
@@ -1773,7 +1773,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 273.0,
         "number of amenities": 48,
@@ -1782,7 +1781,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Niesamowity widok na zatok\u0119 typu studio z bezpo\u015brednim dost\u0119pem do pla\u017cy i basenem",
@@ -1790,7 +1790,6 @@
         "general rating": 4.24,
         "number of guests": null,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 466.0,
         "number of amenities": 31,
@@ -1799,7 +1798,8 @@
         "communication rating": 4.2,
         "location rating": 4.7,
         "check in rating": 4.1,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Floryda"
     },
     {
         "name": "\u2605 Nowoczesne, przytulne i wygodne miejsce w \u2605 pobli\u017cu centrum miasta!",
@@ -1807,7 +1807,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Boston",
-        "district": "Massachusetts",
         "country": "Stany Zjednoczone",
         "price per night": 633.0,
         "number of amenities": 38,
@@ -1816,7 +1815,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Massachusetts"
     },
     {
         "name": "Luksusowa sypialnia Master mo\u017ce pomie\u015bci\u0107 do 6 os\u00f3b",
@@ -1824,7 +1824,6 @@
         "general rating": 4.66,
         "number of guests": null,
         "city": "Las Vegas",
-        "district": "Nevada",
         "country": "Stany Zjednoczone",
         "price per night": 246.0,
         "number of amenities": 47,
@@ -1833,7 +1832,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nevada"
     },
     {
         "name": "Prywatny pok\u00f3j we wsp\u00f3\u0142dzielonym domu",
@@ -1841,7 +1841,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Miami",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 210.0,
         "number of amenities": 27,
@@ -1850,7 +1849,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Floryda"
     },
     {
         "name": "20-30 min. Disney, Universal & Downtown Orlando",
@@ -1858,7 +1858,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Winter Garden",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 171.0,
         "number of amenities": 42,
@@ -1867,7 +1866,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "CENTRAL! Huge KING PRYWATNE WEJ\u015aCIE~ChArM+VaLuE~CLEAN",
@@ -1875,7 +1875,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Dallas",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 223.0,
         "number of amenities": 66,
@@ -1884,7 +1883,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Teksas"
     },
     {
         "name": "Private BR in Chicago - Dwntwn & Fulton Mkt close",
@@ -1892,7 +1892,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Chicago",
-        "district": "Illinois",
         "country": "Stany Zjednoczone",
         "price per night": 492.0,
         "number of amenities": 68,
@@ -1901,7 +1900,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Illinois"
     },
     {
         "name": "Tekstura Raya",
@@ -1909,7 +1909,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Oceanside",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 193.0,
         "number of amenities": 48,
@@ -1918,7 +1917,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "willa juana",
@@ -1926,7 +1926,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Las Vegas",
-        "district": "Nevada",
         "country": "Stany Zjednoczone",
         "price per night": 336.0,
         "number of amenities": 58,
@@ -1935,7 +1934,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nevada"
     },
     {
         "name": "Lower East Side Oasis  (pok\u00f3j prywatny)",
@@ -1943,7 +1943,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 616.0,
         "number of amenities": 32,
@@ -1952,7 +1951,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "\u0141adna sypialnia w apartamencie East Village",
@@ -1960,7 +1960,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 265.0,
         "number of amenities": 24,
@@ -1969,7 +1968,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Private Little Hygge Spot",
@@ -1977,7 +1977,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Oakland Park",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 179.0,
         "number of amenities": 32,
@@ -1986,7 +1985,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Olmsted Park Oasis",
@@ -1994,7 +1994,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Charlotte",
-        "district": "Karolina P\u00f3\u0142nocna",
         "country": "Stany Zjednoczone",
         "price per night": 373.0,
         "number of amenities": 59,
@@ -2003,7 +2002,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Karolina P\u00f3\u0142nocna"
     },
     {
         "name": "Przestronna \u0142azienka pla\u017cowa",
@@ -2011,7 +2011,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Redondo Beach",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 357.0,
         "number of amenities": 58,
@@ -2020,7 +2019,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Big 4k Smart TV - 10 minut do TSMC Worksite",
@@ -2028,7 +2028,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Phoenix",
-        "district": "Arizona",
         "country": "Stany Zjednoczone",
         "price per night": 152.0,
         "number of amenities": 65,
@@ -2037,7 +2036,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Arizona"
     },
     {
         "name": "Prywatny pok\u00f3j w Orlando/Kissimmee (kr\u00f3lowa)",
@@ -2045,7 +2045,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 173.0,
         "number of amenities": 34,
@@ -2054,7 +2053,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Historyczne gospodarstwo z wojn\u0105 domow\u0105",
@@ -2062,7 +2062,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Gettysburg",
-        "district": "Pensylwania",
         "country": "Stany Zjednoczone",
         "price per night": 487.0,
         "number of amenities": 28,
@@ -2071,7 +2070,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Pensylwania"
     },
     {
         "name": "Antebellum, Romantyczna Sypialnia Rococo",
@@ -2079,7 +2079,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Nowy Orlean",
-        "district": "Luizjana",
         "country": "Stany Zjednoczone",
         "price per night": 588.0,
         "number of amenities": 26,
@@ -2088,7 +2087,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Luizjana"
     },
     {
         "name": "5. Przedmie\u015bcia Los Angeles Hacienda Heights Beauty",
@@ -2096,7 +2096,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Hacienda Heights",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 147.0,
         "number of amenities": 20,
@@ -2105,7 +2104,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "s\u0142odki pi\u0119kny pok\u00f3j",
@@ -2113,7 +2113,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Las Vegas",
-        "district": "Nevada",
         "country": "Stany Zjednoczone",
         "price per night": 187.0,
         "number of amenities": 45,
@@ -2122,7 +2121,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nevada"
     },
     {
         "name": "Fort Lauderdale Tropical Retreat",
@@ -2130,7 +2130,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "fort lauderdale",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 315.0,
         "number of amenities": 59,
@@ -2139,7 +2138,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Fort Lauderdale Tropical Retreat",
@@ -2147,7 +2147,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "fort lauderdale",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 315.0,
         "number of amenities": 59,
@@ -2156,7 +2155,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Czyste i przytulne, \u0142azienka z \u0142azienk\u0105,  15 min od Strip",
@@ -2164,7 +2164,6 @@
         "general rating": 4.8,
         "number of guests": 2,
         "city": "Paradise",
-        "district": "Nevada",
         "country": "Stany Zjednoczone",
         "price per night": 168.0,
         "number of amenities": 52,
@@ -2173,7 +2172,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nevada"
     },
     {
         "name": "Ma\u0142y pok\u00f3j do wynaj\u0119cia!!",
@@ -2181,7 +2181,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Torrance",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 206.0,
         "number of amenities": 28,
@@ -2190,7 +2189,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Resort Style 5mins To Disneyland *FREE Parking*",
@@ -2198,7 +2198,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Anaheim",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 459.0,
         "number of amenities": 77,
@@ -2207,7 +2206,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kalifornia"
     },
     {
         "name": "Zatrzymaj si\u0119 w samym sercu Manhattanu!",
@@ -2215,7 +2215,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 626.0,
         "number of amenities": 27,
@@ -2224,7 +2223,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "WITAMY W RAJU MIAMI, FLORYDA",
@@ -2232,7 +2232,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Miami",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 252.0,
         "number of amenities": 47,
@@ -2241,7 +2240,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Przytulny pok\u00f3j z widokiem na ogr\u00f3d z prywatnym wej\u015bciem",
@@ -2249,7 +2249,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "San Francisco",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 514.0,
         "number of amenities": 39,
@@ -2258,7 +2257,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Miami Nice Comfort i poczuj si\u0119 jak w domu.",
@@ -2266,7 +2266,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Miami",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 272.0,
         "number of amenities": 58,
@@ -2275,7 +2274,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Wschodnie Touches w pokoju Fez z En Suite w eleganckim Home.views",
@@ -2283,7 +2283,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "San Francisco",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 624.0,
         "number of amenities": 50,
@@ -2292,7 +2291,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Dom Francuz\u00f3w \"Czerwony pok\u00f3j\"",
@@ -2300,7 +2300,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Nowy Orlean",
-        "district": "Luizjana",
         "country": "Stany Zjednoczone",
         "price per night": 315.0,
         "number of amenities": 41,
@@ -2309,7 +2308,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Luizjana"
     },
     {
         "name": "Pok\u00f3j do wynaj\u0119cia!! *Basen!",
@@ -2317,7 +2317,6 @@
         "general rating": 4.76,
         "number of guests": null,
         "city": "Torrance",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 206.0,
         "number of amenities": 36,
@@ -2326,7 +2325,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Kalifornia"
     },
     {
         "name": "Joan 's Pecan Farm",
@@ -2334,7 +2334,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "McRae",
-        "district": "Arkansas",
         "country": "Stany Zjednoczone",
         "price per night": 168.0,
         "number of amenities": 51,
@@ -2343,7 +2342,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Arkansas"
     },
     {
         "name": "Farma grzyb\u00f3w zasilanych energi\u0105 s\u0142oneczn\u0105. Hawk Nest Farm",
@@ -2351,7 +2351,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": "Linville",
-        "district": "Virginia",
         "country": "Stany Zjednoczone",
         "price per night": 147.0,
         "number of amenities": 40,
@@ -2360,7 +2359,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Virginia"
     },
     {
         "name": "Pok\u00f3j Cosmopolitan w eleganckim domu w San Francisco z widokiem",
@@ -2368,7 +2368,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "San Francisco",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 602.0,
         "number of amenities": 49,
@@ -2377,7 +2376,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalifornia"
     },
     {
         "name": "Pok\u00f3j z musztard\u0105",
@@ -2385,7 +2385,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Davis",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 210.0,
         "number of amenities": 54,
@@ -2394,7 +2393,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kalifornia"
     },
     {
         "name": "Homey Atmosphere w Kimberton",
@@ -2402,7 +2402,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Phoenixville",
-        "district": "Pensylwania",
         "country": "Stany Zjednoczone",
         "price per night": 189.0,
         "number of amenities": 36,
@@ -2411,7 +2410,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Pensylwania"
     },
     {
         "name": "Sweet Cottage Sypialnia Hideaway",
@@ -2419,7 +2419,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Nashville",
-        "district": "Tennessee",
         "country": "Stany Zjednoczone",
         "price per night": 218.0,
         "number of amenities": 31,
@@ -2428,7 +2427,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Tennessee"
     },
     {
         "name": "Du\u017cy/przestronny nowoczesny pok\u00f3j",
@@ -2436,7 +2436,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Davis",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 252.0,
         "number of amenities": 56,
@@ -2445,7 +2444,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Przy pla\u017cy - Widok na ocean - Prywatny balkon",
@@ -2453,7 +2453,6 @@
         "general rating": 4.89,
         "number of guests": 4,
         "city": "Daytona Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 694.0,
         "number of amenities": 57,
@@ -2462,7 +2461,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Floryda"
     },
     {
         "name": "Mieszkanie NA wybrze\u017cu 300\u02bb od pla\u017cy\u00b0 basen i parking",
@@ -2470,7 +2470,6 @@
         "general rating": 4.5,
         "number of guests": 4,
         "city": "Lauderdale-by-the-Sea",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 392.0,
         "number of amenities": 37,
@@ -2479,7 +2478,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.7,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Kondominium z bezp\u0142atnym parkingiem kilka krok\u00f3w od Hollywood Beach",
@@ -2487,7 +2487,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "Hollywood",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 420.0,
         "number of amenities": 29,
@@ -2496,7 +2495,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Najlepsza lokalizacja na Manhattanie i pok\u00f3j w cenie!",
@@ -2504,7 +2504,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 458.0,
         "number of amenities": 25,
@@ -2513,7 +2512,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Przytulny prywatny pok\u00f3j w pobli\u017cu Central Park",
@@ -2521,7 +2521,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 542.0,
         "number of amenities": 52,
@@ -2530,7 +2529,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": null
     },
     {
         "name": "Aquamarine Villas 1 sypialnia!",
@@ -2538,7 +2538,6 @@
         "general rating": 4.89,
         "number of guests": 4,
         "city": "Oceanside",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 715.0,
         "number of amenities": 46,
@@ -2547,7 +2546,8 @@
         "communication rating": 4.2,
         "location rating": 4.8,
         "check in rating": 4.6,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Kalifornia"
     },
     {
         "name": "Cudowny luksusowy kamper",
@@ -2555,7 +2555,6 @@
         "general rating": 4.95,
         "number of guests": 9,
         "city": "Lynn Haven",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 244.0,
         "number of amenities": 46,
@@ -2564,7 +2563,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Nr2: sprz\u0119t pla\u017cowy i mocne Wi-Fi",
@@ -2572,7 +2572,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Fort Lauderdale",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 291.0,
         "number of amenities": 48,
@@ -2581,7 +2580,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Dolina Prywatna sypialnia",
@@ -2589,7 +2589,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Page",
-        "district": "Arizona",
         "country": "Stany Zjednoczone",
         "price per night": 273.0,
         "number of amenities": 24,
@@ -2598,7 +2597,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Arizona"
     },
     {
         "name": "Ocean Breeze w Santa Monica",
@@ -2606,7 +2606,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Santa Monica",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 499.0,
         "number of amenities": 59,
@@ -2615,7 +2614,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kalifornia"
     },
     {
         "name": "Pok\u00f3j hotelowy w pobli\u017cu Disneya i 4 os\u00f3b",
@@ -2623,7 +2623,6 @@
         "general rating": 4.63,
         "number of guests": 4,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 275.0,
         "number of amenities": 40,
@@ -2632,7 +2631,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Apartament pla\u017cowy Ocean Walk Bezp\u0142atny parking Przyjazne dla zwierz\u0105t",
@@ -2640,7 +2640,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 374.0,
         "number of amenities": 36,
@@ -2649,7 +2648,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Przyst\u0119pne cenowo i tak blisko Disneya",
@@ -2657,7 +2657,6 @@
         "general rating": 4.7,
         "number of guests": 6,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 345.0,
         "number of amenities": 33,
@@ -2666,7 +2665,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Floryda"
     },
     {
         "name": "Kroki do Paradise z bezp\u0142atnym parkingiem South Beach",
@@ -2674,7 +2674,6 @@
         "general rating": 4.78,
         "number of guests": 5,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 419.0,
         "number of amenities": 47,
@@ -2683,7 +2682,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Przytulny zak\u0105tek przy pla\u017cy 1 sypialnia Darmowy parking",
@@ -2691,7 +2691,6 @@
         "general rating": 4.72,
         "number of guests": 4,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 361.0,
         "number of amenities": 52,
@@ -2700,7 +2699,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Domek duszy Beau na drzewach .",
@@ -2708,7 +2708,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Topanga",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 613.0,
         "number of amenities": 37,
@@ -2717,7 +2716,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalifornia"
     },
     {
         "name": "Przytulny ma\u0142y domek w Kissimmee zamknij parki",
@@ -2725,7 +2725,6 @@
         "general rating": 4.53,
         "number of guests": 3,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 206.0,
         "number of amenities": 36,
@@ -2734,7 +2733,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Floryda"
     },
     {
         "name": "\u015arednie \u0142\u00f3\u017cko w spokojnym kurorcie w pobli\u017cu Disney #2",
@@ -2742,7 +2742,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 252.0,
         "number of amenities": 50,
@@ -2751,7 +2750,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Pok\u00f3j z 2 \u0142\u00f3\u017ckami pojedynczymi",
@@ -2759,7 +2759,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 190.0,
         "number of amenities": 11,
@@ -2768,7 +2767,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nowy Jork"
     },
     {
         "name": "Tw\u00f3j o\u015brodek z dala od domu",
@@ -2776,7 +2776,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 191.0,
         "number of amenities": 45,
@@ -2785,7 +2784,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Przytulny pok\u00f3j.....z prywatn\u0105 \u0142azienk\u0105 w pobli\u017cu park\u00f3w Disney!",
@@ -2793,7 +2793,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 206.0,
         "number of amenities": 52,
@@ -2802,7 +2801,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Artystyczny pok\u00f3j go\u015bcinny w Harlemie",
@@ -2810,7 +2810,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 332.0,
         "number of amenities": 56,
@@ -2819,7 +2818,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Przestronna i urocza sypialnia",
@@ -2827,7 +2827,6 @@
         "general rating": 4.99,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 528.0,
         "number of amenities": 52,
@@ -2836,7 +2835,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Chezossible Vacation Spot - Garden",
@@ -2844,7 +2844,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 420.0,
         "number of amenities": 32,
@@ -2853,7 +2852,8 @@
         "communication rating": 4.9,
         "location rating": 4.4,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "1/1 z prywatnym wej\u015bciem i kuchni\u0105 w pobli\u017cu lotniska",
@@ -2861,7 +2861,6 @@
         "general rating": 4.9,
         "number of guests": 3,
         "city": "Miami Springs",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 214.0,
         "number of amenities": 49,
@@ -2870,7 +2869,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "20m@Disney, prywatny pok\u00f3j i wanna, basen i spa dost\u0119pne",
@@ -2878,7 +2878,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Clermont",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 177.0,
         "number of amenities": 64,
@@ -2887,7 +2886,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "BEZP\u0141ATNIE:Bkfst,Gym,Kit,MtnViews,18mn2Slope,2Min2SkiBus",
@@ -2895,7 +2895,6 @@
         "general rating": 4.99,
         "number of guests": null,
         "city": "Sandy",
-        "district": "Utah",
         "country": "Stany Zjednoczone",
         "price per night": 185.0,
         "number of amenities": 80,
@@ -2904,7 +2903,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Utah"
     },
     {
         "name": "\u017bwirowa pla\u017ca prywatne \u0142\u00f3\u017cko/\u0142azienka 2",
@@ -2912,7 +2912,6 @@
         "general rating": 4.7,
         "number of guests": null,
         "city": "Del Monte Forest",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 420.0,
         "number of amenities": 22,
@@ -2921,7 +2920,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Kalifornia"
     },
     {
         "name": "Beachfront, 2 \u0142\u00f3\u017cka dbl a Condo Hotel  Miami Beach",
@@ -2929,7 +2929,6 @@
         "general rating": 4.39,
         "number of guests": 4,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 542.0,
         "number of amenities": 52,
@@ -2938,7 +2937,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Floryda"
     },
     {
         "name": "Prywatny pok\u00f3j Moonlight w Brownstone w pobli\u017cu metra",
@@ -2946,7 +2946,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 273.0,
         "number of amenities": 28,
@@ -2955,7 +2954,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "Beverly Hills Luxury Suite with Private Entrance",
@@ -2963,7 +2963,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Beverly Hills",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 1260.0,
         "number of amenities": 51,
@@ -2972,7 +2971,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Witaj piel\u0119gniarka/lekarz Brak op\u0142at za sprz\u0105tanie \u2014-Q",
@@ -2980,7 +2980,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Staten Island",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 299.0,
         "number of amenities": 51,
@@ -2989,7 +2988,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "Prywatny pok\u00f3j typu king size w centrum wszystkiego",
@@ -2997,7 +2997,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": "Las Vegas",
-        "district": "Nevada",
         "country": "Stany Zjednoczone",
         "price per night": 319.0,
         "number of amenities": 45,
@@ -3006,7 +3005,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nevada"
     },
     {
         "name": "Dom Kiedy Away SDSU W\u0142asna \u0142azienka - D\u0142ugoterminowe?",
@@ -3014,7 +3014,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "San Diego",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 273.0,
         "number of amenities": 63,
@@ -3023,7 +3022,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kalifornia"
     },
     {
         "name": "Przyjazne dla zwierz\u0105t/Wygodne \u0142\u00f3\u017cko typu Queen/Jacuzzi, Basen",
@@ -3031,7 +3031,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Mesa",
-        "district": "Arizona",
         "country": "Stany Zjednoczone",
         "price per night": 255.0,
         "number of amenities": 57,
@@ -3040,7 +3039,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Arizona"
     },
     {
         "name": "Dwie bli\u017aniaczki w pi\u0119knym Bothell",
@@ -3048,7 +3048,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Bothell",
-        "district": "Waszyngton",
         "country": "Stany Zjednoczone",
         "price per night": 336.0,
         "number of amenities": 65,
@@ -3057,7 +3056,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Waszyngton"
     },
     {
         "name": "Dom Kiedy Away SDSU W\u0142asna \u0142azienka - D\u0142ugoterminowe?",
@@ -3065,7 +3065,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "San Diego",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 273.0,
         "number of amenities": 63,
@@ -3074,7 +3073,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kalifornia"
     },
     {
         "name": "Przyjazne dla zwierz\u0105t/Wygodne \u0142\u00f3\u017cko typu Queen/Jacuzzi, Basen",
@@ -3082,7 +3082,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Mesa",
-        "district": "Arizona",
         "country": "Stany Zjednoczone",
         "price per night": 255.0,
         "number of amenities": 57,
@@ -3091,7 +3090,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Arizona"
     },
     {
         "name": "Dwie bli\u017aniaczki w pi\u0119knym Bothell",
@@ -3099,7 +3099,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Bothell",
-        "district": "Waszyngton",
         "country": "Stany Zjednoczone",
         "price per night": 336.0,
         "number of amenities": 65,
@@ -3108,7 +3107,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Waszyngton"
     },
     {
         "name": "My Sweet Harlem Home 2",
@@ -3116,7 +3116,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 445.0,
         "number of amenities": 42,
@@ -3125,7 +3124,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": null
     },
     {
         "name": "Pi\u0119kny prywatny pok\u00f3j we wsp\u00f3\u0142dzielonym domu",
@@ -3133,7 +3133,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 189.0,
         "number of amenities": 14,
@@ -3142,7 +3141,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Nowy Jork"
     },
     {
         "name": "Nowoczesny apartament - pok\u00f3j w Nowym Jorku",
@@ -3150,7 +3150,6 @@
         "general rating": 4.72,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 281.0,
         "number of amenities": 43,
@@ -3159,7 +3158,8 @@
         "communication rating": 4.7,
         "location rating": 4.4,
         "check in rating": 4.6,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nowy Jork"
     },
     {
         "name": "Just Beachy *Budget Friendly* *Nowa oferta*",
@@ -3167,7 +3167,6 @@
         "general rating": 4.75,
         "number of guests": 2,
         "city": "Gulf Shores",
-        "district": "Alabama",
         "country": "Stany Zjednoczone",
         "price per night": 340.0,
         "number of amenities": 34,
@@ -3176,7 +3175,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Alabama"
     },
     {
         "name": "Disney Medieval Times 4",
@@ -3184,7 +3184,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 189.0,
         "number of amenities": 40,
@@ -3193,7 +3192,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Floryda"
     },
     {
         "name": "Luxury Queen Bed Suite in Downtown DTX | Free Wifi",
@@ -3201,7 +3201,6 @@
         "general rating": 4.75,
         "number of guests": 4,
         "city": "Dallas",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 420.0,
         "number of amenities": 41,
@@ -3210,7 +3209,8 @@
         "communication rating": 4.8,
         "location rating": 4.5,
         "check in rating": 5.0,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Teksas"
     },
     {
         "name": "Przyjazne dla zwierz\u0105t | Private Entry Guest Studio",
@@ -3218,7 +3218,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "Anaheim",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 357.0,
         "number of amenities": 32,
@@ -3227,7 +3226,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalifornia"
     },
     {
         "name": "Pi\u0119kny apartament go\u015bcinny jest ca\u0142kowicie niezale\u017cny",
@@ -3235,7 +3235,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Kissimmee",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 235.0,
         "number of amenities": 36,
@@ -3244,7 +3243,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "#3 pinkpink  super commodious room",
@@ -3252,7 +3252,6 @@
         "general rating": 4.6,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 416.0,
         "number of amenities": 21,
@@ -3261,7 +3260,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Nowy Jork"
     },
     {
         "name": "Poolside Shed",
@@ -3269,7 +3269,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Naples",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 210.0,
         "number of amenities": 32,
@@ -3278,7 +3277,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Floryda"
     },
     {
         "name": "Pi\u0119kna sypialnia na Manhattanie",
@@ -3286,7 +3286,6 @@
         "general rating": 4.0,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 253.0,
         "number of amenities": 10,
@@ -3295,7 +3294,8 @@
         "communication rating": 4.3,
         "location rating": 4.3,
         "check in rating": 4.3,
-        "value rating": 4.0
+        "value rating": 4.0,
+        "region": null
     },
     {
         "name": "#10 pinkpink wygodny pok\u00f3j",
@@ -3303,7 +3303,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 244.0,
         "number of amenities": 21,
@@ -3312,7 +3311,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nowy Jork"
     },
     {
         "name": "Prywatna sypialnia w Westwood UCLA - wsp\u00f3lna \u0142azienka",
@@ -3320,7 +3320,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Santa Monica",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 273.0,
         "number of amenities": 34,
@@ -3329,7 +3328,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Kalifornia"
     },
     {
         "name": "Elsie 's Cozy Casita",
@@ -3337,7 +3337,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Prineville",
-        "district": "Oregon",
         "country": "Stany Zjednoczone",
         "price per night": 277.0,
         "number of amenities": 40,
@@ -3346,7 +3345,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Oregon"
     },
     {
         "name": "\u00abUroczy i przytulny obiekt\u00bb w centrum South Beach",
@@ -3354,7 +3354,6 @@
         "general rating": 4.15,
         "number of guests": 2,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 451.0,
         "number of amenities": 29,
@@ -3363,7 +3362,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": "Floryda"
     },
     {
         "name": "\u00abUroczy i przytulny obiekt\u00bb w centrum South Beach",
@@ -3371,7 +3371,6 @@
         "general rating": 4.15,
         "number of guests": 2,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 451.0,
         "number of amenities": 29,
@@ -3380,7 +3379,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": "Floryda"
     },
     {
         "name": "Przytulny pok\u00f3j w centrum miasta, nieopodal stacji metra St -5 min spaceru",
@@ -3388,7 +3388,6 @@
         "general rating": 4.21,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 504.0,
         "number of amenities": 21,
@@ -3397,7 +3396,8 @@
         "communication rating": 4.7,
         "location rating": 4.3,
         "check in rating": 4.6,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": null
     },
     {
         "name": "20% zni\u017cki - rezerwacje d\u0142ugoterminowe",
@@ -3405,7 +3405,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Chicago",
-        "district": "Illinois",
         "country": "Stany Zjednoczone",
         "price per night": 189.0,
         "number of amenities": 50,
@@ -3414,7 +3413,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Illinois"
     },
     {
         "name": "Przytulna sypialnia 2 min od metra w lofcie na Brooklynie.",
@@ -3422,7 +3422,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 336.0,
         "number of amenities": 44,
@@ -3431,7 +3430,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "Uroczy pok\u00f3j z prywatnym wej\u015bciem w Dallas",
@@ -3439,7 +3439,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Dallas",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 181.0,
         "number of amenities": 31,
@@ -3448,7 +3447,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Teksas"
     },
     {
         "name": "LA Dream Stay Comfort Bedroom Near LA #3",
@@ -3456,7 +3456,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Monterey Park",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 235.0,
         "number of amenities": 40,
@@ -3465,7 +3464,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Pi\u0119kne mieszkanie wsp\u00f3\u0142dzielone.",
@@ -3473,7 +3473,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 504.0,
         "number of amenities": 12,
@@ -3482,16 +3481,15 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": null
     },
-    null,
     {
         "name": "Stylowy pok\u00f3j prywatny z wype\u0142nionym s\u0142o\u0144cem i przestrzeni\u0105 do pracy",
         "number of reviews": 9,
         "general rating": 5.0,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 445.0,
         "number of amenities": 41,
@@ -3500,7 +3498,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Apartament Hutchins w pobli\u017cu Downtown Houston",
@@ -3508,7 +3507,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Houston",
-        "district": "Teksas",
         "country": "Stany Zjednoczone",
         "price per night": 273.0,
         "number of amenities": 11,
@@ -3517,7 +3515,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Teksas"
     },
     {
         "name": "S\u0142oneczny, przytulny pok\u00f3j na Brooklynie.",
@@ -3525,7 +3524,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 341.0,
         "number of amenities": 35,
@@ -3534,7 +3532,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nowy Jork"
     },
     {
         "name": "Lovely  sunshine one bedroom in Queens",
@@ -3542,7 +3541,6 @@
         "general rating": 4.53,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 218.0,
         "number of amenities": 12,
@@ -3551,7 +3549,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Nowy Jork"
     },
     {
         "name": "Elegancki rumie\u0144cowy po\u0142ysk",
@@ -3559,7 +3558,6 @@
         "general rating": 4.62,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 382.0,
         "number of amenities": 22,
@@ -3568,7 +3566,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": null
     },
     {
         "name": "Pi\u0119kny prywatny pok\u00f3j z balkonem - ASTORIA",
@@ -3576,7 +3575,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 307.0,
         "number of amenities": 49,
@@ -3585,7 +3583,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "Prywatny pok\u00f3j w CZASIE SQ*Step from CentralPark:)",
@@ -3593,7 +3592,6 @@
         "general rating": 4.63,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 474.0,
         "number of amenities": 38,
@@ -3602,7 +3600,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": null
     },
     {
         "name": "Wygodna 1 sypialnia, podw\u00f3rko. 4 miejsca noclegowe.",
@@ -3610,7 +3609,6 @@
         "general rating": 4.69,
         "number of guests": 4,
         "city": "Jersey City",
-        "district": "New Jersey",
         "country": "Stany Zjednoczone",
         "price per night": 252.0,
         "number of amenities": 25,
@@ -3619,7 +3617,8 @@
         "communication rating": 4.8,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "New Jersey"
     },
     {
         "name": "Czaruj\u0105cy, przytulny dom z parkingiem",
@@ -3627,7 +3626,6 @@
         "general rating": 4.71,
         "number of guests": null,
         "city": "The Bronx",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 195.0,
         "number of amenities": 48,
@@ -3636,7 +3634,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nowy Jork"
     },
     {
         "name": "Nowo wyremontowane 2-pokojowe Wynajem. Niesamowite !",
@@ -3644,7 +3643,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 416.0,
         "number of amenities": 34,
@@ -3653,7 +3651,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nowy Jork"
     },
     {
         "name": "Dobre miejsce w Astorii, Queens",
@@ -3661,7 +3660,6 @@
         "general rating": 4.0,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 244.0,
         "number of amenities": 15,
@@ -3670,7 +3668,8 @@
         "communication rating": 4.5,
         "location rating": 4.8,
         "check in rating": 4.0,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Nowy Jork"
     },
     {
         "name": "Master Suite/Disney/UCI/CHOC/Samodzielne zameldowanie/Peaceful",
@@ -3678,7 +3677,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Santa Ana",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 332.0,
         "number of amenities": 28,
@@ -3687,7 +3685,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalifornia"
     },
     {
         "name": "Miami Beach Walk 1br Free Parking Steps Ocean",
@@ -3695,7 +3694,6 @@
         "general rating": 4.76,
         "number of guests": 6,
         "city": "Miami Beach",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 371.0,
         "number of amenities": 36,
@@ -3704,7 +3702,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Floryda"
     },
     {
         "name": "Przytulny Townhouse",
@@ -3712,7 +3711,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 334.0,
         "number of amenities": 33,
@@ -3721,7 +3719,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Przytulny prywatny pok\u00f3j w naszym szeregowcu",
@@ -3729,7 +3728,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "The Bronx",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 196.0,
         "number of amenities": 28,
@@ -3738,7 +3736,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "Sypialnia nowego eleganckiego projektanta",
@@ -3746,7 +3745,6 @@
         "general rating": 4.62,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 374.0,
         "number of amenities": 26,
@@ -3755,7 +3753,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": null
     },
     {
         "name": "Czaruj\u0105ce studio",
@@ -3763,7 +3762,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Miami",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 278.0,
         "number of amenities": 37,
@@ -3772,7 +3770,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Groovy bedroom w BK obok METRO & Industry City",
@@ -3780,7 +3779,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 390.0,
         "number of amenities": 43,
@@ -3789,7 +3787,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nowy Jork"
     },
     {
         "name": "Great location private bedroom in Queens 3",
@@ -3797,7 +3796,6 @@
         "general rating": 4.6,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 252.0,
         "number of amenities": 12,
@@ -3806,7 +3804,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nowy Jork"
     },
     {
         "name": "Minimalny pok\u00f3j 1 SofaBed + \u0142\u00f3\u017cko na poddaszu na Manhattanie",
@@ -3814,7 +3813,6 @@
         "general rating": 4.56,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 401.0,
         "number of amenities": 24,
@@ -3823,7 +3821,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": null
     },
     {
         "name": "Do domu z dala od domu!",
@@ -3831,7 +3830,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Clearwater",
-        "district": "Floryda",
         "country": "Stany Zjednoczone",
         "price per night": 273.0,
         "number of amenities": 37,
@@ -3840,7 +3838,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Floryda"
     },
     {
         "name": "Pok\u00f3j 5",
@@ -3848,7 +3847,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "San Francisco",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 234.0,
         "number of amenities": 14,
@@ -3857,7 +3855,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kalifornia"
     },
     {
         "name": "Nowo\u015b\u0107! Apartament w pobli\u017cu Disneya",
@@ -3865,7 +3864,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Walnut",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 491.0,
         "number of amenities": 51,
@@ -3874,7 +3872,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Love F: UCR, bezp\u0142atny parking, pok\u00f3j s\u0142oneczny, gdzie wiosn\u0105 jest dobre, okno ciep\u0142ego s\u0142o\u0144ca i ogr\u00f3d, ch\u0119tny do bycia niezale\u017cn\u0105 osob\u0105",
@@ -3882,7 +3881,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Riverside",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 166.0,
         "number of amenities": 45,
@@ -3891,7 +3889,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Kalifornia"
     },
     {
         "name": "Czysta, cicha, bezpieczna sypialnia w Central Park",
@@ -3899,7 +3898,6 @@
         "general rating": 4.75,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 357.0,
         "number of amenities": 46,
@@ -3908,7 +3906,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": null
     },
     {
         "name": "5 min do Disneya, centrum kongresowego, Knotts",
@@ -3916,7 +3915,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Stanton",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 265.0,
         "number of amenities": 32,
@@ -3925,7 +3923,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Kalifornia"
     },
     {
         "name": "Romantyczny i wygodny apartament z ogrodem w pobli\u017cu Disneya",
@@ -3933,7 +3932,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Walnut",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 584.0,
         "number of amenities": 54,
@@ -3942,7 +3940,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Prywatny pok\u00f3j z domowym biurem i prywatn\u0105 \u0142azienk\u0105",
@@ -3950,7 +3949,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 307.0,
         "number of amenities": 40,
@@ -3959,7 +3957,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nowy Jork"
     },
     {
         "name": "Przytulny APARTAMENT 1BR w samym sercu Astorii",
@@ -3967,7 +3966,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 218.0,
         "number of amenities": 35,
@@ -3976,7 +3974,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nowy Jork"
     },
     {
         "name": "Szykowne rumie\u0144ce Freesia",
@@ -3984,7 +3983,6 @@
         "general rating": 4.52,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 382.0,
         "number of amenities": 25,
@@ -3993,7 +3991,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": null
     },
     {
         "name": "Great location private bedroom in Queens",
@@ -4001,7 +4000,6 @@
         "general rating": 4.55,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 231.0,
         "number of amenities": 15,
@@ -4010,7 +4008,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Nowy Jork"
     },
     {
         "name": "Prywatna sypialnia i \u0142azienka SE Fresno",
@@ -4018,7 +4017,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Fresno",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 168.0,
         "number of amenities": 29,
@@ -4027,7 +4025,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Kalifornia"
     },
     {
         "name": "Prywatny pok\u00f3j w NE w pobli\u017cu U of M",
@@ -4035,7 +4034,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Minneapolis",
-        "district": "Minnesota",
         "country": "Stany Zjednoczone",
         "price per night": 126.0,
         "number of amenities": 26,
@@ -4044,7 +4042,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Minnesota"
     },
     {
         "name": "Boutique Bedroom w pobli\u017cu Central Park",
@@ -4052,7 +4051,6 @@
         "general rating": 4.45,
         "number of guests": null,
         "city": "Nowy Jork",
-        "district": null,
         "country": "Stany Zjednoczone",
         "price per night": 416.0,
         "number of amenities": 23,
@@ -4061,7 +4059,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": null
     },
     {
         "name": "SoCal Beach apartament go\u015bcinny, 5 minut jazdy od pla\u017cy",
@@ -4069,7 +4068,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Torrance",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 353.0,
         "number of amenities": 45,
@@ -4078,7 +4076,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Poznaj pok\u00f3j w Nowym Jorku jak nowojorczyk.",
@@ -4086,7 +4085,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "The Bronx",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 265.0,
         "number of amenities": 40,
@@ -4095,7 +4093,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Nowy Jork"
     },
     {
         "name": "17183loves home",
@@ -4103,7 +4102,6 @@
         "general rating": 4.75,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 281.0,
         "number of amenities": 12,
@@ -4112,7 +4110,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "Nowoczesny prywatny apartament i \u0142azienka - 8 minut do Manhattanu!",
@@ -4120,7 +4119,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 687.0,
         "number of amenities": 47,
@@ -4129,7 +4127,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nowy Jork"
     },
     {
         "name": "Serenity",
@@ -4137,7 +4136,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Beverly Hills",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 592.0,
         "number of amenities": 36,
@@ -4146,7 +4144,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalifornia"
     },
     {
         "name": "Przytulnie Przytulnie, Cisza, Prywatny, Kr\u00f3l",
@@ -4154,7 +4153,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Newark",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 202.0,
         "number of amenities": 29,
@@ -4163,7 +4161,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Kalifornia"
     },
     {
         "name": "Du\u017ca prywatna sypialnia przecznic\u0119 od poci\u0105gu",
@@ -4171,7 +4170,6 @@
         "general rating": 4.71,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 294.0,
         "number of amenities": 24,
@@ -4180,7 +4178,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "Pi\u0119kne mieszkanie z jedn\u0105 sypialni\u0105 w Queens",
@@ -4188,7 +4187,6 @@
         "general rating": 4.66,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 231.0,
         "number of amenities": 33,
@@ -4197,7 +4195,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nowy Jork"
     },
     {
         "name": "Atomic Eclectic Home z widokiem na wzg\u00f3rze",
@@ -4205,7 +4204,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Monterey Park",
-        "district": "Kalifornia",
         "country": "Stany Zjednoczone",
         "price per night": 403.0,
         "number of amenities": 44,
@@ -4214,7 +4212,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalifornia"
     },
     {
         "name": "1 sypialnia w samym sercu maspeth queens",
@@ -4222,7 +4221,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 336.0,
         "number of amenities": 51,
@@ -4231,7 +4229,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nowy Jork"
     },
     {
         "name": "Casa de la Sunset!",
@@ -4239,7 +4238,6 @@
         "general rating": 4.28,
         "number of guests": null,
         "city": "Brooklyn",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 153.0,
         "number of amenities": 40,
@@ -4248,7 +4246,8 @@
         "communication rating": 4.6,
         "location rating": 4.4,
         "check in rating": 4.5,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Nowy Jork"
     },
     {
         "name": "S\u0142oneczne mieszkanie z jedn\u0105 sypialni\u0105 w Queens",
@@ -4256,7 +4255,6 @@
         "general rating": 4.2,
         "number of guests": null,
         "city": "Queens",
-        "district": "Nowy Jork",
         "country": "Stany Zjednoczone",
         "price per night": 252.0,
         "number of amenities": 12,
@@ -4265,6 +4263,7 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Nowy Jork"
     }
 ]

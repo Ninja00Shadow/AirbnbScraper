@@ -5,7 +5,6 @@
         "general rating": 4.86,
         "number of guests": 3,
         "city": "Mordarka",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 263.0,
         "number of amenities": 57,
@@ -14,7 +13,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Kierunek Natura Tiny House z jacuzzi i saun\u0105",
@@ -22,7 +22,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Kr\u00f3lewo",
-        "district": "Wojew\u00f3dztwo Mazowieckie",
         "country": "Polska",
         "price per night": 450.0,
         "number of amenities": 42,
@@ -31,7 +30,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Mazowieckie"
     },
     {
         "name": "Domek przy pla\u017cy nad jeziorem",
@@ -39,7 +39,6 @@
         "general rating": 4.71,
         "number of guests": 8,
         "city": "Jurk\u00f3w",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 587.0,
         "number of amenities": 30,
@@ -48,7 +47,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "chata po\u015brodku niczego + staw prywatny +3 ha",
@@ -56,7 +56,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Dar\u017ckowo",
-        "district": "Wojew\u00f3dztwo Pomorskie",
         "country": "Polska",
         "price per night": 500.0,
         "number of amenities": 52,
@@ -65,7 +64,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wojew\u00f3dztwo Pomorskie"
     },
     {
         "name": "Pok\u00f3j 2 osobowy z \u0142azienk\u0105 i oddzielnym wej\u015bciem",
@@ -73,7 +73,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Zakopane",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 160.0,
         "number of amenities": 17,
@@ -82,7 +81,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "#2 Apiterapia na Roztoczu - Domek wypoczynkowy",
@@ -90,7 +90,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Kozaki",
-        "district": "Lubelskie",
         "country": "Polska",
         "price per night": 250.0,
         "number of amenities": 30,
@@ -99,7 +98,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lubelskie"
     },
     {
         "name": "P\u00f3\u0142 na p\u00f3\u0142",
@@ -107,7 +107,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Kowalowa",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 606.0,
         "number of amenities": 20,
@@ -116,7 +115,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Bac\u00f3wka 'Przytulas'",
@@ -124,7 +124,6 @@
         "general rating": 4.99,
         "number of guests": 4,
         "city": "Jordan\u00f3w",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 400.0,
         "number of amenities": 35,
@@ -133,7 +132,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Gruszk\u00f3wka 1  Domek Letniskowy  (7 km od Bia\u0142ki )",
@@ -141,7 +141,6 @@
         "general rating": 4.98,
         "number of guests": 9,
         "city": "Nowy Targ",
-        "district": "Wojew\u00f3dztwo Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 358.0,
         "number of amenities": 39,
@@ -150,7 +149,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Ma\u0142opolskie"
     },
     {
         "name": "Luksusowy domek na wodzie z saun\u0105 i motor\u00f3wk\u0105",
@@ -158,7 +158,6 @@
         "general rating": 4.55,
         "number of guests": 4,
         "city": "Lubniewice",
-        "district": "Lubuskie",
         "country": "Polska",
         "price per night": 700.0,
         "number of amenities": 46,
@@ -167,7 +166,8 @@
         "communication rating": 4.4,
         "location rating": 4.7,
         "check in rating": 4.5,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Lubuskie"
     },
     {
         "name": "Janosik -G\u00f3ralski domek z kominkiem",
@@ -175,7 +175,6 @@
         "general rating": 4.91,
         "number of guests": 6,
         "city": "\u0141opuszna",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 408.0,
         "number of amenities": 55,
@@ -184,7 +183,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Jawa czy Zen - ma\u0142y domek",
@@ -192,7 +192,6 @@
         "general rating": null,
         "number of guests": 3,
         "city": "Krogulec",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 542.0,
         "number of amenities": 38,
@@ -201,7 +200,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Jarga Chata gliniana ca\u0142oroczna",
@@ -209,7 +209,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Biernacice",
-        "district": "wojew\u00f3dztwo \u0142\u00f3dzkie",
         "country": "Polska",
         "price per night": 333.0,
         "number of amenities": 52,
@@ -218,7 +217,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "wojew\u00f3dztwo \u0142\u00f3dzkie"
     },
     {
         "name": "Domek KOTlina",
@@ -226,7 +226,6 @@
         "general rating": 4.96,
         "number of guests": 6,
         "city": "\u015acinawka \u015arednia",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 480.0,
         "number of amenities": 36,
@@ -235,7 +234,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Domki. Bieszczady pl",
@@ -243,7 +243,6 @@
         "general rating": 4.88,
         "number of guests": 6,
         "city": "\u015arednia Wie\u015b",
-        "district": "Podkarpackie Voivodeship",
         "country": "Polska",
         "price per night": 319.0,
         "number of amenities": 30,
@@ -252,7 +251,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Podkarpackie Voivodeship"
     },
     {
         "name": "Zak\u0105tek G\u00f3rski",
@@ -260,7 +260,6 @@
         "general rating": 4.59,
         "number of guests": 6,
         "city": "Sosn\u00f3wka",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 475.0,
         "number of amenities": 58,
@@ -269,7 +268,8 @@
         "communication rating": 4.9,
         "location rating": 4.4,
         "check in rating": 4.9,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "Domki letniskowe pomi\u0119dzy jeziorami- Moje Eldorado",
@@ -277,7 +277,6 @@
         "general rating": 5.0,
         "number of guests": 5,
         "city": "Sierak\u00f3w",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 330.0,
         "number of amenities": 51,
@@ -286,7 +285,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Dom pod strzech\u0105 na skraju lasu",
@@ -294,7 +294,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Czarny Bry\u0144sk",
-        "district": "Kuyavian-Pomeranian Voivodeship",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 37,
@@ -303,7 +302,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kuyavian-Pomeranian Voivodeship"
     },
     {
         "name": "Domek XS- z bali\u0105 w samym sercu Kaszub",
@@ -311,7 +311,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Chmielno",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 650.0,
         "number of amenities": 53,
@@ -320,7 +319,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Pomorskie"
     },
     {
         "name": "W\u0142\u00f3kna Inn - nowoczesna stodo\u0142a blisko natury",
@@ -328,7 +328,6 @@
         "general rating": 4.95,
         "number of guests": 6,
         "city": "Potrzanowo",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 650.0,
         "number of amenities": 56,
@@ -337,7 +336,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Delightfull Dome z wann\u0105 z hydromasa\u017cem i saun\u0105 na pla\u017cy",
@@ -345,7 +345,6 @@
         "general rating": 4.98,
         "number of guests": 6,
         "city": "Wapnica",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 1170.0,
         "number of amenities": 54,
@@ -354,7 +353,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Przytulny domek na drzewie PICEA otoczony przyrod\u0105",
@@ -362,7 +362,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Karpacz",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 870.0,
         "number of amenities": 31,
@@ -371,7 +370,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "HONAY HOUSE z widokiem na Tatry",
@@ -379,7 +379,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": "Dursztyn",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 500.0,
         "number of amenities": 39,
@@ -388,7 +387,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Urocza chatka z saun\u0105 i jacuzzi",
@@ -396,7 +396,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Lipinki",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 500.0,
         "number of amenities": 39,
@@ -405,7 +404,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Domek na stawie",
@@ -413,7 +413,6 @@
         "general rating": 4.5,
         "number of guests": 2,
         "city": "Ko\u015bcielisko",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 403.0,
         "number of amenities": 26,
@@ -422,7 +421,8 @@
         "communication rating": 4.2,
         "location rating": 4.2,
         "check in rating": 4.5,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Domki Marczyce,Karpacz,Karkonosze,Szklarska Por\u0119ba",
@@ -430,7 +430,6 @@
         "general rating": 4.84,
         "number of guests": 6,
         "city": "Marczyce",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 580.0,
         "number of amenities": 46,
@@ -439,7 +438,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Warmi\u0144ski Sad",
@@ -447,7 +447,6 @@
         "general rating": 4.8,
         "number of guests": 6,
         "city": "Olsztyn",
-        "district": "Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 599.0,
         "number of amenities": 51,
@@ -456,7 +455,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.6,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Dom na Jeziorze \u0141ab\u0119d\u017a - Polska, woj. pomorskie",
@@ -464,7 +464,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "Wielkie Wyr\u0119by",
-        "district": "Wojew\u00f3dztwo Pomorskie",
         "country": "Polska",
         "price per night": 414.0,
         "number of amenities": 31,
@@ -473,7 +472,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Pomorskie"
     },
     {
         "name": "Iny Miny Tiny Nature Villa :) Teraz zima gotowa!",
@@ -481,7 +481,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Ownice",
-        "district": "Lubusz Voivodeship",
         "country": "Polska",
         "price per night": 281.0,
         "number of amenities": 32,
@@ -490,7 +489,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lubusz Voivodeship"
     },
     {
         "name": "Kopu\u0142a Glampingowa z Jacuzzi",
@@ -498,7 +498,6 @@
         "general rating": 4.35,
         "number of guests": 4,
         "city": "Serock",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 675.0,
         "number of amenities": 48,
@@ -507,7 +506,8 @@
         "communication rating": 4.2,
         "location rating": 4.7,
         "check in rating": 4.5,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Mazowieckie"
     },
     {
         "name": "Przysta\u0144 Nauta",
@@ -515,7 +515,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Kolano",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 270.0,
         "number of amenities": 9,
@@ -524,7 +523,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Pomorskie"
     },
     {
         "name": "Domek z bali\u0105\u00a0jacuzzi w\u015br\u00f3d boru sosnowego",
@@ -532,7 +532,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "\u015ar\u00f3dborze",
-        "district": "\u015awi\u0119tokrzyskie",
         "country": "Polska",
         "price per night": 486.0,
         "number of amenities": 27,
@@ -541,7 +540,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u015awi\u0119tokrzyskie"
     },
     {
         "name": "Bosco - \u0141ag\u00f3w lubuski",
@@ -549,7 +549,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "\u0141ag\u00f3w",
-        "district": "Lubuskie",
         "country": "Polska",
         "price per night": 701.0,
         "number of amenities": 38,
@@ -558,7 +557,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Lubuskie"
     },
     {
         "name": "Przytulny domek NA drzewie w otoczeniu przyrody w otoczeniu",
@@ -566,7 +566,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "Karpacz",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 870.0,
         "number of amenities": 31,
@@ -575,7 +574,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Przytulna g\u00f3rska chatka z niesamowitymi widokami",
@@ -583,7 +583,6 @@
         "general rating": 4.97,
         "number of guests": 5,
         "city": "Tasz\u00f3w",
-        "district": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 388.0,
         "number of amenities": 23,
@@ -592,7 +591,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie"
     },
     {
         "name": "Ma\u0142e nad jeziorem.",
@@ -600,7 +600,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Strzesz\u00f3w",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 431.0,
         "number of amenities": 44,
@@ -609,7 +608,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "nowoczesna stodo\u0142a w lesie nieopodal Warszawy",
@@ -617,7 +617,6 @@
         "general rating": 4.7,
         "number of guests": 6,
         "city": "Ludwikowo",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 630.0,
         "number of amenities": 38,
@@ -626,7 +625,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Mazowieckie"
     },
     {
         "name": "Domandi lodge 2 luksusowy i przytulny domek g\u00f3rski",
@@ -634,7 +634,6 @@
         "general rating": 4.97,
         "number of guests": 3,
         "city": "Przesieka",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 586.0,
         "number of amenities": 52,
@@ -643,7 +642,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Mazurska sielanka- 25m2 tr\u00f3jk\u0105tny domek nad stawem",
@@ -651,7 +651,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Trygort",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 300.0,
         "number of amenities": 30,
@@ -660,7 +659,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Domek na drzewie z widokiem na jezioro \u015aNIADANIE",
@@ -668,7 +668,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Unie\u015bcie",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 444.0,
         "number of amenities": 57,
@@ -677,7 +676,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Pomi\u0119dzy Izerami a Karkonoszami ...",
@@ -685,7 +685,6 @@
         "general rating": 4.89,
         "number of guests": 3,
         "city": "Piechowice",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 216.0,
         "number of amenities": 40,
@@ -694,7 +693,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Domek z bali na Camp 66 w \u015aciegnach k.Karpacza",
@@ -702,7 +702,6 @@
         "general rating": 4.7,
         "number of guests": 4,
         "city": "\u015aciegny",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 357.0,
         "number of amenities": 22,
@@ -711,7 +710,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Pod Srebrzystym \u015awierkiem - Gor\u0105ca balia z jacuzzi",
@@ -719,7 +719,6 @@
         "general rating": 4.96,
         "number of guests": 6,
         "city": "Koszarawa",
-        "district": "\u015al\u0105skie",
         "country": "Polska",
         "price per night": 318.0,
         "number of amenities": 53,
@@ -728,7 +727,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "\u015al\u0105skie"
     },
     {
         "name": "Rolnicz\u00f3wka - apartament na podhala\u0144skiej wsi",
@@ -736,7 +736,6 @@
         "general rating": 5.0,
         "number of guests": 5,
         "city": "Dzianisz",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 421.0,
         "number of amenities": 31,
@@ -745,7 +744,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Le\u015bneM3 - na terenie Dworku Aleksandr\u00f3wka",
@@ -753,7 +753,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "\u017bd\u017car",
-        "district": "mazowieckie",
         "country": "Polska",
         "price per night": 252.0,
         "number of amenities": 24,
@@ -762,7 +761,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "mazowieckie"
     },
     {
         "name": "Mazurska chatka nad jeziorem , las",
@@ -770,7 +770,6 @@
         "general rating": 4.55,
         "number of guests": 4,
         "city": "Kier\u017aliny",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 45,
@@ -779,7 +778,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Domek Spa",
@@ -787,7 +787,6 @@
         "general rating": 4.5,
         "number of guests": 4,
         "city": "Piaseczno",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 728.0,
         "number of amenities": 42,
@@ -796,7 +795,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": "Mazowieckie"
     },
     {
         "name": "Hygge Ursus Flat - 20 min do Centrum i lotniska",
@@ -804,7 +804,6 @@
         "general rating": 4.9,
         "number of guests": 3,
         "city": "Warszawa",
-        "district": "mazowieckie",
         "country": "Polska",
         "price per night": 165.0,
         "number of amenities": 59,
@@ -813,7 +812,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "mazowieckie"
     },
     {
         "name": "Pensjonat na styku trzech granic",
@@ -821,7 +821,6 @@
         "general rating": 4.7,
         "number of guests": null,
         "city": "Powiat zgorzelecki",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 170.0,
         "number of amenities": 50,
@@ -830,7 +829,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.6,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Tuczenko - dom nad jeziorem - apartament",
@@ -838,7 +838,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Bobr\u00f3wko",
-        "district": "Lubuskie",
         "country": "Polska",
         "price per night": 220.0,
         "number of amenities": 20,
@@ -847,7 +846,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lubuskie"
     },
     {
         "name": "Pok\u00f3j Twin 02 z tarasem i widokiem na G\u00d3RY",
@@ -855,7 +855,6 @@
         "general rating": 4.74,
         "number of guests": 2,
         "city": "\u015aciegny",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 297.0,
         "number of amenities": 44,
@@ -864,7 +863,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Agroturystyka Izba-Kominkowa",
@@ -872,7 +872,6 @@
         "general rating": 4.91,
         "number of guests": 3,
         "city": "Ratu\u0142\u00f3w",
-        "district": "Wojew\u00f3dztwo Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 110.0,
         "number of amenities": 59,
@@ -881,7 +880,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Ma\u0142opolskie"
     },
     {
         "name": "Osada \u0179r\u00f3dlana - Domek 6-osobowy",
@@ -889,7 +889,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "Kowary",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 567.0,
         "number of amenities": 38,
@@ -898,7 +897,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Alejka do tarniny",
@@ -906,7 +906,6 @@
         "general rating": 4.99,
         "number of guests": 4,
         "city": "Knur\u00f3w",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 380.0,
         "number of amenities": 16,
@@ -915,7 +914,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Pok\u00f3j Twin 02 z tarasem i widokiem na G\u00d3RY",
@@ -923,7 +923,6 @@
         "general rating": 4.74,
         "number of guests": 2,
         "city": "\u015aciegny",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 297.0,
         "number of amenities": 44,
@@ -932,7 +931,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Agroturystyka Izba-Kominkowa",
@@ -940,7 +940,6 @@
         "general rating": 4.91,
         "number of guests": 3,
         "city": "Ratu\u0142\u00f3w",
-        "district": "Wojew\u00f3dztwo Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 110.0,
         "number of amenities": 59,
@@ -949,7 +948,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Ma\u0142opolskie"
     },
     {
         "name": "Osada \u0179r\u00f3dlana - Domek 6-osobowy",
@@ -957,7 +957,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "Kowary",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 567.0,
         "number of amenities": 38,
@@ -966,7 +965,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Alejka do tarniny",
@@ -974,7 +974,6 @@
         "general rating": 4.99,
         "number of guests": 4,
         "city": "Knur\u00f3w",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 380.0,
         "number of amenities": 16,
@@ -983,7 +982,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Rajska Chata w g\u00f3rach z Bali\u0105 i Saun\u0105",
@@ -991,7 +991,6 @@
         "general rating": 5.0,
         "number of guests": 9,
         "city": "Sobl\u00f3wka",
-        "district": "\u015al\u0105skie",
         "country": "Polska",
         "price per night": 470.0,
         "number of amenities": 46,
@@ -1000,7 +999,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u015al\u0105skie"
     },
     {
         "name": "LushHills | Stylowa i Naturalna Jurta",
@@ -1008,7 +1008,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "Regulice",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 480.0,
         "number of amenities": 29,
@@ -1017,7 +1016,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Pa\u0142ac Ksi\u0119cia Biskupia Wroc\u0142awia",
@@ -1025,7 +1025,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Otmuchow",
-        "district": null,
         "country": "Polska",
         "price per night": 120.0,
         "number of amenities": 70,
@@ -1034,7 +1033,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Domek rekreacyjny",
@@ -1042,7 +1042,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Skrzeszew",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 414.0,
         "number of amenities": 37,
@@ -1051,7 +1050,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Mazowieckie"
     },
     {
         "name": "Stod\u00f3\u0142ka Bluesowa Matylda Apartament nad jeziorem",
@@ -1059,7 +1059,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Borz\u0105tew",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 230.0,
         "number of amenities": 37,
@@ -1068,7 +1067,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Beskidzka Oaza",
@@ -1076,7 +1076,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Targanice",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 149.0,
         "number of amenities": 49,
@@ -1085,7 +1084,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Chatka nad stawami.",
@@ -1093,7 +1093,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "Jab\u0142onka",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 104.0,
         "number of amenities": 24,
@@ -1102,7 +1101,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Samotnia w Uroczysku",
@@ -1110,7 +1110,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "\u017byrard\u00f3w County",
-        "district": "Wojew\u00f3dztwo Mazowieckie",
         "country": "Polska",
         "price per night": 138.0,
         "number of amenities": 22,
@@ -1119,7 +1118,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo Mazowieckie"
     },
     {
         "name": "Zajawka",
@@ -1127,7 +1127,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Wychodne",
-        "district": "Podlaskie",
         "country": "Polska",
         "price per night": 120.0,
         "number of amenities": 34,
@@ -1136,7 +1135,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Podlaskie"
     },
     {
         "name": "Chatka Ch\u0142opska",
@@ -1144,7 +1144,6 @@
         "general rating": 4.82,
         "number of guests": 6,
         "city": "Brzozowo",
-        "district": "Wojew\u00f3dztwo zachodniopomorskie",
         "country": "Polska",
         "price per night": 480.0,
         "number of amenities": 35,
@@ -1153,7 +1152,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo zachodniopomorskie"
     },
     {
         "name": "*Uroczy domek u st\u00f3p Magurskiego Parku Narodowego*",
@@ -1161,7 +1161,6 @@
         "general rating": 4.98,
         "number of guests": 6,
         "city": "Mytarz",
-        "district": "Podkarpackie",
         "country": "Polska",
         "price per night": 439.0,
         "number of amenities": 54,
@@ -1170,7 +1169,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Podkarpackie"
     },
     {
         "name": "Agroturystyka Izba-Smrekowa",
@@ -1178,7 +1178,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Ciche",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 120.0,
         "number of amenities": 64,
@@ -1187,7 +1186,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Apartament na Skarpie",
@@ -1195,7 +1195,6 @@
         "general rating": 4.95,
         "number of guests": 6,
         "city": "Pog\u00f3rze",
-        "district": "\u015al\u0105skie",
         "country": "Polska",
         "price per night": 184.0,
         "number of amenities": 50,
@@ -1204,7 +1203,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "\u015al\u0105skie"
     },
     {
         "name": "Tuczenko - dom nad jeziorem - apartament",
@@ -1212,7 +1212,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Bobr\u00f3wko",
-        "district": "Lubuskie",
         "country": "Polska",
         "price per night": 258.0,
         "number of amenities": 21,
@@ -1221,7 +1220,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lubuskie"
     },
     {
         "name": "Le\u015bnicz\u00f3wka nad Jeziorem Z\u0142otnickim.",
@@ -1229,7 +1229,6 @@
         "general rating": 4.71,
         "number of guests": 6,
         "city": "Wie\u017ca",
-        "district": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 282.0,
         "number of amenities": 51,
@@ -1238,7 +1237,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie"
     },
     {
         "name": "Chatka na Wzg\u00f3rzu",
@@ -1246,7 +1246,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Klodzko",
-        "district": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 610.0,
         "number of amenities": 28,
@@ -1255,7 +1254,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie"
     },
     {
         "name": "Urocza chatka z jacuzzi ,saun\u0105 i kominkiem .",
@@ -1263,7 +1263,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Stogniewice",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 403.0,
         "number of amenities": 71,
@@ -1272,7 +1271,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Tiny Domek w g\u00f3rach z kominkiem, Piwniczna-Zdr\u00f3j",
@@ -1280,7 +1280,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Piwniczna-Zdr\u00f3j",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 45,
@@ -1289,7 +1288,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Czerwony Apartament u G\u0105sior\u00f3w",
@@ -1297,7 +1297,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Bia\u0142y Dunajec",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 252.0,
         "number of amenities": 37,
@@ -1306,7 +1305,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Pary zamieszka\u0142e w Domu Rodzinnym nad rzek\u0105",
@@ -1314,7 +1314,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Mszana Dolna",
-        "district": "Ma\u0142opolska",
         "country": "Polska",
         "price per night": 80.0,
         "number of amenities": 37,
@@ -1323,7 +1322,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ma\u0142opolska"
     },
     {
         "name": "S\u0142oneczne Tarasy Apartament nad Jeziorem",
@@ -1331,7 +1331,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Chwaszczyno",
-        "district": "pomorskie",
         "country": "Polska",
         "price per night": 200.0,
         "number of amenities": 39,
@@ -1340,7 +1339,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "pomorskie"
     },
     {
         "name": "Ma\u0142y domek z saun\u0105 i jacuzzi",
@@ -1348,7 +1348,6 @@
         "general rating": 4.69,
         "number of guests": 4,
         "city": "Sob\u00f3tka",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 450.0,
         "number of amenities": 17,
@@ -1357,7 +1356,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Nad Poziomem - modrzewiowy domek u st\u00f3p Karkonoszy",
@@ -1365,7 +1365,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Radomice",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 548.0,
         "number of amenities": 40,
@@ -1374,7 +1373,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Domek letniskowy w W\u0119gorzewie",
@@ -1382,7 +1382,6 @@
         "general rating": 4.93,
         "number of guests": 6,
         "city": "W\u0119gorzewo",
-        "district": "Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 272.0,
         "number of amenities": 29,
@@ -1391,7 +1390,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "AgroWychodne",
@@ -1399,7 +1399,6 @@
         "general rating": 4.96,
         "number of guests": 8,
         "city": "Wychodne",
-        "district": "podlaskie",
         "country": "Polska",
         "price per night": 120.0,
         "number of amenities": 31,
@@ -1408,7 +1407,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "podlaskie"
     },
     {
         "name": "Samotnia w G\u00f3rach/chatka/bac\u00f3wka/domek g\u00f3ralski",
@@ -1416,7 +1416,6 @@
         "general rating": null,
         "number of guests": 5,
         "city": "Ochotnica G\u00f3rna",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 330.0,
         "number of amenities": 35,
@@ -1425,7 +1424,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Uroczy wiejski domek w sercu Kaszub K\u0142\u0105czno",
@@ -1433,7 +1433,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "K\u0142\u0105czno",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 49,
@@ -1442,7 +1441,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Pomorskie"
     },
     {
         "name": "Ukryta podstawa",
@@ -1450,7 +1450,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Sokule",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 580.0,
         "number of amenities": 11,
@@ -1459,7 +1458,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Mazowieckie"
     },
     {
         "name": "Uroczy domek z widokiem na g\u00f3ry i zbiornik wody.",
@@ -1467,7 +1467,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "Sosn\u00f3wka",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 400.0,
         "number of amenities": 44,
@@ -1476,7 +1475,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Apartament w Marczycach z widokiem na g\u00f3ry pi\u0119tro",
@@ -1484,7 +1484,6 @@
         "general rating": 4.98,
         "number of guests": 8,
         "city": "Marczyce",
-        "district": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 380.0,
         "number of amenities": 44,
@@ -1493,7 +1492,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie"
     },
     {
         "name": "Dom w malowniczej wsi Rudzienko z pi\u0119knym widokiem",
@@ -1501,7 +1501,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Rudzienko",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 290.0,
         "number of amenities": 52,
@@ -1510,7 +1509,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Mazowieckie"
     },
     {
         "name": "Lost Garden for 2 - domek w drzewach",
@@ -1518,7 +1518,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Pozna\u0144",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 418.0,
         "number of amenities": 47,
@@ -1527,7 +1526,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Domek nad jeziorem z kortem tenisowym.",
@@ -1535,7 +1535,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Kr\u0119sk",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 600.0,
         "number of amenities": 44,
@@ -1544,7 +1543,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "ZAKO-LODGE, pok\u00f3j twin z \u0142azienk\u0105, balkonem",
@@ -1552,7 +1552,6 @@
         "general rating": 4.57,
         "number of guests": null,
         "city": "Zakopane",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 111.0,
         "number of amenities": 35,
@@ -1561,7 +1560,8 @@
         "communication rating": 4.6,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Ustronny, drewniany domek nad Dunajcem.",
@@ -1569,7 +1569,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Maszkowice",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 195.0,
         "number of amenities": 45,
@@ -1578,7 +1577,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "\"Marusia\" - pokoik z balkonem i widokiem na Tatry",
@@ -1586,7 +1586,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Zakopane",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 120.0,
         "number of amenities": 57,
@@ -1595,7 +1594,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Alejka do tarniny",
@@ -1603,7 +1603,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Knurow",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 380.0,
         "number of amenities": 18,
@@ -1612,7 +1611,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Brzozowisko Warmia - TinyHouse na warmi\u0144skiej wsi.",
@@ -1620,7 +1620,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Zalewo",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 289.0,
         "number of amenities": 46,
@@ -1629,7 +1628,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "ZAKO-LODGE, pok\u00f3j double z \u0142azienk\u0105, balkon, widok",
@@ -1637,7 +1637,6 @@
         "general rating": 4.49,
         "number of guests": null,
         "city": "Zakopane",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 89.0,
         "number of amenities": 37,
@@ -1646,7 +1645,8 @@
         "communication rating": 4.5,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "G\u00f3ralska Chatka z dusz\u0105 z widokiem na Tatry",
@@ -1654,7 +1654,6 @@
         "general rating": 4.72,
         "number of guests": null,
         "city": "Ko\u015bcielisko",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 118.0,
         "number of amenities": 32,
@@ -1663,7 +1662,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "ZAKO-LODGE, pok\u00f3j double z \u0142azienk\u0105, balkonem",
@@ -1671,7 +1671,6 @@
         "general rating": 4.51,
         "number of guests": null,
         "city": "Zakopane",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 89.0,
         "number of amenities": 34,
@@ -1680,7 +1679,8 @@
         "communication rating": 4.6,
         "location rating": 4.5,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Szumi Las",
@@ -1688,7 +1688,6 @@
         "general rating": 4.6,
         "number of guests": 4,
         "city": "Rani\u017c\u00f3w",
-        "district": "Podkarpackie",
         "country": "Polska",
         "price per night": 550.0,
         "number of amenities": 34,
@@ -1697,7 +1696,8 @@
         "communication rating": 4.7,
         "location rating": 5.0,
         "check in rating": 4.6,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Podkarpackie"
     },
     {
         "name": "Rajska Kolonia",
@@ -1705,7 +1705,6 @@
         "general rating": 4.63,
         "number of guests": 5,
         "city": "Rajsk",
-        "district": "Podlaskie",
         "country": "Polska",
         "price per night": 258.0,
         "number of amenities": 32,
@@ -1714,7 +1713,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": "Podlaskie"
     },
     {
         "name": "Dom blisko natury!",
@@ -1722,7 +1722,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "W\u0119\u017cnik",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 320.0,
         "number of amenities": 15,
@@ -1731,7 +1730,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Laba na Chechle-SPA z widokiem na las",
@@ -1739,7 +1739,6 @@
         "general rating": 4.97,
         "number of guests": 6,
         "city": "\u015awierklaniec",
-        "district": "\u015al\u0105skie",
         "country": "Polska",
         "price per night": 600.0,
         "number of amenities": 53,
@@ -1748,7 +1747,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "\u015al\u0105skie"
     },
     {
         "name": "Stryj\u00f3wka.",
@@ -1756,7 +1756,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "w\u0119gorzewski",
-        "district": "warmi\u0144sko-mazurskie",
         "country": "Polska",
         "price per night": 270.0,
         "number of amenities": 21,
@@ -1765,7 +1764,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "warmi\u0144sko-mazurskie"
     },
     {
         "name": "Stara Izba samotnia  blisko natury",
@@ -1773,7 +1773,6 @@
         "general rating": 4.87,
         "number of guests": 5,
         "city": "Aleksandria",
-        "district": "\u015al\u0105skie",
         "country": "Polska",
         "price per night": 329.0,
         "number of amenities": 60,
@@ -1782,7 +1781,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u015al\u0105skie"
     },
     {
         "name": "Domek z basenem i kominkiem w D\u0119bowym Gaju",
@@ -1790,7 +1790,6 @@
         "general rating": 4.94,
         "number of guests": 5,
         "city": "D\u0119bowy Gaj",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 326.0,
         "number of amenities": 37,
@@ -1799,7 +1798,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "Schronienie w domu rodzinnym nad rzek\u0105",
@@ -1807,7 +1807,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Mszana Dolna",
-        "district": "Ma\u0142opolska",
         "country": "Polska",
         "price per night": 110.0,
         "number of amenities": 36,
@@ -1816,7 +1815,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ma\u0142opolska"
     },
     {
         "name": "Domek na wodzie blisko portu jachtowego.",
@@ -1824,7 +1824,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Uraz",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 250.0,
         "number of amenities": 14,
@@ -1833,7 +1832,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Apartamenty Le\u015bne Historie 2",
@@ -1841,7 +1841,6 @@
         "general rating": null,
         "number of guests": 5,
         "city": "Go\u0142uch\u00f3w",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 425.0,
         "number of amenities": 42,
@@ -1850,7 +1849,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Chata przy lipie",
@@ -1858,7 +1858,6 @@
         "general rating": 4.8,
         "number of guests": 5,
         "city": "Str\u00f3\u017ca",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 252.0,
         "number of amenities": 33,
@@ -1867,7 +1866,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Spanie na sianie",
@@ -1875,7 +1875,6 @@
         "general rating": 4.79,
         "number of guests": 2,
         "city": "Witowo",
-        "district": "Podlaskie",
         "country": "Polska",
         "price per night": 160.0,
         "number of amenities": 22,
@@ -1884,7 +1883,8 @@
         "communication rating": 4.7,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Podlaskie"
     },
     {
         "name": "Pan Spichrz Siedlisko Czeputka Agroturystyka Domek",
@@ -1892,7 +1892,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Czeputka",
-        "district": "Lubelskie",
         "country": "Polska",
         "price per night": 263.0,
         "number of amenities": 52,
@@ -1901,7 +1900,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lubelskie"
     },
     {
         "name": "Boathousing - apartament na wodzie, dom p\u0142ywaj\u0105cy",
@@ -1909,7 +1909,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "My\u015blib\u00f3rz",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 750.0,
         "number of amenities": 9,
@@ -1918,7 +1917,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Nr2 -W POLU DOBREJ ENERGII",
@@ -1926,7 +1926,6 @@
         "general rating": 4.96,
         "number of guests": 6,
         "city": "Kalinowice G\u00f3rne",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 156.0,
         "number of amenities": 42,
@@ -1935,7 +1934,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "HYTA-klimatyczny domek w uroku G\u00f3r \u015awi\u0119tokrzyskich",
@@ -1943,7 +1943,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Paw\u0142\u00f3w",
-        "district": "\u015awi\u0119tokrzyskie",
         "country": "Polska",
         "price per night": 294.0,
         "number of amenities": 56,
@@ -1952,7 +1951,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "\u015awi\u0119tokrzyskie"
     },
     {
         "name": "Stodo\u0142a u Wojtka",
@@ -1960,7 +1960,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Nowina",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 50.0,
         "number of amenities": 9,
@@ -1969,7 +1968,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "Odpoczynek blisko pla\u017cy i Odry w starym klimacie",
@@ -1977,7 +1977,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "D\u0119bostr\u00f3w",
-        "district": "Wojew\u00f3dztwo zachodniopomorskie",
         "country": "Polska",
         "price per night": 177.0,
         "number of amenities": 68,
@@ -1986,7 +1985,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo zachodniopomorskie"
     },
     {
         "name": "Your Cute Hytte",
@@ -1994,7 +1994,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Smo\u0142dzino",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 388.0,
         "number of amenities": 34,
@@ -2003,7 +2002,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Pomorskie"
     },
     {
         "name": "Ma\u0142y domek w Dolinie Pr\u0105dnika",
@@ -2011,7 +2011,6 @@
         "general rating": 4.83,
         "number of guests": 4,
         "city": "Su\u0142oszowa",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 220.0,
         "number of amenities": 29,
@@ -2020,7 +2019,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Morgi na \u0141ebkach - Dzika Jurta",
@@ -2028,7 +2028,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "\u0141ebki",
-        "district": "\u015al\u0105skie",
         "country": "Polska",
         "price per night": 200.0,
         "number of amenities": 6,
@@ -2037,7 +2036,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u015al\u0105skie"
     },
     {
         "name": "Agroturystyka \"dzikie stawy\"- Chatka w dziczy",
@@ -2045,7 +2045,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Golubie W\u0119\u017cewskie",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 130.0,
         "number of amenities": 24,
@@ -2054,7 +2053,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Przytulny apartament SUDECKI KLIMAT +rowery gratis",
@@ -2062,7 +2062,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Szklarska Por\u0119ba",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 313.0,
         "number of amenities": 40,
@@ -2071,7 +2070,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Domek Jod\u0142owa Dolina",
@@ -2079,7 +2079,6 @@
         "general rating": 4.98,
         "number of guests": 3,
         "city": "Piwniczna-Zdr\u00f3j",
-        "district": "Wojew\u00f3dztwo Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 260.0,
         "number of amenities": 51,
@@ -2088,7 +2087,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Ma\u0142opolskie"
     },
     {
         "name": "Mazury nad jeziorem 2",
@@ -2096,7 +2096,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Wyszowate",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 300.0,
         "number of amenities": 48,
@@ -2105,7 +2104,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Glamping na \u0141\u0105ce",
@@ -2113,7 +2113,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Mu\u0142awki",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 200.0,
         "number of amenities": 30,
@@ -2122,7 +2121,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Domek z prze\u015bwitem na jezioro",
@@ -2130,7 +2130,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Powiat kartuski",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 423.0,
         "number of amenities": 40,
@@ -2139,7 +2138,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Pomorskie"
     },
     {
         "name": "Uroczy domek blisko rzeki w Puszczy Kozienickiej",
@@ -2147,7 +2147,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Powiat kozienicki",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 270.0,
         "number of amenities": 48,
@@ -2156,7 +2155,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Mazowieckie"
     },
     {
         "name": "Drewniany domek w Beskidach",
@@ -2164,7 +2164,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 304.0,
         "number of amenities": 51,
@@ -2173,7 +2172,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Przytulny pok\u00f3j dla pary w domu nad jeziorem",
@@ -2181,7 +2181,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Mo\u017cd\u017cany",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 160.0,
         "number of amenities": 21,
@@ -2190,7 +2189,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Pi\u0119kny pok\u00f3j dla 2 os\u00f3b w Willi",
@@ -2198,7 +2198,6 @@
         "general rating": 4.77,
         "number of guests": null,
         "city": "Zakopane",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 204.0,
         "number of amenities": 26,
@@ -2207,7 +2206,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Masuria nad jeziorem",
@@ -2215,7 +2215,6 @@
         "general rating": 4.91,
         "number of guests": 6,
         "city": "Wyszowate",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 320.0,
         "number of amenities": 53,
@@ -2224,7 +2223,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Szalka",
@@ -2232,7 +2232,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Szalej\u00f3w Dolny",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 342.0,
         "number of amenities": 36,
@@ -2241,7 +2240,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "BioDomek z przepi\u0119knym widokiem na g\u00f3ry i ogrodem",
@@ -2249,7 +2249,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "Gniewosz\u00f3w",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 450.0,
         "number of amenities": 51,
@@ -2258,7 +2257,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "Chata pod orzechem",
@@ -2266,7 +2266,6 @@
         "general rating": 4.98,
         "number of guests": 5,
         "city": "brodnicki",
-        "district": "kujawsko-pomorskie",
         "country": "Polska",
         "price per night": 322.0,
         "number of amenities": 49,
@@ -2275,7 +2274,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "kujawsko-pomorskie"
     },
     {
         "name": "Glamping Brzozowy Zak\u0105tek",
@@ -2283,7 +2283,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Szczytna",
-        "district": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 154.0,
         "number of amenities": 30,
@@ -2292,7 +2291,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie"
     },
     {
         "name": "Mazury nad jeziorem 4",
@@ -2300,7 +2300,6 @@
         "general rating": 4.95,
         "number of guests": 6,
         "city": "Wyszowate",
-        "district": "Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 320.0,
         "number of amenities": 48,
@@ -2309,7 +2308,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Uroczy domek z kominkiem, w lesie nad jeziorem",
@@ -2317,7 +2317,6 @@
         "general rating": 4.57,
         "number of guests": 6,
         "city": "Wojnowo",
-        "district": "Lubuskie",
         "country": "Polska",
         "price per night": 150.0,
         "number of amenities": 18,
@@ -2326,7 +2325,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Lubuskie"
     },
     {
         "name": "Montezera",
@@ -2334,7 +2334,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Piechowice",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 270.0,
         "number of amenities": 50,
@@ -2343,7 +2342,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Domek w lesie z widokiem na jezioro na Kaszubach",
@@ -2351,7 +2351,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Zawory",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 320.0,
         "number of amenities": 59,
@@ -2360,7 +2359,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Pomorskie"
     },
     {
         "name": "Bajkowy drewniany domek nad jeziorem",
@@ -2368,7 +2368,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "\u0141UBOWO gm.Borne Sulinowo",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 500.0,
         "number of amenities": 48,
@@ -2377,7 +2376,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Wiejska Sowa Domek 3",
@@ -2385,7 +2385,6 @@
         "general rating": 4.67,
         "number of guests": 5,
         "city": "Micha\u0142kowa",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 340.0,
         "number of amenities": 34,
@@ -2394,7 +2393,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Wiejska Sowa Domek 1",
@@ -2402,7 +2402,6 @@
         "general rating": 4.29,
         "number of guests": 5,
         "city": "Micha\u0142kowa",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 340.0,
         "number of amenities": 36,
@@ -2411,7 +2410,8 @@
         "communication rating": 4.4,
         "location rating": 4.1,
         "check in rating": 4.4,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Le\u015bnicz\u00f3wka",
@@ -2419,7 +2419,6 @@
         "general rating": null,
         "number of guests": 5,
         "city": "O\u0142dakowizna",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 288.0,
         "number of amenities": 26,
@@ -2428,7 +2427,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Mazowieckie"
     },
     {
         "name": "Dom Malarki",
@@ -2436,7 +2436,6 @@
         "general rating": 4.75,
         "number of guests": 3,
         "city": "\u0141owicz Wa\u0142ecki",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 25,
@@ -2445,7 +2444,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Wiejska Sowa Domek 1",
@@ -2453,7 +2453,6 @@
         "general rating": 4.29,
         "number of guests": 5,
         "city": "Micha\u0142kowa",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 340.0,
         "number of amenities": 36,
@@ -2462,7 +2461,8 @@
         "communication rating": 4.4,
         "location rating": 4.1,
         "check in rating": 4.4,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Le\u015bnicz\u00f3wka",
@@ -2470,7 +2470,6 @@
         "general rating": null,
         "number of guests": 5,
         "city": "O\u0142dakowizna",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 288.0,
         "number of amenities": 26,
@@ -2479,7 +2478,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Mazowieckie"
     },
     {
         "name": "Dom Malarki",
@@ -2487,7 +2487,6 @@
         "general rating": 4.75,
         "number of guests": 3,
         "city": "\u0141owicz Wa\u0142ecki",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 25,
@@ -2496,7 +2495,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Domek w \u015brodku lasu z saun\u0105 i jacuzzi.",
@@ -2504,7 +2504,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Lipianki",
-        "district": "Wojew\u00f3dztwo Mazowieckie",
         "country": "Polska",
         "price per night": 425.0,
         "number of amenities": 13,
@@ -2513,7 +2512,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo Mazowieckie"
     },
     {
         "name": "Domek we wsi",
@@ -2521,7 +2521,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Piotrowice",
-        "district": "Lubusz Voivodeship",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 15,
@@ -2530,7 +2529,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lubusz Voivodeship"
     },
     {
         "name": "Przytulny Gypsy Wagon nad morzem + jezioro Resko",
@@ -2538,7 +2538,6 @@
         "general rating": 4.75,
         "number of guests": 2,
         "city": "Rogowo",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 210.0,
         "number of amenities": 11,
@@ -2547,7 +2546,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Poddasze w Domu Rodzinnym nad rzek\u0105",
@@ -2555,7 +2555,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Mszana Dolna",
-        "district": "Ma\u0142opolska",
         "country": "Polska",
         "price per night": 100.0,
         "number of amenities": 35,
@@ -2564,7 +2563,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ma\u0142opolska"
     },
     {
         "name": "Chata Ole\u0144ka i Agata",
@@ -2572,7 +2572,6 @@
         "general rating": 4.99,
         "number of guests": 6,
         "city": "Fa\u0142kowo",
-        "district": "wielkopolskie",
         "country": "Polska",
         "price per night": 200.0,
         "number of amenities": 28,
@@ -2581,7 +2580,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "wielkopolskie"
     },
     {
         "name": "Le\u015bne Echo",
@@ -2589,7 +2589,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "\u017bd\u017car",
-        "district": "Wojew\u00f3dztwo Mazowieckie",
         "country": "Polska",
         "price per night": 252.0,
         "number of amenities": 20,
@@ -2598,7 +2597,8 @@
         "communication rating": 4.7,
         "location rating": 5.0,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Wojew\u00f3dztwo Mazowieckie"
     },
     {
         "name": "Cute Boat Hideout nad morzem + jezioro Resko",
@@ -2606,7 +2606,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Rogowo",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 170.0,
         "number of amenities": 9,
@@ -2615,7 +2614,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Mononoke-Jurty nad Sanem",
@@ -2623,7 +2623,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Smolnik",
-        "district": "Podkarpackie",
         "country": "Polska",
         "price per night": 500.0,
         "number of amenities": 33,
@@ -2632,7 +2631,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Podkarpackie"
     },
     {
         "name": "Szalony domek na drzewie ANNA",
@@ -2640,7 +2640,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Skowrony",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 191.0,
         "number of amenities": 20,
@@ -2649,7 +2648,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Surf'n'Vintage przyczepa nr2.",
@@ -2657,7 +2657,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Powiat pucki",
-        "district": "pomorskie",
         "country": "Polska",
         "price per night": 250.0,
         "number of amenities": 6,
@@ -2666,7 +2665,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "pomorskie"
     },
     {
         "name": "Agroturystyka \"Pod Ma\u0142\u0105 G\u00f3r\u0105\"",
@@ -2674,7 +2674,6 @@
         "general rating": 4.91,
         "number of guests": 13,
         "city": "\u0141opuszna",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 50.0,
         "number of amenities": 29,
@@ -2683,7 +2682,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "beGLAMP - glamping przy lesie i Zalewie Pr\u00f3ba",
@@ -2691,7 +2691,6 @@
         "general rating": 4.83,
         "number of guests": 4,
         "city": "Ruszk\u00f3w",
-        "district": "\u0141\u00f3d\u017a Voivodeship",
         "country": "Polska",
         "price per night": 531.0,
         "number of amenities": 56,
@@ -2700,7 +2699,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u0141\u00f3d\u017a Voivodeship"
     },
     {
         "name": "Jurta Jura",
@@ -2708,7 +2708,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Przybys\u0142awice",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 332.0,
         "number of amenities": 33,
@@ -2717,7 +2716,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Bli\u017aniak przy lesie",
@@ -2725,7 +2725,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "\u0141abu\u0144 Ma\u0142y",
-        "district": "Wojew\u00f3dztwo zachodniopomorskie",
         "country": "Polska",
         "price per night": 250.0,
         "number of amenities": 20,
@@ -2734,7 +2733,8 @@
         "communication rating": 4.5,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo zachodniopomorskie"
     },
     {
         "name": "Przytulne mieszkanie w pi\u0119knym miasteczku",
@@ -2742,7 +2742,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Kowary",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 150.0,
         "number of amenities": 24,
@@ -2751,7 +2750,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Traper Domek nr 3 -  150 metr\u00f3w od jeziora",
@@ -2759,7 +2759,6 @@
         "general rating": 4.89,
         "number of guests": 5,
         "city": "Ko\u0142czewo",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 132.0,
         "number of amenities": 47,
@@ -2768,7 +2767,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "\u263c Jantaris B14 \u263c Klimatyzacja, 50m od pla\u017cy",
@@ -2776,7 +2776,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Mielno",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 238.0,
         "number of amenities": 43,
@@ -2785,7 +2784,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Domek Dominika. Konie, g\u00f3ry i cisza od zgie\u0142ku.",
@@ -2793,7 +2793,6 @@
         "general rating": 4.93,
         "number of guests": 5,
         "city": "Mniszk\u00f3w",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 330.0,
         "number of amenities": 33,
@@ -2802,7 +2801,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "Cosy room with toilet / Przytulny pok\u00f3j z \u0142azienk\u0105",
@@ -2810,7 +2810,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "W\u0142adys\u0142awowo",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 100.0,
         "number of amenities": 34,
@@ -2819,7 +2818,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Pomorskie"
     },
     {
         "name": "Mini Studio SUN \u015awi\u0119toja\u0144ska w centrum Gdyni",
@@ -2827,7 +2827,6 @@
         "general rating": 4.7,
         "number of guests": 2,
         "city": "Gdynia",
-        "district": "pomorskie",
         "country": "Polska",
         "price per night": 129.0,
         "number of amenities": 27,
@@ -2836,7 +2835,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "pomorskie"
     },
     {
         "name": "Domek Brzoza blisko jeziora w zielenii",
@@ -2844,7 +2844,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Wydminy",
-        "district": "Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 175.0,
         "number of amenities": 19,
@@ -2853,7 +2852,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Przytulny nocleg w samym centrum Zakopanego",
@@ -2861,7 +2861,6 @@
         "general rating": 4.64,
         "number of guests": 2,
         "city": "Zakopane",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 150.0,
         "number of amenities": 30,
@@ -2870,7 +2869,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Domki u Bronki",
@@ -2878,7 +2878,6 @@
         "general rating": 4.98,
         "number of guests": 6,
         "city": "Grywa\u0142d",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 221.0,
         "number of amenities": 19,
@@ -2887,7 +2886,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "ZAKO-LODGE, pok\u00f3j twin z \u0142azienk\u0105, balkon, widok",
@@ -2895,7 +2895,6 @@
         "general rating": 4.64,
         "number of guests": null,
         "city": "Zakopane",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 89.0,
         "number of amenities": 37,
@@ -2904,7 +2903,8 @@
         "communication rating": 4.6,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Ucieczka do przyrody z rodzin\u0105, przyjaci\u00f3\u0142mi i zwierz\u0119tami",
@@ -2912,7 +2912,6 @@
         "general rating": 4.84,
         "number of guests": 4,
         "city": "Targosz\u00f3w",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 232.0,
         "number of amenities": 39,
@@ -2921,7 +2920,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Domek Wied\u017amy",
@@ -2929,7 +2929,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Kale\u0144sko",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 150.0,
         "number of amenities": 17,
@@ -2938,7 +2937,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Przytulna \u0142\u00f3d\u017a z lat 80 , Kamie\u0144 Pomorski",
@@ -2946,7 +2946,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Kamie\u0144 Pomorski",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 199.0,
         "number of amenities": 4,
@@ -2955,7 +2954,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Domki Nad Stawem",
@@ -2963,7 +2963,6 @@
         "general rating": null,
         "number of guests": 8,
         "city": "Limanowa",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 300.0,
         "number of amenities": 45,
@@ -2972,7 +2971,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "drewniany domek na farmie bez obaw",
@@ -2980,7 +2980,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Wi\u0105cka",
-        "district": "\u015bwi\u0119tokrzyskie",
         "country": "Polska",
         "price per night": 300.0,
         "number of amenities": 26,
@@ -2989,7 +2988,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u015bwi\u0119tokrzyskie"
     },
     {
         "name": "Mieszkanie Opole",
@@ -2997,7 +2997,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Chr\u00f3\u015bcina",
-        "district": "Opolskie",
         "country": "Polska",
         "price per night": 170.0,
         "number of amenities": 27,
@@ -3006,7 +3005,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Opolskie"
     },
     {
         "name": "Traper - Pok\u00f3j nr 5 dla pary na wyspie Wolin",
@@ -3014,7 +3014,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Ko\u0142czewo",
-        "district": "Zachodniopomorskie",
         "country": "Polska",
         "price per night": 113.0,
         "number of amenities": 44,
@@ -3023,7 +3022,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Zachodniopomorskie"
     },
     {
         "name": "Apartament z kominkiem",
@@ -3031,7 +3031,6 @@
         "general rating": 4.91,
         "number of guests": 5,
         "city": "Szklarska Por\u0119ba",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 240.0,
         "number of amenities": 31,
@@ -3040,7 +3039,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "W\u00f3jtowice - Dom  nad strumieniem",
@@ -3048,7 +3048,6 @@
         "general rating": 4.81,
         "number of guests": 2,
         "city": "W\u00f3jtowice",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 180.0,
         "number of amenities": 40,
@@ -3057,7 +3056,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "Wypoczynek przy Parku Zdrojowym Szczawnica",
@@ -3065,7 +3065,6 @@
         "general rating": 4.81,
         "number of guests": 7,
         "city": "Szczawnica",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 90.0,
         "number of amenities": 35,
@@ -3074,7 +3073,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Pok\u00f3j 3 osobwy 1km. do TERM CHOCHO\u0141OWSKICH",
@@ -3082,7 +3082,6 @@
         "general rating": 4.75,
         "number of guests": null,
         "city": "Chocho\u0142\u00f3w",
-        "district": "Wojew\u00f3dztwo Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 120.0,
         "number of amenities": 17,
@@ -3091,7 +3090,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Wojew\u00f3dztwo Ma\u0142opolskie"
     },
     {
         "name": "Apartament, dawna gospoda, g\u00f3ry.",
@@ -3099,7 +3099,6 @@
         "general rating": 4.64,
         "number of guests": 6,
         "city": "Stara Kamienica",
-        "district": null,
         "country": "Polska",
         "price per night": 180.0,
         "number of amenities": 13,
@@ -3108,7 +3107,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Wynajem Pokoi G\u00f3ry Tatry Wypoczynek",
@@ -3116,7 +3116,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Czarna G\u00f3ra",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 144.0,
         "number of amenities": 11,
@@ -3125,7 +3124,8 @@
         "communication rating": 4.7,
         "location rating": 5.0,
         "check in rating": 4.7,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "DOM.LAS 3 - natura, relaks, jacuzzi, Jeziorsko",
@@ -3133,7 +3133,6 @@
         "general rating": 4.89,
         "number of guests": 6,
         "city": "Strachocice-Kolonia",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 480.0,
         "number of amenities": 47,
@@ -3142,7 +3141,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Apartament typu Studio przy Termach Chocho\u0142owskich",
@@ -3150,7 +3150,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Wit\u00f3w",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 207.0,
         "number of amenities": 31,
@@ -3159,7 +3158,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "G\u00f3ralska rezydencja pok\u00f3j (3)",
@@ -3167,7 +3167,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Wit\u00f3w",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 130.0,
         "number of amenities": 46,
@@ -3176,7 +3175,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Dom pod Wroc\u0142awiem, s\u0142oneczny i klimatyczny pok\u00f3j",
@@ -3184,7 +3184,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Czernica",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 114.0,
         "number of amenities": 37,
@@ -3193,7 +3192,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "Corner Cottage",
@@ -3201,7 +3201,6 @@
         "general rating": 4.99,
         "number of guests": 8,
         "city": "Ladek-Zdroj",
-        "district": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 489.0,
         "number of amenities": 24,
@@ -3210,7 +3209,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Dolno\u015bl\u0105skie"
     },
     {
         "name": "Janowa chata",
@@ -3218,7 +3218,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Krajan\u00f3w",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 250.0,
         "number of amenities": 34,
@@ -3227,7 +3226,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Agroturystyka Kijanka k. Janowca i Magiczne Ogrody",
@@ -3235,7 +3235,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Kijanka",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 160.0,
         "number of amenities": 59,
@@ -3244,7 +3243,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Mazowieckie"
     },
     {
         "name": "Dom letniskowy na wsi",
@@ -3252,7 +3252,6 @@
         "general rating": 4.88,
         "number of guests": 6,
         "city": "Utonie",
-        "district": "Woiwodschaft Westpommern",
         "country": "Polska",
         "price per night": 222.0,
         "number of amenities": 33,
@@ -3261,7 +3260,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Woiwodschaft Westpommern"
     },
     {
         "name": "Glamping z widokiem na jezioro",
@@ -3269,7 +3269,6 @@
         "general rating": 4.88,
         "number of guests": 3,
         "city": "Nowy Probark",
-        "district": "Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 250.0,
         "number of amenities": 21,
@@ -3278,7 +3277,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Urocze gospodarstwo agroturystyczne z ogrodem.",
@@ -3286,7 +3286,6 @@
         "general rating": 4.71,
         "number of guests": null,
         "city": "Wola Pasiko\u0144ska",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 118.0,
         "number of amenities": 37,
@@ -3295,7 +3294,8 @@
         "communication rating": 4.6,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Mazowieckie"
     },
     {
         "name": "Domek w Gorcach",
@@ -3303,7 +3303,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Grywa\u0142d",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 223.0,
         "number of amenities": 17,
@@ -3312,7 +3311,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Jedynka - single room",
@@ -3320,7 +3320,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Poronin",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 80.0,
         "number of amenities": 19,
@@ -3329,7 +3328,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "P\u0142azowianka - pok\u00f3j z widokiem na Tatry #4",
@@ -3337,7 +3337,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Wit\u00f3w",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 79.0,
         "number of amenities": 55,
@@ -3346,7 +3345,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.6,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Warmi\u0144ska \ud83c\udfaa Chata",
@@ -3354,7 +3354,6 @@
         "general rating": 4.78,
         "number of guests": 6,
         "city": "Kier\u017aliny",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 42,
@@ -3363,7 +3362,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Warmi\u0144ska \ud83c\udfaa Chata",
@@ -3371,7 +3371,6 @@
         "general rating": 4.78,
         "number of guests": 6,
         "city": "Kier\u017aliny",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 42,
@@ -3380,7 +3379,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "\"Witkacy\" - pok\u00f3j z balkonem i widokiem na g\u00f3ry",
@@ -3388,7 +3388,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Zakopane",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 120.0,
         "number of amenities": 32,
@@ -3397,7 +3396,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Z dala od zgie\u0142ku",
@@ -3405,7 +3405,6 @@
         "general rating": 4.92,
         "number of guests": 6,
         "city": "Mocha\u0142a",
-        "district": "\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 250.0,
         "number of amenities": 56,
@@ -3414,7 +3413,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u015bl\u0105skie"
     },
     {
         "name": "Pokoje go\u015bcinne Pod Limbami, \npok\u00f3j 2 os.",
@@ -3422,7 +3422,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Ma\u0142e Ciche",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 150.0,
         "number of amenities": 10,
@@ -3431,7 +3430,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Domek w lesie,blisko czystego jeziora",
@@ -3439,7 +3439,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Donatowo",
-        "district": "Wojew\u00f3dztwo Zachodniopomorskie",
         "country": "Polska",
         "price per night": 250.0,
         "number of amenities": 44,
@@ -3448,7 +3447,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Zachodniopomorskie"
     },
     {
         "name": "Pok\u00f3j dla 3 os\u00f3b w zabytkowym Pa\u0142acu z parkiem",
@@ -3456,7 +3456,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Chociule",
-        "district": "lubuskie",
         "country": "Polska",
         "price per night": 240.0,
         "number of amenities": 53,
@@ -3465,7 +3464,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "lubuskie"
     },
     {
         "name": "Le\u015bny Zak\u0105tek Uroczysko-Stodo\u0142a  z kominkiem 3",
@@ -3473,7 +3473,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Stogniewice",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 313.0,
         "number of amenities": 56,
@@ -3482,7 +3481,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Le\u015bny domek jod\u0142owy",
@@ -3490,7 +3490,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Pu\u0142awy",
-        "district": "Wojew\u00f3dztwo podkarpackie",
         "country": "Polska",
         "price per night": 168.0,
         "number of amenities": 8,
@@ -3499,7 +3498,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo podkarpackie"
     },
     {
         "name": "Pok\u00f3j 2 osobowy 1km. od TERM CHOCHO\u0141OWSKICH",
@@ -3507,7 +3507,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Chocho\u0142\u00f3w",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 120.0,
         "number of amenities": 15,
@@ -3516,7 +3515,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Domek Na Szlaku, Kaszuby zachodnie",
@@ -3524,7 +3524,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Czarna D\u0105br\u00f3wka",
-        "district": "Wojew\u00f3dztwo Pomorskie",
         "country": "Polska",
         "price per night": 175.0,
         "number of amenities": 16,
@@ -3533,7 +3532,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Pomorskie"
     },
     {
         "name": "Pok\u00f3j dwuosobowy w obiekcieTatrza\u0144ski Wierch  8",
@@ -3541,7 +3541,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Ba\u0144ska Wy\u017cna",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 110.0,
         "number of amenities": 19,
@@ -3550,7 +3549,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Domek holenderski z widokiem na zamek",
@@ -3558,7 +3558,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Wierzchos\u0142awiczki",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 220.0,
         "number of amenities": 50,
@@ -3567,7 +3566,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Domek gruszkowy",
@@ -3575,7 +3575,6 @@
         "general rating": 5.0,
         "number of guests": 5,
         "city": "S\u0142u\u017cewo",
-        "district": "Kujawsko-Pomorskie",
         "country": "Polska",
         "price per night": 225.0,
         "number of amenities": 42,
@@ -3584,7 +3583,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kujawsko-Pomorskie"
     },
     {
         "name": "Le\u015bnych chata",
@@ -3592,7 +3592,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Bia\u0142a",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 296.0,
         "number of amenities": 51,
@@ -3601,7 +3600,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Pokoje nad Dymnem",
@@ -3609,7 +3609,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Dymin",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 90.0,
         "number of amenities": 35,
@@ -3618,7 +3617,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Pomorskie"
     },
     {
         "name": "Dom wakacyjny nad Jeziorem Zaj\u0105czkowskim",
@@ -3626,7 +3626,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Zaj\u0105czkowo",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 382.0,
         "number of amenities": 64,
@@ -3635,7 +3634,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Latowisko - drewniane domki w Trzmielewie",
@@ -3643,7 +3643,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "Brze\u017anica",
-        "district": "Wojew\u00f3dztwo zachodniopomorskie",
         "country": "Polska",
         "price per night": 325.0,
         "number of amenities": 57,
@@ -3652,7 +3651,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wojew\u00f3dztwo zachodniopomorskie"
     },
     {
         "name": "Pokoje MADZIA\n- Pok\u00f3j 3-osobowy z balkonem",
@@ -3660,7 +3660,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Wis\u0142a",
-        "district": "\u015al\u0105skie",
         "country": "Polska",
         "price per night": 150.0,
         "number of amenities": 45,
@@ -3669,7 +3668,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u015al\u0105skie"
     },
     {
         "name": "Historyczne i stylowe noclegi w posiad\u0142o\u015bci",
@@ -3677,7 +3677,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Wolib\u00f3rz",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 152.0,
         "number of amenities": 17,
@@ -3686,7 +3685,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "Jasne \u017ce Wyszk\u00f3w",
@@ -3694,7 +3694,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Wyszk\u00f3w",
-        "district": "mazowieckie",
         "country": "Polska",
         "price per night": 58.0,
         "number of amenities": 24,
@@ -3703,7 +3702,8 @@
         "communication rating": 4.6,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "mazowieckie"
     },
     {
         "name": "Agroturystyka - Wypoczynek nad stawem na Kaszubach",
@@ -3711,7 +3711,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Karsin",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 163.0,
         "number of amenities": 50,
@@ -3720,7 +3719,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Pomorskie"
     },
     {
         "name": "Uroczy Domek holenderski na \u0142onie natury",
@@ -3728,7 +3728,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "B\u0142onie",
-        "district": "\u0141\u00f3dzkie",
         "country": "Polska",
         "price per night": 167.0,
         "number of amenities": 45,
@@ -3737,7 +3736,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "\u0141\u00f3dzkie"
     },
     {
         "name": "Dom w bluszczu.",
@@ -3745,7 +3745,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Kaszczor",
-        "district": "wielkopolskie",
         "country": "Polska",
         "price per night": 70.0,
         "number of amenities": 29,
@@ -3754,7 +3753,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "wielkopolskie"
     },
     {
         "name": "Drewniana chatka na Wyspie Sobieszewskiej",
@@ -3762,7 +3762,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "Gda\u0144sk",
-        "district": "pomorskie",
         "country": "Polska",
         "price per night": 160.0,
         "number of amenities": 43,
@@ -3771,7 +3770,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "pomorskie"
     },
     {
         "name": "Pokoje Go\u015bcinne Pod Kasztanami w centrum \u0141eby",
@@ -3779,7 +3779,6 @@
         "general rating": 4.72,
         "number of guests": 4,
         "city": "\u0141eba",
-        "district": "Wojew\u00f3dztwo Pomorskie",
         "country": "Polska",
         "price per night": 240.0,
         "number of amenities": 16,
@@ -3788,7 +3787,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wojew\u00f3dztwo Pomorskie"
     },
     {
         "name": "Przytulny domek blisko pla\u017cy",
@@ -3796,7 +3796,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Czarna Wie\u015b",
-        "district": "podlaskie",
         "country": "Polska",
         "price per night": 180.0,
         "number of amenities": 20,
@@ -3805,7 +3804,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "podlaskie"
     },
     {
         "name": "Spokojna dw\u00f3jka",
@@ -3813,7 +3813,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Poronin",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 140.0,
         "number of amenities": 22,
@@ -3822,7 +3821,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Pokoje/kwatery prywatne \u017byrard\u00f3w blisko SUNTAGO",
@@ -3830,7 +3830,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "\u017byrard\u00f3w",
-        "district": "Mazowieckie",
         "country": "Polska",
         "price per night": 80.0,
         "number of amenities": 32,
@@ -3839,7 +3838,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Mazowieckie"
     },
     {
         "name": "Pok\u00f3j niebieski nad g\u00f3rsk\u0105 rzek\u0105",
@@ -3847,7 +3847,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Walim",
-        "district": "Dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 130.0,
         "number of amenities": 42,
@@ -3856,7 +3855,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Dolno\u015bl\u0105skie"
     },
     {
         "name": "\"Longin\u00f3wka\" pokoje do wynaj\u0119cia",
@@ -3864,7 +3864,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Oblasy",
-        "district": "Lubelskie",
         "country": "Polska",
         "price per night": 75.0,
         "number of amenities": 17,
@@ -3873,7 +3872,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lubelskie"
     },
     {
         "name": "Bo\u0107winka 1 - Pensjonat Masuren",
@@ -3881,7 +3881,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Bo\u0107winka",
-        "district": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 138.0,
         "number of amenities": 63,
@@ -3890,7 +3889,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Przytulny drewniany domek blisko centrum - Ko\u015bcian",
@@ -3898,7 +3898,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Ko\u015bcian",
-        "district": "Wielkopolskie",
         "country": "Polska",
         "price per night": 109.0,
         "number of amenities": 37,
@@ -3907,7 +3906,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Wielkopolskie"
     },
     {
         "name": "Domek w sadzie Leszczyny",
@@ -3915,7 +3915,6 @@
         "general rating": 4.97,
         "number of guests": 5,
         "city": "Leszczyny",
-        "district": "\u015bwi\u0119tokrzyskie",
         "country": "Polska",
         "price per night": 200.0,
         "number of amenities": 24,
@@ -3924,7 +3923,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "\u015bwi\u0119tokrzyskie"
     },
     {
         "name": "Du\u017cy pok\u00f3j na pi\u0119trze z \u0142azienk\u0105.",
@@ -3932,7 +3932,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Warszawa",
-        "district": "Wojew\u00f3dztwo Mazowieckie",
         "country": "Polska",
         "price per night": 77.0,
         "number of amenities": 58,
@@ -3941,7 +3940,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo Mazowieckie"
     },
     {
         "name": "U Krystyny i J\u00f3zefa small pension (room nr 4)",
@@ -3949,7 +3949,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Jurg\u00f3w",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 115.0,
         "number of amenities": 44,
@@ -3958,7 +3957,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Wakacyjny dom Bonanza w Ranczo Rajbas",
@@ -3966,7 +3966,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Ostr\u00f3w",
-        "district": "Lubelskie",
         "country": "Polska",
         "price per night": 175.0,
         "number of amenities": 43,
@@ -3975,7 +3974,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lubelskie"
     },
     {
         "name": "Dom Stanis\u0142awy Papie\u017c w g\u00f3rach",
@@ -3983,7 +3983,6 @@
         "general rating": 4.48,
         "number of guests": null,
         "city": "Bia\u0142y Dunajec",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 76.0,
         "number of amenities": 32,
@@ -3992,7 +3991,8 @@
         "communication rating": 4.6,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Lubieszewo, Pensjonat Pod Weso\u0142ym Szczupakiem",
@@ -4000,7 +4000,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Lubieszewo",
-        "district": "POWIAT DRAWSKI",
         "country": "Polska",
         "price per night": 50.0,
         "number of amenities": 13,
@@ -4009,7 +4008,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "POWIAT DRAWSKI"
     },
     {
         "name": "Ma\u0142y dom w zielonej okolicy",
@@ -4017,7 +4017,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Warszawa",
-        "district": "mazowieckie",
         "country": "Polska",
         "price per night": 138.0,
         "number of amenities": 32,
@@ -4026,7 +4025,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "mazowieckie"
     },
     {
         "name": "Apartament Dworek Mie\u015bcisko",
@@ -4034,7 +4034,6 @@
         "general rating": 4.61,
         "number of guests": null,
         "city": "Mie\u015bcisko",
-        "district": "mazowieckie",
         "country": "Polska",
         "price per night": 77.0,
         "number of amenities": 59,
@@ -4043,7 +4042,8 @@
         "communication rating": 4.6,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "mazowieckie"
     },
     {
         "name": "Stajnia Podolin",
@@ -4051,7 +4051,6 @@
         "general rating": 4.94,
         "number of guests": 10,
         "city": "Pieszyce",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 649.0,
         "number of amenities": 23,
@@ -4060,7 +4059,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "Komfortowy dom bezpo\u015brednio przy jeziorze z jacuzi",
@@ -4068,7 +4068,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Stawiska",
-        "district": "kujawsko-pomorskie",
         "country": "Polska",
         "price per night": 350.0,
         "number of amenities": 37,
@@ -4077,7 +4076,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "kujawsko-pomorskie"
     },
     {
         "name": "Domek letniskowy \"na Cyplu\"",
@@ -4085,7 +4085,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "Chalno",
-        "district": "Kuyavian-Pomeranian Voivodeship",
         "country": "Polska",
         "price per night": 200.0,
         "number of amenities": 29,
@@ -4094,7 +4093,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kuyavian-Pomeranian Voivodeship"
     },
     {
         "name": "Dom na wzg\u00f3rzu",
@@ -4102,7 +4102,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Jark\u00f3w",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 100.0,
         "number of amenities": 24,
@@ -4111,7 +4110,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     },
     {
         "name": "Villa Cecylia Zakopane Tetmajera",
@@ -4119,7 +4119,6 @@
         "general rating": 4.49,
         "number of guests": null,
         "city": "Zakopane",
-        "district": "ma\u0142opolskie",
         "country": "Polska",
         "price per night": 120.0,
         "number of amenities": 22,
@@ -4128,7 +4127,8 @@
         "communication rating": 4.6,
         "location rating": 4.8,
         "check in rating": 4.6,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "ma\u0142opolskie"
     },
     {
         "name": "Bookowina.dom.z.widokiem POK\u00d3J DWUOSOBOWY NR4",
@@ -4136,7 +4136,6 @@
         "general rating": 4.5,
         "number of guests": null,
         "city": "Bukowina Tatrza\u0144ska",
-        "district": "Ma\u0142opolskie",
         "country": "Polska",
         "price per night": 130.0,
         "number of amenities": 35,
@@ -4145,7 +4144,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Ma\u0142opolskie"
     },
     {
         "name": "Wilko (pok\u00f3j nr 5) Brzozowa 16, Rowy",
@@ -4153,7 +4153,6 @@
         "general rating": 4.56,
         "number of guests": null,
         "city": "Rowy",
-        "district": "pomorskie",
         "country": "Polska",
         "price per night": 150.0,
         "number of amenities": 20,
@@ -4162,7 +4161,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "pomorskie"
     },
     {
         "name": "Domek Idyllicki - Sielankowy Domek",
@@ -4170,7 +4170,6 @@
         "general rating": 4.7,
         "number of guests": 2,
         "city": "O\u015bno Lubuskie",
-        "district": "lubuskie",
         "country": "Polska",
         "price per night": 266.0,
         "number of amenities": 34,
@@ -4179,7 +4178,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "lubuskie"
     },
     {
         "name": "Polesie, Lubelskie, Perehod - Magia Przej\u015bcia p1",
@@ -4187,7 +4187,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Pieszowola",
-        "district": "Lublin Voivodeship",
         "country": "Polska",
         "price per night": 108.0,
         "number of amenities": 24,
@@ -4196,7 +4195,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lublin Voivodeship"
     },
     {
         "name": "Pi\u0119kna \u0142azienka we w\u0142asnym budynku",
@@ -4204,7 +4204,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Gwie\u017adzin",
-        "district": "Wojew\u00f3dztwo Pomorskie",
         "country": "Polska",
         "price per night": 130.0,
         "number of amenities": 23,
@@ -4213,7 +4212,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wojew\u00f3dztwo Pomorskie"
     },
     {
         "name": "Pok\u00f3j \u017b\u00f3\u0142ty MALIN\u00d3WKA - Szczyrk",
@@ -4221,7 +4221,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Szczyrk",
-        "district": "Silesian Voivodeship",
         "country": "Polska",
         "price per night": 160.0,
         "number of amenities": 30,
@@ -4230,7 +4229,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Silesian Voivodeship"
     },
     {
         "name": "Dom z widokiem",
@@ -4238,7 +4238,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "D\u0119bina",
-        "district": "Pomorskie",
         "country": "Polska",
         "price per night": 200.0,
         "number of amenities": 32,
@@ -4247,7 +4246,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Pomorskie"
     },
     {
         "name": "Ciche miejsce niedaleko jeziorka. 4 os. i \u0142azienka",
@@ -4255,7 +4255,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Sz\u0105bruk",
-        "district": "Warmi\u0144sko-Mazurskie",
         "country": "Polska",
         "price per night": 50.0,
         "number of amenities": 30,
@@ -4264,7 +4263,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Warmi\u0144sko-Mazurskie"
     },
     {
         "name": "Pok\u00f3j w Koko Ryku 2/4 osoby",
@@ -4272,7 +4272,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Biegan\u00f3w",
-        "district": "Wojew\u00f3dztwo dolno\u015bl\u0105skie",
         "country": "Polska",
         "price per night": 260.0,
         "number of amenities": 27,
@@ -4281,6 +4280,7 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wojew\u00f3dztwo dolno\u015bl\u0105skie"
     }
 ]

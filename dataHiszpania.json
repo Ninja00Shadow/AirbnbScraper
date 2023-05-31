@@ -5,7 +5,6 @@
         "general rating": 4.73,
         "number of guests": 10,
         "city": "El Port de la Selva",
-        "district": "Katalonia",
         "country": "Hiszpania",
         "price per night": 2156.0,
         "number of amenities": 49,
@@ -14,7 +13,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Katalonia"
     },
     {
         "name": "Widok na Morze \u015ar\u00f3dziemne - osza\u0142amiaj\u0105cy apartament z 2 sypialniami.",
@@ -22,7 +22,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Villajoyosa",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 744.0,
         "number of amenities": 49,
@@ -31,7 +30,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Apartament w Cap Salou, fantastyczny widok na morze",
@@ -39,7 +39,6 @@
         "general rating": 4.98,
         "number of guests": 6,
         "city": "Salou",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 704.0,
         "number of amenities": 45,
@@ -48,7 +47,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Catalunya"
     },
     {
         "name": "Pokaz przyrodniczy w Caba\u00f1a Alcazaba",
@@ -56,7 +56,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "G\u00fcejar Sierra",
-        "district": "Granada Andalusia",
         "country": "Hiszpania",
         "price per night": 409.0,
         "number of amenities": 45,
@@ -65,7 +64,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Granada Andalusia"
     },
     {
         "name": "\u0142adny pok\u00f3j w wiejskim domu, s\u0142o\u0144ce i basen",
@@ -73,7 +73,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Alhend\u00edn",
-        "district": "Granada",
         "country": "Hiszpania",
         "price per night": 303.0,
         "number of amenities": 56,
@@ -82,7 +81,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Granada"
     },
     {
         "name": "Le\u015bna chatka",
@@ -90,7 +90,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Hornedo",
-        "district": "Kantabria",
         "country": "Hiszpania",
         "price per night": 295.0,
         "number of amenities": 32,
@@ -99,7 +98,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kantabria"
     },
     {
         "name": "Apartment Caribe - PlusHolidays",
@@ -107,7 +107,6 @@
         "general rating": 3.67,
         "number of guests": 3,
         "city": "Calpe",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 352.0,
         "number of amenities": 25,
@@ -116,7 +115,8 @@
         "communication rating": 3.3,
         "location rating": 4.3,
         "check in rating": 3.3,
-        "value rating": 4.0
+        "value rating": 4.0,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Przytulna jaskinia ze s\u0142onecznym ogrodem \"Cueva Oliva\"",
@@ -124,7 +124,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "Guadix",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 215.0,
         "number of amenities": 50,
@@ -133,7 +132,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Studio z pi\u0119knym widokiem na ocean",
@@ -141,7 +141,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 499.0,
         "number of amenities": 37,
@@ -150,7 +149,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Du\u017cy taras na pierwszej linii morza",
@@ -158,7 +158,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "Salou",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 545.0,
         "number of amenities": 28,
@@ -167,7 +166,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Catalunya"
     },
     {
         "name": "Alhambra Trails 2",
@@ -175,7 +175,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": "La Zubia",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 314.0,
         "number of amenities": 50,
@@ -184,7 +183,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "S\u0142oneczny apartament\ud83c\udf34 w Torrox Costa/Andaluzja",
@@ -192,7 +192,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Torrox-Costa",
-        "district": "M\u00e1laga",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 47,
@@ -201,7 +200,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "M\u00e1laga"
     },
     {
         "name": "Twoje niezale\u017cne studio z prywatn\u0105 \u0142azienk\u0105",
@@ -209,7 +209,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Vilassar de Mar",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 427.0,
         "number of amenities": 63,
@@ -218,7 +217,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "Pok\u00f3j z widokiem na ocean.",
@@ -226,7 +226,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Cadaqu\u00e9s",
-        "district": "Katalonia",
         "country": "Hiszpania",
         "price per night": 477.0,
         "number of amenities": 23,
@@ -235,7 +234,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Katalonia"
     },
     {
         "name": "APARTAMENT MANU&NOA -VISTAS AL MAR.WIFI",
@@ -243,7 +243,6 @@
         "general rating": 5.0,
         "number of guests": 5,
         "city": "Illa de Arousa",
-        "district": "Galicia",
         "country": "Hiszpania",
         "price per night": 449.0,
         "number of amenities": 31,
@@ -252,7 +251,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Galicia"
     },
     {
         "name": "Tropical Retreat z wann\u0105 - prawdziwy ukryty klejnot!",
@@ -260,7 +260,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Alicante (Alacant)",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 540.0,
         "number of amenities": 54,
@@ -269,7 +268,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Casa Fifin: First Line Beach Apartment Santa Pola",
@@ -277,7 +277,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Santa Pola",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 670.0,
         "number of amenities": 47,
@@ -286,7 +285,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Dolphin Suite, primera linea Playa Golf Fuengirola",
@@ -294,7 +294,6 @@
         "general rating": 4.77,
         "number of guests": 2,
         "city": "Fuengirola",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 404.0,
         "number of amenities": 69,
@@ -303,7 +302,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Luksusowy apartament 2BR w Casco Antiguo",
@@ -311,7 +311,6 @@
         "general rating": null,
         "number of guests": 3,
         "city": "Alicante (Alacant)",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 454.0,
         "number of amenities": 38,
@@ -320,7 +319,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Casa Arrecifes",
@@ -328,7 +328,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "El Gastor",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 631.0,
         "number of amenities": 49,
@@ -337,7 +336,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Andaluzja"
     },
     {
         "name": "Blokhut op Off-Grid Community",
@@ -345,7 +345,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Alicante",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 173.0,
         "number of amenities": 30,
@@ -354,7 +353,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "ROMANTYCZNA ZATOKA Studio 1",
@@ -362,7 +362,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 531.0,
         "number of amenities": 39,
@@ -371,7 +370,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Casa Domino 2 Sotogrande /Torreguadiaro 2-4 p.",
@@ -379,7 +379,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Torreguadiaro",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 492.0,
         "number of amenities": 42,
@@ -388,7 +387,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Andaluzja"
     },
     {
         "name": "Ekologiczna drewniana chata w naturze",
@@ -396,7 +396,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "La Atalaya",
-        "district": "Castilla y Le\u00f3n",
         "country": "Hiszpania",
         "price per night": 291.0,
         "number of amenities": 50,
@@ -405,7 +404,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Castilla y Le\u00f3n"
     },
     {
         "name": "\"La Parra\", turystyka wiejska. Tw\u00f3j dom w raju.",
@@ -413,7 +413,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 250.0,
         "number of amenities": 69,
@@ -422,7 +421,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Casa Refugio, w uj\u015bciu rzeki Vigo. Veronica",
@@ -430,7 +430,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Vigo",
-        "district": "Galicia",
         "country": "Hiszpania",
         "price per night": 335.0,
         "number of amenities": 52,
@@ -439,7 +438,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.6,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Galicia"
     },
     {
         "name": "Niesamowite widoki na morze Stupa hills",
@@ -447,7 +447,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 658.0,
         "number of amenities": 43,
@@ -456,7 +455,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Andaluzja"
     },
     {
         "name": "IRIVI 9 Apartment",
@@ -464,7 +464,6 @@
         "general rating": null,
         "number of guests": 3,
         "city": "Aguadulce",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 227.0,
         "number of amenities": 40,
@@ -473,7 +472,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Andaluzja"
     },
     {
         "name": "Nowoczesne,blisko pla\u017cy,szybkie WIFI,klimat, basen,tenis",
@@ -481,7 +481,6 @@
         "general rating": 4.17,
         "number of guests": 2,
         "city": "Alc\u00fadia",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 222.0,
         "number of amenities": 41,
@@ -490,7 +489,8 @@
         "communication rating": 4.7,
         "location rating": 4.0,
         "check in rating": 4.7,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Illes Balears"
     },
     {
         "name": "*NOWO\u015a\u0106*przy pla\u017cy, basen XXL,klimat,szybki internet",
@@ -498,7 +498,6 @@
         "general rating": 4.48,
         "number of guests": 2,
         "city": "Alc\u00fadia",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 372.0,
         "number of amenities": 17,
@@ -507,7 +506,8 @@
         "communication rating": 4.7,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Illes Balears"
     },
     {
         "name": "Apartament ILUKA  \u25ba  New z widokiem na ocean",
@@ -515,7 +515,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Malpica",
-        "district": "Galicia",
         "country": "Hiszpania",
         "price per night": 482.0,
         "number of amenities": 51,
@@ -524,7 +523,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Galicia"
     },
     {
         "name": "Niesamowite widoki na klif",
@@ -532,7 +532,6 @@
         "general rating": 4.67,
         "number of guests": 6,
         "city": "Almer\u00eda",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 295.0,
         "number of amenities": 58,
@@ -541,7 +540,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Luksusowa willa/basen bez kraw\u0119dzi/widok na morze/jacuzzi",
@@ -549,7 +549,6 @@
         "general rating": 4.95,
         "number of guests": 6,
         "city": "C\u00f3mpeta",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 681.0,
         "number of amenities": 52,
@@ -558,7 +557,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Andaluzja"
     },
     {
         "name": "Mieszkanie wisz\u0105ce na klifie nad morzem",
@@ -566,7 +566,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "La Garrofa",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 454.0,
         "number of amenities": 13,
@@ -575,7 +574,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Mediterranean Way - Cavaller Suites",
@@ -583,7 +583,6 @@
         "general rating": 4.25,
         "number of guests": 4,
         "city": "Tarragona",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 349.0,
         "number of amenities": 23,
@@ -592,7 +591,8 @@
         "communication rating": 4.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 3.8
+        "value rating": 3.8,
+        "region": "Catalunya"
     },
     {
         "name": "First Line Sea View Apartament Costa del Sol",
@@ -600,7 +600,6 @@
         "general rating": 4.73,
         "number of guests": 4,
         "city": "Las Lagunas de Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 454.0,
         "number of amenities": 49,
@@ -609,7 +608,8 @@
         "communication rating": 4.9,
         "location rating": 4.3,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "First Line Sea View Apartament Costa del Sol",
@@ -617,7 +617,6 @@
         "general rating": 4.73,
         "number of guests": 4,
         "city": "Las Lagunas de Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 454.0,
         "number of amenities": 49,
@@ -626,7 +625,8 @@
         "communication rating": 4.9,
         "location rating": 4.3,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "NOWY APARTAMENT I TARAS W SAMYM SERCU CALAHONDA",
@@ -634,7 +634,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 431.0,
         "number of amenities": 56,
@@ -643,7 +642,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Kameralna chatka w lesie. Z jednej strony morze, z drugiej g\u00f3ry.",
@@ -651,7 +651,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "Alicante",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 318.0,
         "number of amenities": 39,
@@ -660,7 +659,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Nowoczesne studio z panoramicznym widokiem na ocean",
@@ -668,7 +668,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Marbella",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 454.0,
         "number of amenities": 49,
@@ -677,7 +676,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Ma\u0142y, typowy menorka\u0144ski domek przy pla\u017cy",
@@ -685,7 +685,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Cala en Bosc",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 363.0,
         "number of amenities": 45,
@@ -694,7 +693,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Illes Balears"
     },
     {
         "name": "Nowy apartament przy pla\u017cy",
@@ -702,7 +702,6 @@
         "general rating": 4.84,
         "number of guests": 4,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 26,
@@ -711,7 +710,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "WIDOKI NA MORZE I D\u0179WI\u0118K FAL \u201eWi-Fi\u201d",
@@ -719,7 +719,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Cubelles",
-        "district": "Katalonia",
         "country": "Hiszpania",
         "price per night": 499.0,
         "number of amenities": 41,
@@ -728,7 +727,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Katalonia"
     },
     {
         "name": "Casita Las Melosillas II",
@@ -736,7 +736,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 431.0,
         "number of amenities": 27,
@@ -745,7 +744,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Villa Alborada Torrox by Ruralidays",
@@ -753,7 +753,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 388.0,
         "number of amenities": 20,
@@ -762,7 +761,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Apartament-Antonova przy pla\u017cy Calahonda",
@@ -770,7 +770,6 @@
         "general rating": 4.96,
         "number of guests": 2,
         "city": "Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 389.0,
         "number of amenities": 75,
@@ -779,7 +778,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Andaluzja"
     },
     {
         "name": "Pi\u0119kny apartament z basenem i tarasem",
@@ -787,7 +787,6 @@
         "general rating": 4.71,
         "number of guests": 2,
         "city": "San Fulgencio",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 182.0,
         "number of amenities": 61,
@@ -796,7 +795,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Mieszkanie nad morzem z basenem, pla\u017c\u0105 i Wi-Fi.",
@@ -804,7 +804,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Denia",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 327.0,
         "number of amenities": 56,
@@ -813,7 +812,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Home my heart",
@@ -821,7 +821,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Colmenar",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 431.0,
         "number of amenities": 8,
@@ -830,7 +829,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Przytulny apartament z tarasem: widok na Mulhac\u00e9n",
@@ -838,7 +838,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "G\u00fcejar Sierra",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 250.0,
         "number of amenities": 55,
@@ -847,7 +846,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Apartament. Nowoczesny 1 km od morza",
@@ -855,7 +855,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Tarragona",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 381.0,
         "number of amenities": 58,
@@ -864,7 +863,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Catalunya"
     },
     {
         "name": "Luksusowy apartament w La Gavina 5 pi\u0119tro",
@@ -872,7 +872,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Benidorm",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 717.0,
         "number of amenities": 22,
@@ -881,7 +880,8 @@
         "communication rating": 4.6,
         "location rating": 5.0,
         "check in rating": 4.1,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Ekskluzywny apartament przy pla\u017cy z basenem na dachu",
@@ -889,7 +889,6 @@
         "general rating": 4.93,
         "number of guests": 5,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 250.0,
         "number of amenities": 48,
@@ -898,7 +897,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Mieszkanie przy pla\u017cy bez skazy",
@@ -906,7 +906,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Calahonda",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 472.0,
         "number of amenities": 51,
@@ -915,7 +914,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Przytulna Coco Caba\u00f1a Off-Grid Ecofarm (VV 950AS)",
@@ -923,7 +923,6 @@
         "general rating": 4.9,
         "number of guests": 6,
         "city": "Pandenes",
-        "district": "Asturias",
         "country": "Hiszpania",
         "price per night": 359.0,
         "number of amenities": 32,
@@ -932,7 +931,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Asturias"
     },
     {
         "name": "Roz\u0142\u0105cz ca\u0142oroczny domek oliwny",
@@ -940,7 +940,6 @@
         "general rating": 4.8,
         "number of guests": 2,
         "city": "L'Ampolla",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 227.0,
         "number of amenities": 41,
@@ -949,7 +948,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "Apartament nad Morzem \u015ar\u00f3dziemnym.",
@@ -957,7 +957,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "El Campello",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 507.0,
         "number of amenities": 54,
@@ -966,7 +965,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Vive la huerta Valenciana 2",
@@ -974,7 +974,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Foios",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 179.0,
         "number of amenities": 30,
@@ -983,7 +982,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Uroczy apartament i pi\u0119kne widoki",
@@ -991,7 +991,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "M\u00e1laga",
-        "district": "AL",
         "country": "Hiszpania",
         "price per night": 670.0,
         "number of amenities": 52,
@@ -1000,7 +999,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "AL"
     },
     {
         "name": "Frontline Beach Apartament Miramar 8, Cabo Cervera",
@@ -1008,7 +1008,6 @@
         "general rating": 4.63,
         "number of guests": 4,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 295.0,
         "number of amenities": 45,
@@ -1017,7 +1016,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Apartament przy pla\u017cy \u015br\u00f3dziemnomorskiej",
@@ -1025,7 +1025,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 409.0,
         "number of amenities": 44,
@@ -1034,7 +1033,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Przy pla\u017cy",
@@ -1042,7 +1042,6 @@
         "general rating": 4.67,
         "number of guests": 2,
         "city": "Benidorm",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 340.0,
         "number of amenities": 50,
@@ -1051,7 +1050,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Prywatna kopu\u0142kowata kopu\u0142a @ schronienie dla koni wolnych duch\u00f3w",
@@ -1059,7 +1059,6 @@
         "general rating": 4.61,
         "number of guests": 6,
         "city": "Atzeneta del Maestrat",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 232.0,
         "number of amenities": 17,
@@ -1068,7 +1067,8 @@
         "communication rating": 4.5,
         "location rating": 4.8,
         "check in rating": 4.5,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "DREWNIANY DOMEK Z JACUZZI W OGRODZIE TAO,",
@@ -1076,7 +1076,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "Gandia",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 182.0,
         "number of amenities": 63,
@@ -1085,7 +1084,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Apartament z 2 sypialniami OGROMNY TARAS(70m2) i BASEN",
@@ -1093,7 +1093,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Ventanicas-el Cantal",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 409.0,
         "number of amenities": 24,
@@ -1102,7 +1101,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Oasis Golf & Beach Costa del Sol - Basen",
@@ -1110,7 +1110,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 159.0,
         "number of amenities": 48,
@@ -1119,7 +1118,8 @@
         "communication rating": 4.9,
         "location rating": 4.3,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Pi\u0119kny Loft House z patio 10 minut do centrum",
@@ -1127,7 +1127,6 @@
         "general rating": 4.82,
         "number of guests": 5,
         "city": "Alicante (Alacant)",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 454.0,
         "number of amenities": 27,
@@ -1136,7 +1135,8 @@
         "communication rating": 4.9,
         "location rating": 4.4,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Penthouse Monteparaiso, Calahonda (Sol Aticos)",
@@ -1144,7 +1144,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Calahonda",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 613.0,
         "number of amenities": 43,
@@ -1153,7 +1152,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Przytulne mieszkanie Manuela Costa del Sol Benalmadena Malaga",
@@ -1161,7 +1161,6 @@
         "general rating": 4.54,
         "number of guests": 2,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 227.0,
         "number of amenities": 48,
@@ -1170,7 +1169,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Andaluzja"
     },
     {
         "name": "Urocza sypialnia/\u0142azienka z \u0142azienk\u0105, z kt\u00f3rej rozci\u0105ga si\u0119 widok na ocean",
@@ -1178,7 +1178,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "San Jos\u00e9",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 340.0,
         "number of amenities": 66,
@@ -1187,7 +1186,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Andaluzja"
     },
     {
         "name": "Pok\u00f3j dwuosobowy we wsp\u00f3\u0142dzielonym apartamencie",
@@ -1195,7 +1195,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 42,
@@ -1204,7 +1203,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Traditional alpujarre\u00f1a cottage.",
@@ -1212,7 +1212,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "Pampaneira",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 212.0,
         "number of amenities": 52,
@@ -1221,7 +1220,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Domek w lesie i g\u00f3rach. Widok na ocean",
@@ -1229,7 +1229,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "Alicante",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 318.0,
         "number of amenities": 40,
@@ -1238,7 +1237,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Apartament pierwsza linia do pla\u017cy",
@@ -1246,7 +1246,6 @@
         "general rating": 4.55,
         "number of guests": 4,
         "city": "Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 409.0,
         "number of amenities": 32,
@@ -1255,7 +1254,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Andaluzja"
     },
     {
         "name": "Nowo wyremontowany salon Bright Ecolounge z wysokim sufitem",
@@ -1263,7 +1263,6 @@
         "general rating": 4.85,
         "number of guests": 6,
         "city": "Altea",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 454.0,
         "number of amenities": 46,
@@ -1272,7 +1271,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "M&R Acaciasbeach",
@@ -1280,7 +1280,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Torrevieja",
-        "district": "Walencja (wsp\u00f3lnota autonomiczna)",
         "country": "Hiszpania",
         "price per night": 255.0,
         "number of amenities": 39,
@@ -1289,7 +1288,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Walencja (wsp\u00f3lnota autonomiczna)"
     },
     {
         "name": "San Juan Beach - nowoczesny loft z basenem",
@@ -1297,7 +1297,6 @@
         "general rating": 4.63,
         "number of guests": 2,
         "city": "Alicante",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 410.0,
         "number of amenities": 46,
@@ -1306,7 +1305,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "APARTAMENT PIERWSZEJ LINII NA PLA\u017bY",
@@ -1314,7 +1314,6 @@
         "general rating": 4.96,
         "number of guests": 2,
         "city": "Almer\u00eda",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 340.0,
         "number of amenities": 45,
@@ -1323,7 +1322,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Pok\u00f3j jednoosobowy Cala Figuera",
@@ -1331,7 +1331,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Cala Figuera",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 213.0,
         "number of amenities": 12,
@@ -1340,7 +1339,8 @@
         "communication rating": 4.1,
         "location rating": 5.0,
         "check in rating": 4.7,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Illes Balears"
     },
     {
         "name": "Nowy pok\u00f3j katedralny - apartament Palmera z basenem",
@@ -1348,7 +1348,6 @@
         "general rating": 4.72,
         "number of guests": 2,
         "city": "Sewilla",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 154.0,
         "number of amenities": 64,
@@ -1357,7 +1356,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Andaluzja"
     },
     {
         "name": "Odnowiony apartament z przyborami toaletowymi",
@@ -1365,7 +1365,6 @@
         "general rating": 4.77,
         "number of guests": 3,
         "city": "Salou",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 480.0,
         "number of amenities": 38,
@@ -1374,7 +1373,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Catalunya"
     },
     {
         "name": "Romantyczna mongolska jurta z boho wystrojem",
@@ -1382,7 +1382,6 @@
         "general rating": 4.99,
         "number of guests": 3,
         "city": "Lanjar\u00f3n",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 18,
@@ -1391,7 +1390,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Pok\u00f3j do przekazania \u015bwiat\u0142a i prywatna \u0142azienka",
@@ -1399,7 +1399,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Alicante (Alacant)",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 340.0,
         "number of amenities": 51,
@@ -1408,7 +1407,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Przyczepa kempingowa dla 2 os\u00f3b i basen na \u0142onie natury",
@@ -1416,7 +1416,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Sagunt",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 68.0,
         "number of amenities": 46,
@@ -1425,7 +1424,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Spokojna lokalizacja z basenem. Blisko miasta.",
@@ -1433,7 +1433,6 @@
         "general rating": 4.47,
         "number of guests": 2,
         "city": "San Juan de Alicante",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 204.0,
         "number of amenities": 12,
@@ -1442,7 +1441,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.7,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Drewniana chatka w Parku Przyrody Montseny",
@@ -1450,7 +1450,6 @@
         "general rating": 4.94,
         "number of guests": 5,
         "city": "Barcelona",
-        "district": "Katalonia",
         "country": "Hiszpania",
         "price per night": 328.0,
         "number of amenities": 74,
@@ -1459,7 +1458,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Katalonia"
     },
     {
         "name": "Los Alamos-Off Grid Studio Cortijo",
@@ -1467,7 +1467,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Yegen",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 184.0,
         "number of amenities": 48,
@@ -1476,7 +1475,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Andaluzja"
     },
     {
         "name": "Casa del Sol,Guejar Sierra,Granada",
@@ -1484,7 +1484,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "G\u00fc\u00e9jar Sierra",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 24,
@@ -1493,7 +1492,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "STUDIO ARTYSTYCZNE DLA KREATYWNYCH UMYS\u0141\u00d3W.",
@@ -1501,7 +1501,6 @@
         "general rating": 4.76,
         "number of guests": 2,
         "city": "el Gran Alacant",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 295.0,
         "number of amenities": 68,
@@ -1510,7 +1509,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Moje marzenie 2",
@@ -1518,7 +1518,6 @@
         "general rating": 4.75,
         "number of guests": null,
         "city": "Alacant",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 363.0,
         "number of amenities": 7,
@@ -1527,7 +1526,8 @@
         "communication rating": 4.7,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "STUDIO ARTYSTYCZNE DLA KREATYWNYCH UMYS\u0141\u00d3W.",
@@ -1535,7 +1535,6 @@
         "general rating": 4.76,
         "number of guests": 2,
         "city": "el Gran Alacant",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 295.0,
         "number of amenities": 68,
@@ -1544,7 +1543,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Moje marzenie 2",
@@ -1552,7 +1552,6 @@
         "general rating": 4.75,
         "number of guests": null,
         "city": "Alacant",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 363.0,
         "number of amenities": 7,
@@ -1561,7 +1560,8 @@
         "communication rating": 4.7,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "PLA\u017bA CHATA spokojny chillout nad morzem.",
@@ -1569,7 +1569,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Alcal\u00e0 de Xivert",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 359.0,
         "number of amenities": 64,
@@ -1578,7 +1577,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Studio typu Full Loft na pla\u017cy",
@@ -1586,7 +1586,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Almer\u00eda",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 249.0,
         "number of amenities": 47,
@@ -1595,7 +1594,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Domy wakacyjne w Santa Margalida z meblami ogrodowymi",
@@ -1603,7 +1603,6 @@
         "general rating": 4.45,
         "number of guests": 2,
         "city": "Santa Margalida",
-        "district": "Baleary",
         "country": "Hiszpania",
         "price per night": 642.0,
         "number of amenities": 16,
@@ -1612,7 +1611,8 @@
         "communication rating": 4.0,
         "location rating": 4.5,
         "check in rating": 4.3,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Baleary"
     },
     {
         "name": "Ma\u0142y apartament nad morzem",
@@ -1620,7 +1620,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Roses",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 254.0,
         "number of amenities": 40,
@@ -1629,7 +1628,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Catalunya"
     },
     {
         "name": "Loft area Fenals, Lloret de Mar.",
@@ -1637,7 +1637,6 @@
         "general rating": 4.8,
         "number of guests": 2,
         "city": "Lloret de Mar",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 284.0,
         "number of amenities": 32,
@@ -1646,7 +1645,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "Studio w pobli\u017cu Sierra Nevada",
@@ -1654,7 +1654,6 @@
         "general rating": 4.46,
         "number of guests": 2,
         "city": "Monachil",
-        "district": "Granada",
         "country": "Hiszpania",
         "price per night": 132.0,
         "number of amenities": 27,
@@ -1663,7 +1662,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Granada"
     },
     {
         "name": "APHRO\u02bbTA 73",
@@ -1671,7 +1671,6 @@
         "general rating": 4.73,
         "number of guests": 3,
         "city": "Denia",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 234.0,
         "number of amenities": 40,
@@ -1680,7 +1679,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Pi\u0119kne pierwsze pi\u0119tro z basenem",
@@ -1688,7 +1688,6 @@
         "general rating": 4.66,
         "number of guests": 3,
         "city": "Altea ",
-        "district": "Alicante",
         "country": "Hiszpania",
         "price per night": 227.0,
         "number of amenities": 47,
@@ -1697,7 +1696,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Alicante"
     },
     {
         "name": "Trzypi\u0119trowy apartament przy pla\u017cy wybudowany przez Bofill.",
@@ -1705,7 +1705,6 @@
         "general rating": 4.95,
         "number of guests": 5,
         "city": "Calp",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 507.0,
         "number of amenities": 35,
@@ -1714,7 +1713,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Ratownicy! Wspania\u0142e widoki. Odnowione.",
@@ -1722,7 +1722,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 318.0,
         "number of amenities": 53,
@@ -1731,7 +1730,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Casita Luna Mora",
@@ -1739,7 +1739,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Alicante",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 468.0,
         "number of amenities": 59,
@@ -1748,7 +1747,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Penthouse z widokiem na morze w Sea Beach",
@@ -1756,7 +1756,6 @@
         "general rating": 4.33,
         "number of guests": 4,
         "city": "Denia",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 177.0,
         "number of amenities": 46,
@@ -1765,7 +1764,8 @@
         "communication rating": 4.6,
         "location rating": 4.5,
         "check in rating": 4.0,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Apartament z basenem 2 minuty od pla\u017cy!!!",
@@ -1773,7 +1773,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "Lloret de Mar",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 331.0,
         "number of amenities": 47,
@@ -1782,7 +1781,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "Uroczy penthouse z widokiem na morze",
@@ -1790,7 +1790,6 @@
         "general rating": 4.72,
         "number of guests": 2,
         "city": "La Manga",
-        "district": "Region Murcji",
         "country": "Hiszpania",
         "price per night": 250.0,
         "number of amenities": 37,
@@ -1799,7 +1798,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Region Murcji"
     },
     {
         "name": "Urokliwe studio z widokiem na ocean w pobli\u017cu La Mata Beach",
@@ -1807,7 +1807,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 301.0,
         "number of amenities": 50,
@@ -1816,7 +1815,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "\u2b50Nowoczesne studio z widokiem na pla\u017c\u0119\u2b50",
@@ -1824,7 +1824,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Algarrobo-Costa",
-        "district": null,
         "country": "Hiszpania",
         "price per night": 454.0,
         "number of amenities": 53,
@@ -1833,7 +1832,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": null
     },
     {
         "name": "\u2b50Nowoczesne studio z widokiem na pla\u017c\u0119\u2b50",
@@ -1841,7 +1841,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Algarrobo-Costa",
-        "district": null,
         "country": "Hiszpania",
         "price per night": 454.0,
         "number of amenities": 53,
@@ -1850,7 +1849,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": null
     },
     {
         "name": "Widok na morze Paloma Beach 2BR condo z basenem",
@@ -1858,7 +1858,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 413.0,
         "number of amenities": 25,
@@ -1867,7 +1866,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Andaluzja"
     },
     {
         "name": "Andaluzyjskie studio wiejskie 2 osoby z Wi-Fi",
@@ -1875,7 +1875,6 @@
         "general rating": 4.18,
         "number of guests": 2,
         "city": "Roquetas de Mar",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 245.0,
         "number of amenities": 30,
@@ -1884,7 +1883,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.1
+        "value rating": 4.1,
+        "region": "Andaluzja"
     },
     {
         "name": "Estepona, apartament z doskona\u0142ym widokiem na morze",
@@ -1892,7 +1892,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Estepona",
-        "district": "M\u00e1laga",
         "country": "Hiszpania",
         "price per night": 318.0,
         "number of amenities": 34,
@@ -1901,7 +1900,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "M\u00e1laga"
     },
     {
         "name": "Pi\u0119kne mieszkanie z jedn\u0105 sypialni\u0105 i prywatnym patio",
@@ -1909,7 +1909,6 @@
         "general rating": 4.8,
         "number of guests": 2,
         "city": "Las Lagunas de Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 204.0,
         "number of amenities": 48,
@@ -1918,7 +1917,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Cygan. Widoki Mulfana i Velety.",
@@ -1926,7 +1926,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Capileira",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 229.0,
         "number of amenities": 50,
@@ -1935,7 +1934,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Planet Paradise 360\u00ba. 40min al mar.",
@@ -1943,7 +1943,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": "Walencja (wsp\u00f3lnota autonomiczna)",
-        "district": null,
         "country": "Hiszpania",
         "price per night": 266.0,
         "number of amenities": 44,
@@ -1952,7 +1951,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "T2 nowe, z rowerami, pla\u017ca na piechot\u0119, centralny",
@@ -1960,7 +1960,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "Empuriabrava",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 363.0,
         "number of amenities": 28,
@@ -1969,7 +1968,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "Calpe La Fossa fantastyczny widok 2 min pla\u017ca WiFi",
@@ -1977,7 +1977,6 @@
         "general rating": 4.65,
         "number of guests": 5,
         "city": "Calpe",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 318.0,
         "number of amenities": 59,
@@ -1986,7 +1985,8 @@
         "communication rating": 4.6,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Mas\u00eda w sercu Katalonii",
@@ -1994,7 +1994,6 @@
         "general rating": 4.68,
         "number of guests": null,
         "city": "Sant Pau de Seg\u00faries",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 182.0,
         "number of amenities": 30,
@@ -2003,7 +2002,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "Przytulny apartament z basenem na pla\u017cy w Conclavia",
@@ -2011,7 +2011,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "El Para\u00edso",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 327.0,
         "number of amenities": 59,
@@ -2020,7 +2019,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Apartamentz\nbasenem i widokiem na ocean.",
@@ -2028,7 +2028,6 @@
         "general rating": 4.7,
         "number of guests": 2,
         "city": "Blanes",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 363.0,
         "number of amenities": 41,
@@ -2037,7 +2036,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Catalunya"
     },
     {
         "name": "\ud83c\udfddBenalbeach\ud83c\udfd6 Beach, baseny, taras, ogrody.",
@@ -2045,7 +2045,6 @@
         "general rating": 4.94,
         "number of guests": 5,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 286.0,
         "number of amenities": 77,
@@ -2054,7 +2053,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Ban\u00fas Doskona\u0142e mieszkanie, strefa relaksu",
@@ -2062,7 +2062,6 @@
         "general rating": 4.84,
         "number of guests": 3,
         "city": "Marbella",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 363.0,
         "number of amenities": 55,
@@ -2071,7 +2070,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Utopian House I",
@@ -2079,7 +2079,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "El Gastor",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 177.0,
         "number of amenities": 36,
@@ -2088,7 +2087,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Apartament przed pla\u017c\u0105 z relaksuj\u0105cymi widokami.",
@@ -2096,7 +2096,6 @@
         "general rating": 4.5,
         "number of guests": 4,
         "city": "Bakio",
-        "district": "Euskadi",
         "country": "Hiszpania",
         "price per night": 254.0,
         "number of amenities": 83,
@@ -2105,7 +2104,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Euskadi"
     },
     {
         "name": "Poddasze w Cala Romana, Tarragona",
@@ -2113,7 +2113,6 @@
         "general rating": 4.93,
         "number of guests": 6,
         "city": "Tarragona",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 436.0,
         "number of amenities": 71,
@@ -2122,7 +2121,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Catalunya"
     },
     {
         "name": "Pok\u00f3j bezpo\u015brednio przy romantycznej zatoce",
@@ -2130,7 +2130,6 @@
         "general rating": 4.64,
         "number of guests": null,
         "city": "Santa Ponsa",
-        "district": "Baleary",
         "country": "Hiszpania",
         "price per night": 288.0,
         "number of amenities": 50,
@@ -2139,7 +2138,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Baleary"
     },
     {
         "name": "Idealny apartament z basenem rzut kamieniem od morza.",
@@ -2147,7 +2147,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Can Picafort",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 295.0,
         "number of amenities": 38,
@@ -2156,7 +2155,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Illes Balears"
     },
     {
         "name": "Spok\u00f3j nieba / Prywatny basen i wspania\u0142e widoki",
@@ -2164,7 +2164,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Callosa d'en Sarri\u00e0",
-        "district": "Walencja (wsp\u00f3lnota autonomiczna)",
         "country": "Hiszpania",
         "price per night": 363.0,
         "number of amenities": 69,
@@ -2173,7 +2172,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Walencja (wsp\u00f3lnota autonomiczna)"
     },
     {
         "name": "\"El Tesorillo\" Odizolowany dom w g\u00f3rach",
@@ -2181,7 +2181,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Gu\u00e1jar-Alto",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 227.0,
         "number of amenities": 62,
@@ -2190,7 +2189,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Natura w najczystszej formie",
@@ -2198,7 +2198,6 @@
         "general rating": 4.91,
         "number of guests": 4,
         "city": "Goldaratz",
-        "district": "Navarra",
         "country": "Hiszpania",
         "price per night": 302.0,
         "number of amenities": 35,
@@ -2207,7 +2206,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Navarra"
     },
     {
         "name": "Villa Delfin Apartament, pi\u0119kne widoki na ocean",
@@ -2215,7 +2215,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 245.0,
         "number of amenities": 61,
@@ -2224,7 +2223,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Pi\u0119kny apartament z widokiem na morze",
@@ -2232,7 +2232,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Cuevas del Almanzora",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 159.0,
         "number of amenities": 51,
@@ -2241,7 +2240,8 @@
         "communication rating": 5.0,
         "location rating": 4.3,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Hiszpa\u0144ska arabska",
@@ -2249,7 +2249,6 @@
         "general rating": 4.67,
         "number of guests": 5,
         "city": "\u00d3rgiva",
-        "district": "Granada",
         "country": "Hiszpania",
         "price per night": 295.0,
         "number of amenities": 50,
@@ -2258,7 +2257,8 @@
         "communication rating": 4.6,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Granada"
     },
     {
         "name": "Widok na morze/1 sypialnia /wyci\u0105g pla\u017cowy/ Wi-Fi 600 Mb/s/klimatyzacja",
@@ -2266,7 +2266,6 @@
         "general rating": 4.45,
         "number of guests": 3,
         "city": "Alicante (Alacant)",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 318.0,
         "number of amenities": 27,
@@ -2275,7 +2274,8 @@
         "communication rating": 4.5,
         "location rating": 4.2,
         "check in rating": 4.5,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Przytulne nowoczesne studio przy pla\u017cy.",
@@ -2283,7 +2283,6 @@
         "general rating": 4.68,
         "number of guests": 2,
         "city": "Roquetas de Mar",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 136.0,
         "number of amenities": 47,
@@ -2292,7 +2291,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Glamping Rac\u00f3 del Lighthouse",
@@ -2300,7 +2300,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Sant Carles de la R\u00e0pita",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 113.0,
         "number of amenities": 75,
@@ -2309,7 +2308,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "OSCAR K BEACH",
@@ -2317,7 +2317,6 @@
         "general rating": 4.79,
         "number of guests": 3,
         "city": "Denia",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 198.0,
         "number of amenities": 40,
@@ -2326,7 +2325,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Schronisko Ca Na Yega ETV/5115",
@@ -2334,7 +2334,6 @@
         "general rating": 4.79,
         "number of guests": 3,
         "city": "Banyalbufar",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 363.0,
         "number of amenities": 52,
@@ -2343,7 +2342,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Illes Balears"
     },
     {
         "name": "Pi\u0119kne osza\u0142amiaj\u0105ce widoki 1 \u0142\u00f3\u017cko apt",
@@ -2351,7 +2351,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 246.0,
         "number of amenities": 66,
@@ -2360,7 +2359,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Apartament. Tahilandia, nowe centrum",
@@ -2368,7 +2368,6 @@
         "general rating": 4.55,
         "number of guests": 4,
         "city": "Tarifa",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 227.0,
         "number of amenities": 20,
@@ -2377,7 +2376,8 @@
         "communication rating": 4.5,
         "location rating": 4.9,
         "check in rating": 4.5,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Andaluzja"
     },
     {
         "name": "Studio z widokiem na morze",
@@ -2385,7 +2385,6 @@
         "general rating": 4.77,
         "number of guests": 2,
         "city": "La L\u00ednea de la Concepci\u00f3n",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 266.0,
         "number of amenities": 53,
@@ -2394,7 +2393,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Kamienna chata w Parku Naturalnym Tarifa",
@@ -2402,7 +2402,6 @@
         "general rating": 4.73,
         "number of guests": 2,
         "city": "Tarifa",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 227.0,
         "number of amenities": 41,
@@ -2411,7 +2410,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Apartament z widokiem na trzy kontynenty.",
@@ -2419,7 +2419,6 @@
         "general rating": 4.66,
         "number of guests": 2,
         "city": "La L\u00ednea de la Concepci\u00f3n",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 295.0,
         "number of amenities": 54,
@@ -2428,7 +2427,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Apartamento La Cabanya",
@@ -2436,7 +2436,6 @@
         "general rating": 4.6,
         "number of guests": 2,
         "city": "Canyamel",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 449.0,
         "number of amenities": 23,
@@ -2445,7 +2444,8 @@
         "communication rating": 4.5,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Illes Balears"
     },
     {
         "name": "Apartament La Calera + Darmowe WI-FI!",
@@ -2453,7 +2453,6 @@
         "general rating": 4.42,
         "number of guests": 3,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 173.0,
         "number of amenities": 42,
@@ -2462,7 +2461,8 @@
         "communication rating": 4.7,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Studio z widokiem na morze zaledwie 100 metr\u00f3w od pla\u017cy",
@@ -2470,7 +2470,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Benalmadena Costa",
-        "district": "Malaga ",
         "country": "Hiszpania",
         "price per night": 241.0,
         "number of amenities": 42,
@@ -2479,7 +2478,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Malaga "
     },
     {
         "name": "Tradycyjnie budowany dom w Pitres",
@@ -2487,7 +2487,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Pitres",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 134.0,
         "number of amenities": 25,
@@ -2496,7 +2495,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Ekodom w pobli\u017cu Vejer de la Frontera",
@@ -2504,7 +2504,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Vejer de la Frontera",
-        "district": "AL",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 27,
@@ -2513,7 +2512,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "AL"
     },
     {
         "name": "Przy pla\u017cy 903- Stella Maris",
@@ -2521,7 +2521,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Fuengirola",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 321.0,
         "number of amenities": 34,
@@ -2530,7 +2529,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Komfortowy i cichy apartament w La Playa de los Locos",
@@ -2538,7 +2538,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 250.0,
         "number of amenities": 39,
@@ -2547,7 +2546,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Blisko do golfa i morza. Wielki komfort",
@@ -2555,7 +2555,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Llucmajor",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 363.0,
         "number of amenities": 43,
@@ -2564,7 +2563,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Illes Balears"
     },
     {
         "name": "Widok na pla\u017c\u0119",
@@ -2572,7 +2572,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Salou",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 222.0,
         "number of amenities": 13,
@@ -2581,7 +2580,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "Przestronny pok\u00f3j na wsp\u00f3lnym pi\u0119trze.",
@@ -2589,7 +2589,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 82.0,
         "number of amenities": 38,
@@ -2598,7 +2597,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Studio na pla\u017cy",
@@ -2606,7 +2606,6 @@
         "general rating": 4.38,
         "number of guests": 4,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 274.0,
         "number of amenities": 40,
@@ -2615,7 +2614,8 @@
         "communication rating": 4.2,
         "location rating": 4.9,
         "check in rating": 4.4,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Andaluzja"
     },
     {
         "name": "Studio (2+1) ANDALUZYJSKA WIOSKA wifi i basen cdad.",
@@ -2623,7 +2623,6 @@
         "general rating": 4.63,
         "number of guests": 3,
         "city": "Roquetas de Mar",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 118.0,
         "number of amenities": 23,
@@ -2632,7 +2631,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Andaluzja"
     },
     {
         "name": "Urocze widoki na morze, Costa Tropical",
@@ -2640,7 +2640,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Almu\u00f1\u00e9car",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 359.0,
         "number of amenities": 32,
@@ -2649,7 +2648,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Przytulny pok\u00f3j z \u0142azienk\u0105 w samym sercu Madrytu",
@@ -2657,7 +2657,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 183.0,
         "number of amenities": 50,
@@ -2666,7 +2665,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Urocze studio bardzo jasne i dotykaj\u0105c morza",
@@ -2674,7 +2674,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Velilla-Taramay",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 163.0,
         "number of amenities": 62,
@@ -2683,7 +2682,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Senne wakacje w Mijas Costa (El Faro)",
@@ -2691,7 +2691,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Las Lagunas de Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 227.0,
         "number of amenities": 37,
@@ -2700,7 +2699,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Dom parter bungalow Torrevieja Lake Garden",
@@ -2708,7 +2708,6 @@
         "general rating": 4.76,
         "number of guests": 4,
         "city": "Alicante",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 222.0,
         "number of amenities": 16,
@@ -2717,7 +2716,8 @@
         "communication rating": 4.8,
         "location rating": 4.5,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Pi\u0119kny zielony pok\u00f3j w pobli\u017cu Madrid rio",
@@ -2725,7 +2725,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 168.0,
         "number of amenities": 50,
@@ -2734,7 +2733,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Komfortowe i pi\u0119kne studio nad morzem",
@@ -2742,7 +2742,6 @@
         "general rating": 4.63,
         "number of guests": 2,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 250.0,
         "number of amenities": 25,
@@ -2751,7 +2750,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Andaluzja"
     },
     {
         "name": "Prywatny pok\u00f3j i \u0142azienka4,basen,Alhambra, Granada",
@@ -2759,7 +2759,6 @@
         "general rating": 4.73,
         "number of guests": 3,
         "city": "Hu\u00e9tor Vega",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 113.0,
         "number of amenities": 33,
@@ -2768,7 +2767,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Idealny apartament na pla\u017cy Pineda de mar!",
@@ -2776,7 +2776,6 @@
         "general rating": 4.53,
         "number of guests": 4,
         "city": "Pineda de Mar",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 318.0,
         "number of amenities": 41,
@@ -2785,7 +2784,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Catalunya"
     },
     {
         "name": "Spokojny dom w wiosce",
@@ -2793,7 +2793,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Ariany",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 191.0,
         "number of amenities": 23,
@@ -2802,7 +2801,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Illes Balears"
     },
     {
         "name": "Pok\u00f3j | wej\u015bcie prywatne +\u0142azienka w luksusowej willi",
@@ -2810,7 +2810,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Fuengirola",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 114.0,
         "number of amenities": 37,
@@ -2819,7 +2818,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Pok\u00f3j romantyczny - 13 min w centrum miasta",
@@ -2827,7 +2827,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 145.0,
         "number of amenities": 47,
@@ -2836,7 +2835,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Golf Puerto de la Duquesa - Malaga",
@@ -2844,7 +2844,6 @@
         "general rating": 4.44,
         "number of guests": 2,
         "city": "San Luis de Sabinillas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 204.0,
         "number of amenities": 54,
@@ -2853,7 +2852,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Twoje wakacje w La Mata",
@@ -2861,7 +2861,6 @@
         "general rating": 4.54,
         "number of guests": 3,
         "city": "Torrevieja",
-        "district": "Alicante",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 36,
@@ -2870,7 +2869,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Alicante"
     },
     {
         "name": "O\u015aWIETLENIE  1",
@@ -2878,7 +2878,6 @@
         "general rating": 4.4,
         "number of guests": null,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 100.0,
         "number of amenities": 15,
@@ -2887,7 +2886,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Andaluzja"
     },
     {
         "name": "Dom z basenem",
@@ -2895,7 +2895,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Kordoba",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 145.0,
         "number of amenities": 75,
@@ -2904,7 +2903,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Cor\u00f3 del Far - Les Delicies",
@@ -2912,7 +2912,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Sant Carles de la R\u00e0pita",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 115.0,
         "number of amenities": 65,
@@ -2921,7 +2920,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "Valdelgrana beach Sunny apartment, wifi.",
@@ -2929,7 +2929,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "El Puerto de Santa Mar\u00eda",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 242.0,
         "number of amenities": 54,
@@ -2938,7 +2937,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Designerski apartament. Basen latem",
@@ -2946,7 +2946,6 @@
         "general rating": 4.49,
         "number of guests": 2,
         "city": "A Coru\u00f1a",
-        "district": "Galicia",
         "country": "Hiszpania",
         "price per night": 177.0,
         "number of amenities": 29,
@@ -2955,7 +2954,8 @@
         "communication rating": 4.8,
         "location rating": 4.1,
         "check in rating": 4.7,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Galicia"
     },
     {
         "name": "Pok\u00f3j z widokiem na morze",
@@ -2963,7 +2963,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "M\u00e1laga",
-        "district": "Andalucia",
         "country": "Hiszpania",
         "price per night": 222.0,
         "number of amenities": 53,
@@ -2972,7 +2971,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andalucia"
     },
     {
         "name": "Alai - Exotic Beach Bungalow",
@@ -2980,7 +2980,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 323.0,
         "number of amenities": 36,
@@ -2989,7 +2988,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Mi\u0142e studio z \u0142adnym widokiem",
@@ -2997,7 +2997,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 227.0,
         "number of amenities": 5,
@@ -3006,7 +3005,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Rigo: zabawa i relaks.",
@@ -3014,7 +3014,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Alacant",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 132.0,
         "number of amenities": 34,
@@ -3023,7 +3022,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Nisko zwr\u00f3cone w stron\u0119 Morza Mniejszego",
@@ -3031,7 +3031,6 @@
         "general rating": 4.55,
         "number of guests": 6,
         "city": "La Manga",
-        "district": "Regi\u00f3n de Murcia",
         "country": "Hiszpania",
         "price per night": 306.0,
         "number of amenities": 46,
@@ -3040,7 +3039,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Regi\u00f3n de Murcia"
     },
     {
         "name": "S\u0142oneczny pok\u00f3j z widokiem na morze, Mijas Costa, Malaga",
@@ -3048,7 +3048,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Mijas",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 211.0,
         "number of amenities": 77,
@@ -3057,7 +3056,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Rigo: zabawa i relaks.",
@@ -3065,7 +3065,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Alacant",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 132.0,
         "number of amenities": 34,
@@ -3074,7 +3073,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Nisko zwr\u00f3cone w stron\u0119 Morza Mniejszego",
@@ -3082,7 +3082,6 @@
         "general rating": 4.55,
         "number of guests": 6,
         "city": "La Manga",
-        "district": "Regi\u00f3n de Murcia",
         "country": "Hiszpania",
         "price per night": 306.0,
         "number of amenities": 46,
@@ -3091,7 +3090,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Regi\u00f3n de Murcia"
     },
     {
         "name": "Fantastyczne mieszkanie z widokiem na morze i prywatn\u0105 \u0142azienk\u0105",
@@ -3099,7 +3099,6 @@
         "general rating": 4.76,
         "number of guests": null,
         "city": "Urbanova",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 182.0,
         "number of amenities": 38,
@@ -3108,7 +3107,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Tw\u00f3j wykwintny k\u0105cik",
@@ -3116,7 +3116,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Murcia",
-        "district": "Regi\u00f3n de Murcia",
         "country": "Hiszpania",
         "price per night": 160.0,
         "number of amenities": 70,
@@ -3125,7 +3124,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Regi\u00f3n de Murcia"
     },
     {
         "name": "Bezpo\u015bredni dost\u0119p do pla\u017cy! (Z2)",
@@ -3133,7 +3133,6 @@
         "general rating": 4.81,
         "number of guests": 4,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 250.0,
         "number of amenities": 45,
@@ -3142,7 +3141,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "Pok\u00f3j prywatny w s\u0142onecznym i centralnym mieszkaniu",
@@ -3150,7 +3150,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 286.0,
         "number of amenities": 31,
@@ -3159,7 +3158,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Apartament Oasis of Peace and Beach",
@@ -3167,7 +3167,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Elx",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 177.0,
         "number of amenities": 63,
@@ -3176,7 +3175,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Wygodny pok\u00f3j 15 minut spacerem do pla\u017cy",
@@ -3184,7 +3184,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Alicante",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 126.0,
         "number of amenities": 13,
@@ -3193,7 +3192,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "365 dni s\u0142o\u0144ca z widokiem na morze",
@@ -3201,7 +3201,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Almu\u00f1\u00e9car",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 298.0,
         "number of amenities": 49,
@@ -3210,7 +3209,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Habitaci\u00f3n privada en Casa Medieval  del Siglo XII",
@@ -3218,7 +3218,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Girona",
-        "district": null,
         "country": "Hiszpania",
         "price per night": 402.0,
         "number of amenities": 20,
@@ -3227,7 +3226,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Bohemien Bongalow z widokiem na morze",
@@ -3235,7 +3235,6 @@
         "general rating": 4.78,
         "number of guests": 2,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 301.0,
         "number of amenities": 66,
@@ -3244,7 +3243,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Andaluzja"
     },
     {
         "name": "\u0141adny loft na pla\u017cy Front Line",
@@ -3252,7 +3252,6 @@
         "general rating": 4.69,
         "number of guests": 3,
         "city": "Pen\u00edscola",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 182.0,
         "number of amenities": 31,
@@ -3261,7 +3260,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Casa Playa Colonia \u00c1guilas *Widoki na Morze \u015ar\u00f3dziemne",
@@ -3269,7 +3269,6 @@
         "general rating": 4.86,
         "number of guests": 6,
         "city": "\u00c1guilas",
-        "district": "Regi\u00f3n de Murcia",
         "country": "Hiszpania",
         "price per night": 368.0,
         "number of amenities": 25,
@@ -3278,7 +3277,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Regi\u00f3n de Murcia"
     },
     {
         "name": "S\u0142oneczny spok\u00f3j i cisza w centrum Madrytu",
@@ -3286,7 +3286,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 186.0,
         "number of amenities": 27,
@@ -3295,7 +3294,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Casa Piedras: Willa z widokiem na g\u00f3ry",
@@ -3303,7 +3303,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "La Bisbal del Pened\u00e8s",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 145.0,
         "number of amenities": 41,
@@ -3312,7 +3311,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Catalunya"
     },
     {
         "name": "Pi\u0119kny apartament z widokiem na morze",
@@ -3320,7 +3320,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Benic\u00e0ssim",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 572.0,
         "number of amenities": 51,
@@ -3329,7 +3328,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "SUNMore than a Comfort double room",
@@ -3337,7 +3337,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 132.0,
         "number of amenities": 59,
@@ -3346,7 +3345,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "2 sypialnie w domku w g\u00f3rach",
@@ -3354,7 +3354,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Esporles",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 306.0,
         "number of amenities": 50,
@@ -3363,7 +3362,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Illes Balears"
     },
     {
         "name": "Pi\u0119kny apartament z widokiem na morze",
@@ -3371,7 +3371,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Benic\u00e0ssim",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 572.0,
         "number of amenities": 51,
@@ -3380,7 +3379,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "SUNMore than a Comfort double room",
@@ -3388,7 +3388,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 132.0,
         "number of amenities": 59,
@@ -3397,7 +3396,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "2 sypialnie w domku w g\u00f3rach",
@@ -3405,7 +3405,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Esporles",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 306.0,
         "number of amenities": 50,
@@ -3414,7 +3413,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Illes Balears"
     },
     {
         "name": "wygodny pok\u00f3j z prywatn\u0105 \u0142azienk\u0105!",
@@ -3422,7 +3422,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Pollen\u00e7a",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 230.0,
         "number of amenities": 46,
@@ -3431,7 +3430,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Illes Balears"
     },
     {
         "name": "Jasny, przestronny i z basenem.",
@@ -3439,7 +3439,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Alar\u00f3",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 28,
@@ -3448,7 +3447,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Illes Balears"
     },
     {
         "name": "2\u0141\u00f3\u017cko P\u0141ASKIE Z DU\u017bYM LOUNGE&POOL!5MIN SPACEREM do PLA\u017bY!",
@@ -3456,7 +3456,6 @@
         "general rating": 4.53,
         "number of guests": 5,
         "city": "Alicante",
-        "district": "CL",
         "country": "Hiszpania",
         "price per night": 218.0,
         "number of amenities": 40,
@@ -3465,7 +3464,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.3,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "CL"
     },
     {
         "name": "Apartament Playa del Cura 350m od pla\u017cy?",
@@ -3473,7 +3473,6 @@
         "general rating": 4.67,
         "number of guests": 3,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 144.0,
         "number of amenities": 25,
@@ -3482,7 +3481,8 @@
         "communication rating": 4.5,
         "location rating": 4.8,
         "check in rating": 4.4,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Llucmajor Podstawowy pok\u00f3j z prywatnym dost\u0119pem bardzo \u0142adnie",
@@ -3490,7 +3490,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Illes Balears",
-        "district": null,
         "country": "Hiszpania",
         "price per night": 445.0,
         "number of amenities": 41,
@@ -3499,7 +3498,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "H1 - Bezpo\u015bredni dost\u0119p do pla\u017cy!!",
@@ -3507,7 +3507,6 @@
         "general rating": 4.81,
         "number of guests": 2,
         "city": "Benalm\u00e1dena",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 191.0,
         "number of amenities": 51,
@@ -3516,7 +3515,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Pok\u00f3j KSI\u0118\u017bYCOWY we wspania\u0142ej prywatnej przestrzeni z widokiem na morze",
@@ -3524,7 +3524,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 132.0,
         "number of amenities": 64,
@@ -3533,7 +3532,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Japo\u0144ski pok\u00f3j dwuosobowy Tatami - Apartament \u0141azienka",
@@ -3541,7 +3541,6 @@
         "general rating": 4.73,
         "number of guests": null,
         "city": "Ciutadella de Menorca",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 295.0,
         "number of amenities": 42,
@@ -3550,7 +3549,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Illes Balears"
     },
     {
         "name": "Elegancki pok\u00f3j dwuosobowy obok uniwersytetu, metra ipla\u017cy",
@@ -3558,7 +3558,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Val\u00e8ncia",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 169.0,
         "number of amenities": 32,
@@ -3567,7 +3566,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Prywatny pok\u00f3j w apartamencie z widokiem",
@@ -3575,7 +3575,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "C\u00e1diz",
-        "district": "AL",
         "country": "Hiszpania",
         "price per night": 159.0,
         "number of amenities": 23,
@@ -3584,7 +3583,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "AL"
     },
     {
         "name": "Wygodny pok\u00f3j jednoosobowy/Madryt Center - Chueca",
@@ -3592,7 +3592,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 209.0,
         "number of amenities": 47,
@@ -3601,7 +3600,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Bia\u0142y pok\u00f3j",
@@ -3609,7 +3609,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 159.0,
         "number of amenities": 29,
@@ -3618,7 +3617,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Pok\u00f3j z widokiem. \nCentrum, 100 metr\u00f3w od pla\u017cy.",
@@ -3626,7 +3626,6 @@
         "general rating": 4.99,
         "number of guests": null,
         "city": "Tarifa",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 213.0,
         "number of amenities": 47,
@@ -3635,7 +3634,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Andaluzja"
     },
     {
         "name": "Spok\u00f3j ducha w g\u00f3rach.",
@@ -3643,7 +3643,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Sant Fost de Campsentelles",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 318.0,
         "number of amenities": 33,
@@ -3652,7 +3651,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Catalunya"
     },
     {
         "name": "Apartament z dwiema sypialniami na pla\u017cy",
@@ -3660,7 +3660,6 @@
         "general rating": 4.67,
         "number of guests": null,
         "city": "Walencja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 168.0,
         "number of amenities": 33,
@@ -3669,7 +3668,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Oaza relaksu",
@@ -3677,7 +3677,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 154.0,
         "number of amenities": 36,
@@ -3686,7 +3685,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Pok\u00f3j w centrum, blisko pla\u017cy.",
@@ -3694,7 +3694,6 @@
         "general rating": 4.74,
         "number of guests": null,
         "city": "M\u00e1laga",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 82.0,
         "number of amenities": 41,
@@ -3703,7 +3702,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Andaluzja"
     },
     {
         "name": "Pi\u0119kny pok\u00f3j dwuosobowy Sag. Familia",
@@ -3711,7 +3711,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Barcelona",
-        "district": null,
         "country": "Hiszpania",
         "price per night": 250.0,
         "number of amenities": 20,
@@ -3720,7 +3719,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Przytulny pok\u00f3j w El Rastro",
@@ -3728,7 +3728,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 250.0,
         "number of amenities": 28,
@@ -3737,7 +3736,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Studio w sercu Costa Dorada",
@@ -3745,7 +3745,6 @@
         "general rating": 4.78,
         "number of guests": 2,
         "city": "Mont-roig del Camp",
-        "district": null,
         "country": "Hiszpania",
         "price per night": 213.0,
         "number of amenities": 48,
@@ -3754,7 +3753,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Czy genassa entre figueres olot baths i besalu",
@@ -3762,7 +3762,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Girona",
-        "district": "Katalonia",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 41,
@@ -3771,7 +3770,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Katalonia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy + prywatna \u0142azienka +taras. Ondarreta Beach",
@@ -3779,7 +3779,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "San Sebasti\u00e1n",
-        "district": "Kraj Bask\u00f3w",
         "country": "Hiszpania",
         "price per night": 213.0,
         "number of amenities": 26,
@@ -3788,7 +3787,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kraj Bask\u00f3w"
     },
     {
         "name": "Cichy pok\u00f3j",
@@ -3796,7 +3796,6 @@
         "general rating": 4.65,
         "number of guests": null,
         "city": "Esporles",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 159.0,
         "number of amenities": 26,
@@ -3805,7 +3804,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Illes Balears"
     },
     {
         "name": "S'Havanera 4",
@@ -3813,7 +3813,6 @@
         "general rating": 4.55,
         "number of guests": null,
         "city": "Es Castell",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 245.0,
         "number of amenities": 20,
@@ -3822,7 +3821,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Illes Balears"
     },
     {
         "name": "Jasny pok\u00f3j jednoosobowy w centrum Madrytu",
@@ -3830,7 +3830,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 141.0,
         "number of amenities": 35,
@@ -3839,7 +3838,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Mountain Views z \u0142atwym parkingiem",
@@ -3847,7 +3847,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Estepona",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 218.0,
         "number of amenities": 27,
@@ -3856,7 +3855,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Sypialnia z balkonem, Prywatne. Wi-Fi, Lotnisko",
@@ -3864,7 +3864,6 @@
         "general rating": 4.65,
         "number of guests": null,
         "city": "Santa Pola",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 138.0,
         "number of amenities": 61,
@@ -3873,7 +3872,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Pok\u00f3j otoczony sztuk\u0105 i kultur\u0105",
@@ -3881,7 +3881,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 354.0,
         "number of amenities": 51,
@@ -3890,7 +3889,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Penthouse w centrum Arenys de Mar. Barcelona.",
@@ -3898,7 +3898,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Arenys de Mar",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 413.0,
         "number of amenities": 25,
@@ -3907,7 +3906,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Catalunya"
     },
     {
         "name": "Mieszkanie w pobli\u017cu Bullring, strefa Guindalera.",
@@ -3915,7 +3915,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 186.0,
         "number of amenities": 37,
@@ -3924,7 +3923,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Badalona  w pobli\u017cu prywatnego pokoju w Barcelonie",
@@ -3932,7 +3932,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Badalona",
-        "district": "CT",
         "country": "Hiszpania",
         "price per night": 204.0,
         "number of amenities": 37,
@@ -3941,7 +3940,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "CT"
     },
     {
         "name": "Ciche i koktajlowe miejsce w Madrycie",
@@ -3949,7 +3949,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Madryt",
-        "district": "Comunidad de Madrid",
         "country": "Hiszpania",
         "price per night": 136.0,
         "number of amenities": 31,
@@ -3958,7 +3957,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad de Madrid"
     },
     {
         "name": "Cichy, jasny i wygodny pok\u00f3j  w Triana",
@@ -3966,7 +3966,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Sewilla",
-        "district": "Andaluzja",
         "country": "Hiszpania",
         "price per night": 136.0,
         "number of amenities": 37,
@@ -3975,7 +3974,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Andaluzja"
     },
     {
         "name": "Studio artystyczne",
@@ -3983,7 +3983,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Castell\u00f3n de la Plana",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 409.0,
         "number of amenities": 50,
@@ -3992,7 +3991,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Przerwa: Habitaci\u00f3n privada en la naturaleza",
@@ -4000,7 +4000,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Irixoa",
-        "district": "Galicia",
         "country": "Hiszpania",
         "price per night": 68.0,
         "number of amenities": 29,
@@ -4009,7 +4008,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Galicia"
     },
     {
         "name": "Barcelona City Suite w centrum przyrody.",
@@ -4017,7 +4017,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Barcelona",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 545.0,
         "number of amenities": 59,
@@ -4026,7 +4025,8 @@
         "communication rating": 5.0,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Catalunya"
     },
     {
         "name": "Centralnie odnowiony apartament w pobli\u017cu pla\u017cy",
@@ -4034,7 +4034,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Porto Cristo",
-        "district": "Illes Balears",
         "country": "Hiszpania",
         "price per night": 399.0,
         "number of amenities": 44,
@@ -4043,7 +4042,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Illes Balears"
     },
     {
         "name": "Bombonera \u015br\u00f3dziemnomorska - Santa Pola, Gran Alacant",
@@ -4051,7 +4051,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "el Gran Alacant",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 386.0,
         "number of amenities": 49,
@@ -4060,7 +4059,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Maravall A - urocze studio w pobli\u017cu pla\u017cy",
@@ -4068,7 +4068,6 @@
         "general rating": 4.59,
         "number of guests": 3,
         "city": "Benidorm",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 218.0,
         "number of amenities": 39,
@@ -4077,7 +4076,8 @@
         "communication rating": 4.3,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Wspania\u0142y apartament z 2 sypialniami, Floryda Park Moraira",
@@ -4085,7 +4085,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Moraira",
-        "district": "Walencja",
         "country": "Hiszpania",
         "price per night": 272.0,
         "number of amenities": 43,
@@ -4094,7 +4093,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Walencja"
     },
     {
         "name": "Apartament typu studio 300m od pla\u017cy",
@@ -4102,7 +4102,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 177.0,
         "number of amenities": 18,
@@ -4111,7 +4110,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Pi\u0119kny apartament 2 minuty od pla\u017cy",
@@ -4119,7 +4119,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "La Pobla de Farnals",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 409.0,
         "number of amenities": 49,
@@ -4128,7 +4127,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Studio projektowe, g\u0142\u00f3wnie z Los Locos Playa",
@@ -4136,7 +4136,6 @@
         "general rating": 4.72,
         "number of guests": 2,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 245.0,
         "number of amenities": 22,
@@ -4145,7 +4144,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Apartament przy pla\u017cy.",
@@ -4153,7 +4153,6 @@
         "general rating": 4.75,
         "number of guests": 4,
         "city": "Walencja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 263.0,
         "number of amenities": 29,
@@ -4162,7 +4161,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Pi\u0119kny loft w Cala del Pino",
@@ -4170,7 +4170,6 @@
         "general rating": 4.83,
         "number of guests": 4,
         "city": "La Manga",
-        "district": "Regi\u00f3n de Murcia",
         "country": "Hiszpania",
         "price per night": 250.0,
         "number of amenities": 16,
@@ -4179,7 +4178,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Regi\u00f3n de Murcia"
     },
     {
         "name": "APARTAMENT NA DRUGIEJ LINII MORZA! WI-FI!",
@@ -4187,7 +4187,6 @@
         "general rating": 4.52,
         "number of guests": 4,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 191.0,
         "number of amenities": 40,
@@ -4196,7 +4195,8 @@
         "communication rating": 4.7,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "Jasny apartament. Pla\u017ca Del Cura",
@@ -4204,7 +4204,6 @@
         "general rating": 4.61,
         "number of guests": 3,
         "city": "Torrevieja",
-        "district": "Comunidad Valenciana",
         "country": "Hiszpania",
         "price per night": 155.0,
         "number of amenities": 35,
@@ -4213,7 +4212,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Comunidad Valenciana"
     },
     {
         "name": "\"Pi\u0119kny\"",
@@ -4221,7 +4221,6 @@
         "general rating": 4.93,
         "number of guests": 3,
         "city": "Gij\u00f3n",
-        "district": "Principado de Asturias",
         "country": "Hiszpania",
         "price per night": 182.0,
         "number of amenities": 30,
@@ -4230,7 +4229,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Principado de Asturias"
     },
     {
         "name": "Zatrzymaj si\u0119 u fotografa, kt\u00f3ry zna wysp\u0119",
@@ -4238,7 +4238,6 @@
         "general rating": 4.71,
         "number of guests": null,
         "city": "Sant Lloren\u00e7 des Cardassar",
-        "district": "PM",
         "country": "Hiszpania",
         "price per night": 204.0,
         "number of amenities": 54,
@@ -4247,7 +4246,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "PM"
     },
     {
         "name": "Mallorca 15 Roses- Barneda Premium",
@@ -4255,7 +4255,6 @@
         "general rating": 4.5,
         "number of guests": 4,
         "city": "Roses",
-        "district": "Catalunya",
         "country": "Hiszpania",
         "price per night": 243.0,
         "number of amenities": 15,
@@ -4264,7 +4263,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Catalunya"
     },
     {
         "name": "Pok\u00f3j przed wie\u017c\u0105 Herculesa",
@@ -4272,7 +4272,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "A Coru\u00f1a",
-        "district": "Galicia",
         "country": "Hiszpania",
         "price per night": 113.0,
         "number of amenities": 52,
@@ -4281,6 +4280,7 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Galicia"
     }
 ]

@@ -5,7 +5,6 @@
         "general rating": 4.88,
         "number of guests": 3,
         "city": "Windeck",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 343.0,
         "number of amenities": 32,
@@ -14,7 +13,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "Zakwaterowanie w Stelzenh\u00fctte nad Dunajem",
@@ -22,7 +22,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Donauw\u00f6rth",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 590.0,
         "number of amenities": 53,
@@ -31,7 +30,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Bayern"
     },
     {
         "name": "Igluhut Molendini",
@@ -39,7 +39,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Machern",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 817.0,
         "number of amenities": 11,
@@ -48,7 +47,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Sachsen"
     },
     {
         "name": "Alte Wasserm\u00fchle Friedrichshausen - Eulenstube",
@@ -56,7 +56,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Dassel",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 53,
@@ -65,7 +64,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Niedersachsen"
     },
     {
         "name": "Prywatny pok\u00f3j jednoosobowy i prywatny prysznic/toaleta",
@@ -73,7 +73,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Monachium",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 165.0,
         "number of amenities": 48,
@@ -82,7 +81,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bayern"
     },
     {
         "name": "Przytulny pok\u00f3j w drewnianym domku z saun\u0105",
@@ -90,7 +90,6 @@
         "general rating": 4.8,
         "number of guests": null,
         "city": "Lohra",
-        "district": "Hesse",
         "country": "Niemcy",
         "price per night": 111.0,
         "number of amenities": 47,
@@ -99,7 +98,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Hesse"
     },
     {
         "name": "Pi\u0119knie przebudowany warsztat w dawnym budynku stajni",
@@ -107,7 +107,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Natendorf",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 386.0,
         "number of amenities": 46,
@@ -116,7 +115,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Tiny House \"Hygge\"",
@@ -124,7 +124,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Kenz-K\u00fcstrow",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 567.0,
         "number of amenities": 28,
@@ -133,7 +132,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Domek go\u015bcinny an der Vechte",
@@ -141,7 +141,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Esche",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 182.0,
         "number of amenities": 38,
@@ -150,7 +149,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Ma\u0142y domek",
@@ -158,7 +158,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Friesack",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 386.0,
         "number of amenities": 35,
@@ -167,7 +166,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Brandenburgia"
     },
     {
         "name": "\u201eSalon Gelbera\u201d w dworku postsocjalistycznym 2-4",
@@ -175,7 +175,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Wardow",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 499.0,
         "number of amenities": 26,
@@ -184,7 +183,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Uriger Bauwagen Petra Lustig",
@@ -192,7 +192,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Mayen",
-        "district": "Rheinland-Pfalz",
         "country": "Niemcy",
         "price per night": 177.0,
         "number of amenities": 17,
@@ -201,7 +200,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Rheinland-Pfalz"
     },
     {
         "name": "Pok\u00f3j dwuosobowy z dost\u0119pem do \u0142azienki w Mellenthin",
@@ -209,7 +209,6 @@
         "general rating": 4.79,
         "number of guests": 2,
         "city": "Mellenthin",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 327.0,
         "number of amenities": 25,
@@ -218,7 +217,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Mi\u0142e, nowoczesne studio \"czerwono-bia\u0142e\" w Steibis",
@@ -226,7 +226,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "Oberstaufen",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 232.0,
         "number of amenities": 26,
@@ -235,7 +234,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Bayern"
     },
     {
         "name": "W\u00f3zki budowlane w sadach",
@@ -243,7 +243,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": "Dadow",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 182.0,
         "number of amenities": 21,
@@ -252,7 +251,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Przytulny ciekawy gliniany dom",
@@ -260,7 +260,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Kassel",
-        "district": "Hessen",
         "country": "Niemcy",
         "price per night": 295.0,
         "number of amenities": 14,
@@ -269,7 +268,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Hessen"
     },
     {
         "name": "Przytulny samoch\u00f3d budowlany GDR Manfred w lesie nad jeziorem",
@@ -277,7 +277,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "Neuruppin",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 336.0,
         "number of amenities": 30,
@@ -286,7 +285,8 @@
         "communication rating": 4.7,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Brandenburgia"
     },
     {
         "name": "Seechalet (Chalet Resort Seenland)",
@@ -294,7 +294,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "Steinberg am See",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 1365.0,
         "number of amenities": 16,
@@ -303,7 +302,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Bayern"
     },
     {
         "name": "Two Shores ( Tiny House ) na Hainer See",
@@ -311,7 +311,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Neukieritzsch",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 359.0,
         "number of amenities": 38,
@@ -320,7 +319,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Sachsen"
     },
     {
         "name": "\"Kurnik\"",
@@ -328,7 +328,6 @@
         "general rating": 4.93,
         "number of guests": 3,
         "city": "Ostrach",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 222.0,
         "number of amenities": 40,
@@ -337,7 +336,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Black Treehouse w Pfrunger Ried",
@@ -345,7 +345,6 @@
         "general rating": 4.96,
         "number of guests": 2,
         "city": "Riedhausen",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 276.0,
         "number of amenities": 30,
@@ -354,7 +353,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Apartament z fantastycznym widokiem na morze",
@@ -362,7 +362,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "Gro\u00dfenbrode",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 636.0,
         "number of amenities": 43,
@@ -371,7 +370,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "\u0141\u00d3\u017bKO 14 - Przyczepa cyrkowa/ma\u0142y domek z widokiem na morze",
@@ -379,7 +379,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "Waabs",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 272.0,
         "number of amenities": 30,
@@ -388,7 +387,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "WALLE, ma\u0142a le\u015bna chatka!",
@@ -396,7 +396,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Moosthenning",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 182.0,
         "number of amenities": 29,
@@ -405,7 +404,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bayern"
     },
     {
         "name": "Sabbatical Tollensesee Cabin 1, mile widziane psy",
@@ -413,7 +413,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Mecklenburgische Seenplatte",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 572.0,
         "number of amenities": 39,
@@ -422,7 +421,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "ChNP Fichtel z jacuzzi i saun\u0105 (opcjonalne)",
@@ -430,7 +430,6 @@
         "general rating": 4.46,
         "number of guests": 3,
         "city": "Hohenberg an der Eger",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 322.0,
         "number of amenities": 22,
@@ -439,7 +438,8 @@
         "communication rating": 4.7,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 4.1
+        "value rating": 4.1,
+        "region": "Bayern"
     },
     {
         "name": "Dune Castles 28 tu\u017c przy pla\u017cy",
@@ -447,7 +447,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Wangerooge",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 368.0,
         "number of amenities": 42,
@@ -456,7 +455,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Niedersachsen"
     },
     {
         "name": "Ma\u0142y domek nad jeziorem z saun\u0105",
@@ -464,7 +464,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Lehrte",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 359.0,
         "number of amenities": 27,
@@ -473,7 +472,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Niedersachsen"
     },
     {
         "name": "Seebude 75",
@@ -481,7 +481,6 @@
         "general rating": 4.89,
         "number of guests": 4,
         "city": "Basedow",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 338.0,
         "number of amenities": 38,
@@ -490,7 +489,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Hygge ma\u0142y domek na wsi z tarasem i saun\u0105",
@@ -498,7 +498,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Altkalen",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 427.0,
         "number of amenities": 48,
@@ -507,7 +506,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Chata g\u00f3rska w piaskowcu \u0141aby z saun\u0105 drewnian\u0105",
@@ -515,7 +515,6 @@
         "general rating": 4.78,
         "number of guests": 6,
         "city": "Rosenthal-Bielatal",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 359.0,
         "number of amenities": 52,
@@ -524,7 +523,8 @@
         "communication rating": 4.6,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Sachsen"
     },
     {
         "name": "Czysta przyroda - dom w lesie nad Biberdamem",
@@ -532,7 +532,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Grafenau",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 454.0,
         "number of amenities": 49,
@@ -541,7 +540,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Bayern"
     },
     {
         "name": "MA\u0141A CHATKA - piesze wycieczki. jazda na rowerze. do\u015bwiadczenie natury.",
@@ -549,7 +549,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Seck",
-        "district": "Rheinland-Pfalz",
         "country": "Niemcy",
         "price per night": 314.0,
         "number of amenities": 55,
@@ -558,7 +557,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Rheinland-Pfalz"
     },
     {
         "name": "Pasterska chata \"Wolkakkrazer\" ko\u0142o Wolfegg",
@@ -566,7 +566,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Wolfegg",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 206.0,
         "number of amenities": 21,
@@ -575,7 +574,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Dziedziniec 56: Sabat lub pracy. Szeroki i przyrody",
@@ -583,7 +583,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Altwigshagen",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 351.0,
         "number of amenities": 44,
@@ -592,7 +591,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Domek le\u015bny - Tiny House",
@@ -600,7 +600,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": "Wessobrunn",
-        "district": "Bawaria",
         "country": "Niemcy",
         "price per night": 409.0,
         "number of amenities": 38,
@@ -609,7 +608,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bawaria"
     },
     {
         "name": "Domek le\u015bny - Tiny House",
@@ -617,7 +617,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": "Wessobrunn",
-        "district": "Bawaria",
         "country": "Niemcy",
         "price per night": 409.0,
         "number of amenities": 38,
@@ -626,7 +625,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bawaria"
     },
     {
         "name": "Poka\u017c samoch\u00f3d na malowniczym starym dziedzi\u0144cu",
@@ -634,7 +634,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "Eschwege",
-        "district": "Hessen",
         "country": "Niemcy",
         "price per night": 136.0,
         "number of amenities": 44,
@@ -643,7 +642,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Hessen"
     },
     {
         "name": "Stelzen-Baumhaus Heiner",
@@ -651,7 +651,6 @@
         "general rating": 4.96,
         "number of guests": 2,
         "city": "Rauhenebrach",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 368.0,
         "number of amenities": 35,
@@ -660,7 +659,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "Niezwyk\u0142e \u017cycie w przytulnym domku w ogrodzie",
@@ -668,7 +668,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Pl\u00fcderhausen",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 279.0,
         "number of amenities": 41,
@@ -677,7 +676,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "HOFfREUDEN w Spreewald z Hofg\u00e4rtnerei",
@@ -685,7 +685,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Calau",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 318.0,
         "number of amenities": 18,
@@ -694,7 +693,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "Pfarrhof w Mecklenburg - Krainie Jezior",
@@ -702,7 +702,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "M\u00f6llenbeck",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 409.0,
         "number of amenities": 64,
@@ -711,7 +710,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Nocleg w poje\u017adzie budowlanym w Worpswede",
@@ -719,7 +719,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Worpswede",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 184.0,
         "number of amenities": 27,
@@ -728,7 +727,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Niedersachsen"
     },
     {
         "name": "Apartament 330 Dom wakacyjny - Poznaj g\u00f3ry Harz",
@@ -736,7 +736,6 @@
         "general rating": 4.78,
         "number of guests": 3,
         "city": "Braunlage",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 298.0,
         "number of amenities": 41,
@@ -745,7 +744,8 @@
         "communication rating": 5.0,
         "location rating": 4.2,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Niedersachsen"
     },
     {
         "name": "Chateau Coco Chiemsee",
@@ -753,7 +753,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Grabenst\u00e4tt",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 359.0,
         "number of amenities": 27,
@@ -762,7 +761,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Bayern"
     },
     {
         "name": "Pi\u0119kny domek w rustykalnym stylu. Zwyk\u0142y sprz\u0119t",
@@ -770,7 +770,6 @@
         "general rating": 4.65,
         "number of guests": 8,
         "city": "Oberstaufen",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 28,
@@ -779,7 +778,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "Przytulny dom na skraju lasu",
@@ -787,7 +787,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Wiehl",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 273.0,
         "number of amenities": 51,
@@ -796,7 +795,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "Wakacje w przytulnym samochodzie cyrkowym nad jeziorem Chiemsee.",
@@ -804,7 +804,6 @@
         "general rating": 4.81,
         "number of guests": 4,
         "city": "Breitbrunn am Chiemsee",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 250.0,
         "number of amenities": 28,
@@ -813,7 +812,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "Ma\u0142y domek rozkoszy w Spreewald",
@@ -821,7 +821,6 @@
         "general rating": 4.91,
         "number of guests": 3,
         "city": "Calau",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 340.0,
         "number of amenities": 29,
@@ -830,7 +829,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Brandenburgia"
     },
     {
         "name": "S\u0142odki domek na \u0142onie natury",
@@ -838,7 +838,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Rendsw\u00fchren",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 254.0,
         "number of amenities": 45,
@@ -847,7 +846,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Skigondel am Weiher",
@@ -855,7 +855,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "Eichstegen",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 174.0,
         "number of amenities": 24,
@@ -864,7 +863,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Przytulny ma\u0142y domek Schlein\u00e4he",
@@ -872,7 +872,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Boren",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 318.0,
         "number of amenities": 35,
@@ -881,7 +880,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Sch\u00e4ferwagen \"Kraxlers Ruh\"",
@@ -889,7 +889,6 @@
         "general rating": 4.96,
         "number of guests": 2,
         "city": "Bad Schandau",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 268.0,
         "number of amenities": 43,
@@ -898,7 +897,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen"
     },
     {
         "name": "Inspiruj\u0105ce ma\u0142e pude\u0142ko",
@@ -906,7 +906,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Reisbach",
-        "district": "BY",
         "country": "Niemcy",
         "price per night": 436.0,
         "number of amenities": 21,
@@ -915,7 +914,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "BY"
     },
     {
         "name": "Little Weidegl\u00fcck",
@@ -923,7 +923,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Dornum",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 250.0,
         "number of amenities": 41,
@@ -932,7 +931,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Niedersachsen"
     },
     {
         "name": "Chatka na wzg\u00f3rzu - prawie jak domek na drzewie",
@@ -940,7 +940,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "Wasserburg",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 313.0,
         "number of amenities": 27,
@@ -949,7 +948,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "Countryside retreat Chiemgau | Bawarskie widoki",
@@ -957,7 +957,6 @@
         "general rating": 4.89,
         "number of guests": 3,
         "city": "Schnaitsee",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 270.0,
         "number of amenities": 34,
@@ -966,7 +965,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Zrelaksuj si\u0119 w dawnym gospodarstwie agroturystycznym na",
@@ -974,7 +974,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "B\u00f6hl-Iggelheim",
-        "district": "Rheinland-Pfalz",
         "country": "Niemcy",
         "price per night": 201.0,
         "number of amenities": 40,
@@ -983,7 +982,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Rheinland-Pfalz"
     },
     {
         "name": "Harz Sabbatical z saun\u0105 i basenem",
@@ -991,7 +991,6 @@
         "general rating": 4.9,
         "number of guests": 3,
         "city": "Bad Harzburg",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 250.0,
         "number of amenities": 35,
@@ -1000,7 +999,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Niedersachsen"
     },
     {
         "name": "Ma\u0142y uroczy dom 15min do Erfurtu.",
@@ -1008,7 +1008,6 @@
         "general rating": 4.96,
         "number of guests": 3,
         "city": "Nesse-Apfelst\u00e4dt",
-        "district": "OT Ingersleben ",
         "country": "Niemcy",
         "price per night": 178.0,
         "number of amenities": 45,
@@ -1017,7 +1016,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "OT Ingersleben "
     },
     {
         "name": "Przytulny dom p\u00f3\u0142domkowy \"Rabbit\" Ummanz/Rugia",
@@ -1025,7 +1025,6 @@
         "general rating": 4.85,
         "number of guests": 3,
         "city": "Ummanz",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 318.0,
         "number of amenities": 41,
@@ -1034,7 +1033,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Ma\u0142y domek o powierzchni 33 m2",
@@ -1042,7 +1042,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Grimma",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 440.0,
         "number of amenities": 35,
@@ -1051,7 +1050,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Sachsen"
     },
     {
         "name": "\u0141a\u017ania na skraju pola",
@@ -1059,7 +1059,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Heiligengrabe",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 28,
@@ -1068,7 +1067,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "domy wakacyjne w G\u00f3rach Sakso\u0144skich",
@@ -1076,7 +1076,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "St\u00fctzengr\u00fcn",
-        "district": "Saksonia",
         "country": "Niemcy",
         "price per night": 545.0,
         "number of amenities": 41,
@@ -1085,7 +1084,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Saksonia"
     },
     {
         "name": "Irmi samoch\u00f3d budowlany, w lesie!",
@@ -1093,7 +1093,6 @@
         "general rating": 4.79,
         "number of guests": 2,
         "city": "Moosthenning",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 91.0,
         "number of amenities": 31,
@@ -1102,7 +1101,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "Domek le\u015bny w rejonie Diabelskich Maur\u00f3w",
@@ -1110,7 +1110,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Gnarrenburg",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 363.0,
         "number of amenities": 42,
@@ -1119,7 +1118,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Niedersachsen"
     },
     {
         "name": "Forest apartment Ein\u00f6de",
@@ -1127,7 +1127,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Bischofsmais",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 386.0,
         "number of amenities": 45,
@@ -1136,7 +1135,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bayern"
     },
     {
         "name": "Apartament \"S\u00e4gestube\" w Rathewalder M\u00fchle",
@@ -1144,7 +1144,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Hohnstein",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 318.0,
         "number of amenities": 17,
@@ -1153,7 +1152,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sachsen"
     },
     {
         "name": "Apartament przyjazny dzieciom z kominkiem na starym dziedzi\u0144cu parafialnym",
@@ -1161,7 +1161,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "M\u00f6llenbeck",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 485.0,
         "number of amenities": 59,
@@ -1170,7 +1169,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Ma\u0142y domek na farmie",
@@ -1178,7 +1178,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Triftern",
-        "district": "Bawaria",
         "country": "Niemcy",
         "price per night": 272.0,
         "number of amenities": 31,
@@ -1187,7 +1186,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bawaria"
     },
     {
         "name": "Wyj\u0105tkowa willa dla budowniczych organ\u00f3w w Schlo\u00dfberg",
@@ -1195,7 +1195,6 @@
         "general rating": 4.76,
         "number of guests": null,
         "city": "Marburg",
-        "district": "Hessen",
         "country": "Niemcy",
         "price per night": 143.0,
         "number of amenities": 35,
@@ -1204,7 +1203,8 @@
         "communication rating": 4.7,
         "location rating": 4.9,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Hessen"
     },
     {
         "name": "Mieszkanie na Morzu P\u00f3\u0142nocnym",
@@ -1212,7 +1212,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Neufelderkoog",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 163.0,
         "number of amenities": 41,
@@ -1221,7 +1220,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Glamping w Bauwagen nad jeziorem Haselbach",
@@ -1229,7 +1229,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Regis-Breitingen",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 113.0,
         "number of amenities": 39,
@@ -1238,7 +1237,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Sachsen"
     },
     {
         "name": "Cichy apartament w domu z bali przy lesie z kominkiem",
@@ -1246,7 +1246,6 @@
         "general rating": 4.78,
         "number of guests": 5,
         "city": "Bad Lauterberg im Harz",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 167.0,
         "number of amenities": 32,
@@ -1255,7 +1254,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Niedersachsen"
     },
     {
         "name": "Ma\u0142y bungalow w romantycznym Treseburgu w Harz",
@@ -1263,7 +1263,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Thale",
-        "district": "SA",
         "country": "Niemcy",
         "price per night": 226.0,
         "number of amenities": 24,
@@ -1272,7 +1271,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "SA"
     },
     {
         "name": "Ciesz si\u0119 przyrod\u0105 w Spessarth\u00fcttchen",
@@ -1280,7 +1280,6 @@
         "general rating": 4.89,
         "number of guests": 5,
         "city": "Steinau an der Stra\u00dfe-Marjo\u00df",
-        "district": "Hessen",
         "country": "Niemcy",
         "price per night": 187.0,
         "number of amenities": 47,
@@ -1289,7 +1288,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Hessen"
     },
     {
         "name": "Casa Cabrera w centrum Turyngii",
@@ -1297,7 +1297,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Schleusingen",
-        "district": "Th\u00fcringen",
         "country": "Niemcy",
         "price per night": 140.0,
         "number of amenities": 38,
@@ -1306,7 +1305,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Th\u00fcringen"
     },
     {
         "name": "Pensjonat na Heidenroute",
@@ -1314,7 +1314,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "Attendorn",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 211.0,
         "number of amenities": 26,
@@ -1323,7 +1322,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "Domek na drzewie - mo\u017cliwo\u015b\u0107 rezerwacji od  kwietnia do wrze\u015bnia",
@@ -1331,7 +1331,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Bad Belzig",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 162.0,
         "number of amenities": 7,
@@ -1340,7 +1339,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "Nowy apartament typu studio z tarasem s\u0142onecznym w pobli\u017cu pla\u017cy",
@@ -1348,7 +1348,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Lietzow",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 53,
@@ -1357,7 +1356,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "W\u00f3z pasterski w mini gospodarstwie w Munster",
@@ -1365,7 +1365,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "M\u00fcnster",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 272.0,
         "number of amenities": 40,
@@ -1374,7 +1373,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Superhost TinyHouse Valley View (Rezerwat przyrody)",
@@ -1382,7 +1382,6 @@
         "general rating": 4.33,
         "number of guests": 5,
         "city": "Mansfeld",
-        "district": "Sachsen-Anhalt",
         "country": "Niemcy",
         "price per night": 177.0,
         "number of amenities": 25,
@@ -1391,7 +1390,8 @@
         "communication rating": 3.8,
         "location rating": 4.9,
         "check in rating": 4.4,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Sachsen-Anhalt"
     },
     {
         "name": "Le\u015bny dom na skraju lasu z widokiem na Las Bawarski",
@@ -1399,7 +1399,6 @@
         "general rating": 4.98,
         "number of guests": 5,
         "city": "Traitsching",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 405.0,
         "number of amenities": 56,
@@ -1408,7 +1407,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Domki letniskowe na Geltinger Birk",
@@ -1416,7 +1416,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Gelting",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 332.0,
         "number of amenities": 34,
@@ -1425,7 +1424,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "W\u00f3zek budowlany MARIE w Mecklenburg - Kraina Jezior",
@@ -1433,7 +1433,6 @@
         "general rating": 4.96,
         "number of guests": 3,
         "city": "Peenehagen",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 222.0,
         "number of amenities": 40,
@@ -1442,7 +1441,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "WeFairTrauen, oaza relaksu na wsi",
@@ -1450,7 +1450,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Sottrum",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 175.0,
         "number of amenities": 41,
@@ -1459,7 +1458,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Romantyczny stary dom le\u015bny w pobli\u017cu Alt\u00f6tting/Obb.",
@@ -1467,7 +1467,6 @@
         "general rating": 4.68,
         "number of guests": null,
         "city": "Kastl",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 205.0,
         "number of amenities": 60,
@@ -1476,7 +1475,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "Dom wakacyjny \"BlauesHaus\"",
@@ -1484,7 +1484,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Lancken-Granitz",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 245.0,
         "number of amenities": 25,
@@ -1493,7 +1492,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Stadtgut Wehlen, apartament \"K\u00f6nigstein\", dla 2 os\u00f3b",
@@ -1501,7 +1501,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Stadt Wehlen",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 33,
@@ -1510,7 +1509,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen"
     },
     {
         "name": "Cyrkowe samochody na \u015bwie\u017cym powietrzu",
@@ -1518,7 +1518,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Ludwigsfelde",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 363.0,
         "number of amenities": 50,
@@ -1527,7 +1526,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "Romantyczny stary dom le\u015bny w pobli\u017cu Alt\u00f6tting/Obb.",
@@ -1535,7 +1535,6 @@
         "general rating": 4.68,
         "number of guests": null,
         "city": "Kastl",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 205.0,
         "number of amenities": 60,
@@ -1544,7 +1543,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "Dom wakacyjny \"BlauesHaus\"",
@@ -1552,7 +1552,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Lancken-Granitz",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 245.0,
         "number of amenities": 25,
@@ -1561,7 +1560,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Stadtgut Wehlen, apartament \"K\u00f6nigstein\", dla 2 os\u00f3b",
@@ -1569,7 +1569,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Stadt Wehlen",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 33,
@@ -1578,7 +1577,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen"
     },
     {
         "name": "Cyrkowe samochody na \u015bwie\u017cym powietrzu",
@@ -1586,7 +1586,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Ludwigsfelde",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 363.0,
         "number of amenities": 50,
@@ -1595,7 +1594,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "HappyFarm - Spanie w naturze",
@@ -1603,7 +1603,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Oberkirch",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 36,
@@ -1612,7 +1611,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Wolnostoj\u0105cy drewniany dom w bardzo spokojnej okolicy",
@@ -1620,7 +1620,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Gai\u00dfach",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 318.0,
         "number of amenities": 40,
@@ -1629,7 +1628,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bayern"
     },
     {
         "name": "Przytulny apartament z widokiem na Bell Mountain",
@@ -1637,7 +1637,6 @@
         "general rating": 4.71,
         "number of guests": 4,
         "city": "Sankt Andreasberg",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 261.0,
         "number of amenities": 40,
@@ -1646,7 +1645,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.5,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Niedersachsen"
     },
     {
         "name": "W\u00f3zek budowlany \"FRITZ\" na wsi, niedaleko Bremerhaven",
@@ -1654,7 +1654,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Loxstedt",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 250.0,
         "number of amenities": 26,
@@ -1663,7 +1662,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Niedersachsen"
     },
     {
         "name": "MA\u0141Y DOMEK II Feel Home Wynajem wakacyjny",
@@ -1671,7 +1671,6 @@
         "general rating": 4.93,
         "number of guests": 3,
         "city": "Obernzell",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 46,
@@ -1680,7 +1679,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "Przytulny apartament dla dwojga",
@@ -1688,7 +1688,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "Surberg",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 184.0,
         "number of amenities": 42,
@@ -1697,7 +1696,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bayern"
     },
     {
         "name": "Widok I-Sankt Englmar Bavarian Forest",
@@ -1705,7 +1705,6 @@
         "general rating": 4.72,
         "number of guests": 3,
         "city": "Sankt Englmar",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 266.0,
         "number of amenities": 50,
@@ -1714,7 +1713,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Datsha na ma\u0142ym jeziorze w otoczeniu zwierz\u0105t",
@@ -1722,7 +1722,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Uckerfelde",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 268.0,
         "number of amenities": 30,
@@ -1731,7 +1730,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "G\u00f3rski \u015bwiat w G\u00f3rach Erz",
@@ -1739,7 +1739,6 @@
         "general rating": 4.58,
         "number of guests": 6,
         "city": "Marienberg",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 418.0,
         "number of amenities": 36,
@@ -1748,7 +1747,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Sachsen"
     },
     {
         "name": "Mieszkanie na t\u0119tni\u0105cym \u017cyciem gospodarstwie seminaryjnym w naturze",
@@ -1756,7 +1756,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Nordwestuckermark",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 271.0,
         "number of amenities": 59,
@@ -1765,7 +1764,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "S\u0142oneczny pok\u00f3j z balkonem z widokiem na wie\u015b",
@@ -1773,7 +1773,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Monachium",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 206.0,
         "number of amenities": 30,
@@ -1782,7 +1781,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Cichy otw\u00f3r na dachu w \u015brodku lasu",
@@ -1790,7 +1790,6 @@
         "general rating": 4.65,
         "number of guests": 4,
         "city": "Bad Berleburg",
-        "district": "North Rhine-Westphalia",
         "country": "Niemcy",
         "price per night": 163.0,
         "number of amenities": 32,
@@ -1799,7 +1798,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "North Rhine-Westphalia"
     },
     {
         "name": "Moorblick",
@@ -1807,7 +1807,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Leer (Ostfriesland)",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 159.0,
         "number of amenities": 29,
@@ -1816,7 +1815,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Niedersachsen"
     },
     {
         "name": "Przytulna jurta tu\u017c nad rzek\u0105",
@@ -1824,7 +1824,6 @@
         "general rating": 4.87,
         "number of guests": 3,
         "city": "Thale",
-        "district": "Sachsen-Anhalt",
         "country": "Niemcy",
         "price per night": 318.0,
         "number of amenities": 36,
@@ -1833,7 +1832,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Sachsen-Anhalt"
     },
     {
         "name": "75m\u00b2apartament Harzer Wanderimkerei",
@@ -1841,7 +1841,6 @@
         "general rating": 5.0,
         "number of guests": 5,
         "city": "Ballenstedt",
-        "district": "Sachsen-Anhalt",
         "country": "Niemcy",
         "price per night": 158.0,
         "number of amenities": 54,
@@ -1850,7 +1849,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen-Anhalt"
     },
     {
         "name": "Pi\u0119kny dom wakacyjny z saun\u0105 w Krummendeich",
@@ -1858,7 +1858,6 @@
         "general rating": 4.96,
         "number of guests": 3,
         "city": "Krummendeich",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 22,
@@ -1867,7 +1866,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Wagon cyrkowy w przyrodzie nad Egertal",
@@ -1875,7 +1875,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Thierstein",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 25,
@@ -1884,7 +1883,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bayern"
     },
     {
         "name": "Sielankowy pobyt w gospodarstwie agroturystycznym w M\u00fcnsterland",
@@ -1892,7 +1892,6 @@
         "general rating": 4.99,
         "number of guests": null,
         "city": "Greven",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 136.0,
         "number of amenities": 49,
@@ -1901,7 +1900,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "Apartament w rezerwacie przyrody i blisko miasta",
@@ -1909,7 +1909,6 @@
         "general rating": 4.75,
         "number of guests": 6,
         "city": "Limbach-Oberfrohna",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 113.0,
         "number of amenities": 40,
@@ -1918,7 +1917,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sachsen"
     },
     {
         "name": "Udaj si\u0119 na wycieczk\u0119 do Altmark, \nKonikhof.",
@@ -1926,7 +1926,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Baben",
-        "district": "Sachsen-Anhalt",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 49,
@@ -1935,7 +1934,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Sachsen-Anhalt"
     },
     {
         "name": "Domek chatki",
@@ -1943,7 +1943,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Glash\u00fctte",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 21,
@@ -1952,7 +1951,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen"
     },
     {
         "name": "pi\u0119kna drewniana stodo\u0142a w ma\u0142ym gospodarstwie g\u00f3rskim",
@@ -1960,7 +1960,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "H\u00e4g-Ehrsberg",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 113.0,
         "number of amenities": 36,
@@ -1969,7 +1968,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Przytulny samoch\u00f3d budowlany na \u015brodku \u0142\u0105ki",
@@ -1977,7 +1977,6 @@
         "general rating": 4.81,
         "number of guests": 2,
         "city": "L\u00fctjensee",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 136.0,
         "number of amenities": 12,
@@ -1986,7 +1985,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Apartament Annelies z panoramicznym tarasem s\u0142onecznym",
@@ -1994,7 +1994,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Arnbruck",
-        "district": "BY",
         "country": "Niemcy",
         "price per night": 182.0,
         "number of amenities": 38,
@@ -2003,7 +2002,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "BY"
     },
     {
         "name": "Landhaus \" Weite Marsch \" Ferienwohnung West",
@@ -2011,7 +2011,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Norden",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 250.0,
         "number of amenities": 36,
@@ -2020,7 +2019,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Niedersachsen"
     },
     {
         "name": "Zakwaterowanie na wsi",
@@ -2028,7 +2028,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Br\u00f6bberow",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 186.0,
         "number of amenities": 38,
@@ -2037,7 +2036,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Pi\u0119kny ma\u0142y domek w spokojnym lesie idylla",
@@ -2045,7 +2045,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "Bad Saarow",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 477.0,
         "number of amenities": 56,
@@ -2054,7 +2053,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Brandenburgia"
     },
     {
         "name": "przytulny apartament w tradycyjnym domu rustykalnym",
@@ -2062,7 +2062,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Gro\u00df-Wokern",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 208.0,
         "number of amenities": 52,
@@ -2071,7 +2070,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Villa Kunterbunt - nostalgiczny pok\u00f3j",
@@ -2079,7 +2079,6 @@
         "general rating": 4.46,
         "number of guests": null,
         "city": "Kronshagen",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 291.0,
         "number of amenities": 58,
@@ -2088,7 +2087,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Wiejska rustykalna stodo\u0142a z napalonym widokiem na \u017cwir",
@@ -2096,7 +2096,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Achern",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 159.0,
         "number of amenities": 42,
@@ -2105,7 +2104,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Mikro apartament w Binz - elegancki i tani",
@@ -2113,7 +2113,6 @@
         "general rating": 4.74,
         "number of guests": 2,
         "city": "Binz",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 295.0,
         "number of amenities": 24,
@@ -2122,7 +2121,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Do\u015bwiadczenia przyrodnicze - dzia\u0142ania bliskie przyrodzie i kulturze",
@@ -2130,7 +2130,6 @@
         "general rating": 4.75,
         "number of guests": 2,
         "city": "Lenzkirch",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 23,
@@ -2139,7 +2138,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "przytulny apartament w tradycyjnym domu rustykalnym",
@@ -2147,7 +2147,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Gro\u00df-Wokern",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 208.0,
         "number of amenities": 52,
@@ -2156,7 +2155,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Villa Kunterbunt - nostalgiczny pok\u00f3j",
@@ -2164,7 +2164,6 @@
         "general rating": 4.46,
         "number of guests": null,
         "city": "Kronshagen",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 291.0,
         "number of amenities": 58,
@@ -2173,7 +2172,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Wiejska rustykalna stodo\u0142a z napalonym widokiem na \u017cwir",
@@ -2181,7 +2181,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Achern",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 159.0,
         "number of amenities": 42,
@@ -2190,7 +2189,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Mikro apartament w Binz - elegancki i tani",
@@ -2198,7 +2198,6 @@
         "general rating": 4.74,
         "number of guests": 2,
         "city": "Binz",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 295.0,
         "number of amenities": 24,
@@ -2207,7 +2206,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Do\u015bwiadczenia przyrodnicze - dzia\u0142ania bliskie przyrodzie i kulturze",
@@ -2215,7 +2215,6 @@
         "general rating": 4.75,
         "number of guests": 2,
         "city": "Lenzkirch",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 23,
@@ -2224,7 +2223,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Zabawny dom marynarza",
@@ -2232,7 +2232,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Prien am Chiemsee",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 177.0,
         "number of amenities": 29,
@@ -2241,7 +2240,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "W\u00f3zek do budowy \u0142\u0105ki owczej, tu\u017c nad \u0141ab\u0105",
@@ -2249,7 +2249,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Neu Bleckede",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 159.0,
         "number of amenities": 67,
@@ -2258,7 +2257,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Niedersachsen"
     },
     {
         "name": "Ma\u0142y apartament w SN z \u0142odzi\u0105 wios\u0142ow\u0105",
@@ -2266,7 +2266,6 @@
         "general rating": 4.7,
         "number of guests": 2,
         "city": "Alt Schwerin",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 14,
@@ -2275,7 +2274,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Sekretna wskaz\u00f3wka: Ciesz si\u0119 \u017cyciem przy bramach Hamburga!",
@@ -2283,7 +2283,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Neu Wulmstorf",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 268.0,
         "number of amenities": 46,
@@ -2292,7 +2291,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Dom wakacyjny Mimi na Achterwasser, wyspa Usedom C",
@@ -2300,7 +2300,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Benz",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 16,
@@ -2309,7 +2308,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Darss - Morze Ba\u0142tyckie - Dierhagen/Seezimmer 2",
@@ -2317,7 +2317,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Dierhagen",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 329.0,
         "number of amenities": 30,
@@ -2326,7 +2325,8 @@
         "communication rating": 4.7,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Apartament w pobli\u017cu przyrody w G\u00f3rach Wielkanocnych",
@@ -2334,7 +2334,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Geising",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 213.0,
         "number of amenities": 28,
@@ -2343,7 +2342,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen"
     },
     {
         "name": "Dom letniskowy * widok na las * z doskona\u0142ymi widokami",
@@ -2351,7 +2351,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": "Spiegelau",
-        "district": "BY",
         "country": "Niemcy",
         "price per night": 300.0,
         "number of amenities": 55,
@@ -2360,7 +2359,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "BY"
     },
     {
         "name": "Oaza na wrzosowisku",
@@ -2368,7 +2368,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Quickborn",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 146.0,
         "number of amenities": 65,
@@ -2377,7 +2376,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Ma\u0142a, ale doskona\u0142a \u0142\u00f3d\u017a w porcie miejskim Rostock",
@@ -2385,7 +2385,6 @@
         "general rating": 4.83,
         "number of guests": 2,
         "city": "Rostock",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 233.0,
         "number of amenities": 24,
@@ -2394,7 +2393,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Domek letniskowy Wannsee w Berlinie",
@@ -2402,7 +2402,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Berlin",
-        "district": null,
         "country": "Niemcy",
         "price per night": 415.0,
         "number of amenities": 62,
@@ -2411,7 +2410,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": null
     },
     {
         "name": "Mieszkanie w pobli\u017cu Dunaju i Walhalli przy chrzcie Dunaju",
@@ -2419,7 +2419,6 @@
         "general rating": 4.93,
         "number of guests": 6,
         "city": "Donaustauf",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 250.0,
         "number of amenities": 59,
@@ -2428,7 +2427,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Wiejskie wakacje w historycznym osiedlu z basenem",
@@ -2436,7 +2436,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Mechelroda",
-        "district": "Turyngia",
         "country": "Niemcy",
         "price per night": 177.0,
         "number of amenities": 53,
@@ -2445,7 +2444,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Turyngia"
     },
     {
         "name": "Ma\u0142e gospodarstwo w L\u00fctjensee z jazd\u0105 konn\u0105",
@@ -2453,7 +2453,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "L\u00fctjensee",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 200.0,
         "number of amenities": 39,
@@ -2462,7 +2461,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Stodo\u0142a \"Old Village School\" w Hindenbergu",
@@ -2470,7 +2470,6 @@
         "general rating": 4.97,
         "number of guests": 3,
         "city": "Lindow (Mark)",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 318.0,
         "number of amenities": 15,
@@ -2479,7 +2478,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "Gem\u00fctliche Wohnung, Balkon, Garten, Feuerschale",
@@ -2487,7 +2487,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Ronshausen",
-        "district": "Hessen",
         "country": "Niemcy",
         "price per night": 198.0,
         "number of amenities": 37,
@@ -2496,7 +2495,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Hessen"
     },
     {
         "name": "Pok\u00f3j dla maksymalnie 3 os\u00f3b",
@@ -2504,7 +2504,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": "Grebenau",
-        "district": "Hessen",
         "country": "Niemcy",
         "price per night": 99.0,
         "number of amenities": 52,
@@ -2513,7 +2512,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Hessen"
     },
     {
         "name": "Studio apartament w Villa Blau",
@@ -2521,7 +2521,6 @@
         "general rating": 4.76,
         "number of guests": 4,
         "city": "Gohrisch",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 232.0,
         "number of amenities": 25,
@@ -2530,7 +2529,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Sachsen"
     },
     {
         "name": "Czysta sielanka i spok\u00f3j! Nieco inna kabina!",
@@ -2538,7 +2538,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "Heidesee",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 266.0,
         "number of amenities": 44,
@@ -2547,7 +2546,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "Domy wakacyjne w Wieck",
@@ -2555,7 +2555,6 @@
         "general rating": 4.83,
         "number of guests": 3,
         "city": "Greifswald",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 288.0,
         "number of amenities": 23,
@@ -2564,7 +2563,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "du\u017cy pok\u00f3j z przednim ogrodem",
@@ -2572,7 +2572,6 @@
         "general rating": 4.8,
         "number of guests": null,
         "city": "Geretsried",
-        "district": "BY",
         "country": "Niemcy",
         "price per night": 159.0,
         "number of amenities": 30,
@@ -2581,7 +2580,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "BY"
     },
     {
         "name": "Apartament Sunshine w Bawarii",
@@ -2589,7 +2589,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Sankt Englmar",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 250.0,
         "number of amenities": 37,
@@ -2598,7 +2597,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Du\u017cy 1.5 Pok\u00f3j \u201cBock\u201c+ jadalnia i prywatny balkon",
@@ -2606,7 +2606,6 @@
         "general rating": 4.66,
         "number of guests": null,
         "city": "Sch\u00f6nau am K\u00f6nigssee",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 272.0,
         "number of amenities": 28,
@@ -2615,7 +2614,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Bayern"
     },
     {
         "name": "1 Donaueschingen/Aufen Rustykalny i cichy",
@@ -2623,7 +2623,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Donaueschingen",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 272.0,
         "number of amenities": 42,
@@ -2632,7 +2631,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Eifelsteig \u2665 TV Netflix \u2600 Pi\u0119kny ogr\u00f3d i kuchnia",
@@ -2640,7 +2640,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Gerolstein",
-        "district": "Rheinland-Pfalz",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 44,
@@ -2649,7 +2648,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Rheinland-Pfalz"
     },
     {
         "name": "Pok\u00f3j 6 w North Black Forest",
@@ -2657,7 +2657,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Bad Herrenalb",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 91.0,
         "number of amenities": 10,
@@ -2666,7 +2665,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "domek w rezerwacie biosfery Schorfheide/Chorin",
@@ -2674,7 +2674,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Flieth-Stegelitz",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 386.0,
         "number of amenities": 27,
@@ -2683,7 +2682,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Brandenburgia"
     },
     {
         "name": "100% relaks, spok\u00f3j, czysta przyroda",
@@ -2691,7 +2691,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Olbersdorf",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 182.0,
         "number of amenities": 21,
@@ -2700,7 +2699,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen"
     },
     {
         "name": "Prywatny pok\u00f3j na Langeoog, DZ z widokiem na pla\u017c\u0119",
@@ -2708,7 +2708,6 @@
         "general rating": 4.69,
         "number of guests": null,
         "city": "Langeoog",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 132.0,
         "number of amenities": 28,
@@ -2717,7 +2716,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Niedersachsen"
     },
     {
         "name": "Domek Mimi na Achterwasser, wyspa Usedom  J",
@@ -2725,7 +2725,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Benz",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 228.0,
         "number of amenities": 23,
@@ -2734,7 +2733,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Przytulne \u017cycie z ciep\u0142\u0105 go\u015bcinno\u015bci\u0105.",
@@ -2742,7 +2742,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Klein Gladebr\u00fcgge",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 150.0,
         "number of amenities": 32,
@@ -2751,7 +2750,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Przytulny apartament z kominkiem i widokiem na g\u00f3ry",
@@ -2759,7 +2759,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Benediktbeuern",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 272.0,
         "number of amenities": 29,
@@ -2768,7 +2767,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "cichy pok\u00f3j, prywatna \u0142azienka i widok na okolic\u0119",
@@ -2776,7 +2776,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Dannenberg (Elbe)",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 159.0,
         "number of amenities": 38,
@@ -2785,7 +2784,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Privatzi. Langeoog: DZ (\u0142\u00f3\u017cko 1.40 br.) Uczucie pla\u017cy",
@@ -2793,7 +2793,6 @@
         "general rating": 4.7,
         "number of guests": null,
         "city": "Langeoog",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 132.0,
         "number of amenities": 26,
@@ -2802,7 +2801,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Niedersachsen"
     },
     {
         "name": "\u017bycie jak w zamku",
@@ -2810,7 +2810,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Monachium",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 236.0,
         "number of amenities": 45,
@@ -2819,7 +2818,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Lindenhauseschen",
@@ -2827,7 +2827,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Ennepetal",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 175.0,
         "number of amenities": 36,
@@ -2836,7 +2835,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "Drewniany domek w idyllicznym naturalnym parku",
@@ -2844,7 +2844,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Waldsieversdorf",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 404.0,
         "number of amenities": 51,
@@ -2853,7 +2852,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Brandenburgia"
     },
     {
         "name": "Dach-Wo Haus Waltraud - Zobacz Falkenstein",
@@ -2861,7 +2861,6 @@
         "general rating": 4.91,
         "number of guests": 3,
         "city": "Pfronten",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 191.0,
         "number of amenities": 29,
@@ -2870,7 +2869,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Osio\u0142 wakacje na wsi",
@@ -2878,7 +2878,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Lindow (Mark)",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 344.0,
         "number of amenities": 20,
@@ -2887,7 +2886,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "W\u00f3zki budowlane na \u015bcie\u017cce rowerowej",
@@ -2895,7 +2895,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Oderaue",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 250.0,
         "number of amenities": 42,
@@ -2904,7 +2903,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "Prawo na winnicy w samym sercu Sasbachwalden",
@@ -2912,7 +2912,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Sasbachwalden",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 147.0,
         "number of amenities": 27,
@@ -2921,7 +2920,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Dom Clemens - Przytulny drewniany dom z nieruchomo\u015bci\u0105",
@@ -2929,7 +2929,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "K\u00f6nigs Wusterhausen",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 431.0,
         "number of amenities": 68,
@@ -2938,7 +2937,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Brandenburgia"
     },
     {
         "name": "Pok\u00f3j 3",
@@ -2946,7 +2946,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Burgkirchen an der Alz",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 119.0,
         "number of amenities": 75,
@@ -2955,7 +2954,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bayern"
     },
     {
         "name": "Przytulny dom letniskowy w S\u00e4chsische Schweiz",
@@ -2963,7 +2963,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Bad Schandau",
-        "district": "Saksonia",
         "country": "Niemcy",
         "price per night": 285.0,
         "number of amenities": 24,
@@ -2972,7 +2971,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Saksonia"
     },
     {
         "name": "Dom wakacyjny nad Duschlbergiem (Altreichenau)",
@@ -2980,7 +2980,6 @@
         "general rating": 4.98,
         "number of guests": 5,
         "city": "Neureichenau",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 10,
@@ -2989,7 +2988,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Pokoje w domu jednorodzinnym w spokojnej okolicy z basenem",
@@ -2997,7 +2997,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Ziltendorf",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 113.0,
         "number of amenities": 32,
@@ -3006,7 +3005,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "Pension Gr\u00fcntensee 4",
@@ -3014,7 +3014,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Oy-Mittelberg",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 17,
@@ -3023,7 +3022,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bayern"
     },
     {
         "name": "Odkrywanie przyrody - przytulne \u017cycie",
@@ -3031,7 +3031,6 @@
         "general rating": 4.83,
         "number of guests": 2,
         "city": "Wittstock/Dosse",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 25,
@@ -3040,7 +3039,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "Forest Location Studio",
@@ -3048,7 +3048,6 @@
         "general rating": 4.75,
         "number of guests": 8,
         "city": "Michendorf",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 213.0,
         "number of amenities": 17,
@@ -3057,7 +3056,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "Sternenausblick/DZ... Oberstdorf/Tiefenbach",
@@ -3065,7 +3065,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Oberstdorf",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 290.0,
         "number of amenities": 33,
@@ -3074,7 +3073,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bayern"
     },
     {
         "name": "Chatka Gei\u00dfler",
@@ -3082,7 +3082,6 @@
         "general rating": 4.81,
         "number of guests": 5,
         "city": "Oderwitz",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 159.0,
         "number of amenities": 45,
@@ -3091,7 +3090,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen"
     },
     {
         "name": "Pok\u00f3j Haus Eifelblick  na parterze",
@@ -3099,7 +3099,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "D\u00fcren",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 118.0,
         "number of amenities": 47,
@@ -3108,7 +3107,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "Dom murowany - osio\u0142 mieszkanie",
@@ -3116,7 +3116,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "Gerswalde",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 195.0,
         "number of amenities": 13,
@@ -3125,7 +3124,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "Prywatny pok\u00f3j Langeoog: DZ z widokiem",
@@ -3133,7 +3133,6 @@
         "general rating": 4.75,
         "number of guests": null,
         "city": "Langeoog",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 132.0,
         "number of amenities": 28,
@@ -3142,7 +3141,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Niedersachsen"
     },
     {
         "name": "Przytulny apartament, g\u00f3rska kryj\u00f3wka w Kattersdorf",
@@ -3150,7 +3150,6 @@
         "general rating": 4.54,
         "number of guests": 3,
         "city": "Regen",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 127.0,
         "number of amenities": 32,
@@ -3159,7 +3158,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bayern"
     },
     {
         "name": "Bungalow Mohnblume nad jeziorem",
@@ -3167,7 +3167,6 @@
         "general rating": 4.86,
         "number of guests": 3,
         "city": "Gerswalde",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 310.0,
         "number of amenities": 32,
@@ -3176,7 +3175,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Brandenburgia"
     },
     {
         "name": "Pok\u00f3j z rozsuwanym \u0142\u00f3\u017ckiem, oddzieln\u0105 toalet\u0105 i umywalk\u0105",
@@ -3184,7 +3184,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Oberaudorf",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 154.0,
         "number of amenities": 69,
@@ -3193,7 +3192,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bayern"
     },
     {
         "name": "Zakwaterowanie w schronisku, pok\u00f3j 5",
@@ -3201,7 +3201,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Edingen-Neckarhausen",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 123.0,
         "number of amenities": 26,
@@ -3210,7 +3209,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "W domu w Kolonii! Najlepsze !",
@@ -3218,7 +3218,6 @@
         "general rating": 4.26,
         "number of guests": null,
         "city": "Kolonia",
-        "district": "North Rhine-Westphalia",
         "country": "Niemcy",
         "price per night": 93.0,
         "number of amenities": 40,
@@ -3227,7 +3226,8 @@
         "communication rating": 4.7,
         "location rating": 4.2,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "North Rhine-Westphalia"
     },
     {
         "name": "Przyczepa wiejska idylla z jeziorem",
@@ -3235,7 +3235,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Neuhardenberg",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 181.0,
         "number of amenities": 43,
@@ -3244,7 +3243,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "Dla przyjaci\u00f3\u0142 natury",
@@ -3252,7 +3252,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Weitnau",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 127.0,
         "number of amenities": 27,
@@ -3261,7 +3260,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bayern"
     },
     {
         "name": "Zachwycaj\u0105cy pok\u00f3j dwuosobowy, aby czu\u0107 si\u0119 dobrze",
@@ -3269,7 +3269,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Berlin",
-        "district": null,
         "country": "Niemcy",
         "price per night": 154.0,
         "number of amenities": 37,
@@ -3278,7 +3277,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Eifel Home",
@@ -3286,7 +3286,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Ettringen",
-        "district": "Rheinland-Pfalz",
         "country": "Niemcy",
         "price per night": 91.0,
         "number of amenities": 63,
@@ -3295,7 +3294,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Rheinland-Pfalz"
     },
     {
         "name": "Ma\u0142y prosty i przytulny apartament",
@@ -3303,7 +3303,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Driedorf",
-        "district": "Hessen",
         "country": "Niemcy",
         "price per night": 160.0,
         "number of amenities": 22,
@@ -3312,7 +3311,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Hessen"
     },
     {
         "name": "Prosty pok\u00f3j w zabytkowym zaje\u017adzie",
@@ -3320,7 +3320,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Rattelsdorf",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 91.0,
         "number of amenities": 7,
@@ -3329,7 +3328,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Pok\u00f3j go\u015bcinny z urokiem/pok\u00f3j I 27m^2",
@@ -3337,7 +3337,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "K\u00f6nigsbronn",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 150.0,
         "number of amenities": 73,
@@ -3346,7 +3345,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Przytulny bungalow w Saskiej Szwajcarii",
@@ -3354,7 +3354,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Hohnstein",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 213.0,
         "number of amenities": 25,
@@ -3363,7 +3362,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Sachsen"
     },
     {
         "name": "Nieruchomo\u015bci na skraju Spreewald",
@@ -3371,7 +3371,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Heideblick",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 263.0,
         "number of amenities": 27,
@@ -3380,7 +3379,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Brandenburgia"
     },
     {
         "name": "Przytulna idylla country",
@@ -3388,7 +3388,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "B\u00f6sdorf",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 168.0,
         "number of amenities": 18,
@@ -3397,7 +3396,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Landhaus Dornbusch ko\u0142o Bad Freienwalde (Odra)",
@@ -3405,7 +3405,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Bad Freienwalde (Oder)",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 136.0,
         "number of amenities": 37,
@@ -3414,7 +3413,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "B&B \" Hof auf Holland \"",
@@ -3422,7 +3422,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Kleve",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 51,
@@ -3431,7 +3430,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "OderKate - Marina Winterhafen-am Oder-Nei\u00dfe-Radweg",
@@ -3439,7 +3439,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Frankfurt (n. Odr\u0105)",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 76.0,
         "number of amenities": 50,
@@ -3448,7 +3447,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Brandenburgia"
     },
     {
         "name": "Idealna lokalizacja -  Pok\u00f3j w apartamencie artysty",
@@ -3456,7 +3456,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Kaufbeuren",
-        "district": "Bawaria",
         "country": "Niemcy",
         "price per night": 136.0,
         "number of amenities": 31,
@@ -3465,7 +3464,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bawaria"
     },
     {
         "name": "Apartment Jadeleh w Dangast w National Park House",
@@ -3473,7 +3473,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "Varel",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 204.0,
         "number of amenities": 26,
@@ -3482,7 +3481,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Ferie na Morzu P\u00f3\u0142nocnym",
@@ -3490,7 +3490,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Neukirchen",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 145.0,
         "number of amenities": 21,
@@ -3499,7 +3498,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Apartament TYLKO 800 metr\u00f3w do piaszczystej pla\u017cy",
@@ -3507,7 +3507,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Vogelsang-Warsin",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 337.0,
         "number of amenities": 51,
@@ -3516,7 +3515,8 @@
         "communication rating": 5.0,
         "location rating": 4.4,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "przytulny domek parterowy Rudi z przestrzeni\u0105 na zewn\u0105trz w lesie",
@@ -3524,7 +3524,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Rabenstein/Fl\u00e4ming",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 255.0,
         "number of amenities": 35,
@@ -3533,7 +3532,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "K\u00e4gsdorf pla\u017ca 2",
@@ -3541,7 +3541,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "K\u00e4gsdorf",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 250.0,
         "number of amenities": 34,
@@ -3550,7 +3549,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Prywatny pok\u00f3j | Rheingau Apartment",
@@ -3558,7 +3558,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "R\u00fcdesheim am Rhein",
-        "district": "HE",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 19,
@@ -3567,7 +3566,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "HE"
     },
     {
         "name": "Idealne dla rowerzyst\u00f3w - Urige Fewo z du\u017cym ogrodem",
@@ -3575,7 +3575,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "Gransee",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 222.0,
         "number of amenities": 36,
@@ -3584,7 +3583,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "Zamieszkaj w kamiennym kowalu",
@@ -3592,7 +3592,6 @@
         "general rating": 4.89,
         "number of guests": 4,
         "city": "Luckau",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 218.0,
         "number of amenities": 25,
@@ -3601,7 +3600,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "Wyjed\u017a na wie\u015b",
@@ -3609,7 +3609,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Rhauderfehn",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 313.0,
         "number of amenities": 39,
@@ -3618,7 +3617,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Apartament go\u015bcinny na skraju lasu, tymczasowe wyj\u015bcie",
@@ -3626,7 +3626,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "Heideblick",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 281.0,
         "number of amenities": 53,
@@ -3635,7 +3634,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Brandenburgia"
     },
     {
         "name": "Widok na jezioro",
@@ -3643,7 +3643,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "\u00d6hningen",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 44,
@@ -3652,7 +3651,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Bawarski las | Szlak 4",
@@ -3660,7 +3660,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Geiersthal",
-        "district": "Bawaria",
         "country": "Niemcy",
         "price per night": 254.0,
         "number of amenities": 17,
@@ -3669,7 +3668,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bawaria"
     },
     {
         "name": "Widok na jezioro",
@@ -3677,7 +3677,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "\u00d6hningen",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 227.0,
         "number of amenities": 44,
@@ -3686,7 +3685,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Bawarski las | Szlak 4",
@@ -3694,7 +3694,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Geiersthal",
-        "district": "Bawaria",
         "country": "Niemcy",
         "price per night": 254.0,
         "number of amenities": 17,
@@ -3703,7 +3702,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bawaria"
     },
     {
         "name": "Perle am Stich (5 min. do jeziora)",
@@ -3711,7 +3711,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Zehdenick",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 228.0,
         "number of amenities": 41,
@@ -3720,7 +3719,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Brandenburgia"
     },
     {
         "name": "Wynajem wakacyjny Medard",
@@ -3728,7 +3728,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "Medard",
-        "district": "Rheinland-Pfalz",
         "country": "Niemcy",
         "price per night": 133.0,
         "number of amenities": 10,
@@ -3737,7 +3736,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Rheinland-Pfalz"
     },
     {
         "name": "roomsforfriends #7 Pok\u00f3j dwuosobowy na p\u00f3\u0142nocy",
@@ -3745,7 +3745,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Norden",
-        "district": "Dolna Saksonia",
         "country": "Niemcy",
         "price per night": 182.0,
         "number of amenities": 31,
@@ -3754,7 +3753,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Dolna Saksonia"
     },
     {
         "name": "Ma\u0142y apartament dla os\u00f3b podr\u00f3\u017cuj\u0105cych tranzytem",
@@ -3762,7 +3762,6 @@
         "general rating": 4.89,
         "number of guests": 5,
         "city": "Siegenburg",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 136.0,
         "number of amenities": 60,
@@ -3771,7 +3770,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bayern"
     },
     {
         "name": "Przytulny apartament 2-pokojowy w Hartenstein",
@@ -3779,7 +3779,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Hartenstein",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 96.0,
         "number of amenities": 14,
@@ -3788,7 +3787,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Sachsen"
     },
     {
         "name": "Apartament wakacyjny z 2 sypialniami - centralna lokalizacja",
@@ -3796,7 +3796,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Lohsa",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 182.0,
         "number of amenities": 31,
@@ -3805,7 +3804,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sachsen"
     },
     {
         "name": "Bike & Hiking Lodge w samym sercu Fichtelgebirge",
@@ -3813,7 +3813,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Nagel",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 413.0,
         "number of amenities": 60,
@@ -3822,7 +3821,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bayern"
     },
     {
         "name": "Kemping w gem\u00fctlichem Tiny House",
@@ -3830,7 +3830,6 @@
         "general rating": 4.25,
         "number of guests": 5,
         "city": "Bermatingen",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 368.0,
         "number of amenities": 43,
@@ -3839,7 +3838,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 5.0,
-        "value rating": 4.0
+        "value rating": 4.0,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Seebude 74",
@@ -3847,7 +3847,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Basedow",
-        "district": "Meklemburgia-Pomorze Przednie",
         "country": "Niemcy",
         "price per night": 286.0,
         "number of amenities": 30,
@@ -3856,7 +3855,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Meklemburgia-Pomorze Przednie"
     },
     {
         "name": "Ma\u0142y domek nad rzek\u0105 w g\u00f3rach Harz",
@@ -3864,7 +3864,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Thale",
-        "district": "Sachsen-Anhalt",
         "country": "Niemcy",
         "price per night": 404.0,
         "number of amenities": 49,
@@ -3873,7 +3872,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Sachsen-Anhalt"
     },
     {
         "name": "Apartament w piwnicy z prywatn\u0105 \u0142azienk\u0105 i kuchni\u0105",
@@ -3881,7 +3881,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Maitenbeth",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 149.0,
         "number of amenities": 32,
@@ -3890,7 +3889,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bayern"
     },
     {
         "name": "przytulny domek ogrodowy \u201eWalnut Cottage\u201d w Effeld",
@@ -3898,7 +3898,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Wassenberg",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 160.0,
         "number of amenities": 30,
@@ -3907,7 +3906,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "Centralne, historyczne: M\u00fchlentorstudio",
@@ -3915,7 +3915,6 @@
         "general rating": 4.76,
         "number of guests": 2,
         "city": "L\u00fcbeck",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 135.0,
         "number of amenities": 27,
@@ -3924,7 +3923,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "\u2600\ufe0f Birkenh\u00fctte\u2600\ufe0f",
@@ -3932,7 +3932,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Sebnitz",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 281.0,
         "number of amenities": 44,
@@ -3941,7 +3940,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sachsen"
     },
     {
         "name": "Nowy ,pi\u0119kny  apartament z 2 tarasami",
@@ -3949,7 +3949,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "H\u00f6slwang",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 236.0,
         "number of amenities": 17,
@@ -3958,7 +3957,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Pi\u0119kny 1-pokojowy apartament, B\u00fcsum (4 km) Morze P\u00f3\u0142nocne",
@@ -3966,7 +3966,6 @@
         "general rating": 4.95,
         "number of guests": 3,
         "city": "Oesterdeichstrich",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 222.0,
         "number of amenities": 52,
@@ -3975,7 +3974,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Ma\u0142y domek, aby poczu\u0107 si\u0119 dobrze",
@@ -3983,7 +3983,6 @@
         "general rating": 4.95,
         "number of guests": 3,
         "city": "Tellingstedt",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 138.0,
         "number of amenities": 32,
@@ -3992,7 +3991,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Nowy ,pi\u0119kny  apartament z 2 tarasami",
@@ -4000,7 +4000,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "H\u00f6slwang",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 236.0,
         "number of amenities": 17,
@@ -4009,7 +4008,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     },
     {
         "name": "Pi\u0119kny 1-pokojowy apartament, B\u00fcsum (4 km) Morze P\u00f3\u0142nocne",
@@ -4017,7 +4017,6 @@
         "general rating": 4.95,
         "number of guests": 3,
         "city": "Oesterdeichstrich",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 222.0,
         "number of amenities": 52,
@@ -4026,7 +4025,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Pok\u00f3j prywatne wej\u015bcie w pobli\u017cu Phantasialand 2.Room",
@@ -4034,7 +4034,6 @@
         "general rating": 4.76,
         "number of guests": null,
         "city": "Br\u00fchl",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 109.0,
         "number of amenities": 23,
@@ -4043,7 +4042,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "Dom w otoczeniu przyrody",
@@ -4051,7 +4051,6 @@
         "general rating": 4.77,
         "number of guests": null,
         "city": "Geestland",
-        "district": "Niedersachsen",
         "country": "Niemcy",
         "price per night": 166.0,
         "number of amenities": 13,
@@ -4060,7 +4059,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Niedersachsen"
     },
     {
         "name": "Przytulno\u015b\u0107 w\u201eStarej Szkole\u201d Wollschow",
@@ -4068,7 +4068,6 @@
         "general rating": 4.91,
         "number of guests": 6,
         "city": "Br\u00fcssow",
-        "district": "Brandenburgia",
         "country": "Niemcy",
         "price per night": 163.0,
         "number of amenities": 29,
@@ -4077,7 +4076,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Brandenburgia"
     },
     {
         "name": "Przytulny, cichy  pok\u00f3j w centralnej lokalizacji",
@@ -4085,7 +4085,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Grafing bei M\u00fcnchen",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 135.0,
         "number of amenities": 16,
@@ -4094,7 +4093,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bayern"
     },
     {
         "name": "Urocza 1 sypialnia z prywatn\u0105 \u0142azienk\u0105.",
@@ -4102,7 +4102,6 @@
         "general rating": 4.71,
         "number of guests": null,
         "city": "Driedorf",
-        "district": "Hessen",
         "country": "Niemcy",
         "price per night": 118.0,
         "number of amenities": 16,
@@ -4111,7 +4110,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Hessen"
     },
     {
         "name": "L\u00d6WENHAINER - T\u0118TNI\u0104CY \u017bYCIEM APARTAMENT",
@@ -4119,7 +4119,6 @@
         "general rating": 4.94,
         "number of guests": 6,
         "city": "Altenberg",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 340.0,
         "number of amenities": 49,
@@ -4128,7 +4127,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen"
     },
     {
         "name": "Przytulny apartament 5min od dworca kolejowego Zell i.W.",
@@ -4136,7 +4136,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "Zell im Wiesental",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 200.0,
         "number of amenities": 39,
@@ -4145,7 +4144,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Pok\u00f3j wakacyjny w przytulnej idylli wsi",
@@ -4153,7 +4153,6 @@
         "general rating": 4.8,
         "number of guests": null,
         "city": "Neuhausen ob Eck",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 100.0,
         "number of amenities": 24,
@@ -4162,7 +4161,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Prywatny pok\u00f3j w domu wolnostoj\u0105cym w pobli\u017cu Elbnbs",
@@ -4170,7 +4170,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Wedel",
-        "district": "Szlezwik-Holsztyn",
         "country": "Niemcy",
         "price per night": 207.0,
         "number of amenities": 46,
@@ -4179,7 +4178,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Szlezwik-Holsztyn"
     },
     {
         "name": "Pok\u00f3j w kolorze \u017c\u00f3\u0142tym Samodzielne zameldowanie po\u017c\u0105dany Sejf na klucze",
@@ -4187,7 +4187,6 @@
         "general rating": 4.77,
         "number of guests": null,
         "city": "Wilhelmsdorf",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 150.0,
         "number of amenities": 51,
@@ -4196,7 +4195,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Cichy zielony pok\u00f3j jednoosobowy",
@@ -4204,7 +4204,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Friedrichshafen",
-        "district": "Baden-W\u00fcrttemberg",
         "country": "Niemcy",
         "price per night": 112.0,
         "number of amenities": 26,
@@ -4213,7 +4212,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Baden-W\u00fcrttemberg"
     },
     {
         "name": "Ma\u0142y B & B w centrum \u015bwiata \ud83c\udf0e",
@@ -4221,7 +4221,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Schmallenberg",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 141.0,
         "number of amenities": 52,
@@ -4230,7 +4229,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "Przytulny pensjonat w idyllicznej lokalizacji",
@@ -4238,7 +4238,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Leichlingen (Rheinland)",
-        "district": "Nordrhein-Westfalen",
         "country": "Niemcy",
         "price per night": 177.0,
         "number of amenities": 36,
@@ -4247,7 +4246,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nordrhein-Westfalen"
     },
     {
         "name": "\u0142adny stary dom w pobli\u017cu lasu w naturze",
@@ -4255,7 +4255,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Oybin",
-        "district": "Sachsen",
         "country": "Niemcy",
         "price per night": 118.0,
         "number of amenities": 48,
@@ -4264,7 +4263,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sachsen"
     },
     {
         "name": "2-pokojowy apartament z prywatnym wej\u015bciem, balkonem i \u0142azienk\u0105",
@@ -4272,7 +4272,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "Bad Feilnbach",
-        "district": "Bayern",
         "country": "Niemcy",
         "price per night": 177.0,
         "number of amenities": 42,
@@ -4281,6 +4280,7 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bayern"
     }
 ]

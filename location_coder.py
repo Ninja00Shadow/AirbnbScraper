@@ -32,7 +32,7 @@ if __name__ == '__main__':
         location = ""
         if listing['city']:
             location = listing['city']
-            if region := listing['district']:
+            if region := listing['region']:
                 location += ', ' + region
             if country := listing['country']:
                 location += ', ' + country
@@ -49,6 +49,11 @@ if __name__ == '__main__':
             listing['longitude'] = location.longitude
             print(f"{location} - {location.latitude}, {location.longitude}")
 
+        del listing['city']
+        del listing['region']
+
         json.dump(data, open("data_with_coordinates.json", "w"), indent=4)
         time.sleep(1)
+
+    print("Done!")
 

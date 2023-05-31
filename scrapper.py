@@ -1,11 +1,8 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
-from selenium.webdriver.support.ui import WebDriverWait
 
 import ListingsPage
 import json
-
-import concurrent.futures
 
 
 def read_links(file_name):

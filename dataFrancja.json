@@ -5,7 +5,6 @@
         "general rating": 4.81,
         "number of guests": 5,
         "city": "Cotignac",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 590.0,
         "number of amenities": 47,
@@ -14,7 +13,8 @@
         "communication rating": 4.6,
         "location rating": 4.9,
         "check in rating": 4.7,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Zakwaterowanie zamk\u00f3w/Troglo 'riel",
@@ -22,7 +22,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Bourr\u00e9",
-        "district": "Centre-Val de Loire",
         "country": "Francja",
         "price per night": 418.0,
         "number of amenities": 30,
@@ -31,7 +30,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Centre-Val de Loire"
     },
     {
         "name": "Chata wisz\u0105ca",
@@ -39,7 +39,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Wargnies-le-Petit",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 763.0,
         "number of amenities": 5,
@@ -48,7 +47,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Hauts-de-France"
     },
     {
         "name": "Troglo-g\u00eete 15 min od Futuroscope !",
@@ -56,7 +56,6 @@
         "general rating": 4.97,
         "number of guests": 6,
         "city": "Jaunay-Marigny",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 794.0,
         "number of amenities": 50,
@@ -65,7 +64,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Prywatny pok\u00f3j nr2 w przytulnym domu",
@@ -73,7 +73,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "M\u00e9rignac",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 204.0,
         "number of amenities": 35,
@@ -82,7 +81,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "W odleg\u0142o\u015bci 100 metr\u00f3w znajduje si\u0119 EDEN-Exceptional-Mer-parking",
@@ -90,7 +90,6 @@
         "general rating": 4.74,
         "number of guests": 4,
         "city": "Canet-en-Roussillon",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 732.0,
         "number of amenities": 51,
@@ -99,7 +98,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.6,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Occitanie"
     },
     {
         "name": "Prywatny domek spa: Chez l 'Pierre",
@@ -107,7 +107,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Fraisans",
-        "district": "Bourgogne-Franche-Comt\u00e9",
         "country": "Francja",
         "price per night": 704.0,
         "number of amenities": 20,
@@ -116,7 +115,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bourgogne-Franche-Comt\u00e9"
     },
     {
         "name": "Loft nad morzem z dachem o ratingu prywatnym 5*",
@@ -124,7 +124,6 @@
         "general rating": 4.99,
         "number of guests": 3,
         "city": "Villeneuve-Loubet",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 2043.0,
         "number of amenities": 60,
@@ -133,7 +132,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Ekologiczny DOMEK w drewnie",
@@ -141,7 +141,6 @@
         "general rating": 4.89,
         "number of guests": 4,
         "city": "Viala-du-Tarn",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 327.0,
         "number of amenities": 47,
@@ -150,7 +149,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "Studio Rauly Castle Pool",
@@ -158,7 +158,6 @@
         "general rating": 4.83,
         "number of guests": 2,
         "city": "Monbazillac",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 454.0,
         "number of amenities": 25,
@@ -167,7 +166,8 @@
         "communication rating": 4.7,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Kabina Az Alom - Domek na drzewie Kabina na \u0142onie natury",
@@ -175,7 +175,6 @@
         "general rating": 4.41,
         "number of guests": 3,
         "city": "Guyonvelle",
-        "district": "Grand Est",
         "country": "Francja",
         "price per night": 536.0,
         "number of amenities": 9,
@@ -184,7 +183,8 @@
         "communication rating": 4.4,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Grand Est"
     },
     {
         "name": "Apartament Prince ze \u015bniadaniem",
@@ -192,7 +192,6 @@
         "general rating": 4.79,
         "number of guests": null,
         "city": "Tierc\u00e9",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 473.0,
         "number of amenities": 48,
@@ -201,7 +200,8 @@
         "communication rating": 4.7,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kraj Loary"
     },
     {
         "name": "Autentyczne proweniencyjne mieszkanie w samym sercu Cotignac",
@@ -209,7 +209,6 @@
         "general rating": 4.82,
         "number of guests": 3,
         "city": "Cotignac",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 340.0,
         "number of amenities": 41,
@@ -218,7 +217,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Gite \"L 'Escale Rigoulotte\"",
@@ -226,7 +226,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "Genouilly",
-        "district": "Bourgogne-Franche-Comt\u00e9",
         "country": "Francja",
         "price per night": 227.0,
         "number of amenities": 58,
@@ -235,7 +234,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bourgogne-Franche-Comt\u00e9"
     },
     {
         "name": "Appartement surplombant la plage de Bonne Source",
@@ -243,7 +243,6 @@
         "general rating": 4.74,
         "number of guests": 6,
         "city": "Pornichet",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 651.0,
         "number of amenities": 27,
@@ -252,7 +251,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.1
+        "value rating": 4.1,
+        "region": "Kraj Loary"
     },
     {
         "name": "Niezwyk\u0142a \u2764 ba\u0144ka nocnego kokonu \ud83c\udf1f",
@@ -260,7 +260,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Montbolo",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 522.0,
         "number of amenities": 36,
@@ -269,7 +268,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "Biarritz Grande Plage 25m2 z balkonem",
@@ -277,7 +277,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Biarritz",
-        "district": null,
         "country": "Francja",
         "price per night": 621.0,
         "number of amenities": 38,
@@ -286,7 +285,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": null
     },
     {
         "name": "Prywatny pok\u00f3j, wsp\u00f3lna kuchnia i salon",
@@ -294,7 +294,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "M\u00e9rindol",
-        "district": "Vaucluse",
         "country": "Francja",
         "price per night": 522.0,
         "number of amenities": 47,
@@ -303,7 +302,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Vaucluse"
     },
     {
         "name": "Studio w domku u podn\u00f3\u017ca stok\u00f3w  Menthi\u00e8res",
@@ -311,7 +311,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "CHEZERY FORENS",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 37,
@@ -320,7 +319,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Domek napoleo\u0144ski w Jurze Wysokiej",
@@ -328,7 +328,6 @@
         "general rating": 4.98,
         "number of guests": 3,
         "city": "\u00c9tival",
-        "district": "Bourgogne-Franche-Comt\u00e9",
         "country": "Francja",
         "price per night": 386.0,
         "number of amenities": 35,
@@ -337,7 +336,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bourgogne-Franche-Comt\u00e9"
     },
     {
         "name": "Apartament Marquis ze \u015bniadaniem",
@@ -345,7 +345,6 @@
         "general rating": 4.57,
         "number of guests": 2,
         "city": "Tierc\u00e9",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 377.0,
         "number of amenities": 46,
@@ -354,7 +353,8 @@
         "communication rating": 4.6,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Kraj Loary"
     },
     {
         "name": "Apartament Chateau La Bainerie-Queen ze \u015bniadaniem",
@@ -362,7 +362,6 @@
         "general rating": 4.8,
         "number of guests": null,
         "city": "Tierc\u00e9",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 577.0,
         "number of amenities": 53,
@@ -371,7 +370,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.6,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Kraj Loary"
     },
     {
         "name": "Witaj;Parking-AC-metro-center",
@@ -379,7 +379,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Tuluza",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 287.0,
         "number of amenities": 51,
@@ -388,7 +387,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "\u0141\u00f3d\u017a mieszkalna w Prowansji, nad rzek\u0105 Rh\u00f4ne",
@@ -396,7 +396,6 @@
         "general rating": 4.84,
         "number of guests": 4,
         "city": "Vallabr\u00e8gues",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 340.0,
         "number of amenities": 28,
@@ -405,7 +404,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Occitanie"
     },
     {
         "name": "Idealny dom dla 6 os\u00f3b, widok na morze i dost\u0119p do basenu",
@@ -413,7 +413,6 @@
         "general rating": 4.39,
         "number of guests": 6,
         "city": "Saint-Rapha\u00ebl",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 1044.0,
         "number of amenities": 59,
@@ -422,7 +421,8 @@
         "communication rating": 4.4,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "\" La cabane du Gozzi\"",
@@ -430,7 +430,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Afa",
-        "district": "Corse",
         "country": "Francja",
         "price per night": 313.0,
         "number of amenities": 37,
@@ -439,7 +438,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Corse"
     },
     {
         "name": "Tiny House Mourette Mas des Ch\u00eanes",
@@ -447,7 +447,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "R\u00e9auville",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 545.0,
         "number of amenities": 60,
@@ -456,7 +455,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "XIX-wieczna posiad\u0142o\u015b\u0107 LE COUTUREAU   Isaline",
@@ -464,7 +464,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Rouffignac-de-Sigoul\u00e8s",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 572.0,
         "number of amenities": 37,
@@ -473,7 +472,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "CROZON, LA CABANE DE LA PLAGA",
@@ -481,7 +481,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Crozon",
-        "district": "Bretania",
         "country": "Francja",
         "price per night": 279.0,
         "number of amenities": 25,
@@ -490,7 +489,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bretania"
     },
     {
         "name": "T3  taras w charakterze willi pla\u017cowej pieszo",
@@ -498,7 +498,6 @@
         "general rating": 4.81,
         "number of guests": 4,
         "city": "Saint-Rapha\u00ebl",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 794.0,
         "number of amenities": 44,
@@ -507,7 +506,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Chata w lesie w g\u00f3rach",
@@ -515,7 +515,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Lespinassi\u00e8re",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 545.0,
         "number of amenities": 57,
@@ -524,7 +523,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Occitanie"
     },
     {
         "name": "Dom z widokiem - oceniany na 3 gwiazdki",
@@ -532,7 +532,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Manigod",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 291.0,
         "number of amenities": 41,
@@ -541,7 +540,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Du\u017ca sypialnia/du\u017ce sypialnie w pobli\u017cu dworca kolejowego i wahad\u0142owca",
@@ -549,7 +549,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Nantes",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 286.0,
         "number of amenities": 56,
@@ -558,7 +557,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kraj Loary"
     },
     {
         "name": "\u0141adny domek w cieniu Pins de la Baule !",
@@ -566,7 +566,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "La Baule-Escoublac",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 545.0,
         "number of amenities": 24,
@@ -575,7 +574,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Kraj Loary"
     },
     {
         "name": "Mi\u0142e miejsce na pobyt w Pary\u017cu",
@@ -583,7 +583,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Saint-Mand\u00e9",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 318.0,
         "number of amenities": 46,
@@ -592,7 +591,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Kamper Ubayenne",
@@ -600,7 +600,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Barcelonnette",
-        "district": null,
         "country": "Francja",
         "price per night": 213.0,
         "number of amenities": 31,
@@ -609,7 +608,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Laboratorium punktu widokowego",
@@ -617,7 +617,6 @@
         "general rating": 4.45,
         "number of guests": 4,
         "city": "Saint-Lary-Soulan",
-        "district": "Midi-Pireneje",
         "country": "Francja",
         "price per night": 113.0,
         "number of amenities": 15,
@@ -626,7 +625,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Midi-Pireneje"
     },
     {
         "name": "Apartament z widokiem na morze + taras",
@@ -634,7 +634,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "Calais",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 277.0,
         "number of amenities": 41,
@@ -643,7 +642,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Hauts-de-France"
     },
     {
         "name": "Przytulnie /Klimatyzacja /Wszystkie wyposa\u017cone /50 m od pla\u017cy",
@@ -651,7 +651,6 @@
         "general rating": 4.6,
         "number of guests": 4,
         "city": "La Grande-Motte",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 449.0,
         "number of amenities": 49,
@@ -660,7 +659,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Occitanie"
     },
     {
         "name": "Dom \"Hobbit\" Ma\u0142e szcz\u0119\u015bcie",
@@ -668,7 +668,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Saint-Affrique",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 519.0,
         "number of amenities": 23,
@@ -677,7 +676,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Occitanie"
     },
     {
         "name": "T2 \u2022 Na progu La Rochelle",
@@ -685,7 +685,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Dompierre-sur-Mer",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 282.0,
         "number of amenities": 44,
@@ -694,7 +693,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Kabina w \u015brodowisku naturalnym",
@@ -702,7 +702,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Mont-le-Vernois",
-        "district": "Bourgogne-Franche-Comt\u00e9",
         "country": "Francja",
         "price per night": 359.0,
         "number of amenities": 27,
@@ -711,7 +710,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bourgogne-Franche-Comt\u00e9"
     },
     {
         "name": "Pi\u0119kny widok na morze 1",
@@ -719,7 +719,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Bandol",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 1543.0,
         "number of amenities": 37,
@@ -728,7 +727,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Fanstastyczne loft serce starego miasta spacer pla\u017cowy!",
@@ -736,7 +736,6 @@
         "general rating": 4.71,
         "number of guests": 4,
         "city": "Antibes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 726.0,
         "number of amenities": 37,
@@ -745,7 +744,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Urocze, przytulne studio w doskona\u0142ej lokalizacji",
@@ -753,7 +753,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Aix-les-Bains",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 168.0,
         "number of amenities": 52,
@@ -762,7 +761,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "\"La Ferme de Lou\"",
@@ -770,7 +770,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Chalautre-la-Petite",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 313.0,
         "number of amenities": 49,
@@ -779,7 +778,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Mi\u0119dzy Awinionem a N\u00eemes, sklasyfikowano 3 gwiazdki",
@@ -787,7 +787,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Est\u00e9zargues",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 409.0,
         "number of amenities": 58,
@@ -796,7 +795,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "L\u2019Ancre Bleue",
@@ -804,7 +804,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Ault",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 354.0,
         "number of amenities": 45,
@@ -813,7 +812,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Hauts-de-France"
     },
     {
         "name": "Les Dunes - Malo les Bains",
@@ -821,7 +821,6 @@
         "general rating": 4.8,
         "number of guests": 2,
         "city": "Dunkerque",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 37,
@@ -830,7 +829,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Hauts-de-France"
     },
     {
         "name": "Urocze unikalne studio z widokiem na morze!",
@@ -838,7 +838,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Dunkerque",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 363.0,
         "number of amenities": 32,
@@ -847,7 +846,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Hauts-de-France"
     },
     {
         "name": "Lake Relax ~ Darmowy parking ~ Netflix ~ Fiber",
@@ -855,7 +855,6 @@
         "general rating": 4.7,
         "number of guests": 4,
         "city": "Tresserve",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 412.0,
         "number of amenities": 31,
@@ -864,7 +863,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Loft u podn\u00f3\u017ca Luberon",
@@ -872,7 +872,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Cadenet",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 318.0,
         "number of amenities": 35,
@@ -881,7 +880,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Le Palma - Studio ze wsp\u00f3lnym basenem",
@@ -889,7 +889,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Cogolin",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 276.0,
         "number of amenities": 21,
@@ -898,7 +897,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Witaj w domu!",
@@ -906,7 +906,6 @@
         "general rating": 5.0,
         "number of guests": 8,
         "city": "Le Vernet-Cham\u00e9ane",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 286.0,
         "number of amenities": 38,
@@ -915,7 +914,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "T2 z cichym tarasem w pobli\u017cu dworca kolejowego",
@@ -923,7 +923,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Cagnes-sur-Mer",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 476.0,
         "number of amenities": 37,
@@ -932,7 +931,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Maison bord de mer - 500m od Santa Giulia",
@@ -940,7 +940,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Porto-Vecchio",
-        "district": "Corse",
         "country": "Francja",
         "price per night": 433.0,
         "number of amenities": 53,
@@ -949,7 +948,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Corse"
     },
     {
         "name": "By Cabanon",
@@ -957,7 +957,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Villeneuve-Loubet",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 266.0,
         "number of amenities": 34,
@@ -966,7 +965,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Apartament z widokiem na morze",
@@ -974,7 +974,6 @@
         "general rating": 4.91,
         "number of guests": 4,
         "city": "Courseulles-sur-Mer",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 431.0,
         "number of amenities": 35,
@@ -983,7 +982,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Normandie"
     },
     {
         "name": "Maison en pierre -Tr\u00e9muson-",
@@ -991,7 +991,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Tr\u00e9muson",
-        "district": "Bretagne",
         "country": "Francja",
         "price per night": 254.0,
         "number of amenities": 9,
@@ -1000,7 +999,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bretagne"
     },
     {
         "name": "Chata w \u015brodowisku naturalnym",
@@ -1008,7 +1008,6 @@
         "general rating": 4.67,
         "number of guests": 3,
         "city": "Idrac respailles ",
-        "district": "Gers",
         "country": "Francja",
         "price per night": 278.0,
         "number of amenities": 35,
@@ -1017,7 +1016,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Gers"
     },
     {
         "name": "Ekologiczna kabina tu\u017c nad wod\u0105",
@@ -1025,7 +1025,6 @@
         "general rating": 4.63,
         "number of guests": 2,
         "city": "Laboule",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 236.0,
         "number of amenities": 25,
@@ -1034,7 +1033,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "\u2022 Le Cozy \u2022 Vieux-Port La Ciotat",
@@ -1042,7 +1042,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "La Ciotat",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 33,
@@ -1051,7 +1050,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Pi\u0119kny apartament z widokiem na morze",
@@ -1059,7 +1059,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Veulettes-sur-Mer",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 608.0,
         "number of amenities": 37,
@@ -1068,7 +1067,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Normandie"
     },
     {
         "name": "studio w centrum Mougins",
@@ -1076,7 +1076,6 @@
         "general rating": 4.72,
         "number of guests": 2,
         "city": "Mougins",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 250.0,
         "number of amenities": 41,
@@ -1085,7 +1084,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.6,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "\"La Case de Rose\" przy pla\u017cy",
@@ -1093,7 +1093,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Le Barcar\u00e8s",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 318.0,
         "number of amenities": 40,
@@ -1102,7 +1101,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Occitanie"
     },
     {
         "name": "#SEA-watch - Podr\u00f3\u017c w stron\u0119 morza",
@@ -1110,7 +1110,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Canet-en-Roussillon",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 577.0,
         "number of amenities": 37,
@@ -1119,7 +1118,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "Apartament 50 m od morza",
@@ -1127,7 +1127,6 @@
         "general rating": 4.83,
         "number of guests": 4,
         "city": "Saint-Michel-Chef-Chef",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 204.0,
         "number of amenities": 30,
@@ -1136,7 +1135,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kraj Loary"
     },
     {
         "name": "Pi\u0119kne studio odnowione tu\u017c nad wod\u0105!",
@@ -1144,7 +1144,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Marseillan",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 499.0,
         "number of amenities": 53,
@@ -1153,7 +1152,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "MAYA Studio Centre/Parking/Po\u015bciel/Sprz\u0105tanie",
@@ -1161,7 +1161,6 @@
         "general rating": 4.89,
         "number of guests": 3,
         "city": "Canet-en-Roussillon",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 418.0,
         "number of amenities": 52,
@@ -1170,7 +1169,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "Wspania\u0142e studio Luxe z jacuzzi przy pla\u017cy",
@@ -1178,7 +1178,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Cannes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 592.0,
         "number of amenities": 49,
@@ -1187,7 +1186,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "2 chatki wznosz\u0105ce si\u0119 nad stawem!",
@@ -1195,7 +1195,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "Verson",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 363.0,
         "number of amenities": 18,
@@ -1204,7 +1203,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Normandie"
     },
     {
         "name": "Domek 2/4 os. ze Spa, blisko Loary rowerem",
@@ -1212,7 +1212,6 @@
         "general rating": 4.81,
         "number of guests": 4,
         "city": "Gennes-Val-de-Loire",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 250.0,
         "number of amenities": 66,
@@ -1221,7 +1220,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kraj Loary"
     },
     {
         "name": "Trzy wyspy",
@@ -1229,7 +1229,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Quiberon",
-        "district": "Bretania",
         "country": "Francja",
         "price per night": 349.0,
         "number of amenities": 9,
@@ -1238,7 +1237,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Bretania"
     },
     {
         "name": "Pi\u0119kny apartament z basenem, klimatyzacj\u0105 i TV",
@@ -1246,7 +1246,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Marsylia",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 417.0,
         "number of amenities": 39,
@@ -1255,7 +1254,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "\u00ab\u00a0EMMA\u00a0\u00bb / Monako / Menton / Basen / Clim / New",
@@ -1263,7 +1263,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Roquebrune-Cap-Martin",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 431.0,
         "number of amenities": 79,
@@ -1272,7 +1271,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Ma\u0142y dom - basen i widok na morze",
@@ -1280,7 +1280,6 @@
         "general rating": 4.75,
         "number of guests": 2,
         "city": "Carnac",
-        "district": "Bretagne",
         "country": "Francja",
         "price per night": 649.0,
         "number of amenities": 23,
@@ -1289,7 +1288,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Bretagne"
     },
     {
         "name": "Nowoczesny loft w bur\u017cuazyjnym pa\u0142acu",
@@ -1297,7 +1297,6 @@
         "general rating": 4.91,
         "number of guests": 4,
         "city": "Aix-les-Bains",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 246.0,
         "number of amenities": 46,
@@ -1306,7 +1305,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Ma\u0142y odnowiony dom",
@@ -1314,7 +1314,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Antonne-et-Trigonant",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 170.0,
         "number of amenities": 37,
@@ -1323,7 +1322,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Apartament z Wi-Fi, klimatyzacj\u0105 i basenem",
@@ -1331,7 +1331,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Le Barcar\u00e8s",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 218.0,
         "number of amenities": 58,
@@ -1340,7 +1339,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "Donville les Bains, wspania\u0142e studio z widokiem na morze",
@@ -1348,7 +1348,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Donville-les-Bains",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 250.0,
         "number of amenities": 42,
@@ -1357,7 +1356,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Normandie"
     },
     {
         "name": "Mieszkanie Normandy Choupinerie z basenem",
@@ -1365,7 +1365,6 @@
         "general rating": 4.69,
         "number of guests": 4,
         "city": "Criquebeuf-sur-Seine",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 286.0,
         "number of amenities": 55,
@@ -1374,7 +1373,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Normandie"
     },
     {
         "name": "Apartament 37 M \u00b2, Parking,WiFi,centrum miasta-port,KLIMATYZACJA",
@@ -1382,7 +1382,6 @@
         "general rating": 4.8,
         "number of guests": 5,
         "city": "La Grande-Motte",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 41,
@@ -1391,7 +1390,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Occitanie"
     },
     {
         "name": "wynajem tit g\u00f3rska chata",
@@ -1399,7 +1399,6 @@
         "general rating": 4.46,
         "number of guests": 4,
         "city": "Aucun",
-        "district": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es",
         "country": "Francja",
         "price per night": 186.0,
         "number of amenities": 6,
@@ -1408,7 +1407,8 @@
         "communication rating": 4.5,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es"
     },
     {
         "name": "Wyjazd do Prowansji w kilka minut od Cassis",
@@ -1416,7 +1416,6 @@
         "general rating": 4.62,
         "number of guests": 3,
         "city": "Carnoux-en-Provence",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 332.0,
         "number of amenities": 44,
@@ -1425,7 +1424,8 @@
         "communication rating": 4.7,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Apartament z basenem typu infinity z widokiem na morze i basenem typu infinity pool",
@@ -1433,7 +1433,6 @@
         "general rating": 4.61,
         "number of guests": 5,
         "city": "Cannes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 359.0,
         "number of amenities": 56,
@@ -1442,7 +1441,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.6,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Urocze studio na wsi!",
@@ -1450,7 +1450,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Villejuif",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 363.0,
         "number of amenities": 22,
@@ -1459,7 +1458,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Po\u015brodku lasu, nietypowe miejsce",
@@ -1467,7 +1467,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Moigny-sur-\u00c9cole",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 261.0,
         "number of amenities": 39,
@@ -1476,7 +1475,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "COVID-19 Front de mer  pool  Rooftop YourHostHelper",
@@ -1484,7 +1484,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Vallauris",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 499.0,
         "number of amenities": 56,
@@ -1493,7 +1492,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Hyper Centre Gouedic apartment",
@@ -1501,7 +1501,6 @@
         "general rating": 4.5,
         "number of guests": 2,
         "city": "Saint-Brieuc",
-        "district": "Bretagne",
         "country": "Francja",
         "price per night": 227.0,
         "number of amenities": 29,
@@ -1510,7 +1509,8 @@
         "communication rating": 4.5,
         "location rating": 4.2,
         "check in rating": 4.5,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Bretagne"
     },
     {
         "name": "- Bezpo\u015bredni widok na staw  -",
@@ -1518,7 +1518,6 @@
         "general rating": 4.96,
         "number of guests": 6,
         "city": "Tourouvre au Perche",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 282.0,
         "number of amenities": 59,
@@ -1527,7 +1526,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Normandie"
     },
     {
         "name": "W ma\u0142ym domku w g\u00f3rach Fabian",
@@ -1535,7 +1535,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 222.0,
         "number of amenities": 40,
@@ -1544,7 +1543,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "T2 nowa klimatyzacja z wyj\u0105tkowym widokiem na morze +42 m2 taras",
@@ -1552,7 +1552,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Canet-en-Roussillon",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 227.0,
         "number of amenities": 60,
@@ -1561,7 +1560,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "Przyjemny 2-pokojowy apartament o powierzchni 35m2",
@@ -1569,7 +1569,6 @@
         "general rating": 4.56,
         "number of guests": 2,
         "city": "Orl\u00e9ans",
-        "district": "Centre-Val de Loire",
         "country": "Francja",
         "price per night": 177.0,
         "number of amenities": 30,
@@ -1578,7 +1577,8 @@
         "communication rating": 4.7,
         "location rating": 4.2,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Centre-Val de Loire"
     },
     {
         "name": "Z widokiem na morze T Pi\u0119kne studio z tarasem",
@@ -1586,7 +1586,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Trouville-sur-Mer",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 449.0,
         "number of amenities": 25,
@@ -1595,7 +1594,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Normandie"
     },
     {
         "name": "Pod 2P - wsp\u00f3lna \u0142azienka",
@@ -1603,7 +1603,6 @@
         "general rating": 4.56,
         "number of guests": 2,
         "city": "Baden",
-        "district": "Morbihan",
         "country": "Francja",
         "price per night": 242.0,
         "number of amenities": 10,
@@ -1612,7 +1611,8 @@
         "communication rating": 4.5,
         "location rating": 4.7,
         "check in rating": 4.5,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Morbihan"
     },
     {
         "name": "Du\u017ce nowe studio w willi z basenem.",
@@ -1620,7 +1620,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Saint-Jeannet",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 247.0,
         "number of amenities": 44,
@@ -1629,7 +1628,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Domek na drzewie w gospodarstwie z basenem",
@@ -1637,7 +1637,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Ille-sur-T\u00eat",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 182.0,
         "number of amenities": 22,
@@ -1646,7 +1645,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "Le Noise de la Mer Duplex NAD MORZEM",
@@ -1654,7 +1654,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Sausset-les-Pins",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 418.0,
         "number of amenities": 49,
@@ -1663,7 +1662,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "T2 45m2 WIDOK NA MORZE/PARKING/BASEN",
@@ -1671,7 +1671,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "Antibes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 409.0,
         "number of amenities": 36,
@@ -1680,7 +1679,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Belv\u00e9d\u00e8re 15",
@@ -1688,7 +1688,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Mimizan",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 403.0,
         "number of amenities": 9,
@@ -1697,7 +1696,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Wydmy, nawias ucieczki...",
@@ -1705,7 +1705,6 @@
         "general rating": 4.81,
         "number of guests": 2,
         "city": "Saint-Cyprien",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 280.0,
         "number of amenities": 35,
@@ -1714,7 +1713,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "Morski apartament z wyj\u0105tkowym widokiem na morze!",
@@ -1722,7 +1722,6 @@
         "general rating": 4.75,
         "number of guests": 3,
         "city": "Trouville-sur-Mer",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 354.0,
         "number of amenities": 49,
@@ -1731,7 +1730,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Normandie"
     },
     {
         "name": "\ud83d\udd0a #1! Pi\u0119kny apartament 2 kroki od morza\ud83c\udf0a",
@@ -1739,7 +1739,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Berck",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 325.0,
         "number of amenities": 36,
@@ -1748,7 +1747,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Hauts-de-France"
     },
     {
         "name": "\"Le Joli Studio/Terrasse\" - NAJLEPSZY widok na morze!",
@@ -1756,7 +1756,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Trouville-sur-Mer",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 340.0,
         "number of amenities": 23,
@@ -1765,7 +1764,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Normandie"
     },
     {
         "name": "Przytulny ma\u0142y basen w cichej okolicy",
@@ -1773,7 +1773,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "Gujan-Mestras",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 347.0,
         "number of amenities": 54,
@@ -1782,7 +1781,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Pi\u0119kne studyjne baseny nad morzem",
@@ -1790,7 +1790,6 @@
         "general rating": 4.69,
         "number of guests": 2,
         "city": "Mandelieu-la-Napoule",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 313.0,
         "number of amenities": 33,
@@ -1799,7 +1798,8 @@
         "communication rating": 4.6,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Prywatny pok\u00f3j w butikowej willi z widokiem na morze",
@@ -1807,7 +1807,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Les Adrets-de-l'Est\u00e9rel ",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 817.0,
         "number of amenities": 44,
@@ -1816,7 +1815,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Luc,studio kokonowe , vue mer.",
@@ -1824,7 +1824,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Luc-sur-Mer",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 272.0,
         "number of amenities": 36,
@@ -1833,7 +1832,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Normandie"
     },
     {
         "name": "Pi\u0119kne studyjne baseny nad morzem",
@@ -1841,7 +1841,6 @@
         "general rating": 4.69,
         "number of guests": 2,
         "city": "Mandelieu-la-Napoule",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 313.0,
         "number of amenities": 33,
@@ -1850,7 +1849,8 @@
         "communication rating": 4.6,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Prywatny pok\u00f3j w butikowej willi z widokiem na morze",
@@ -1858,7 +1858,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Les Adrets-de-l'Est\u00e9rel ",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 817.0,
         "number of amenities": 44,
@@ -1867,7 +1866,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Luc,studio kokonowe , vue mer.",
@@ -1875,7 +1875,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Luc-sur-Mer",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 272.0,
         "number of amenities": 36,
@@ -1884,7 +1883,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Normandie"
     },
     {
         "name": "tu\u017c nad wod\u0105",
@@ -1892,7 +1892,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Port-la-Nouvelle",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 327.0,
         "number of amenities": 41,
@@ -1901,7 +1900,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "\"ustawienie zieleni\" dla 4 os\u00f3b",
@@ -1909,7 +1909,6 @@
         "general rating": 4.66,
         "number of guests": 4,
         "city": "La Grande-Motte",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 349.0,
         "number of amenities": 33,
@@ -1918,7 +1917,8 @@
         "communication rating": 4.7,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Occitanie"
     },
     {
         "name": "Apartament Guethary Ocean Front!",
@@ -1926,7 +1926,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Gu\u00e9thary",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 1203.0,
         "number of amenities": 34,
@@ -1935,7 +1934,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "wspania\u0142y 2-pokojowy apartament z widokiem na morze Roquebrune",
@@ -1943,7 +1943,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Roquebrune-Cap-Martin",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 458.0,
         "number of amenities": 41,
@@ -1952,7 +1951,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Drewniana przyczepa w naturalnym otoczeniu",
@@ -1960,7 +1960,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "Bor\u00e9e",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 219.0,
         "number of amenities": 22,
@@ -1969,7 +1968,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Urokliwy pok\u00f3j z prysznicem +taras",
@@ -1977,7 +1977,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Pary\u017c",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 463.0,
         "number of amenities": 42,
@@ -1986,7 +1985,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Chata blisko wszystkiego w \u015brodowisku naturalnym",
@@ -1994,7 +1994,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Labenne Ocean",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 458.0,
         "number of amenities": 50,
@@ -2003,7 +2002,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Romantyczny i autentyczny, Ch\u00e2teau de la Vern\u00e8de",
@@ -2011,7 +2011,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Saint-R\u00e9my-de-Chargnat",
-        "district": "Owernia",
         "country": "Francja",
         "price per night": 704.0,
         "number of amenities": 30,
@@ -2020,7 +2019,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Owernia"
     },
     {
         "name": "Zakwaterowanie \"Le cerf amoureux\" w Saint Agnes (Is\u00e8re)",
@@ -2028,7 +2028,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Sainte-Agn\u00e9s",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 250.0,
         "number of amenities": 33,
@@ -2037,7 +2036,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Studio widok na morze 50 m od pla\u017cy i sklep\u00f3w",
@@ -2045,7 +2045,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "Canet-en-Roussillon",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 372.0,
         "number of amenities": 42,
@@ -2054,7 +2053,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Occitanie"
     },
     {
         "name": "WYJ\u0104TKOWA LOKALIZACJA ST\u00d3P W WODZIE",
@@ -2062,7 +2062,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Le Lavandou",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 363.0,
         "number of amenities": 23,
@@ -2071,7 +2070,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Apartament z widokiem na morze\ud83c\udf05,w pobli\u017cu portu prywatny\u26f5\ufe0f\u2693\ufe0f parking\ud83c\udd7f\ufe0f +wifi",
@@ -2079,7 +2079,6 @@
         "general rating": 4.84,
         "number of guests": 4,
         "city": "Saint-Gilles-Croix-de-Vie",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 313.0,
         "number of amenities": 49,
@@ -2088,7 +2087,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kraj Loary"
     },
     {
         "name": "Studio antresoli Golf de St Tropez",
@@ -2096,7 +2096,6 @@
         "general rating": 4.4,
         "number of guests": 4,
         "city": "Cogolin",
-        "district": "Var",
         "country": "Francja",
         "price per night": 409.0,
         "number of amenities": 20,
@@ -2105,7 +2104,8 @@
         "communication rating": 4.5,
         "location rating": 4.6,
         "check in rating": 4.6,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Var"
     },
     {
         "name": "Ciep\u0142a wiejska chata",
@@ -2113,7 +2113,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Laruscade",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 163.0,
         "number of amenities": 35,
@@ -2122,7 +2121,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Jurta wsp\u00f3\u0142czesna i estetyczna",
@@ -2130,7 +2130,6 @@
         "general rating": 4.83,
         "number of guests": 2,
         "city": "\u00c9ourres",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 182.0,
         "number of amenities": 19,
@@ -2139,7 +2138,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Mobil-Home SEA VIEW",
@@ -2147,7 +2147,6 @@
         "general rating": 4.75,
         "number of guests": 5,
         "city": "Le Portel",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 222.0,
         "number of amenities": 33,
@@ -2156,7 +2155,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Hauts-de-France"
     },
     {
         "name": "Studio w Capbreton Port. Du\u017cy taras, basen",
@@ -2164,7 +2164,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "Capbreton",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 277.0,
         "number of amenities": 45,
@@ -2173,7 +2172,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "T2, 50 m od pla\u017cy",
@@ -2181,7 +2181,6 @@
         "general rating": 4.67,
         "number of guests": 4,
         "city": "Lacanau",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 254.0,
         "number of amenities": 35,
@@ -2190,7 +2189,8 @@
         "communication rating": 4.6,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Chata pla\u017cowa \"Rozbitkowie\"",
@@ -2198,7 +2198,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Fleury",
-        "district": "Langwedocja-Roussillon",
         "country": "Francja",
         "price per night": 313.0,
         "number of amenities": 55,
@@ -2207,7 +2206,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Langwedocja-Roussillon"
     },
     {
         "name": "Domek w lesie z widokiem na Pireneje",
@@ -2215,7 +2215,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Saint-Laurent-de-Neste",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 263.0,
         "number of amenities": 53,
@@ -2224,7 +2223,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "Le Cocon WATERFRONT 50 metr\u00f3w",
@@ -2232,7 +2232,6 @@
         "general rating": 4.83,
         "number of guests": 3,
         "city": "Royan",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 735.0,
         "number of amenities": 41,
@@ -2241,7 +2240,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Droga krewna Albitru, widok na morze",
@@ -2249,7 +2249,6 @@
         "general rating": 4.6,
         "number of guests": 4,
         "city": "Ajaccio",
-        "district": "Corse",
         "country": "Francja",
         "price per night": 464.0,
         "number of amenities": 29,
@@ -2258,7 +2257,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Corse"
     },
     {
         "name": "Charmant studio proche for\u00eat & lac",
@@ -2266,7 +2266,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "La Motte-Servolex",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 207.0,
         "number of amenities": 48,
@@ -2275,7 +2274,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "W samym sercu St Quay na nabrze\u017cu i po\u0142udniowym tarasie",
@@ -2283,7 +2283,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "Saint-Quay-Portrieux",
-        "district": "Bretagne",
         "country": "Francja",
         "price per night": 357.0,
         "number of amenities": 64,
@@ -2292,7 +2291,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bretagne"
     },
     {
         "name": "Studio ogrodowe na wzg\u00f3rzu z widokiem na morze",
@@ -2300,7 +2300,6 @@
         "general rating": 4.72,
         "number of guests": 3,
         "city": "Carqueiranne",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 340.0,
         "number of amenities": 46,
@@ -2309,7 +2308,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Ma\u0142e spokojne schronienie",
@@ -2317,7 +2317,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Meslan",
-        "district": "Bretagne",
         "country": "Francja",
         "price per night": 145.0,
         "number of amenities": 8,
@@ -2326,7 +2325,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bretagne"
     },
     {
         "name": "WYSPA RE 4 os UNIKALNY apartament i taras!",
@@ -2334,7 +2334,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Rivedoux-Plage",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 499.0,
         "number of amenities": 29,
@@ -2343,7 +2342,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Apartament taras 5 min spacerem do pla\u017cy",
@@ -2351,7 +2351,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "Cavalaire-sur-Mer",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 213.0,
         "number of amenities": 44,
@@ -2360,7 +2359,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Duplex studio w zielonej nieruchomo\u015bci",
@@ -2368,7 +2368,6 @@
         "general rating": 4.75,
         "number of guests": 2,
         "city": "Sermaise",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 182.0,
         "number of amenities": 39,
@@ -2377,7 +2376,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Dom Dinan w pobli\u017cu pla\u017cy",
@@ -2385,7 +2385,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Crozon",
-        "district": "Bretagne",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 35,
@@ -2394,7 +2393,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bretagne"
     },
     {
         "name": "studio, basen z podgrzewan\u0105 wod\u0105, widok na morze",
@@ -2402,7 +2402,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Corbara",
-        "district": "Korsyka",
         "country": "Francja",
         "price per night": 545.0,
         "number of amenities": 34,
@@ -2411,7 +2410,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Korsyka"
     },
     {
         "name": "S\u00e8te: Domek jednorodzinny, widok na Etang de Thau i morze",
@@ -2419,7 +2419,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "S\u00e8te",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 182.0,
         "number of amenities": 44,
@@ -2428,7 +2427,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "Willa z basenem - zakwaterowanie bez wy\u017cywienia",
@@ -2436,7 +2436,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Castillon-la-Bataille",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 245.0,
         "number of amenities": 42,
@@ -2445,7 +2444,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Oryginalna noc w ma\u0142ym domu.",
@@ -2453,7 +2453,6 @@
         "general rating": 4.9,
         "number of guests": 3,
         "city": "Sauzet",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 32,
@@ -2462,7 +2461,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "2 pokoje, 4 os. 800m od pla\u017c Angielski",
@@ -2470,7 +2470,6 @@
         "general rating": 4.91,
         "number of guests": 4,
         "city": "Mandelieu-la-Napoule",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 304.0,
         "number of amenities": 48,
@@ -2479,7 +2478,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Ma\u0142y domek kokosowy na skraju lasu",
@@ -2487,7 +2487,6 @@
         "general rating": 4.91,
         "number of guests": 4,
         "city": "Biot",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 22,
@@ -2496,7 +2495,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Elegancka chatka/sypialnia",
@@ -2504,7 +2504,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Dommartin-l\u00e8s-Remiremont",
-        "district": "Grand Est",
         "country": "Francja",
         "price per night": 91.0,
         "number of amenities": 36,
@@ -2513,7 +2512,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Grand Est"
     },
     {
         "name": "KONSJER\u017b L\u0104DOWY I MORSKI",
@@ -2521,7 +2521,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "Le Perrier",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 204.0,
         "number of amenities": 9,
@@ -2530,7 +2529,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kraj Loary"
     },
     {
         "name": "Apartament 4 wspania\u0142y widok na morze, pla\u017ca 30 metr\u00f3w.",
@@ -2538,7 +2538,6 @@
         "general rating": 4.55,
         "number of guests": 2,
         "city": "Saint-Michel-en-Gr\u00e8ve",
-        "district": "Bretagne",
         "country": "Francja",
         "price per night": 313.0,
         "number of amenities": 12,
@@ -2547,7 +2546,8 @@
         "communication rating": 4.7,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Bretagne"
     },
     {
         "name": "F2 L\u00e9lex 2\ud83c\udfde apartament\u2b50 - st\u00f3p stok\u00f3w - widok na g\u00f3ry",
@@ -2555,7 +2555,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "L\u00e9lex",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 250.0,
         "number of amenities": 35,
@@ -2564,7 +2563,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Pretty Studio w pobli\u017cu polikliniki i centrum",
@@ -2572,7 +2572,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Gap",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 143.0,
         "number of amenities": 23,
@@ -2581,7 +2580,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Studio w samym sercu wioski Lavandou",
@@ -2589,7 +2589,6 @@
         "general rating": 4.6,
         "number of guests": 2,
         "city": "Le Lavandou",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 259.0,
         "number of amenities": 37,
@@ -2598,7 +2597,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "\ufe0fWspania\u0142y studyjny widok na morze w Canet Plage \ufe0f \ufe0f \ufe0f",
@@ -2606,7 +2606,6 @@
         "general rating": 4.78,
         "number of guests": 2,
         "city": "Canet plage",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 340.0,
         "number of amenities": 38,
@@ -2615,7 +2614,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Occitanie"
     },
     {
         "name": "Studio 2-osobowe - w samym sercu Aravis",
@@ -2623,7 +2623,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Le Grand-Bornand",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 126.0,
         "number of amenities": 25,
@@ -2632,7 +2631,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Apartament przy pla\u017cy, widok na morze!",
@@ -2640,7 +2640,6 @@
         "general rating": 4.71,
         "number of guests": 4,
         "city": "Saint-Rapha\u00ebl",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 300.0,
         "number of amenities": 56,
@@ -2649,7 +2648,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "L'Esprit Calanque, widok na morze z tarasu, pla\u017ca w odleg\u0142o\u015bci 80 m",
@@ -2657,7 +2657,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Le Rove",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 340.0,
         "number of amenities": 38,
@@ -2666,7 +2665,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Moje mieszkanie' w g\u00f3rach",
@@ -2674,7 +2674,6 @@
         "general rating": 4.72,
         "number of guests": 3,
         "city": "Font-Romeu-Odeillo-Via",
-        "district": "Langwedocja-Roussillon",
         "country": "Francja",
         "price per night": 204.0,
         "number of amenities": 44,
@@ -2683,7 +2682,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Langwedocja-Roussillon"
     },
     {
         "name": "1 oddzielna sypialnia z basenem i saun\u0105!",
@@ -2691,7 +2691,6 @@
         "general rating": 4.67,
         "number of guests": 4,
         "city": "Besse-et-Saint-Anastaise",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 117.0,
         "number of amenities": 45,
@@ -2700,7 +2699,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "prawdziwy dom pokryty drewnianym\nwk\u0142adem kominkowym",
@@ -2708,7 +2708,6 @@
         "general rating": 4.78,
         "number of guests": 6,
         "city": "Arbonne-la-For\u00eat",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 191.0,
         "number of amenities": 45,
@@ -2717,7 +2716,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Studio Brigitte:przyroda, calme, rando, VTT, sauna !",
@@ -2725,7 +2725,6 @@
         "general rating": 4.73,
         "number of guests": 2,
         "city": "Le Hohwald",
-        "district": "Grand Est",
         "country": "Francja",
         "price per night": 164.0,
         "number of amenities": 51,
@@ -2734,7 +2733,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Grand Est"
     },
     {
         "name": "Studio prado pla\u017ce - z widokiem na morze",
@@ -2742,7 +2742,6 @@
         "general rating": 4.76,
         "number of guests": 2,
         "city": "Marsylia",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 409.0,
         "number of amenities": 33,
@@ -2751,7 +2750,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Pi\u0119kny widok na morze - Studio 2 pers-parking-Wifi",
@@ -2759,7 +2759,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "La Grande-Motte",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 359.0,
         "number of amenities": 44,
@@ -2768,7 +2767,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Occitanie"
     },
     {
         "name": "Sweet Aloha - Le Mourillon - Gospodarz",
@@ -2776,7 +2776,6 @@
         "general rating": 4.0,
         "number of guests": 2,
         "city": "Toulon",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 236.0,
         "number of amenities": 41,
@@ -2785,7 +2784,8 @@
         "communication rating": 4.6,
         "location rating": 4.8,
         "check in rating": 3.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "\u201eApartament z jedn\u0105 sypialni\u0105 i widokiem na morze\u201d",
@@ -2793,7 +2793,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Port-la-Nouvelle",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 227.0,
         "number of amenities": 44,
@@ -2802,7 +2801,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Occitanie"
     },
     {
         "name": "Kolorowa przysta\u0144",
@@ -2810,7 +2810,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Saint-Jean-de-Fos",
-        "district": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es",
         "country": "Francja",
         "price per night": 139.0,
         "number of amenities": 51,
@@ -2819,7 +2818,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es"
     },
     {
         "name": "Bohemian pobyt w wygodnej przyczepie",
@@ -2827,7 +2827,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Riec-sur-B\u00e9lon",
-        "district": "Bretagne",
         "country": "Francja",
         "price per night": 159.0,
         "number of amenities": 30,
@@ -2836,7 +2835,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Bretagne"
     },
     {
         "name": "Studio Porticcio / wspania\u0142y widok na morze/ w pobli\u017cu pla\u017cy",
@@ -2844,7 +2844,6 @@
         "general rating": 4.66,
         "number of guests": 2,
         "city": "Grosseto-Prugna",
-        "district": "Corse",
         "country": "Francja",
         "price per night": 222.0,
         "number of amenities": 49,
@@ -2853,7 +2852,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Corse"
     },
     {
         "name": "Du\u017cy pok\u00f3j w apartamencie w pobli\u017cu Tour Eiffel",
@@ -2861,7 +2861,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Pary\u017c",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 318.0,
         "number of amenities": 41,
@@ -2870,7 +2869,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "La Garenne Colombes, pi\u0119kny apartament",
@@ -2878,7 +2878,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "La Garenne-Colombes",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 141.0,
         "number of amenities": 41,
@@ -2887,7 +2886,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Nice studio 4 p. Taras z widokiem na Esterel i \u0142\u00f3\u017cko podw\u00f3jne",
@@ -2895,7 +2895,6 @@
         "general rating": 4.89,
         "number of guests": 4,
         "city": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
-        "district": null,
         "country": "Francja",
         "price per night": 221.0,
         "number of amenities": 46,
@@ -2904,7 +2903,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Uroczy domek / ogr\u00f3d w XV-wiecznym zamku",
@@ -2912,7 +2912,6 @@
         "general rating": 4.88,
         "number of guests": 3,
         "city": "Montvendre",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 233.0,
         "number of amenities": 31,
@@ -2921,7 +2920,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Na pierwszej linii 4 osoby ze stopami w piasku",
@@ -2929,7 +2929,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Mauguio",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 359.0,
         "number of amenities": 32,
@@ -2938,7 +2937,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "Dom* widok na morze i Est\u00e9rel *pla\u017c\u0119 na piechot\u0119",
@@ -2946,7 +2946,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Saint-Rapha\u00ebl",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 427.0,
         "number of amenities": 42,
@@ -2955,7 +2954,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Pensjonat ze \u015bniadaniem mi\u0119dzy L\u00f4te d 'Azur i Verdon",
@@ -2963,7 +2963,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Mons",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 477.0,
         "number of amenities": 45,
@@ -2972,7 +2971,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Willa B",
@@ -2980,7 +2980,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Ault",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 265.0,
         "number of amenities": 30,
@@ -2989,7 +2988,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Hauts-de-France"
     },
     {
         "name": "Obrona pobliskiego pokoju U arena",
@@ -2997,7 +2997,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Nanterre",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 309.0,
         "number of amenities": 22,
@@ -3006,7 +3005,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Studio Cannes Marina - Mandelieu la Napoule",
@@ -3014,7 +3014,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Mandelieu-la-Napoule",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 191.0,
         "number of amenities": 36,
@@ -3023,7 +3022,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "mazet mojego ojca",
@@ -3031,7 +3031,6 @@
         "general rating": 4.53,
         "number of guests": 3,
         "city": "Barjac",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 218.0,
         "number of amenities": 44,
@@ -3040,7 +3039,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Occitanie"
     },
     {
         "name": "Pok\u00f3j + \u015aniadanie i prywatna \u0142azienka",
@@ -3048,7 +3048,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Tuluza",
-        "district": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es",
         "country": "Francja",
         "price per night": 132.0,
         "number of amenities": 29,
@@ -3057,7 +3056,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Languedoc-Roussillon Midi-Pyr\u00e9n\u00e9es"
     },
     {
         "name": "Pok\u00f3j w pobli\u017cu morza klimatyzowany",
@@ -3065,7 +3065,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Toulon",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 127.0,
         "number of amenities": 48,
@@ -3074,7 +3073,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Przyjemny pensjonat ze \u015bniadaniem i basenem",
@@ -3082,7 +3082,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": "Brunstatt-Didenheim",
-        "district": "Grand Est",
         "country": "Francja",
         "price per night": 113.0,
         "number of amenities": 55,
@@ -3091,7 +3090,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Grand Est"
     },
     {
         "name": "Marina Bianca (MNI106)",
@@ -3099,7 +3099,6 @@
         "general rating": 4.29,
         "number of guests": 4,
         "city": "Moriani-Plage",
-        "district": null,
         "country": "Francja",
         "price per night": 315.0,
         "number of amenities": 12,
@@ -3108,7 +3107,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": null
     },
     {
         "name": "Apartament z \u0142\u00f3\u017ckiem podw\u00f3jnym",
@@ -3116,7 +3116,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Pont-Sainte-Marie",
-        "district": "Grand Est",
         "country": "Francja",
         "price per night": 113.0,
         "number of amenities": 47,
@@ -3125,7 +3124,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Grand Est"
     },
     {
         "name": "Le Vallon - Plein Vue Mer in Pornic",
@@ -3133,7 +3133,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Pornic",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 340.0,
         "number of amenities": 35,
@@ -3142,7 +3141,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Kraj Loary"
     },
     {
         "name": "Sypialnia z \u0142azienk\u0105, ciche i z widokiem.",
@@ -3150,7 +3150,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Gatti\u00e8res",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 182.0,
         "number of amenities": 29,
@@ -3159,7 +3158,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Sypialnia i \u0142azienka (80m2 odsiebie+50m2 taras)",
@@ -3167,7 +3167,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Montreuil",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 304.0,
         "number of amenities": 49,
@@ -3176,7 +3175,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Chambre Passiflore-Double room-Preossible-Ensuite wit",
@@ -3184,7 +3184,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Saint-Paterne-Racan",
-        "district": "Indre-et-Loire",
         "country": "Francja",
         "price per night": 1090.0,
         "number of amenities": 28,
@@ -3193,7 +3192,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Indre-et-Loire"
     },
     {
         "name": "Niezale\u017cny pok\u00f3j w Mios",
@@ -3201,7 +3201,6 @@
         "general rating": 4.79,
         "number of guests": 2,
         "city": "Mios",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 182.0,
         "number of amenities": 31,
@@ -3210,7 +3209,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Pi\u0119kne studio 42 m\u00b2 nad morzem, blisko centrum",
@@ -3218,7 +3218,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Sausset-les-Pins",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 236.0,
         "number of amenities": 40,
@@ -3227,7 +3226,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Czaruj\u0105cy apartament",
@@ -3235,7 +3235,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Airel",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 409.0,
         "number of amenities": 23,
@@ -3244,7 +3243,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Normandie"
     },
     {
         "name": "Przestronne studio z s\u0142onecznym tarasem 25 m2",
@@ -3252,7 +3252,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "Six-Fours-les-Plages",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 182.0,
         "number of amenities": 52,
@@ -3261,7 +3260,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "blisko morza, Ma\u0142y \u017c\u00f3\u0142ty pok\u00f3j",
@@ -3269,7 +3269,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Lion-sur-Mer",
-        "district": "Dolna Normandia",
         "country": "Francja",
         "price per night": 280.0,
         "number of amenities": 65,
@@ -3278,7 +3277,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Dolna Normandia"
     },
     {
         "name": "Aneks ogrodowy",
@@ -3286,7 +3286,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Sainte-Colombe-sur-l'Hers",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 159.0,
         "number of amenities": 36,
@@ -3295,7 +3294,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "2 pokoje, Widok na morze, Pla\u017ca, Parking, Tenis",
@@ -3303,7 +3303,6 @@
         "general rating": 4.7,
         "number of guests": 2,
         "city": "Cannes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 384.0,
         "number of amenities": 50,
@@ -3312,7 +3311,8 @@
         "communication rating": 4.5,
         "location rating": 4.7,
         "check in rating": 4.4,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Fos Beach",
@@ -3320,7 +3320,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "Fos-sur-Mer",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 186.0,
         "number of amenities": 40,
@@ -3329,7 +3328,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "200 m od morza z basenem",
@@ -3337,7 +3337,6 @@
         "general rating": 4.62,
         "number of guests": 2,
         "city": "Fr\u00e9jus",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 200.0,
         "number of amenities": 29,
@@ -3346,7 +3345,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "10 minut spacerem od pla\u017cy Palombaggia",
@@ -3354,7 +3354,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Porto-Vecchio",
-        "district": "Corse",
         "country": "Francja",
         "price per night": 395.0,
         "number of amenities": 43,
@@ -3363,7 +3362,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Corse"
     },
     {
         "name": "STACJA BELLEDONE,darmowy pking,klejnot,centrum,b\u0142onnik",
@@ -3371,7 +3371,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Grenoble",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 141.0,
         "number of amenities": 51,
@@ -3380,7 +3379,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Gite Ch\u00e2tel-Montagne, 1 bedroom, 2 pers.",
@@ -3388,7 +3388,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Ch\u00e2tel-Montagne",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 261.0,
         "number of amenities": 10,
@@ -3397,7 +3396,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Przytulna g\u00f3rska chata, park regionalny Chartreuse.",
@@ -3405,7 +3405,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Entre-Deux-Guiers",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 284.0,
         "number of amenities": 42,
@@ -3414,7 +3413,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Studio Bord de Mer Boulouris w Saint Rapha\u00ebl",
@@ -3422,7 +3422,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "Saint-Rapha\u00ebl",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 50,
@@ -3431,7 +3430,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Urokliwy NOWY dom z prywatnym ogrodem",
@@ -3439,7 +3439,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Le Havre",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 132.0,
         "number of amenities": 35,
@@ -3448,7 +3447,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Normandie"
     },
     {
         "name": "Studio le figuier",
@@ -3456,7 +3456,6 @@
         "general rating": 4.75,
         "number of guests": 2,
         "city": "Perpignan",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 133.0,
         "number of amenities": 19,
@@ -3465,7 +3464,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "T2 Przytulny Terrasse/Centrum Balkonowe ville-Port O",
@@ -3473,7 +3473,6 @@
         "general rating": 4.69,
         "number of guests": 3,
         "city": "Les Sables-d'Olonne",
-        "district": "Kraj Loary",
         "country": "Francja",
         "price per night": 191.0,
         "number of amenities": 52,
@@ -3482,7 +3481,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Kraj Loary"
     },
     {
         "name": "Studio Pleasant +parking - pla\u017ca 3 min spacerem",
@@ -3490,7 +3490,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "La Grande-Motte",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 218.0,
         "number of amenities": 38,
@@ -3499,7 +3498,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "Pok\u00f3j ze \u015bniadaniem wliczony w cen\u0119",
@@ -3507,7 +3507,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Anglet",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 163.0,
         "number of amenities": 20,
@@ -3516,7 +3515,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "A Piaghja: Duplex 150 metr\u00f3w od pla\u017cy",
@@ -3524,7 +3524,6 @@
         "general rating": null,
         "number of guests": 6,
         "city": "Borgo",
-        "district": "Haute Corse",
         "country": "Francja",
         "price per night": 318.0,
         "number of amenities": 69,
@@ -3533,7 +3532,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Haute Corse"
     },
     {
         "name": "Pary\u017c: Chambre en duplex \u00e0 la Villette",
@@ -3541,7 +3541,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Pary\u017c",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 386.0,
         "number of amenities": 21,
@@ -3550,7 +3549,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Apartament' T2 kokon 100m od morza - MAR I MUNT",
@@ -3558,7 +3558,6 @@
         "general rating": 4.71,
         "number of guests": 4,
         "city": "Argel\u00e8s-sur-Mer",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 368.0,
         "number of amenities": 49,
@@ -3567,7 +3566,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Occitanie"
     },
     {
         "name": "Przytulne Studio Klimatyzowane, Cisza i spok\u00f3j",
@@ -3575,7 +3575,6 @@
         "general rating": 4.71,
         "number of guests": 2,
         "city": "Vallauris",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 206.0,
         "number of amenities": 29,
@@ -3584,7 +3583,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Wygodne, wygodne i przestronne studio *Cannes*",
@@ -3592,7 +3592,6 @@
         "general rating": 4.48,
         "number of guests": 4,
         "city": "Cannes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 227.0,
         "number of amenities": 42,
@@ -3601,7 +3600,8 @@
         "communication rating": 4.8,
         "location rating": 4.5,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Mi\u0142e warsztaty projektowe Carr\u00e9 d 'Or",
@@ -3609,7 +3609,6 @@
         "general rating": 4.7,
         "number of guests": 3,
         "city": "Nicea",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 238.0,
         "number of amenities": 26,
@@ -3618,7 +3617,8 @@
         "communication rating": 4.7,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Studio : komfort, widok, spok\u00f3j...",
@@ -3626,7 +3626,6 @@
         "general rating": 4.81,
         "number of guests": 2,
         "city": "Bagn\u00e8res-de-Luchon",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 113.0,
         "number of amenities": 29,
@@ -3635,7 +3634,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "Majestic 2 pokoje w centrum 300m od morza!",
@@ -3643,7 +3643,6 @@
         "general rating": 4.61,
         "number of guests": 4,
         "city": "Menton",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 222.0,
         "number of amenities": 16,
@@ -3652,7 +3651,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Centrum Nice 10 min od pla\u017cy",
@@ -3660,7 +3660,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Nicea",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 293.0,
         "number of amenities": 36,
@@ -3669,7 +3668,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Pary\u017c: Chambre en duplex \u00e0 la Villette",
@@ -3677,7 +3677,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Pary\u017c",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 386.0,
         "number of amenities": 21,
@@ -3686,7 +3685,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Apartament' T2 kokon 100m od morza - MAR I MUNT",
@@ -3694,7 +3694,6 @@
         "general rating": 4.71,
         "number of guests": 4,
         "city": "Argel\u00e8s-sur-Mer",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 368.0,
         "number of amenities": 49,
@@ -3703,7 +3702,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Occitanie"
     },
     {
         "name": "Przytulne Studio Klimatyzowane, Cisza i spok\u00f3j",
@@ -3711,7 +3711,6 @@
         "general rating": 4.71,
         "number of guests": 2,
         "city": "Vallauris",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 206.0,
         "number of amenities": 29,
@@ -3720,7 +3719,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Wygodne, wygodne i przestronne studio *Cannes*",
@@ -3728,7 +3728,6 @@
         "general rating": 4.48,
         "number of guests": 4,
         "city": "Cannes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 227.0,
         "number of amenities": 42,
@@ -3737,7 +3736,8 @@
         "communication rating": 4.8,
         "location rating": 4.5,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Cap d 'Antibes - Garoupe - 2 pokojowe mieszkanie nad morzem",
@@ -3745,7 +3745,6 @@
         "general rating": 4.73,
         "number of guests": 4,
         "city": "Antibes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 386.0,
         "number of amenities": 42,
@@ -3754,7 +3753,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Studio : komfort, widok, spok\u00f3j...",
@@ -3762,7 +3762,6 @@
         "general rating": 4.81,
         "number of guests": 2,
         "city": "Bagn\u00e8res-de-Luchon",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 113.0,
         "number of amenities": 29,
@@ -3771,7 +3770,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Occitanie"
     },
     {
         "name": "Majestic 2 pokoje w centrum 300m od morza!",
@@ -3779,7 +3779,6 @@
         "general rating": 4.61,
         "number of guests": 4,
         "city": "Menton",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 222.0,
         "number of amenities": 16,
@@ -3788,7 +3787,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Centrum Nice 10 min od pla\u017cy",
@@ -3796,7 +3796,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Nicea",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 293.0,
         "number of amenities": 36,
@@ -3805,7 +3804,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Apartament z KLIMATYZACJ\u0104 i Wi-Fi w pobli\u017cu pola golfowego i \u00cele desossibleirs",
@@ -3813,7 +3813,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Agde",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 176.0,
         "number of amenities": 41,
@@ -3822,7 +3821,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "Sypialnia 22m\u00b2 dom z ogrodem 200m od Pary\u017ca",
@@ -3830,7 +3830,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Saint-Mand\u00e9",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 586.0,
         "number of amenities": 53,
@@ -3839,7 +3838,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Urocze Studio Blisko Morza",
@@ -3847,7 +3847,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Nicea",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 304.0,
         "number of amenities": 46,
@@ -3856,7 +3855,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Urokliwe studio Nicea/Alphonse Karr",
@@ -3864,7 +3864,6 @@
         "general rating": 4.44,
         "number of guests": 2,
         "city": "Nicea",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 218.0,
         "number of amenities": 39,
@@ -3873,7 +3872,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Studio Nymphea",
@@ -3881,7 +3881,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Saint-Andr\u00e9-de-Corcy",
-        "district": "Auvergne-Rh\u00f4ne-Alpes",
         "country": "Francja",
         "price per night": 122.0,
         "number of amenities": 33,
@@ -3890,7 +3889,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Auvergne-Rh\u00f4ne-Alpes"
     },
     {
         "name": "Uroczy apartament dla 6 os\u00f3b",
@@ -3898,7 +3898,6 @@
         "general rating": 4.85,
         "number of guests": 6,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 132.0,
         "number of amenities": 34,
@@ -3907,7 +3906,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Pi\u0119kne studio z ogrodem",
@@ -3915,7 +3915,6 @@
         "general rating": 4.73,
         "number of guests": 4,
         "city": "La Grande-Motte",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 136.0,
         "number of amenities": 47,
@@ -3924,7 +3923,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Occitanie"
     },
     {
         "name": "STELLA/LE TOUQUET: T2 WI-FI, Sea to Pinewood",
@@ -3932,7 +3932,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Cucq",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 215.0,
         "number of amenities": 39,
@@ -3941,7 +3940,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Hauts-de-France"
     },
     {
         "name": "Studio w Porticcio avec terrasse vue mer",
@@ -3949,7 +3949,6 @@
         "general rating": 4.83,
         "number of guests": 4,
         "city": "Porticcio",
-        "district": "Corse du Sud",
         "country": "Francja",
         "price per night": 136.0,
         "number of amenities": 42,
@@ -3958,7 +3957,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Corse du Sud"
     },
     {
         "name": "Sausset: Studio w willi z basenem prox morze",
@@ -3966,7 +3966,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Sausset-les-Pins",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 136.0,
         "number of amenities": 38,
@@ -3975,7 +3974,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Pok\u00f3j na poddaszu w pobli\u017cu Promenady des Arts",
@@ -3983,7 +3983,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Nicea",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 45,
@@ -3992,7 +3991,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Ma\u0142e studio w willi w pobli\u017cu pla\u017c",
@@ -4000,7 +4000,6 @@
         "general rating": 4.55,
         "number of guests": 2,
         "city": "Anglet",
-        "district": "Aquitaine Limousin Poitou-Charentes",
         "country": "Francja",
         "price per night": 191.0,
         "number of amenities": 9,
@@ -4009,7 +4008,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Aquitaine Limousin Poitou-Charentes"
     },
     {
         "name": "Studio F\u00e9lix Faure",
@@ -4017,7 +4017,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Le Havre",
-        "district": "Normandie",
         "country": "Francja",
         "price per night": 183.0,
         "number of amenities": 30,
@@ -4026,7 +4025,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Normandie"
     },
     {
         "name": "Studio w \u015brodku Pary\u017ca 9th",
@@ -4034,7 +4034,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Pary\u017c",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 378.0,
         "number of amenities": 19,
@@ -4043,7 +4042,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Apartament z widokiem na morze, parking na tarasie klimatycznym",
@@ -4051,7 +4051,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Sainte-Maxime",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 418.0,
         "number of amenities": 35,
@@ -4060,7 +4059,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Przytulny i przytulny Narbonne Casa Ramos",
@@ -4068,7 +4068,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Narbonne",
-        "district": "Occitanie",
         "country": "Francja",
         "price per night": 249.0,
         "number of amenities": 40,
@@ -4077,7 +4076,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Occitanie"
     },
     {
         "name": "Studio vue mer, c\u0153ur d Antibes",
@@ -4085,7 +4085,6 @@
         "general rating": 4.67,
         "number of guests": 2,
         "city": "Antibes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 386.0,
         "number of amenities": 39,
@@ -4094,7 +4093,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Wanderlust Studio",
@@ -4102,7 +4102,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Le Bar-sur-Loup",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 203.0,
         "number of amenities": 5,
@@ -4111,7 +4110,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Jasny i nowoczesny apartament w samym sercu Vence",
@@ -4119,7 +4119,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Vence",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 329.0,
         "number of amenities": 49,
@@ -4128,7 +4127,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Chambre Paris 5\u00e8me",
@@ -4136,7 +4136,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Pary\u017c",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 5,
@@ -4145,7 +4144,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "Parisian Apartment 2 people",
@@ -4153,7 +4153,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Pary\u017c",
-        "district": "\u00cele-de-France",
         "country": "Francja",
         "price per night": 336.0,
         "number of amenities": 31,
@@ -4162,7 +4161,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "\u00cele-de-France"
     },
     {
         "name": "gzym\u00f3w spacerowicz\u00f3w,",
@@ -4170,7 +4170,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "La Seyne-sur-Mer",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 204.0,
         "number of amenities": 45,
@@ -4179,7 +4178,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Studio premium!",
@@ -4187,7 +4187,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Cagnes-sur-Mer",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 295.0,
         "number of amenities": 30,
@@ -4196,7 +4195,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Widok na morze, basen, klimatyzacja, 10 minut od pla\u017cy",
@@ -4204,7 +4204,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Antibes",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 318.0,
         "number of amenities": 45,
@@ -4213,7 +4212,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Ca\u0142y apartament z parkingiem",
@@ -4221,7 +4221,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Anglet",
-        "district": "Nouvelle-Aquitaine",
         "country": "Francja",
         "price per night": 230.0,
         "number of amenities": 30,
@@ -4230,7 +4229,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Nouvelle-Aquitaine"
     },
     {
         "name": "Typowy dom rybaka Sene",
@@ -4238,7 +4238,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "S\u00e9n\u00e9",
-        "district": "Bretagne",
         "country": "Francja",
         "price per night": 227.0,
         "number of amenities": 6,
@@ -4247,7 +4246,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Bretagne"
     },
     {
         "name": "Designerski pok\u00f3j w Bastide",
@@ -4255,7 +4255,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Saint-Julien",
-        "district": "Prowansja-Alpy-Lazurowe Wybrze\u017ce",
         "country": "Francja",
         "price per night": 540.0,
         "number of amenities": 26,
@@ -4264,7 +4263,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Prowansja-Alpy-Lazurowe Wybrze\u017ce"
     },
     {
         "name": "Chez Ben & Alex",
@@ -4272,7 +4272,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Boulogne-sur-Mer",
-        "district": "Hauts-de-France",
         "country": "Francja",
         "price per night": 182.0,
         "number of amenities": 45,
@@ -4281,6 +4280,7 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Hauts-de-France"
     }
 ]

@@ -43,24 +43,6 @@ class Listing:
         except TimeoutException:
             pass
 
-    def read_and_process_positive_amenities_from_file(self):
-        with open("amenities_plus.txt", "r") as file:
-            amenities_score_dict = {}
-            for line in file.readlines():
-                name, score = line.strip().split(";")
-                amenities_score_dict[name] = int(score)
-
-            return amenities_score_dict
-
-    def read_and_process_negative_amenities_from_file(self):
-        with open("amenities_minus.txt", "r") as file:
-            amenities_score_dict = {}
-            for line in file.readlines():
-                name, score = line.strip().split(";")
-                amenities_score_dict[name] = int(score)
-
-            return amenities_score_dict
-
     def close_privacy_popup(self):
         try:
             privacy_popup = self.wait.until(EC.presence_of_element_located((By.XPATH, "//div[@class='_1amw1ek']")))
@@ -175,57 +157,6 @@ class Listing:
         amenities = amenities.split(")")[0]
         amenities = int(amenities)
         return amenities
-
-    def get_amenities(self):
-        amenities_button = self.wait.until(
-            EC.presence_of_element_located((By.XPATH, "//button[@class='l1j9v1wn b65jmrv v7aged4 dir dir-ltr']")))
-        amenities_button.click()
-        amenities = self.wait.until(EC.presence_of_element_located((By.XPATH, "//div[@class='_1seuw5go']")))
-        amenities = BeautifulSoup(amenities.get_attribute("innerHTML"), 'html.parser')
-        amenities = amenities.find_all('div', {'class': '_11jhslp'})
-
-        amenities_list = {}
-        for amenity in amenities:
-            for sub_amenity in amenity.find_all('div', {'class': 't1dx2edb dir dir-ltr'}):
-                section_title = amenity.find('h3', {'class': 'hghzvl1 dir dir-ltr'}).text
-                sub_amenity = sub_amenity.text
-                sub_amenity = sub_amenity.replace(" ", " ")
-                if sub_amenity.startswith("Niedost�pne:"):
-                    continue
-                if amenities_list.get(section_title) is None:
-                    amenities_list[section_title] = [sub_amenity]
-                else:
-                    amenities_list[section_title].append(sub_amenity)
-
-        if amenities_list.get("Nie zapewniono") is not None:
-            amenities_list.__delitem__("Nie zapewniono")
-
-        return amenities_list
-
-    def get_amenities_score(self):
-        total_score = 0
-        amenities = self.get_amenities()
-        amenities_list = []
-        for category in amenities.values():
-            for amenity in category:
-                amenities_list.append(amenity)
-
-        for amenity in amenities_list:
-            for name, score in self.AMENITIES_TO_LOOK_IF_IS.items():
-                if name == amenity:
-                    total_score += score
-                    break
-
-        found = False
-        for name, score in self.AMENITIES_TO_LOOK_IF_NOT_FOUND.items():
-            for amenity in amenities_list:
-                if name in amenity:
-                    found = True
-                    break
-            if not found:
-                total_score += score
-
-        return total_score
 
     def set_link(self, link):
         self.link = link

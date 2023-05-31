@@ -5,7 +5,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Terricciola",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 1098.0,
         "number of amenities": 53,
@@ -14,7 +13,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Toskania"
     },
     {
         "name": "Casa Zuleika Panoramic Hideaway",
@@ -22,7 +22,6 @@
         "general rating": 4.82,
         "number of guests": 3,
         "city": "Quattropani",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 431.0,
         "number of amenities": 42,
@@ -31,7 +30,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sicilia"
     },
     {
         "name": "Toskania wiejska | Dom rustykalny z basenem",
@@ -39,7 +39,6 @@
         "general rating": 4.0,
         "number of guests": 4,
         "city": "Brolio",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 749.0,
         "number of amenities": 48,
@@ -48,7 +47,8 @@
         "communication rating": 4.2,
         "location rating": 4.4,
         "check in rating": 4.6,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": "Toskania"
     },
     {
         "name": "Ma\u0142y naturalny dom nad jeziorem",
@@ -56,7 +56,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Varenna",
-        "district": "Lecco",
         "country": "W\u0142ochy",
         "price per night": 1453.0,
         "number of amenities": 52,
@@ -65,7 +64,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lecco"
     },
     {
         "name": "Villa Silvi luksusowe gor\u0105ce rurki sauna basen widok na jezioro",
@@ -73,7 +73,6 @@
         "general rating": 4.99,
         "number of guests": null,
         "city": "Perledo",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 1180.0,
         "number of amenities": 45,
@@ -82,7 +81,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lombardia"
     },
     {
         "name": "Zakwaterowanie na farmie Ca' Amedeo",
@@ -90,7 +90,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Castelfranco Veneto",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 24,
@@ -99,7 +98,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Rzym | Gospodarstwo z basenem | Agriturismo Cerqueto",
@@ -107,7 +107,6 @@
         "general rating": 5.0,
         "number of guests": 6,
         "city": "Acquapendente",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 685.0,
         "number of amenities": 49,
@@ -116,7 +115,8 @@
         "communication rating": 5.0,
         "location rating": 4.3,
         "check in rating": 5.0,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Lacjum"
     },
     {
         "name": "Farmhouse in Chianti Heart with private lake B",
@@ -124,7 +124,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Radda In Chianti",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 513.0,
         "number of amenities": 48,
@@ -133,7 +132,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Dom wakacyjny Pra di Br\u00ebc \"Nonni Pierino&Ermelinda\"",
@@ -141,7 +141,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Montepiano",
-        "district": "Piedmont",
         "country": "W\u0142ochy",
         "price per night": 734.0,
         "number of amenities": 50,
@@ -150,7 +149,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Piedmont"
     },
     {
         "name": "TREEhouse/casaBARTHEL",
@@ -158,7 +158,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Florencja",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 1180.0,
         "number of amenities": 41,
@@ -167,7 +166,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Toskania"
     },
     {
         "name": "Historia i ogrody w zamkowej Rectory",
@@ -175,7 +175,6 @@
         "general rating": 4.83,
         "number of guests": 8,
         "city": "Camerino",
-        "district": "Marche",
         "country": "W\u0142ochy",
         "price per night": 509.0,
         "number of amenities": 55,
@@ -184,7 +183,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Marche"
     },
     {
         "name": "Prywatny apartament Trullo Martodda",
@@ -192,7 +192,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "Locorotondo",
-        "district": "Apulia",
         "country": "W\u0142ochy",
         "price per night": 454.0,
         "number of amenities": 37,
@@ -201,7 +200,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Apulia"
     },
     {
         "name": "Amarillis, kwatery nad morzem w Caucana",
@@ -209,7 +209,6 @@
         "general rating": 4.76,
         "number of guests": 4,
         "city": "Kaukana",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 522.0,
         "number of amenities": 39,
@@ -218,7 +217,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Sicilia"
     },
     {
         "name": "3070 Masseria Macchia- Suite Double 3",
@@ -226,7 +226,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Ceglie Messapica",
-        "district": "Apulia",
         "country": "W\u0142ochy",
         "price per night": 372.0,
         "number of amenities": 7,
@@ -235,7 +234,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Apulia"
     },
     {
         "name": "UWIELBIAMY STRYCH",
@@ -243,7 +243,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "Fiumicino",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 681.0,
         "number of amenities": 56,
@@ -252,7 +251,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lacjum"
     },
     {
         "name": "Casa del Giardino",
@@ -260,7 +260,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Cerreto Guidi",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 399.0,
         "number of amenities": 70,
@@ -269,7 +268,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Romantyczna jurta z wann\u0105 z hydromasa\u017cem w naturze",
@@ -277,7 +277,6 @@
         "general rating": 4.67,
         "number of guests": 2,
         "city": "Anversa degli Abruzzi",
-        "district": "Abruzja",
         "country": "W\u0142ochy",
         "price per night": 454.0,
         "number of amenities": 37,
@@ -286,7 +285,8 @@
         "communication rating": 4.7,
         "location rating": 4.7,
         "check in rating": 4.3,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Abruzja"
     },
     {
         "name": "Tower house Gombola",
@@ -294,7 +294,6 @@
         "general rating": 4.87,
         "number of guests": 5,
         "city": "Gombola",
-        "district": "Emilia-Romania",
         "country": "W\u0142ochy",
         "price per night": 613.0,
         "number of amenities": 24,
@@ -303,7 +302,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Emilia-Romania"
     },
     {
         "name": "Zrelaksuj si\u0119 w willi",
@@ -311,7 +311,6 @@
         "general rating": 3.75,
         "number of guests": 4,
         "city": "San Vito Lo Capo",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 15,
@@ -320,7 +319,8 @@
         "communication rating": 3.5,
         "location rating": 3.8,
         "check in rating": 3.5,
-        "value rating": 3.8
+        "value rating": 3.8,
+        "region": "Sicilia"
     },
     {
         "name": "Historyczna rezydencja w otoczeniu drzew oliwnych",
@@ -328,7 +328,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": "Agello",
-        "district": "Umbria",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 47,
@@ -337,7 +336,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Umbria"
     },
     {
         "name": "La Fiorita",
@@ -345,7 +345,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Colico",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 599.0,
         "number of amenities": 13,
@@ -354,7 +353,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Lombardia"
     },
     {
         "name": "Magiczne Trullo w Ostuni Cis BR0740129000012213",
@@ -362,7 +362,6 @@
         "general rating": 4.87,
         "number of guests": 3,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 386.0,
         "number of amenities": 27,
@@ -371,7 +370,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Apartament nad wod\u0105 z widokiem na morze i Etna View",
@@ -379,7 +379,6 @@
         "general rating": 4.95,
         "number of guests": 5,
         "city": "Acireale",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 587.0,
         "number of amenities": 24,
@@ -388,7 +387,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sicilia"
     },
     {
         "name": "Villa FronteMare 3 Jesolo Lido Carraro Immobiliare",
@@ -396,7 +396,6 @@
         "general rating": null,
         "number of guests": 6,
         "city": "Lido di Jesolo",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 518.0,
         "number of amenities": 11,
@@ -405,7 +404,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Trulli Chiafele",
@@ -413,7 +413,6 @@
         "general rating": 4.98,
         "number of guests": 4,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 380.0,
         "number of amenities": 55,
@@ -422,7 +421,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Wspania\u0142a chata na dachu",
@@ -430,7 +430,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Palermo",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 250.0,
         "number of amenities": 30,
@@ -439,7 +438,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sicilia"
     },
     {
         "name": "\u0141adny dom toska\u0144ski z prywatnym basenem i wolno\u015bci\u0105",
@@ -447,7 +447,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Montespertoli",
-        "district": "Toscana,Firenze",
         "country": "W\u0142ochy",
         "price per night": 567.0,
         "number of amenities": 41,
@@ -456,7 +455,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toscana,Firenze"
     },
     {
         "name": "Dom wiejski",
@@ -464,7 +464,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Torreglia",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 255.0,
         "number of amenities": 22,
@@ -473,7 +472,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Quader  il Ciliegio Suite Luxury",
@@ -481,7 +481,6 @@
         "general rating": 4.74,
         "number of guests": 2,
         "city": "Prestine",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 545.0,
         "number of amenities": 31,
@@ -490,7 +489,8 @@
         "communication rating": 4.6,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Lombardia"
     },
     {
         "name": "Al-Mare",
@@ -498,7 +498,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "Porto Palo",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 462.0,
         "number of amenities": 47,
@@ -507,7 +506,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Sicilia"
     },
     {
         "name": "B&B Breggno (pok\u00f3j Erica)",
@@ -515,7 +515,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Musso",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 454.0,
         "number of amenities": 45,
@@ -524,7 +523,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lombardia"
     },
     {
         "name": "Boisko do drzew oliwnych",
@@ -532,7 +532,6 @@
         "general rating": 4.52,
         "number of guests": 2,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 340.0,
         "number of amenities": 10,
@@ -541,7 +540,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": null
     },
     {
         "name": "Green - Lawns in Tuscany",
@@ -549,7 +549,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Asciano",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 320.0,
         "number of amenities": 35,
@@ -558,7 +557,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Cinque terre Eos, romantyczny gataway do natury",
@@ -566,7 +566,6 @@
         "general rating": 4.78,
         "number of guests": 2,
         "city": "Bracelli",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 33,
@@ -575,7 +574,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Liguria"
     },
     {
         "name": "Xavier House",
@@ -583,7 +583,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Rzym",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 159.0,
         "number of amenities": 43,
@@ -592,7 +591,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lacjum"
     },
     {
         "name": "Pok\u00f3j(prywatna \u0142azienka) w centrum miasta - Pta Venice",
@@ -600,7 +600,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Mediolan",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 407.0,
         "number of amenities": 38,
@@ -609,7 +608,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lombardia"
     },
     {
         "name": "Je\u017c",
@@ -617,7 +617,6 @@
         "general rating": 4.56,
         "number of guests": 4,
         "city": "Sarre",
-        "district": null,
         "country": "W\u0142ochy",
         "price per night": 217.0,
         "number of amenities": 11,
@@ -626,7 +625,8 @@
         "communication rating": 4.7,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": null
     },
     {
         "name": "Pok\u00f3j i ogr\u00f3d w domu artysty",
@@ -634,7 +634,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Rzym",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 30,
@@ -643,7 +642,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lacjum"
     },
     {
         "name": "Villa Michaela - Pok\u00f3j Nottolini",
@@ -651,7 +651,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Vorno",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 1044.0,
         "number of amenities": 58,
@@ -660,7 +659,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Toskania"
     },
     {
         "name": "La Mason dl'Arc - Baita nel Gran Paradiso",
@@ -668,7 +668,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Chiapinetto",
-        "district": "Piemonte",
         "country": "W\u0142ochy",
         "price per night": 477.0,
         "number of amenities": 5,
@@ -677,7 +676,8 @@
         "communication rating": 4.7,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Piemonte"
     },
     {
         "name": "Sardynia Navarrese wakacje nad morzem",
@@ -685,7 +685,6 @@
         "general rating": 4.85,
         "number of guests": 3,
         "city": "Santa Maria Navarrese",
-        "district": "Sardegna",
         "country": "W\u0142ochy",
         "price per night": 250.0,
         "number of amenities": 46,
@@ -694,7 +693,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sardegna"
     },
     {
         "name": "Przytulny pok\u00f3j 20 minut od Wenecji",
@@ -702,7 +702,6 @@
         "general rating": 4.8,
         "number of guests": null,
         "city": "Olmo",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 218.0,
         "number of amenities": 19,
@@ -711,7 +710,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Kamienny poddasze z balkonem z widokiem na  morze",
@@ -719,7 +719,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 318.0,
         "number of amenities": 53,
@@ -728,7 +727,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Il Sartino",
@@ -736,7 +736,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Barberino di Mugello",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 159.0,
         "number of amenities": 18,
@@ -745,7 +744,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "The Boathouse, nad jeziorem",
@@ -753,7 +753,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Monte del Lago",
-        "district": "Magione (PG) Italy",
         "country": "W\u0142ochy",
         "price per night": 908.0,
         "number of amenities": 49,
@@ -762,7 +761,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Magione (PG) Italy"
     },
     {
         "name": "Mary Angel Amalfi",
@@ -770,7 +770,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Amalfi",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 29,
@@ -779,7 +778,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kampania"
     },
     {
         "name": "La Casa del Cardellino",
@@ -787,7 +787,6 @@
         "general rating": 4.81,
         "number of guests": 6,
         "city": "Licenza",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 39,
@@ -796,7 +795,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lacjum"
     },
     {
         "name": "Dzika chatka",
@@ -804,7 +804,6 @@
         "general rating": null,
         "number of guests": 16,
         "city": "Vilminore",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 200.0,
         "number of amenities": 4,
@@ -813,7 +812,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Lombardia"
     },
     {
         "name": "Casa Mascagni\nBilocale on the sea",
@@ -821,7 +821,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Livorno",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 359.0,
         "number of amenities": 45,
@@ -830,7 +829,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Toskania"
     },
     {
         "name": "Casa Melina: sycylijski dom przy pla\u017cy",
@@ -838,7 +838,6 @@
         "general rating": 4.91,
         "number of guests": 3,
         "city": "Giardini Naxos",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 340.0,
         "number of amenities": 54,
@@ -847,7 +846,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sicilia"
     },
     {
         "name": "Agriturismo,B & B, Hotel,Villa i wi\u0119cej Paestum dla 2",
@@ -855,7 +855,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Paestum-Giungano",
-        "district": "Salerno",
         "country": "W\u0142ochy",
         "price per night": 567.0,
         "number of amenities": 39,
@@ -864,7 +863,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Salerno"
     },
     {
         "name": "Italian Retreat: Culture | Cuisine | Charm",
@@ -872,7 +872,6 @@
         "general rating": null,
         "number of guests": 8,
         "city": "Colledimezzo",
-        "district": "Abruzja",
         "country": "W\u0142ochy",
         "price per night": 885.0,
         "number of amenities": 47,
@@ -881,7 +880,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Abruzja"
     },
     {
         "name": "Jaskinia",
@@ -889,7 +889,6 @@
         "general rating": 4.87,
         "number of guests": 4,
         "city": "Pitigliano",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 318.0,
         "number of amenities": 19,
@@ -898,7 +897,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Atrakcja na Sycylii na ranczu",
@@ -906,7 +906,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Granieri",
-        "district": "Sycylia",
         "country": "W\u0142ochy",
         "price per night": 263.0,
         "number of amenities": 45,
@@ -915,7 +914,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sycylia"
     },
     {
         "name": "Urocza panoramiczna weranda",
@@ -923,7 +923,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Albenga",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 340.0,
         "number of amenities": 16,
@@ -932,7 +931,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Liguria"
     },
     {
         "name": "Ma\u0142y domek otoczony zieleni\u0105",
@@ -940,7 +940,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Tuerra I",
-        "district": "Sardynia",
         "country": "W\u0142ochy",
         "price per night": 186.0,
         "number of amenities": 13,
@@ -949,7 +948,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Sardynia"
     },
     {
         "name": "domku.",
@@ -957,7 +957,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Pianillo",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 340.0,
         "number of amenities": 26,
@@ -966,7 +965,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Kampania"
     },
     {
         "name": "Posiad\u0142o\u015b\u0107 Verzano \"DOM WIEJSKI\"",
@@ -974,7 +974,6 @@
         "general rating": 4.91,
         "number of guests": 6,
         "city": "Sant'Oreste",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 16,
@@ -983,7 +982,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lacjum"
     },
     {
         "name": "Villa Alma",
@@ -991,7 +991,6 @@
         "general rating": 4.75,
         "number of guests": 4,
         "city": "San Cristoforo",
-        "district": "Marche",
         "country": "W\u0142ochy",
         "price per night": 340.0,
         "number of amenities": 58,
@@ -1000,7 +999,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Marche"
     },
     {
         "name": "Loft nad morzem",
@@ -1008,7 +1008,6 @@
         "general rating": 4.8,
         "number of guests": 2,
         "city": "Marina di Pisa-tirrenia-calambr",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 405.0,
         "number of amenities": 32,
@@ -1017,7 +1016,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Dom na pla\u017cy w odleg\u0142o\u015bci kr\u00f3tkiego spaceru od centrum.",
@@ -1025,7 +1025,6 @@
         "general rating": 4.63,
         "number of guests": 4,
         "city": "Amantea",
-        "district": "Kalabria",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 46,
@@ -1034,7 +1033,8 @@
         "communication rating": 4.9,
         "location rating": 3.9,
         "check in rating": 4.6,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Kalabria"
     },
     {
         "name": "Domek Miramare z jacuzzi i prywatnym basenem",
@@ -1042,7 +1042,6 @@
         "general rating": 4.42,
         "number of guests": 4,
         "city": "Cefal\u00f9",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 599.0,
         "number of amenities": 46,
@@ -1051,7 +1050,8 @@
         "communication rating": 4.0,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Sicilia"
     },
     {
         "name": "House Garden Augusta",
@@ -1059,7 +1059,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Pescara",
-        "district": "Abruzja",
         "country": "W\u0142ochy",
         "price per night": 363.0,
         "number of amenities": 54,
@@ -1068,7 +1067,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Abruzja"
     },
     {
         "name": "Twoja willa nad morzem [View -Free Parking - WiFi]",
@@ -1076,7 +1076,6 @@
         "general rating": null,
         "number of guests": 7,
         "city": "Borgio",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 835.0,
         "number of amenities": 65,
@@ -1085,7 +1084,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Liguria"
     },
     {
         "name": "Przyl\u0105dek Falcone Bilocale Comfort",
@@ -1093,7 +1093,6 @@
         "general rating": 4.76,
         "number of guests": 4,
         "city": "Stintino",
-        "district": "Sardegna",
         "country": "W\u0142ochy",
         "price per night": 386.0,
         "number of amenities": 19,
@@ -1102,7 +1101,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sardegna"
     },
     {
         "name": "La Nave - dom z widokiem na morze i Etna",
@@ -1110,7 +1110,6 @@
         "general rating": 4.84,
         "number of guests": 4,
         "city": "Riposto",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 295.0,
         "number of amenities": 49,
@@ -1119,7 +1118,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sicilia"
     },
     {
         "name": "1600 Convent Studio w Terni",
@@ -1127,7 +1127,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Terni",
-        "district": "Umbria",
         "country": "W\u0142ochy",
         "price per night": 182.0,
         "number of amenities": 32,
@@ -1136,7 +1135,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Umbria"
     },
     {
         "name": "I Puledri B&B Toskania",
@@ -1144,7 +1144,6 @@
         "general rating": 4.73,
         "number of guests": 4,
         "city": "Paterno",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 196.0,
         "number of amenities": 24,
@@ -1153,7 +1152,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Stylowy Trullo Lamia z basenem",
@@ -1161,7 +1161,6 @@
         "general rating": 4.38,
         "number of guests": 2,
         "city": "Ostuni",
-        "district": "Ap\u00falia",
         "country": "W\u0142ochy",
         "price per night": 436.0,
         "number of amenities": 28,
@@ -1170,7 +1169,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Ap\u00falia"
     },
     {
         "name": "W sercu Ostii",
@@ -1178,7 +1178,6 @@
         "general rating": null,
         "number of guests": 3,
         "city": "Lido di Ostia",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 299.0,
         "number of amenities": 29,
@@ -1187,7 +1186,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Lacjum"
     },
     {
         "name": "The Lighthouse of the Glamping Gods",
@@ -1195,7 +1195,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Praiano",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 590.0,
         "number of amenities": 36,
@@ -1204,7 +1203,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kampania"
     },
     {
         "name": "Dom Alessandro",
@@ -1212,7 +1212,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Castelletto sopra Ticino",
-        "district": "Piemonte",
         "country": "W\u0142ochy",
         "price per night": 132.0,
         "number of amenities": 22,
@@ -1221,7 +1220,8 @@
         "communication rating": 5.0,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Piemonte"
     },
     {
         "name": "Kolorowy dom",
@@ -1229,7 +1229,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Niella Tanaro ",
-        "district": "Piemonte",
         "country": "W\u0142ochy",
         "price per night": 204.0,
         "number of amenities": 36,
@@ -1238,7 +1237,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Piemonte"
     },
     {
         "name": "Casa Ciccio",
@@ -1246,7 +1246,6 @@
         "general rating": 4.83,
         "number of guests": 5,
         "city": "Reggio Calabria",
-        "district": "Kalabria",
         "country": "W\u0142ochy",
         "price per night": 204.0,
         "number of amenities": 36,
@@ -1255,7 +1254,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalabria"
     },
     {
         "name": "Lodge w otoczeniu zieleni - do\u015bwiadczenie Suxen przyrody",
@@ -1263,7 +1263,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Iainich",
-        "district": "Friuli-Wenecja Julijska",
         "country": "W\u0142ochy",
         "price per night": 613.0,
         "number of amenities": 21,
@@ -1272,7 +1271,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Friuli-Wenecja Julijska"
     },
     {
         "name": "Dom na pla\u017cy w pobli\u017cu Tropei, Niesamowite widoki",
@@ -1280,7 +1280,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Sant'Irene-torre Vecchia",
-        "district": "Kalabria",
         "country": "W\u0142ochy",
         "price per night": 636.0,
         "number of amenities": 40,
@@ -1289,7 +1288,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalabria"
     },
     {
         "name": "Chambres d'Amis \u2022 L'Antico Fienile",
@@ -1297,7 +1297,6 @@
         "general rating": 4.88,
         "number of guests": 5,
         "city": "Brissogne",
-        "district": "Aosta",
         "country": "W\u0142ochy",
         "price per night": 658.0,
         "number of amenities": 34,
@@ -1306,7 +1305,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Aosta"
     },
     {
         "name": "-Alba-Komfortowe mieszkanie z widokiem na pla\u017c\u0119",
@@ -1314,7 +1314,6 @@
         "general rating": 4.76,
         "number of guests": 2,
         "city": "Isola Sacra",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 439.0,
         "number of amenities": 50,
@@ -1323,7 +1322,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Lacjum"
     },
     {
         "name": "Mario Leggio 83, jak w domu",
@@ -1331,7 +1331,6 @@
         "general rating": 4.89,
         "number of guests": 5,
         "city": "Ragusa",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 318.0,
         "number of amenities": 18,
@@ -1340,7 +1339,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sicilia"
     },
     {
         "name": "CHATA DZIKA - CHATA ALPEJSKA",
@@ -1348,7 +1348,6 @@
         "general rating": 4.52,
         "number of guests": 16,
         "city": "Vilminore",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 170.0,
         "number of amenities": 16,
@@ -1357,7 +1356,8 @@
         "communication rating": 4.6,
         "location rating": 4.9,
         "check in rating": 4.6,
-        "value rating": 4.1
+        "value rating": 4.1,
+        "region": "Lombardia"
     },
     {
         "name": "King 's Windmill - Ma\u0142y domek w lesie",
@@ -1365,7 +1365,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "Serrazone",
-        "district": "Emilia-Romania",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 45,
@@ -1374,7 +1373,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Emilia-Romania"
     },
     {
         "name": "Apartament 5 min od morza",
@@ -1382,7 +1382,6 @@
         "general rating": null,
         "number of guests": 6,
         "city": "Rosignano Solvay-Castiglioncello",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 16,
@@ -1391,7 +1390,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Toskania"
     },
     {
         "name": "Apartament nad morzem w Stazzo (Acireale)",
@@ -1399,7 +1399,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Acireale",
-        "district": "Sycylia",
         "country": "W\u0142ochy",
         "price per night": 363.0,
         "number of amenities": 17,
@@ -1408,7 +1407,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sycylia"
     },
     {
         "name": "Zrelaksuj si\u0119 na wsi w pobli\u017cu morza",
@@ -1416,7 +1416,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Campo nell'Elba",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 590.0,
         "number of amenities": 69,
@@ -1425,7 +1424,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Apartament-Mansarda Vista Castello",
@@ -1433,7 +1433,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Roviano",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 56,
@@ -1442,7 +1441,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lacjum"
     },
     {
         "name": "Domek pla\u017cowy",
@@ -1450,7 +1450,6 @@
         "general rating": 4.84,
         "number of guests": 4,
         "city": "Noto - Calabernardo",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 454.0,
         "number of amenities": 74,
@@ -1459,7 +1458,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sicilia"
     },
     {
         "name": "Dom Eleny",
@@ -1467,7 +1467,6 @@
         "general rating": 4.76,
         "number of guests": 6,
         "city": "Barberino di Mugello",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 182.0,
         "number of amenities": 33,
@@ -1476,7 +1475,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Dom w lesie z basenem w pobli\u017cu morza",
@@ -1484,7 +1484,6 @@
         "general rating": 4.78,
         "number of guests": 3,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 295.0,
         "number of amenities": 32,
@@ -1493,7 +1492,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": null
     },
     {
         "name": "\"Mimosa\" zale\u017cno\u015b\u0107 na wsi z basenem",
@@ -1501,7 +1501,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Sciacca",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 29,
@@ -1510,7 +1509,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sicilia"
     },
     {
         "name": "Dziki glamping we w\u0142oskim g\u00f3rskim raju!",
@@ -1518,7 +1518,6 @@
         "general rating": 4.93,
         "number of guests": 8,
         "city": "Vallemaio",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 47.0,
         "number of amenities": 25,
@@ -1527,7 +1526,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lacjum"
     },
     {
         "name": "\"Mimosa\" zale\u017cno\u015b\u0107 na wsi z basenem",
@@ -1535,7 +1535,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Sciacca",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 29,
@@ -1544,7 +1543,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sicilia"
     },
     {
         "name": "Dziki glamping we w\u0142oskim g\u00f3rskim raju!",
@@ -1552,7 +1552,6 @@
         "general rating": 4.93,
         "number of guests": 8,
         "city": "Vallemaio",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 47.0,
         "number of amenities": 25,
@@ -1561,7 +1560,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lacjum"
     },
     {
         "name": "Pok\u00f3j z zagubion\u0105 ig\u0142\u0105 1",
@@ -1569,7 +1569,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Noto",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 281.0,
         "number of amenities": 55,
@@ -1578,7 +1577,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Sicilia"
     },
     {
         "name": "Niezwyk\u0142y dom rze\u017aba nadaj\u0105ca si\u0119 do \u017cycia",
@@ -1586,7 +1586,6 @@
         "general rating": 4.76,
         "number of guests": 2,
         "city": "Rzym",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 340.0,
         "number of amenities": 36,
@@ -1595,7 +1594,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lacjum"
     },
     {
         "name": "Masseria del Paradiso",
@@ -1603,7 +1603,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Roccella",
-        "district": "Caltanissetta",
         "country": "W\u0142ochy",
         "price per night": 173.0,
         "number of amenities": 48,
@@ -1612,7 +1611,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Caltanissetta"
     },
     {
         "name": "La Casa del Torchio",
@@ -1620,7 +1620,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Vallemiola",
-        "district": "Piedmont",
         "country": "W\u0142ochy",
         "price per night": 318.0,
         "number of amenities": 40,
@@ -1629,7 +1628,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Piedmont"
     },
     {
         "name": "B & B  i w\u0142oska szko\u0142a kulinarna",
@@ -1637,7 +1637,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "La Felce",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 304.0,
         "number of amenities": 25,
@@ -1646,7 +1645,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Casa Azul Castellammare B&B",
@@ -1654,7 +1654,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Castellammare del Golfo",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 390.0,
         "number of amenities": 40,
@@ -1663,7 +1662,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sicilia"
     },
     {
         "name": "Passiflora House# New!",
@@ -1671,7 +1671,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Padwa",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 363.0,
         "number of amenities": 37,
@@ -1680,7 +1679,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Casa del Mago - Castelmezzano",
@@ -1688,7 +1688,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "Castelmezzano",
-        "district": "Basilicata",
         "country": "W\u0142ochy",
         "price per night": 345.0,
         "number of amenities": 11,
@@ -1697,7 +1696,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Basilicata"
     },
     {
         "name": "G\u00f3rski azyl na chwil\u0119 wytchnienia od miasta.",
@@ -1705,7 +1705,6 @@
         "general rating": 4.88,
         "number of guests": 6,
         "city": "Rocca di Fondi",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 43,
@@ -1714,7 +1713,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lacjum"
     },
     {
         "name": "Na rogu raju 100 metr\u00f3w od morza",
@@ -1722,7 +1722,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Mazara del Vallo",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 250.0,
         "number of amenities": 38,
@@ -1731,7 +1730,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Sicilia"
     },
     {
         "name": "Pok\u00f3j z zagubion\u0105 ig\u0142\u0105 2",
@@ -1739,7 +1739,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Noto",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 281.0,
         "number of amenities": 55,
@@ -1748,7 +1747,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Sicilia"
     },
     {
         "name": "Wspania\u0142y panoramiczny widok, Florence.",
@@ -1756,7 +1756,6 @@
         "general rating": 4.79,
         "number of guests": 3,
         "city": "Incisa in Val d'Arno",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 291.0,
         "number of amenities": 64,
@@ -1765,7 +1764,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "SassoErminia Ecofriendly B&B - Goffredo Apartment",
@@ -1773,7 +1773,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "Novafeltria",
-        "district": "Emilia-Romania",
         "country": "W\u0142ochy",
         "price per night": 344.0,
         "number of amenities": 48,
@@ -1782,7 +1781,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Emilia-Romania"
     },
     {
         "name": "Uroczy domek nad jeziorem z pla\u017c\u0105",
@@ -1790,7 +1790,6 @@
         "general rating": 4.5,
         "number of guests": 2,
         "city": "Comabbio",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 696.0,
         "number of amenities": 35,
@@ -1799,7 +1798,8 @@
         "communication rating": 4.5,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Lombardia"
     },
     {
         "name": "LA BAITA D\u2019IN Gial\u2022 do\u015bwiadczenie natury Valle Vigezzo",
@@ -1807,7 +1807,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "Zornasco",
-        "district": "VB",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 38,
@@ -1816,7 +1815,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "VB"
     },
     {
         "name": "Dom wakacyjny babci Antonii",
@@ -1824,7 +1824,6 @@
         "general rating": 5.0,
         "number of guests": 5,
         "city": "Valstrona",
-        "district": "Piemonte",
         "country": "W\u0142ochy",
         "price per night": 295.0,
         "number of amenities": 37,
@@ -1833,7 +1832,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Piemonte"
     },
     {
         "name": "W samym sercu Toskanii.Forestar\u00eca!",
@@ -1841,7 +1841,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 395.0,
         "number of amenities": 22,
@@ -1850,7 +1849,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Pok\u00f3j w Treetop Apartment z widokiem",
@@ -1858,7 +1858,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Rzym",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 382.0,
         "number of amenities": 36,
@@ -1867,7 +1866,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lacjum"
     },
     {
         "name": "Dom Panucci - w po\u0142owie drogi mi\u0119dzy morzem a g\u00f3r\u0105",
@@ -1875,7 +1875,6 @@
         "general rating": null,
         "number of guests": 5,
         "city": "Dinami",
-        "district": "Kalabria",
         "country": "W\u0142ochy",
         "price per night": 91.0,
         "number of amenities": 44,
@@ -1884,7 +1883,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Kalabria"
     },
     {
         "name": "Dom wypoczynkowy",
@@ -1892,7 +1892,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Nereto",
-        "district": "Abruzja",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 29,
@@ -1901,7 +1900,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Abruzja"
     },
     {
         "name": "Mapy place",
@@ -1909,7 +1909,6 @@
         "general rating": 4.7,
         "number of guests": 2,
         "city": "Lido di Ostia",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 182.0,
         "number of amenities": 49,
@@ -1918,7 +1917,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Lacjum"
     },
     {
         "name": "Butik Pigna Felice Superior",
@@ -1926,7 +1926,6 @@
         "general rating": 4.64,
         "number of guests": 2,
         "city": "Castiglione della Pescaia",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 449.0,
         "number of amenities": 43,
@@ -1935,7 +1934,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Toskania"
     },
     {
         "name": "Apartament z widokiem na Sibillini i wiosk\u0119",
@@ -1943,7 +1943,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Castorano",
-        "district": "Ma",
         "country": "W\u0142ochy",
         "price per night": 136.0,
         "number of amenities": 39,
@@ -1952,7 +1951,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Ma"
     },
     {
         "name": "Chata g\u00f3rska \"Vrei\" - widok na jezioro Maggiore",
@@ -1960,7 +1960,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Miazzina",
-        "district": "Piemonte",
         "country": "W\u0142ochy",
         "price per night": 340.0,
         "number of amenities": 51,
@@ -1969,7 +1968,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Piemonte"
     },
     {
         "name": "Unikalna toska\u0144ska wie\u017ca na rzecz pokoju, ciszy, spokoju",
@@ -1977,7 +1977,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Casoli",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 114.0,
         "number of amenities": 43,
@@ -1986,7 +1985,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Apartament z trzema krokami od morza.",
@@ -1994,7 +1994,6 @@
         "general rating": 4.83,
         "number of guests": 5,
         "city": "Bocale",
-        "district": "Kalabria",
         "country": "W\u0142ochy",
         "price per night": 159.0,
         "number of amenities": 87,
@@ -2003,7 +2002,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalabria"
     },
     {
         "name": "Przestronny pok\u00f3j z telewizorem w Mediolanie",
@@ -2011,7 +2011,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Mediolan",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 222.0,
         "number of amenities": 35,
@@ -2020,7 +2019,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lombardia"
     },
     {
         "name": "Suite Deluxe",
@@ -2028,7 +2028,6 @@
         "general rating": 4.47,
         "number of guests": 2,
         "city": "Prato",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 522.0,
         "number of amenities": 24,
@@ -2037,7 +2036,8 @@
         "communication rating": 4.5,
         "location rating": 4.4,
         "check in rating": 4.6,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Toskania"
     },
     {
         "name": "Gabbano 5",
@@ -2045,7 +2045,6 @@
         "general rating": 4.57,
         "number of guests": 5,
         "city": "San Vincenzo",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 449.0,
         "number of amenities": 9,
@@ -2054,7 +2053,8 @@
         "communication rating": 4.6,
         "location rating": 5.0,
         "check in rating": 4.6,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Toskania"
     },
     {
         "name": "La Mansarda Apartament PNGP",
@@ -2062,7 +2062,6 @@
         "general rating": 5.0,
         "number of guests": 5,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 340.0,
         "number of amenities": 76,
@@ -2071,7 +2070,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Drugi lokal z prywatnym parkingiem",
@@ -2079,7 +2079,6 @@
         "general rating": 4.74,
         "number of guests": 3,
         "city": "Chiesa della Giuliana",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 345.0,
         "number of amenities": 53,
@@ -2088,7 +2087,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kampania"
     },
     {
         "name": "Spok\u00f3j ... pomi\u0119dzy gajami oliwnymi a morzem",
@@ -2096,7 +2096,6 @@
         "general rating": 4.53,
         "number of guests": 6,
         "city": "Sori",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 214.0,
         "number of amenities": 64,
@@ -2105,7 +2104,8 @@
         "communication rating": 4.8,
         "location rating": 4.5,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Liguria"
     },
     {
         "name": "SHR-Sicily Holiday Rooms/5",
@@ -2113,7 +2113,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Katania",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 164.0,
         "number of amenities": 45,
@@ -2122,7 +2121,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Sicilia"
     },
     {
         "name": "Studio Borgo Verde dla 2 os\u00f3b, klimatyzacja, WI-FI, w domu z basenem",
@@ -2130,7 +2130,6 @@
         "general rating": 4.83,
         "number of guests": 2,
         "city": "Rosignano Marittimo",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 468.0,
         "number of amenities": 21,
@@ -2139,7 +2138,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Studio Borgo Verde dla 2 os\u00f3b, klimatyzacja, WI-FI, w domu z basenem",
@@ -2147,7 +2147,6 @@
         "general rating": 4.83,
         "number of guests": 2,
         "city": "Rosignano Marittimo",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 468.0,
         "number of amenities": 21,
@@ -2156,7 +2155,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Cave z kamieniami, szybkie Wi-Fi, rowery elektroniczne, klimatyzacja i panorama",
@@ -2164,7 +2164,6 @@
         "general rating": 4.63,
         "number of guests": 2,
         "city": "Fornelli",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 120.0,
         "number of amenities": 65,
@@ -2173,7 +2172,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Kampania"
     },
     {
         "name": "Przy pla\u017cy",
@@ -2181,7 +2181,6 @@
         "general rating": 4.84,
         "number of guests": 5,
         "city": "Sant'Antioco",
-        "district": "Sardegna",
         "country": "W\u0142ochy",
         "price per night": 331.0,
         "number of amenities": 30,
@@ -2190,7 +2189,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sardegna"
     },
     {
         "name": "Nadmorski penthouse z przepi\u0119knymi widokami",
@@ -2198,7 +2198,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Lipari",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 35,
@@ -2207,7 +2206,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sicilia"
     },
     {
         "name": "La Badia",
@@ -2215,7 +2215,6 @@
         "general rating": 4.74,
         "number of guests": 2,
         "city": "Loro Ciuffenna",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 363.0,
         "number of amenities": 21,
@@ -2224,7 +2223,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Apartament z widokiem na Brenta Dolomites",
@@ -2232,7 +2232,6 @@
         "general rating": 4.74,
         "number of guests": 4,
         "city": "Ville d'Anaunia",
-        "district": "Trentino-South Tyrol",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 15,
@@ -2241,7 +2240,8 @@
         "communication rating": 4.7,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Trentino-South Tyrol"
     },
     {
         "name": "Costa del Conte - Sicilian Bio Experience | Room3",
@@ -2249,7 +2249,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Contessa Entellina",
-        "district": "Sycylia",
         "country": "W\u0142ochy",
         "price per night": 311.0,
         "number of amenities": 29,
@@ -2258,7 +2257,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sycylia"
     },
     {
         "name": "Casa Azzurra",
@@ -2266,7 +2266,6 @@
         "general rating": 4.62,
         "number of guests": 6,
         "city": "Mazara del Vallo",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 159.0,
         "number of amenities": 34,
@@ -2275,7 +2274,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Sicilia"
     },
     {
         "name": "Dom Artysty",
@@ -2283,7 +2283,6 @@
         "general rating": 4.86,
         "number of guests": 3,
         "city": "Giussago",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 127.0,
         "number of amenities": 38,
@@ -2292,7 +2291,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lombardia"
     },
     {
         "name": "Autentyczna Toskania: Tananei,  Hunter room",
@@ -2300,7 +2300,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Marliana",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 295.0,
         "number of amenities": 21,
@@ -2309,7 +2308,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Melodia zrelaksowanego morza .GUEST DOM (WI.FI.)",
@@ -2317,7 +2317,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Reggio Calabria ",
-        "district": "Italia",
         "country": "W\u0142ochy",
         "price per night": 159.0,
         "number of amenities": 91,
@@ -2326,7 +2325,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Italia"
     },
     {
         "name": "Kamie\u0144 i drewno w sercu Parku Narodowego",
@@ -2334,7 +2334,6 @@
         "general rating": 4.71,
         "number of guests": 4,
         "city": "Rovenaud",
-        "district": "Aosta",
         "country": "W\u0142ochy",
         "price per night": 136.0,
         "number of amenities": 38,
@@ -2343,7 +2342,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Aosta"
     },
     {
         "name": "Pok\u00f3j dwuosobowy Vicar",
@@ -2351,7 +2351,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "San Gimignano",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 499.0,
         "number of amenities": 19,
@@ -2360,7 +2359,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Heidi jest w domu w Dolomitach",
@@ -2368,7 +2368,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Zopp\u00e9 di Cadore",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 181.0,
         "number of amenities": 45,
@@ -2377,7 +2376,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Przy pla\u017cy Montesilvanoconprywatny parking",
@@ -2385,7 +2385,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "Montesilvano",
-        "district": "Abruzja",
         "country": "W\u0142ochy",
         "price per night": 207.0,
         "number of amenities": 26,
@@ -2394,7 +2393,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Abruzja"
     },
     {
         "name": "DO ZAMKU MONTACCHITA CA\u0141E MIESZKANIE",
@@ -2402,7 +2402,6 @@
         "general rating": 4.94,
         "number of guests": 4,
         "city": "Palaia",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 250.0,
         "number of amenities": 46,
@@ -2411,7 +2410,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Toskania"
     },
     {
         "name": "Na \u015bwie\u017cym powietrzu",
@@ -2419,7 +2419,6 @@
         "general rating": 4.78,
         "number of guests": 2,
         "city": "Manerba del Garda",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 286.0,
         "number of amenities": 22,
@@ -2428,7 +2427,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lombardia"
     },
     {
         "name": "Zakwaterowanie z parkiem, ogrodem i  basenem",
@@ -2436,7 +2436,6 @@
         "general rating": 4.11,
         "number of guests": 4,
         "city": "Loano",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 327.0,
         "number of amenities": 48,
@@ -2445,7 +2444,8 @@
         "communication rating": 4.6,
         "location rating": 4.1,
         "check in rating": 4.8,
-        "value rating": 4.1
+        "value rating": 4.1,
+        "region": "Liguria"
     },
     {
         "name": "Apartament \"Marco Polo\" 200 m od pla\u017cy Poetto",
@@ -2453,7 +2453,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "Quartu Sant'Elena",
-        "district": "Sardegna",
         "country": "W\u0142ochy",
         "price per night": 407.0,
         "number of amenities": 47,
@@ -2462,7 +2461,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sardegna"
     },
     {
         "name": "Ma\u0142y domek w dziczy na ko\u0144cu \u015bwiata",
@@ -2470,7 +2470,6 @@
         "general rating": 4.8,
         "number of guests": 2,
         "city": "Calci",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 163.0,
         "number of amenities": 54,
@@ -2479,7 +2478,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Casa Mucca Carolina at Fattoria Ceragioli",
@@ -2487,7 +2487,6 @@
         "general rating": 4.63,
         "number of guests": 2,
         "city": "Camaiore",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 304.0,
         "number of amenities": 14,
@@ -2496,7 +2495,8 @@
         "communication rating": 4.1,
         "location rating": 4.5,
         "check in rating": 4.6,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Toskania"
     },
     {
         "name": "Cagliari. Pi\u0119kny dom w pobli\u017cu morza i g\u00f3r",
@@ -2504,7 +2504,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Quartu Sant'Elena",
-        "district": "Sardegna",
         "country": "W\u0142ochy",
         "price per night": 318.0,
         "number of amenities": 61,
@@ -2513,7 +2512,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sardegna"
     },
     {
         "name": "Atrakcyjny, charakterystyczny g\u00f3rski domek",
@@ -2521,7 +2521,6 @@
         "general rating": 4.8,
         "number of guests": 2,
         "city": "Villar Pellice",
-        "district": "Piedmont",
         "country": "W\u0142ochy",
         "price per night": 136.0,
         "number of amenities": 53,
@@ -2530,7 +2529,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Piedmont"
     },
     {
         "name": "K\u0105cik raju zawieszony mi\u0119dzy Wezuwiuszem a Capri.",
@@ -2538,7 +2538,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Torre del Greco",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 236.0,
         "number of amenities": 54,
@@ -2547,7 +2546,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kampania"
     },
     {
         "name": "Terrazza57 w Centro Storico",
@@ -2555,7 +2555,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Ferrara",
-        "district": "Emilia-Romania",
         "country": "W\u0142ochy",
         "price per night": 180.0,
         "number of amenities": 31,
@@ -2564,7 +2563,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Emilia-Romania"
     },
     {
         "name": "Domek Warto\u015b\u0107",
@@ -2572,7 +2572,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Monte Argentario",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 490.0,
         "number of amenities": 23,
@@ -2581,7 +2580,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Toskania"
     },
     {
         "name": "Dom na wsi z oliwkami",
@@ -2589,7 +2589,6 @@
         "general rating": 4.84,
         "number of guests": 4,
         "city": "Ragusa",
-        "district": null,
         "country": "W\u0142ochy",
         "price per night": 336.0,
         "number of amenities": 33,
@@ -2598,7 +2597,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Apartament nad morzem Vallecrosia. Widok na morze - WiFi",
@@ -2606,7 +2606,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "Vallecrosia",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 537.0,
         "number of amenities": 13,
@@ -2615,7 +2614,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Liguria"
     },
     {
         "name": "House of Sotto (A6) u podn\u00f3\u017ca Volterry",
@@ -2623,7 +2623,6 @@
         "general rating": 4.44,
         "number of guests": 3,
         "city": "Mazzolla",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 44,
@@ -2632,7 +2631,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Toskania"
     },
     {
         "name": "Cascina Blu - odbi\u00f3r z lotniska z prywatnego pokoju",
@@ -2640,7 +2640,6 @@
         "general rating": 4.65,
         "number of guests": null,
         "city": "Bergamo",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 182.0,
         "number of amenities": 39,
@@ -2649,7 +2648,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Lombardia"
     },
     {
         "name": "Apartament go\u015bcinny na podw\u00f3rku z oliwkami dwa kroki od wioski",
@@ -2657,7 +2657,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Montepulciano",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 449.0,
         "number of amenities": 29,
@@ -2666,7 +2665,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Stella Fenicia cam1",
@@ -2674,7 +2674,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Marsala",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 37,
@@ -2683,7 +2682,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Sicilia"
     },
     {
         "name": "The Orange House",
@@ -2691,7 +2691,6 @@
         "general rating": 4.9,
         "number of guests": 3,
         "city": "Marciaso",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 63,
@@ -2700,7 +2699,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Domek na pla\u017cy... kilka krok\u00f3w od morza",
@@ -2708,7 +2708,6 @@
         "general rating": 4.91,
         "number of guests": 4,
         "city": "Trappeto",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 318.0,
         "number of amenities": 26,
@@ -2717,7 +2716,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Sicilia"
     },
     {
         "name": "Dom \u201cCherry Tree\u201d",
@@ -2725,7 +2725,6 @@
         "general rating": 4.83,
         "number of guests": 4,
         "city": "Viterbo",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 204.0,
         "number of amenities": 24,
@@ -2734,7 +2733,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lacjum"
     },
     {
         "name": "Casa Misaki",
@@ -2742,7 +2742,6 @@
         "general rating": 4.86,
         "number of guests": 4,
         "city": "Piombino",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 309.0,
         "number of amenities": 24,
@@ -2751,7 +2750,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Prywatny pok\u00f3j w pensjonacie i w\u0142oska szko\u0142a gotowania",
@@ -2759,7 +2759,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "La Felce",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 377.0,
         "number of amenities": 29,
@@ -2768,7 +2767,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Tiny House eco & frendly  travellers",
@@ -2776,7 +2776,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Rialto",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 45,
@@ -2785,7 +2784,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Liguria"
     },
     {
         "name": "Leonardo",
@@ -2793,7 +2793,6 @@
         "general rating": 4.35,
         "number of guests": 2,
         "city": "Vinci",
-        "district": null,
         "country": "W\u0142ochy",
         "price per night": 370.0,
         "number of amenities": 12,
@@ -2802,7 +2801,8 @@
         "communication rating": 3.7,
         "location rating": 4.5,
         "check in rating": 4.5,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": null
     },
     {
         "name": "W domu... szcz\u0119\u015bliwego rybaka wifi",
@@ -2810,7 +2810,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Bocale",
-        "district": "Kalabria",
         "country": "W\u0142ochy",
         "price per night": 204.0,
         "number of amenities": 86,
@@ -2819,7 +2818,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kalabria"
     },
     {
         "name": "Apartament z tarasem w centrum",
@@ -2827,7 +2827,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "Diano Marina",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 558.0,
         "number of amenities": 29,
@@ -2836,7 +2835,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Liguria"
     },
     {
         "name": "The Place for  Travelers - Yellow Single Room",
@@ -2844,7 +2844,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Florencja",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 16,
@@ -2853,7 +2852,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Ca' Tintoretto_Room 1",
@@ -2861,7 +2861,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Wenecja",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 34,
@@ -2870,7 +2869,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "R\u00f6llhof",
@@ -2878,7 +2878,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Cauria",
-        "district": "Trentino-Alto Adige",
         "country": "W\u0142ochy",
         "price per night": 159.0,
         "number of amenities": 25,
@@ -2887,7 +2886,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Trentino-Alto Adige"
     },
     {
         "name": "Fontanna",
@@ -2895,7 +2895,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Wenecja",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 295.0,
         "number of amenities": 18,
@@ -2904,7 +2903,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Go\u015bcinno\u015b\u0107 ekologiczna: relaks \"Il Granaio\"",
@@ -2912,7 +2912,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Pienza",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 30,
@@ -2921,7 +2920,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Toskania"
     },
     {
         "name": "stodo\u0142a - (Typowe toska\u0144skie zakwaterowanie na wsi)",
@@ -2929,7 +2929,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 231.0,
         "number of amenities": 50,
@@ -2938,7 +2937,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Fidelis Ostia 2 mi\u0119dzy pla\u017c\u0105 a stacj\u0105",
@@ -2946,7 +2946,6 @@
         "general rating": 4.86,
         "number of guests": 3,
         "city": "Lido di Ostia",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 355.0,
         "number of amenities": 42,
@@ -2955,7 +2954,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lacjum"
     },
     {
         "name": "LaTorretta nad jeziorem Caldonazzo",
@@ -2963,7 +2963,6 @@
         "general rating": 4.89,
         "number of guests": 3,
         "city": "Ischia",
-        "district": "Trentino-Alto Adige",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 43,
@@ -2972,7 +2971,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Trentino-Alto Adige"
     },
     {
         "name": "B&B Inn Genzianella",
@@ -2980,7 +2980,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Costa",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 213.0,
         "number of amenities": 25,
@@ -2989,7 +2988,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lombardia"
     },
     {
         "name": "Niesamowite Langhe i smaczne czerwone wino",
@@ -2997,7 +2997,6 @@
         "general rating": 4.65,
         "number of guests": 4,
         "city": "Dogliani",
-        "district": "Piedmont",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 40,
@@ -3006,7 +3005,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Piedmont"
     },
     {
         "name": "Wakacje w Toskanii na wybrze\u017cu etruskim",
@@ -3014,7 +3014,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "Rosignano Solvay-Castiglioncello",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 214.0,
         "number of amenities": 49,
@@ -3023,7 +3022,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "LA TSAMBRA - DOM \u015aW. ETIENNE",
@@ -3031,7 +3031,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Aosta",
-        "district": "Valle d'Aosta",
         "country": "W\u0142ochy",
         "price per night": 204.0,
         "number of amenities": 38,
@@ -3040,7 +3039,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Valle d'Aosta"
     },
     {
         "name": "Apartament Delfino",
@@ -3048,7 +3048,6 @@
         "general rating": 4.6,
         "number of guests": 3,
         "city": "Bibione ",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 386.0,
         "number of amenities": 23,
@@ -3057,7 +3056,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "B&B Inn Genzianella",
@@ -3065,7 +3065,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Costa",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 213.0,
         "number of amenities": 25,
@@ -3074,7 +3073,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lombardia"
     },
     {
         "name": "Podere Staelli: \"La Cantina\"",
@@ -3082,7 +3082,6 @@
         "general rating": 4.75,
         "number of guests": 2,
         "city": "Incisa in Val d'Arno",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 254.0,
         "number of amenities": 67,
@@ -3091,7 +3090,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Wakacje w Toskanii na wybrze\u017cu etruskim",
@@ -3099,7 +3099,6 @@
         "general rating": 4.86,
         "number of guests": 2,
         "city": "Rosignano Solvay-Castiglioncello",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 214.0,
         "number of amenities": 49,
@@ -3108,7 +3107,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "LA TSAMBRA - DOM \u015aW. ETIENNE",
@@ -3116,7 +3116,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Aosta",
-        "district": "Valle d'Aosta",
         "country": "W\u0142ochy",
         "price per night": 204.0,
         "number of amenities": 38,
@@ -3125,7 +3124,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Valle d'Aosta"
     },
     {
         "name": "Limone room, w pobli\u017cu Vinci",
@@ -3133,7 +3133,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 384.0,
         "number of amenities": 32,
@@ -3142,7 +3141,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Apartament Delfino",
@@ -3150,7 +3150,6 @@
         "general rating": 4.6,
         "number of guests": 3,
         "city": "Bibione ",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 386.0,
         "number of amenities": 23,
@@ -3159,7 +3158,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Noc w otoczeniu przyrody",
@@ -3167,7 +3167,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Albavilla",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 477.0,
         "number of amenities": 30,
@@ -3176,7 +3175,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lombardia"
     },
     {
         "name": "Staro\u017cytny olejarnia w sercu Maielli",
@@ -3184,7 +3184,6 @@
         "general rating": 4.74,
         "number of guests": 5,
         "city": "Fara San Martino",
-        "district": "Abruzja",
         "country": "W\u0142ochy",
         "price per night": 91.0,
         "number of amenities": 17,
@@ -3193,7 +3192,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Abruzja"
     },
     {
         "name": "Apartament dla 2 os\u00f3b z widokiem na g\u00f3ry+basen w pobli\u017cu Sieny",
@@ -3201,7 +3201,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Sovicille",
-        "district": "Siena",
         "country": "W\u0142ochy",
         "price per night": 341.0,
         "number of amenities": 32,
@@ -3210,7 +3209,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Siena"
     },
     {
         "name": "Na wsi Mugello, Toskania 1",
@@ -3218,7 +3218,6 @@
         "general rating": 4.92,
         "number of guests": 5,
         "city": "Barberino di Mugello",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 366.0,
         "number of amenities": 53,
@@ -3227,7 +3226,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Przytulny apartament na wsi",
@@ -3235,7 +3235,6 @@
         "general rating": 4.84,
         "number of guests": 4,
         "city": "Schio",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 164.0,
         "number of amenities": 28,
@@ -3244,7 +3243,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Room Fiona b&b isoladelsole -vicino in Varenna",
@@ -3252,7 +3252,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Gittana",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 277.0,
         "number of amenities": 32,
@@ -3261,7 +3260,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lombardia"
     },
     {
         "name": "Prywatno\u015b\u0107 i dobre samopoczucie, Dziko\u015b\u0107.",
@@ -3269,7 +3269,6 @@
         "general rating": 4.71,
         "number of guests": 4,
         "city": "Mitogio",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 318.0,
         "number of amenities": 56,
@@ -3278,7 +3277,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Sicilia"
     },
     {
         "name": "Bia\u0142y Dom",
@@ -3286,7 +3286,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": "Salorno",
-        "district": "Trentino-Alto Adige",
         "country": "W\u0142ochy",
         "price per night": 322.0,
         "number of amenities": 49,
@@ -3295,7 +3294,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Trentino-Alto Adige"
     },
     {
         "name": "Santa Lucia",
@@ -3303,7 +3303,6 @@
         "general rating": 4.6,
         "number of guests": 4,
         "city": "Bormio",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 279.0,
         "number of amenities": 11,
@@ -3312,7 +3311,8 @@
         "communication rating": 4.1,
         "location rating": 4.5,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Lombardia"
     },
     {
         "name": "FANTASTYCZNA LOKALIZACJA PELLEGRINO -2 \u0142\u00f3\u017cka na \u017cyczenie",
@@ -3320,7 +3320,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Rzym",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 263.0,
         "number of amenities": 25,
@@ -3329,7 +3328,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lacjum"
     },
     {
         "name": "Apartament w Dolomitach, pi\u0119kne w\u0119dr\u00f3wki",
@@ -3337,7 +3337,6 @@
         "general rating": 4.73,
         "number of guests": 5,
         "city": "Moena",
-        "district": "Trentino-Alto Adige",
         "country": "W\u0142ochy",
         "price per night": 250.0,
         "number of amenities": 47,
@@ -3346,7 +3345,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Trentino-Alto Adige"
     },
     {
         "name": "Mansardy w dolomitach Val Badia",
@@ -3354,7 +3354,6 @@
         "general rating": 4.78,
         "number of guests": 4,
         "city": "San Martino in Badia",
-        "district": "Trentino-Alto Adige",
         "country": "W\u0142ochy",
         "price per night": 254.0,
         "number of amenities": 24,
@@ -3363,7 +3362,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Trentino-Alto Adige"
     },
     {
         "name": "Urokliwy apartament: taras,Wi-Fi,parking,AirC",
@@ -3371,7 +3371,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Rzym",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 399.0,
         "number of amenities": 58,
@@ -3380,7 +3379,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lacjum"
     },
     {
         "name": "Taras z widokiem na morze  Latarnia morska",
@@ -3388,7 +3388,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "Paola",
-        "district": "Kalabria",
         "country": "W\u0142ochy",
         "price per night": 302.0,
         "number of amenities": 66,
@@ -3397,7 +3396,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kalabria"
     },
     {
         "name": "Lago d'Arta. Angelica Holidays Home - The Nest",
@@ -3405,7 +3405,6 @@
         "general rating": 4.85,
         "number of guests": 4,
         "city": "Ameno",
-        "district": "Piemonte",
         "country": "W\u0142ochy",
         "price per night": 182.0,
         "number of amenities": 35,
@@ -3414,7 +3413,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Piemonte"
     },
     {
         "name": "Il Gianlupo",
@@ -3422,7 +3422,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Bognanco",
-        "district": null,
         "country": "W\u0142ochy",
         "price per night": 307.0,
         "number of amenities": 9,
@@ -3431,7 +3430,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Dom zewn\u0119trzny na Poggio Imperiale",
@@ -3439,7 +3439,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Florencja",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 295.0,
         "number of amenities": 57,
@@ -3448,7 +3447,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "camera Kyra-B&B isoladelsole vicino a Varenna",
@@ -3456,7 +3456,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Gittana",
-        "district": null,
         "country": "W\u0142ochy",
         "price per night": 232.0,
         "number of amenities": 26,
@@ -3465,7 +3464,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Regina Rabat - B & B na weneckiej wsi",
@@ -3473,7 +3473,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Villa Estense",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 304.0,
         "number of amenities": 36,
@@ -3482,7 +3481,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Dom Lao-tzu",
@@ -3490,7 +3490,6 @@
         "general rating": 4.8,
         "number of guests": 4,
         "city": "Massa Marittima",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 43,
@@ -3499,7 +3498,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "R\u00f3\u017ca w Rzymie - pok\u00f3j dwuosobowy typu Superior",
@@ -3507,7 +3507,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Rzym",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 22,
@@ -3516,7 +3515,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lacjum"
     },
     {
         "name": "Living Studio Suedblick",
@@ -3524,7 +3524,6 @@
         "general rating": 4.94,
         "number of guests": 3,
         "city": "Magr\u00e8",
-        "district": "Bolzano",
         "country": "W\u0142ochy",
         "price per night": 213.0,
         "number of amenities": 38,
@@ -3533,7 +3532,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Bolzano"
     },
     {
         "name": "B & B Neapol Chiaia blisko metra Amedeo",
@@ -3541,7 +3541,6 @@
         "general rating": 4.73,
         "number of guests": null,
         "city": "Neapol",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 151.0,
         "number of amenities": 12,
@@ -3550,7 +3549,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Kampania"
     },
     {
         "name": "Gniazdo Olly 'ego w staro\u017cytnej wiosce",
@@ -3558,7 +3558,6 @@
         "general rating": 4.8,
         "number of guests": 3,
         "city": "Dorio",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 340.0,
         "number of amenities": 45,
@@ -3567,7 +3566,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Lombardia"
     },
     {
         "name": "Bianca (widok na dachy)",
@@ -3575,7 +3575,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Neapol",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 136.0,
         "number of amenities": 51,
@@ -3584,7 +3583,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kampania"
     },
     {
         "name": "Panoramic views on organic farm - room 2",
@@ -3592,7 +3592,6 @@
         "general rating": 4.43,
         "number of guests": null,
         "city": "Toskania",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 374.0,
         "number of amenities": 15,
@@ -3601,7 +3600,8 @@
         "communication rating": 4.3,
         "location rating": 4.6,
         "check in rating": 4.1,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Lacjum"
     },
     {
         "name": "MONOLOKALNY 20MT DU\u017bY DAL",
@@ -3609,7 +3609,6 @@
         "general rating": 4.57,
         "number of guests": 2,
         "city": "Calasetta",
-        "district": "Sardegna",
         "country": "W\u0142ochy",
         "price per night": 182.0,
         "number of amenities": 18,
@@ -3618,7 +3617,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Sardegna"
     },
     {
         "name": "C\u00e0 Mia B&B 2, Lake of Como",
@@ -3626,7 +3626,6 @@
         "general rating": 4.55,
         "number of guests": null,
         "city": "Perledo",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 145.0,
         "number of amenities": 23,
@@ -3635,7 +3634,8 @@
         "communication rating": 4.6,
         "location rating": 4.6,
         "check in rating": 4.6,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Lombardia"
     },
     {
         "name": "Niezale\u017cne studio za ma\u0142ym portem",
@@ -3643,7 +3643,6 @@
         "general rating": 4.23,
         "number of guests": 2,
         "city": "Cala Gonone",
-        "district": "Sardegna",
         "country": "W\u0142ochy",
         "price per night": 177.0,
         "number of amenities": 10,
@@ -3652,7 +3651,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 4.2
+        "value rating": 4.2,
+        "region": "Sardegna"
     },
     {
         "name": "Casa Falena -  CITRA 010013-LT-0012",
@@ -3660,7 +3660,6 @@
         "general rating": 4.99,
         "number of guests": 4,
         "city": "Castiglione Chiavarese",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 204.0,
         "number of amenities": 38,
@@ -3669,7 +3668,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Liguria"
     },
     {
         "name": "4 sezony do domu",
@@ -3677,7 +3677,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Werona",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 250.0,
         "number of amenities": 26,
@@ -3686,7 +3685,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "SassoErminia Eco-friendly B&B - Erminia Room",
@@ -3694,7 +3694,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Novafeltria",
-        "district": "Emilia-Romania",
         "country": "W\u0142ochy",
         "price per night": 295.0,
         "number of amenities": 52,
@@ -3703,7 +3702,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Emilia-Romania"
     },
     {
         "name": "CasaVille",
@@ -3711,7 +3711,6 @@
         "general rating": 4.8,
         "number of guests": 3,
         "city": "Ville di Corsano",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 173.0,
         "number of amenities": 36,
@@ -3720,7 +3719,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Studio z fantastycznym widokiem na g\u00f3ry",
@@ -3728,7 +3728,6 @@
         "general rating": 4.93,
         "number of guests": 2,
         "city": "Morter",
-        "district": "Trentino-Alto Adige",
         "country": "W\u0142ochy",
         "price per night": 268.0,
         "number of amenities": 41,
@@ -3737,7 +3736,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Trentino-Alto Adige"
     },
     {
         "name": "Villa Assunta 2- przytulny apartament z widokiem",
@@ -3745,7 +3745,6 @@
         "general rating": 4.75,
         "number of guests": 4,
         "city": "Benincasa",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 318.0,
         "number of amenities": 28,
@@ -3754,7 +3753,8 @@
         "communication rating": 4.8,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Kampania"
     },
     {
         "name": "Mini Zakwaterowanie turystyczne 2-Il Vigneto del Borgo",
@@ -3762,7 +3762,6 @@
         "general rating": 4.9,
         "number of guests": 4,
         "city": "Due Carrare",
-        "district": "Wenecja Euganejska",
         "country": "W\u0142ochy",
         "price per night": 236.0,
         "number of amenities": 20,
@@ -3771,7 +3770,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wenecja Euganejska"
     },
     {
         "name": "Eleganckie pokoje z widokiem na morze i taras",
@@ -3779,7 +3779,6 @@
         "general rating": 4.67,
         "number of guests": null,
         "city": "Genua",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 173.0,
         "number of amenities": 69,
@@ -3788,7 +3787,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Liguria"
     },
     {
         "name": "Urocze studio w zapieraj\u0105cym dech w piersiach krajobrazie.",
@@ -3796,7 +3796,6 @@
         "general rating": 4.47,
         "number of guests": 2,
         "city": "Perinaldo",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 145.0,
         "number of amenities": 16,
@@ -3805,7 +3804,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.7,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Liguria"
     },
     {
         "name": "Willa wiejska",
@@ -3813,7 +3813,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Nettuno",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 113.0,
         "number of amenities": 58,
@@ -3822,7 +3821,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lacjum"
     },
     {
         "name": "Dom w cichej wiosce otoczony przyrod\u0105",
@@ -3830,7 +3830,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Arcumeggia",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 260.0,
         "number of amenities": 47,
@@ -3839,7 +3838,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lombardia"
     },
     {
         "name": "Cisza i spok\u00f3j, z dala od stresu.",
@@ -3847,7 +3847,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Forl\u00ec",
-        "district": "Emilia-Romania",
         "country": "W\u0142ochy",
         "price per night": 191.0,
         "number of amenities": 38,
@@ -3856,7 +3855,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Emilia-Romania"
     },
     {
         "name": "Mansarda pod wie\u017c\u0105 (2A)",
@@ -3864,7 +3864,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Piza",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 24,
@@ -3873,7 +3872,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "B & B Al borgo - \u017c\u00f3\u0142ty pok\u00f3j",
@@ -3881,7 +3881,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Vietri sul Mare",
-        "district": "Kampania",
         "country": "W\u0142ochy",
         "price per night": 136.0,
         "number of amenities": 45,
@@ -3890,7 +3889,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Kampania"
     },
     {
         "name": "Pensjonat W WILLI Z 1860 roku",
@@ -3898,7 +3898,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 272.0,
         "number of amenities": 28,
@@ -3907,7 +3906,8 @@
         "communication rating": 5.0,
         "location rating": 4.3,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Arco - Riva del Garda - WiFi",
@@ -3915,7 +3915,6 @@
         "general rating": 4.79,
         "number of guests": 4,
         "city": "Arco",
-        "district": "Trentino-Alto Adige/S\u00fcdtirol",
         "country": "W\u0142ochy",
         "price per night": 282.0,
         "number of amenities": 18,
@@ -3924,7 +3923,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Trentino-Alto Adige/S\u00fcdtirol"
     },
     {
         "name": "Ca' della Rosa",
@@ -3932,7 +3932,6 @@
         "general rating": 4.66,
         "number of guests": 4,
         "city": "Valcava",
-        "district": "Trentino-Alto Adige",
         "country": "W\u0142ochy",
         "price per night": 266.0,
         "number of amenities": 52,
@@ -3941,7 +3940,8 @@
         "communication rating": 4.9,
         "location rating": 4.4,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Trentino-Alto Adige"
     },
     {
         "name": "La Mansarda CITR:011030-BEB-0008",
@@ -3949,7 +3949,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Corniglia",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 28,
@@ -3958,7 +3957,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Liguria"
     },
     {
         "name": "Pi\u0119kny dom w dolinie Argentyny",
@@ -3966,7 +3966,6 @@
         "general rating": 4.97,
         "number of guests": 4,
         "city": "Molini di Triora",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 204.0,
         "number of amenities": 29,
@@ -3975,7 +3974,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Liguria"
     },
     {
         "name": "Tradycyjny w\u0142oski dom - odpoczynek i zabawa",
@@ -3983,7 +3983,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Provincia di Bergamo",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 218.0,
         "number of amenities": 10,
@@ -3992,7 +3991,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lombardia"
     },
     {
         "name": "Doubleroom z \u0142azienk\u0105 w kitehouse od r\u0119ki",
@@ -4000,7 +4000,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Marsala",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 182.0,
         "number of amenities": 33,
@@ -4009,7 +4008,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Sicilia"
     },
     {
         "name": "POK\u00d3J G\u0141\u00d3WNY CITR 011030 AFF 0016",
@@ -4017,7 +4017,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Vernazza",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 454.0,
         "number of amenities": 33,
@@ -4026,7 +4025,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Liguria"
     },
     {
         "name": "La Selva, sypialnia z \u0142azienk\u0105 w ogrodzie",
@@ -4034,7 +4034,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Imbersago",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 191.0,
         "number of amenities": 52,
@@ -4043,7 +4042,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lombardia"
     },
     {
         "name": "Casa Crapena",
@@ -4051,7 +4051,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Livigno",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 302.0,
         "number of amenities": 8,
@@ -4060,7 +4059,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Lombardia"
     },
     {
         "name": "DU\u017bY CICHY POK\u00d3J GARBATELLA OSTIENSE G",
@@ -4068,7 +4068,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Rzym",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 262.0,
         "number of amenities": 36,
@@ -4077,7 +4076,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Lacjum"
     },
     {
         "name": "Jasny pok\u00f3j z widokiem na ogr\u00f3d",
@@ -4085,7 +4085,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Mediolan",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 159.0,
         "number of amenities": 18,
@@ -4094,7 +4093,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Lombardia"
     },
     {
         "name": "AGAVE B & B: Relaks mi\u0119dzy l\u0105dem i morzem",
@@ -4102,7 +4102,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Carrara",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 404.0,
         "number of amenities": 41,
@@ -4111,7 +4110,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Toskania"
     },
     {
         "name": "Ciche pokoje w Country House w Rzymie",
@@ -4119,7 +4119,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Rzym",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 386.0,
         "number of amenities": 59,
@@ -4128,7 +4127,8 @@
         "communication rating": 4.9,
         "location rating": 4.3,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Lacjum"
     },
     {
         "name": "Pok\u00f3j dwuosobowy \"Basilico\"",
@@ -4136,7 +4136,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Siena ",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 409.0,
         "number of amenities": 32,
@@ -4145,7 +4144,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Toskania"
     },
     {
         "name": "Przestronny prywatny pok\u00f3j kroki do zabytkowego centrum",
@@ -4153,7 +4153,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Pontremoli",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 499.0,
         "number of amenities": 44,
@@ -4162,7 +4161,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Toskania"
     },
     {
         "name": "Wspania\u0142e W\u0142ochy | Modica 's Nest z widokiem",
@@ -4170,7 +4170,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Modica",
-        "district": "Sicilia",
         "country": "W\u0142ochy",
         "price per night": 320.0,
         "number of amenities": 23,
@@ -4179,7 +4178,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Sicilia"
     },
     {
         "name": "La Terrazza Apartment",
@@ -4187,7 +4187,6 @@
         "general rating": null,
         "number of guests": 4,
         "city": "Passoscuro",
-        "district": "Lacjum",
         "country": "W\u0142ochy",
         "price per night": 272.0,
         "number of amenities": 48,
@@ -4196,7 +4195,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Lacjum"
     },
     {
         "name": "Chez Ary: nad jeziorem",
@@ -4204,7 +4204,6 @@
         "general rating": 4.88,
         "number of guests": 3,
         "city": "Clusane",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 280.0,
         "number of amenities": 29,
@@ -4213,7 +4212,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Lombardia"
     },
     {
         "name": "Dwupokojowy loft z panoramicznym widokiem na jezioro",
@@ -4221,7 +4221,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Vassena",
-        "district": "Lombardia",
         "country": "W\u0142ochy",
         "price per night": 227.0,
         "number of amenities": 22,
@@ -4230,7 +4229,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Lombardia"
     },
     {
         "name": "Uroczy toska\u0144ski o\u015brodek wypoczynkowy po\u0142o\u017cony g\u0142\u0119boko na wsi",
@@ -4238,7 +4238,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Chiusdino",
-        "district": "Toskania",
         "country": "W\u0142ochy",
         "price per night": 260.0,
         "number of amenities": 33,
@@ -4247,7 +4246,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Toskania"
     },
     {
         "name": "Giallo",
@@ -4255,7 +4255,6 @@
         "general rating": 4.75,
         "number of guests": 2,
         "city": "Rapallo",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 303.0,
         "number of amenities": 10,
@@ -4264,7 +4263,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Liguria"
     },
     {
         "name": "Jasny pok\u00f3j w samym sercu miasta",
@@ -4272,7 +4272,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Genua",
-        "district": "Liguria",
         "country": "W\u0142ochy",
         "price per night": 185.0,
         "number of amenities": 29,
@@ -4281,6 +4280,7 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Liguria"
     }
 ]

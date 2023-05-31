@@ -5,7 +5,6 @@
         "general rating": 4.82,
         "number of guests": 2,
         "city": "Cumbria",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 459.0,
         "number of amenities": 32,
@@ -14,7 +13,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Ranmoor Estate - Blackbird Lodge - Jacuzzi **NOWO\u015a\u0106**",
@@ -22,7 +22,6 @@
         "general rating": 4.77,
         "number of guests": 4,
         "city": "Hill",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 815.0,
         "number of amenities": 44,
@@ -31,7 +30,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Anglia"
     },
     {
         "name": "Pasterska chata z widokiem na jezioro, blisko Perranporth",
@@ -39,7 +39,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Ventongimps",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 471.0,
         "number of amenities": 28,
@@ -48,7 +47,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Shepherd 's Hut, Off-Grid, Hot Tub i Beacons View",
@@ -56,7 +56,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 778.0,
         "number of amenities": 40,
@@ -65,7 +64,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Pok\u00f3j dost\u0119pny na przedmie\u015bciach Greater London",
@@ -73,7 +73,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 157.0,
         "number of amenities": 48,
@@ -82,7 +81,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Idylliczny domek w samym sercu South Downs",
@@ -90,7 +90,6 @@
         "general rating": 4.95,
         "number of guests": 4,
         "city": "Haslemere",
-        "district": "Surrey England",
         "country": "Wielka Brytania",
         "price per night": 767.0,
         "number of amenities": 56,
@@ -99,7 +98,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Surrey England"
     },
     {
         "name": "Ucieczka na romantyczne i magiczne  hobbity",
@@ -107,7 +107,6 @@
         "general rating": 4.98,
         "number of guests": 3,
         "city": "Cheshire East",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 503.0,
         "number of amenities": 50,
@@ -116,7 +115,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "The Den - Skandynawska kabina do grillowania - Kraina Jezior",
@@ -124,7 +124,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Cumbria",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 497.0,
         "number of amenities": 31,
@@ -133,7 +132,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Chatka Riverside",
@@ -141,7 +141,6 @@
         "general rating": 4.83,
         "number of guests": 4,
         "city": "Constantine",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 851.0,
         "number of amenities": 20,
@@ -150,7 +149,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": null
     },
     {
         "name": "Glamping & Grill Cabin w Moorside Farmhouse",
@@ -158,7 +158,6 @@
         "general rating": 4.96,
         "number of guests": 3,
         "city": "Harrogate",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 349.0,
         "number of amenities": 27,
@@ -167,7 +166,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Oak Escape z jacuzzi i osza\u0142amiaj\u0105cymi widokami na kraj",
@@ -175,7 +175,6 @@
         "general rating": 4.91,
         "number of guests": 4,
         "city": "Somerset",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 601.0,
         "number of amenities": 37,
@@ -184,7 +183,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Samodzielne schronienie na szczycie g\u00f3ry",
@@ -192,7 +192,6 @@
         "general rating": 4.96,
         "number of guests": 3,
         "city": "Cwmcarn",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 400.0,
         "number of amenities": 35,
@@ -201,7 +200,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Przytulne, spokojne le\u015bne  rekolekcje",
@@ -209,7 +209,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Ripponden",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 370.0,
         "number of amenities": 48,
@@ -218,7 +217,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Domek z widokiem na wysp\u0119 - Tenby - Romantyczna kabina dla 2 os\u00f3b.",
@@ -226,7 +226,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 418.0,
         "number of amenities": 64,
@@ -235,7 +234,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Bluehill Cabin - wiejskie rekolekcje z przepi\u0119knymi widokami",
@@ -243,7 +243,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "Cwmann",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 434.0,
         "number of amenities": 38,
@@ -252,7 +251,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wales"
     },
     {
         "name": "Kamie\u0144 do g\u00f3ry nogami Bothy na Marsden Moor",
@@ -260,7 +260,6 @@
         "general rating": 4.99,
         "number of guests": 2,
         "city": "Marsden",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 483.0,
         "number of amenities": 55,
@@ -269,7 +268,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Apartament nad morzem w Kornwalii",
@@ -277,7 +277,6 @@
         "general rating": 4.38,
         "number of guests": 4,
         "city": "Kornwalia",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 444.0,
         "number of amenities": 51,
@@ -286,7 +285,8 @@
         "communication rating": 4.7,
         "location rating": 4.5,
         "check in rating": 4.7,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Anglia"
     },
     {
         "name": "Luksusowa chata pasterska z osza\u0142amiaj\u0105cymi widokami na g\u00f3ry",
@@ -294,7 +294,6 @@
         "general rating": 4.95,
         "number of guests": 2,
         "city": "Llanvihangel Crucorney",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 469.0,
         "number of amenities": 26,
@@ -303,7 +302,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Zdalny, przyjazny zwierz\u0119tom, palnik beli, osza\u0142amiaj\u0105ce widoki",
@@ -311,7 +311,6 @@
         "general rating": 4.81,
         "number of guests": 5,
         "city": "Gwynedd",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 479.0,
         "number of amenities": 52,
@@ -320,7 +319,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wales"
     },
     {
         "name": "okr\u0105g\u0142obudka truskawkowa wegetaria\u0144ska",
@@ -328,7 +328,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Bronwydd Arms",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 400.0,
         "number of amenities": 12,
@@ -337,7 +336,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Greenfields Farm - Shepherd Hut",
@@ -345,7 +345,6 @@
         "general rating": 4.72,
         "number of guests": 4,
         "city": "Maidenwells",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 275.0,
         "number of amenities": 27,
@@ -354,7 +353,8 @@
         "communication rating": 4.3,
         "location rating": 4.9,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wales"
     },
     {
         "name": "Shepherds Hut In The Heart Of The New Forest",
@@ -362,7 +362,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "Hampshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 427.0,
         "number of amenities": 40,
@@ -371,7 +370,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Hillside Pod i jacuzzi; wy\u0142\u0105cz, zrelaksuj si\u0119!",
@@ -379,7 +379,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Longtown",
-        "district": "Herefordshire",
         "country": "Wielka Brytania",
         "price per night": 414.0,
         "number of amenities": 47,
@@ -388,7 +387,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Herefordshire"
     },
     {
         "name": "Lama Lodge - domek z bali na farmie lam",
@@ -396,7 +396,6 @@
         "general rating": 4.99,
         "number of guests": 4,
         "city": "Llandissilio",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 583.0,
         "number of amenities": 28,
@@ -405,7 +404,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Wspania\u0142a jurta w niesamowitej g\u00f3rskiej/le\u015bnej lokalizacji",
@@ -413,7 +413,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Cynwyd",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 412.0,
         "number of amenities": 31,
@@ -422,7 +421,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wales"
     },
     {
         "name": "Cwt r Bugail",
@@ -430,7 +430,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Talsarnau",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 321.0,
         "number of amenities": 15,
@@ -439,7 +438,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Prawie dziki kemping z tras\u0105 do odludnej pla\u017cy",
@@ -447,7 +447,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Saint Nicholas",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 61.0,
         "number of amenities": 11,
@@ -456,7 +455,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wales"
     },
     {
         "name": "The Hut@Lime Cottage: zachwycaj\u0105ce rekolekcje poza sieci\u0105",
@@ -464,7 +464,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Tisbury",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 340.0,
         "number of amenities": 35,
@@ -473,7 +472,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Gospodarstwo wiejskie - przestronna sypialnia z \u0142azienk\u0105",
@@ -481,7 +481,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "East Farndon",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 261.0,
         "number of amenities": 38,
@@ -490,7 +489,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Wynajem przyczep Dingle den",
@@ -498,7 +498,6 @@
         "general rating": 4.4,
         "number of guests": 6,
         "city": "Wales",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 314.0,
         "number of amenities": 37,
@@ -507,7 +506,8 @@
         "communication rating": 4.6,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": null
     },
     {
         "name": "Luksusowy pok\u00f3j z \u0142\u00f3\u017ckiem podw\u00f3jnym",
@@ -515,7 +515,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Londyn",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 418.0,
         "number of amenities": 37,
@@ -524,7 +523,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "The Folly - Cornwall",
@@ -532,7 +532,6 @@
         "general rating": 5.0,
         "number of guests": 2,
         "city": "Perranwell Station",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 444.0,
         "number of amenities": 37,
@@ -541,7 +540,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Haven on the Hill, palony piec do pizzy i prysznic",
@@ -549,7 +549,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Huntley",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 345.0,
         "number of amenities": 39,
@@ -558,7 +557,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "De Vere House Room 2. Lady Elizabeth",
@@ -566,7 +566,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Lavenham",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 805.0,
         "number of amenities": 36,
@@ -575,7 +574,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "16th Century Scottish Borders Tower, by Earlston",
@@ -583,7 +583,6 @@
         "general rating": 4.96,
         "number of guests": 3,
         "city": "Scottish Borders",
-        "district": "Szkocja",
         "country": "Wielka Brytania",
         "price per night": 336.0,
         "number of amenities": 53,
@@ -592,7 +591,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szkocja"
     },
     {
         "name": "Ben 's hat",
@@ -600,7 +600,6 @@
         "general rating": 4.92,
         "number of guests": 3,
         "city": "County Durham",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 271.0,
         "number of amenities": 18,
@@ -609,7 +608,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Little Knapp na Cotswold Way",
@@ -617,7 +617,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Witcombe",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 444.0,
         "number of amenities": 25,
@@ -626,7 +625,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Wspania\u0142e mieszkanie przy pla\u017cy - balkon i parking",
@@ -634,7 +634,6 @@
         "general rating": 4.82,
         "number of guests": 4,
         "city": "Bournemouth",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 593.0,
         "number of amenities": 46,
@@ -643,7 +642,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "Off-grid traditional Shepherd 's Hut in a field!",
@@ -651,7 +651,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "South Ayrshire",
-        "district": "Szkocja",
         "country": "Wielka Brytania",
         "price per night": 366.0,
         "number of amenities": 32,
@@ -660,7 +659,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Szkocja"
     },
     {
         "name": "2 Lilliestead Cottages",
@@ -668,7 +668,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Northumberland",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 375.0,
         "number of amenities": 50,
@@ -677,7 +676,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Anglia"
     },
     {
         "name": "Chata Pasterzy w Parku Narodowym Brecon Beacons",
@@ -685,7 +685,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Ystradfellte",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 381.0,
         "number of amenities": 17,
@@ -694,7 +693,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wales"
     },
     {
         "name": "S\u0142odki pok\u00f3j jednoosobowy - serce Waterloo/Southbank",
@@ -702,7 +702,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 350.0,
         "number of amenities": 42,
@@ -711,7 +710,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Jasny pok\u00f3j dwuosobowy w nowoczesnym apartamencie.",
@@ -719,7 +719,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 345.0,
         "number of amenities": 33,
@@ -728,7 +727,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "The Fledgling Shepherds Hut Laskill",
@@ -736,7 +736,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "North Yorkshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 369.0,
         "number of amenities": 23,
@@ -745,7 +744,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Przytulna kapsu\u0142a wiejska z centralnym ogrzewaniem",
@@ -753,7 +753,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Pembrokeshire",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 319.0,
         "number of amenities": 41,
@@ -762,7 +761,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Gingell Cottage dla dzieci i zwierz\u0105t @ Suffolk Wildlife",
@@ -770,7 +770,6 @@
         "general rating": 4.65,
         "number of guests": 4,
         "city": "Thurston",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 251.0,
         "number of amenities": 50,
@@ -779,7 +778,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "The Millhouse Lodge",
@@ -787,7 +787,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Suffolk",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 434.0,
         "number of amenities": 49,
@@ -796,7 +795,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Cedarwood, kameralna i romantyczna chatka dla dwojga.",
@@ -804,7 +804,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "East Sussex",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 497.0,
         "number of amenities": 29,
@@ -813,7 +812,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Jasny, przestronny aneks w wiosce z pi\u0119knymi widokami",
@@ -821,7 +821,6 @@
         "general rating": 4.93,
         "number of guests": 3,
         "city": "Randwick",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 314.0,
         "number of amenities": 33,
@@ -830,7 +829,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Chatka dla wa\u017cek w pobli\u017cu Tintagel",
@@ -838,7 +838,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Trethevy",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 337.0,
         "number of amenities": 24,
@@ -847,7 +846,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy w Mill Hill",
@@ -855,7 +855,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 220.0,
         "number of amenities": 52,
@@ -864,7 +863,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Przytulny i komfortowy jasny pok\u00f3j z widokiem na centrum Londynu",
@@ -872,7 +872,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 261.0,
         "number of amenities": 39,
@@ -881,7 +880,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "CosyCabin",
@@ -889,7 +889,6 @@
         "general rating": 4.96,
         "number of guests": 4,
         "city": "Cumbria",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 372.0,
         "number of amenities": 38,
@@ -898,7 +897,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Holenderskie chatki Hideaway log",
@@ -906,7 +906,6 @@
         "general rating": 4.83,
         "number of guests": 2,
         "city": "Saint John's Town of Dalry",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 418.0,
         "number of amenities": 32,
@@ -915,7 +914,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Betws-y-Coed Bell Tent in Snowdonia",
@@ -923,7 +923,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Cwmlanerch",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 235.0,
         "number of amenities": 9,
@@ -932,7 +931,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wales"
     },
     {
         "name": "Ma\u0142y Okr\u0105g\u0142y Dom .. zrelaksowa\u0107 si\u0119 w przyrodzie",
@@ -940,7 +940,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "Rhoshirwaun",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 340.0,
         "number of amenities": 13,
@@ -949,7 +948,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Przytulny pok\u00f3j w centrum Londynu.",
@@ -957,7 +957,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 212.0,
         "number of amenities": 24,
@@ -966,7 +965,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Jasny pok\u00f3j prywatny w Londynie w domu rodzinnym",
@@ -974,7 +974,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 238.0,
         "number of amenities": 43,
@@ -983,7 +982,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "The Pretty Shed, niedaleko Bath.",
@@ -991,7 +991,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "High Littleton",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 141.0,
         "number of amenities": 26,
@@ -1000,7 +999,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "CA\u0141Y elegancki apartament w centrum Londynu, 5 miejsc noclegowych.",
@@ -1008,7 +1008,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Londyn",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 486.0,
         "number of amenities": 54,
@@ -1017,7 +1016,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Loft Stodo\u0142y",
@@ -1025,7 +1025,6 @@
         "general rating": 4.7,
         "number of guests": 2,
         "city": "Devizes",
-        "district": "Wiltshire",
         "country": "Wielka Brytania",
         "price per night": 204.0,
         "number of amenities": 44,
@@ -1034,7 +1033,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wiltshire"
     },
     {
         "name": "\u201ePippins\u201d Przytulna, w pe\u0142ni samowystarczalna, luksusowa chatka",
@@ -1042,7 +1042,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Williton",
-        "district": "Somerset",
         "country": "Wielka Brytania",
         "price per night": 311.0,
         "number of amenities": 49,
@@ -1051,7 +1050,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Somerset"
     },
     {
         "name": "Przytulna, zaciszna kabina ekologiczna w pobli\u017cu Brighton",
@@ -1059,7 +1059,6 @@
         "general rating": 4.91,
         "number of guests": 3,
         "city": "East Sussex",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 282.0,
         "number of amenities": 36,
@@ -1068,7 +1067,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Blaen Wern Cosy Cabin With Mountain View",
@@ -1076,7 +1076,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Llanrhaeadr-ym-Mochnant",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 239.0,
         "number of amenities": 43,
@@ -1085,7 +1084,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Okres Art Deco 1930 's apartament",
@@ -1093,7 +1093,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Londyn",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 143.0,
         "number of amenities": 49,
@@ -1102,7 +1101,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Przytulna sypialnia z surfingiem w pobli\u017cu pla\u017cy, z paleniskiem.",
@@ -1110,7 +1110,6 @@
         "general rating": 4.59,
         "number of guests": null,
         "city": "Kornwalia",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 266.0,
         "number of amenities": 55,
@@ -1119,7 +1118,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "Kemping pod zachodnimi jeziorami",
@@ -1127,7 +1127,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Cockermouth",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 208.0,
         "number of amenities": 11,
@@ -1136,7 +1135,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Southbourne Garden Beach Cabin minut do morza.",
@@ -1144,7 +1144,6 @@
         "general rating": 5.0,
         "number of guests": 3,
         "city": "Southbourne",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 376.0,
         "number of amenities": 53,
@@ -1153,7 +1152,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Pi\u0119kny i niesamowity pok\u00f3j w domu i s\u0142oneczny taras",
@@ -1161,7 +1161,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Londyn",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 263.0,
         "number of amenities": 25,
@@ -1170,7 +1169,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Wspania\u0142e wiejskie studio antresoli",
@@ -1178,7 +1178,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Cloughton",
-        "district": "North Yorkshire",
         "country": "Wielka Brytania",
         "price per night": 281.0,
         "number of amenities": 40,
@@ -1187,7 +1186,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "North Yorkshire"
     },
     {
         "name": "Chata Casita Paraiso Eco",
@@ -1195,7 +1195,6 @@
         "general rating": 4.62,
         "number of guests": null,
         "city": "Center City of Bristol",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 252.0,
         "number of amenities": 44,
@@ -1204,7 +1203,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "Przytulna chatka ogrodowa w centrum Wareham",
@@ -1212,7 +1212,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Dorset",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 292.0,
         "number of amenities": 35,
@@ -1221,7 +1220,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Wspania\u0142e wiejskie studio antresoli",
@@ -1229,7 +1229,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Cloughton",
-        "district": "North Yorkshire",
         "country": "Wielka Brytania",
         "price per night": 281.0,
         "number of amenities": 40,
@@ -1238,7 +1237,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "North Yorkshire"
     },
     {
         "name": "Chata Casita Paraiso Eco",
@@ -1246,7 +1246,6 @@
         "general rating": 4.62,
         "number of guests": null,
         "city": "Center City of Bristol",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 252.0,
         "number of amenities": 44,
@@ -1255,7 +1254,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "Przytulna chatka ogrodowa w centrum Wareham",
@@ -1263,7 +1263,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Dorset",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 292.0,
         "number of amenities": 35,
@@ -1272,7 +1271,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j jednoosobowy, \u015bniadanie, doskona\u0142y transport, wifi",
@@ -1280,7 +1280,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Londyn",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 293.0,
         "number of amenities": 37,
@@ -1289,7 +1288,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "The Lodge",
@@ -1297,7 +1297,6 @@
         "general rating": 4.88,
         "number of guests": 5,
         "city": "Greater Manchester",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 235.0,
         "number of amenities": 20,
@@ -1306,7 +1305,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Przytulny pok\u00f3j w domu w stylu wiktoria\u0144skim",
@@ -1314,7 +1314,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 188.0,
         "number of amenities": 26,
@@ -1323,7 +1322,8 @@
         "communication rating": 5.0,
         "location rating": 4.4,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Aneks w Pentire",
@@ -1331,7 +1331,6 @@
         "general rating": 4.97,
         "number of guests": 2,
         "city": "Kornwalia",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 261.0,
         "number of amenities": 18,
@@ -1340,7 +1339,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Loft stolarski, samodzielny, z klimatyzacj\u0105, kuchnia.",
@@ -1348,7 +1348,6 @@
         "general rating": 4.92,
         "number of guests": 5,
         "city": "Penmachno",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 157.0,
         "number of amenities": 43,
@@ -1357,7 +1356,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wales"
     },
     {
         "name": "Weavers 'Cottage, West Bradford, Clitheroe",
@@ -1365,7 +1365,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "West Bradford",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 221.0,
         "number of amenities": 40,
@@ -1374,7 +1373,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Blue Pod w Glan Y Mor Farm, Pembrokeshire",
@@ -1382,7 +1382,6 @@
         "general rating": 4.89,
         "number of guests": 3,
         "city": "Pembrokeshire",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 207.0,
         "number of amenities": 20,
@@ -1391,7 +1390,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Prywatny pok\u00f3j w centrum z \u0142azienk\u0105",
@@ -1399,7 +1399,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Berkshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 298.0,
         "number of amenities": 51,
@@ -1408,7 +1407,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "KWATERY PRYWATNE W RUSTYKALNEJ KONWERSJI OBORY",
@@ -1416,7 +1416,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Selston",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 261.0,
         "number of amenities": 11,
@@ -1425,7 +1424,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Aber Farm Shepherd 's Hut (Tor y Foel)",
@@ -1433,7 +1433,6 @@
         "general rating": 4.83,
         "number of guests": 2,
         "city": "Talybont-on-Usk",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 324.0,
         "number of amenities": 12,
@@ -1442,7 +1441,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wales"
     },
     {
         "name": "Spokojny aneks ogrodowy",
@@ -1450,7 +1450,6 @@
         "general rating": 4.83,
         "number of guests": 2,
         "city": "Broad Chalke",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 299.0,
         "number of amenities": 54,
@@ -1459,7 +1458,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Beautiful Tranquil Victorian Home \u2014 Private Room",
@@ -1467,7 +1467,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 261.0,
         "number of amenities": 62,
@@ -1476,7 +1475,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Prywatny pok\u00f3j dwuosobowy z telewizorem i Wi-Fi",
@@ -1484,7 +1484,6 @@
         "general rating": 4.84,
         "number of guests": null,
         "city": "Londyn",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 220.0,
         "number of amenities": 21,
@@ -1493,7 +1492,8 @@
         "communication rating": 4.9,
         "location rating": 4.3,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Nowy nr 11 Brynmill - Sea front - 50in smart TV",
@@ -1501,7 +1501,6 @@
         "general rating": 4.46,
         "number of guests": null,
         "city": "Brynmill",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 122.0,
         "number of amenities": 29,
@@ -1510,7 +1509,8 @@
         "communication rating": 4.6,
         "location rating": 4.7,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Wales"
     },
     {
         "name": "2 prywatne pokoje w domu nr miasto lotnisko & miasto",
@@ -1518,7 +1518,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Belfast",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 202.0,
         "number of amenities": 39,
@@ -1527,7 +1526,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Pok\u00f3j z \u0142azienk\u0105 i widokiem na ogr\u00f3d. 25 min miasta",
@@ -1535,7 +1535,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 319.0,
         "number of amenities": 34,
@@ -1544,7 +1543,8 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Przestronny prywatny pok\u00f3j w nowo wybudowanym domu",
@@ -1552,7 +1552,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 288.0,
         "number of amenities": 51,
@@ -1561,7 +1560,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pi\u0119kny pok\u00f3j na poddaszu w Londynie",
@@ -1569,7 +1569,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Londyn",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 261.0,
         "number of amenities": 33,
@@ -1578,7 +1577,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Urocza sypialnia z \u0142azienk\u0105 w pobli\u017cu morza",
@@ -1586,7 +1586,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Tyne and Wear",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 188.0,
         "number of amenities": 34,
@@ -1595,7 +1594,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pasterska chata Aber Farm (Pen y Fan)",
@@ -1603,7 +1603,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "Talybont-on-Usk",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 324.0,
         "number of amenities": 13,
@@ -1612,7 +1611,8 @@
         "communication rating": 4.8,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Przestronny pok\u00f3j trzyosobowy z \u0142azienk\u0105",
@@ -1620,7 +1620,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 288.0,
         "number of amenities": 34,
@@ -1629,7 +1628,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Wygodna sypialnia ze \u015bniadaniem",
@@ -1637,7 +1637,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Cardiff",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 188.0,
         "number of amenities": 26,
@@ -1646,7 +1645,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Ma\u0142a, wype\u0142niona \u015bwiat\u0142em sypialnia z \u0142azienk\u0105",
@@ -1654,7 +1654,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Londyn",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 340.0,
         "number of amenities": 36,
@@ -1663,7 +1662,8 @@
         "communication rating": 4.8,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Pi\u0119kna chata ustawiona na Cornish working farm",
@@ -1671,7 +1671,6 @@
         "general rating": 4.65,
         "number of guests": 2,
         "city": "Kornwalia",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 157.0,
         "number of amenities": 23,
@@ -1680,7 +1679,8 @@
         "communication rating": 4.7,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Cichy pok\u00f3j 1 osoba w pobli\u017cu Londynu i Wimbledonu",
@@ -1688,7 +1688,6 @@
         "general rating": 4.97,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 179.0,
         "number of amenities": 52,
@@ -1697,7 +1696,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Chata przy wzg\u00f3rzach Malvern",
@@ -1705,7 +1705,6 @@
         "general rating": 4.81,
         "number of guests": 4,
         "city": "Malvern Hills District",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 265.0,
         "number of amenities": 31,
@@ -1714,7 +1713,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Cichy pok\u00f3j dwuosobowy w pobli\u017cu Londynu - 10 min dworca kolejowego",
@@ -1722,7 +1722,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 260.0,
         "number of amenities": 52,
@@ -1731,7 +1730,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "1 lub 2 sypialnie i prywatny prysznic w wiktoria\u0144skim domu",
@@ -1739,7 +1739,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Derbyshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 180.0,
         "number of amenities": 33,
@@ -1748,7 +1747,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Prywatny aneks w pobli\u017cu lotniska i Yorkshire Dales",
@@ -1756,7 +1756,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Guiseley",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 220.0,
         "number of amenities": 35,
@@ -1765,7 +1764,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Sypialnia w uroczym domu",
@@ -1773,7 +1773,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 212.0,
         "number of amenities": 27,
@@ -1782,7 +1781,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Domek z bali: widok na morze i \u0142atwy dost\u0119p do pla\u017cy/wzg\u00f3rz",
@@ -1790,7 +1790,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Conwy",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 157.0,
         "number of amenities": 32,
@@ -1799,7 +1798,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Pok\u00f3j dwuosobowy z w\u0142asn\u0105 \u0142azienk\u0105 w spokojnym p\u00f3\u0142ksi\u0119\u017cycu.",
@@ -1807,7 +1807,6 @@
         "general rating": 4.48,
         "number of guests": null,
         "city": "Kent",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 183.0,
         "number of amenities": 41,
@@ -1816,7 +1815,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Anglia"
     },
     {
         "name": "Nowoczesne mieszkanie ze wszystkimi niezb\u0119dnymi udogodnieniami",
@@ -1824,7 +1824,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "North Ayrshire",
-        "district": "Szkocja",
         "country": "Wielka Brytania",
         "price per night": 253.0,
         "number of amenities": 52,
@@ -1833,7 +1832,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Szkocja"
     },
     {
         "name": "Nowoczesne mieszkanie ze wszystkimi niezb\u0119dnymi udogodnieniami",
@@ -1841,7 +1841,6 @@
         "general rating": 4.88,
         "number of guests": 4,
         "city": "North Ayrshire",
-        "district": "Szkocja",
         "country": "Wielka Brytania",
         "price per night": 253.0,
         "number of amenities": 52,
@@ -1850,7 +1849,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Szkocja"
     },
     {
         "name": "Nowy nr 9 Brynmill - Widok na morze - Smart TV",
@@ -1858,7 +1858,6 @@
         "general rating": 4.65,
         "number of guests": null,
         "city": "Brynmill",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 136.0,
         "number of amenities": 29,
@@ -1867,16 +1866,15 @@
         "communication rating": 4.8,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wales"
     },
-    null,
     {
         "name": "Elsie Farmhouse - wiktoria\u0144ska wiejska farma",
         "number of reviews": 272,
         "general rating": 4.85,
         "number of guests": null,
         "city": "Ramsey Saint Mary's",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 179.0,
         "number of amenities": 20,
@@ -1885,7 +1883,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Heart of Greenwich",
@@ -1893,7 +1892,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 246.0,
         "number of amenities": 51,
@@ -1902,7 +1900,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Centrala do Manchesteru, Liverpool Warrington",
@@ -1910,7 +1909,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Ashton-in-Makerfield",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 99.0,
         "number of amenities": 34,
@@ -1919,7 +1917,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy w Great Hallingbury",
@@ -1927,7 +1926,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Bishop's Stortford",
-        "district": "ENGLAND",
         "country": "Wielka Brytania",
         "price per night": 209.0,
         "number of amenities": 42,
@@ -1936,7 +1934,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "ENGLAND"
     },
     {
         "name": "Powitalne pokoje Lake District z pi\u0119knym widokiem",
@@ -1944,7 +1943,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Cockermouth",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 199.0,
         "number of amenities": 22,
@@ -1953,7 +1951,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Cichy, przytulny pok\u00f3j z podw\u00f3jnym \u0142\u00f3\u017ckiem",
@@ -1961,7 +1960,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Somerset",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 167.0,
         "number of amenities": 45,
@@ -1970,7 +1968,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Teise w dawnym XVI wieku karczmie",
@@ -1978,7 +1977,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": null,
-        "district": null,
         "country": null,
         "price per night": 209.0,
         "number of amenities": 41,
@@ -1987,7 +1985,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Pi\u0119kny dom w pobli\u017cu zamku Belvoir - najwy\u017csze pi\u0119tro",
@@ -1995,7 +1994,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Bottesford",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 238.0,
         "number of amenities": 40,
@@ -2004,7 +2002,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Wynajmowanie 1 sypialni w mieszkaniu z 2 sypialniami",
@@ -2012,7 +2011,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 308.0,
         "number of amenities": 5,
@@ -2021,7 +2019,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "pok\u00f3j sgle w dziwacznych Totnes",
@@ -2029,7 +2028,6 @@
         "general rating": 4.77,
         "number of guests": null,
         "city": "Totnes",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 94.0,
         "number of amenities": 21,
@@ -2038,7 +2036,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Ma\u0142a i dobra cena i cieszysz si\u0119 pe\u0142nym  domem",
@@ -2046,7 +2045,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 162.0,
         "number of amenities": 38,
@@ -2055,7 +2053,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy w przyjaznym domu rodzinnym w Hardwicke",
@@ -2063,7 +2062,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Hardwicke",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 152.0,
         "number of amenities": 16,
@@ -2072,7 +2070,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Sypialnia z \u0142\u00f3\u017ckiem podw\u00f3jnym w domu w stylu wi",
@@ -2080,7 +2079,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Londyn",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 209.0,
         "number of amenities": 53,
@@ -2089,7 +2087,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": null
     },
     {
         "name": "Weso\u0142y domek",
@@ -2097,7 +2096,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Great Clifton",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 110.0,
         "number of amenities": 43,
@@ -2106,7 +2104,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Pok\u00f3j dwuosobowy, 25 minut do Londynu",
@@ -2114,7 +2113,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Walton-on-Thames",
-        "district": "Surrey",
         "country": "Wielka Brytania",
         "price per night": 217.0,
         "number of amenities": 62,
@@ -2123,7 +2121,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Surrey"
     },
     {
         "name": "Pok\u00f3j dwuosobowy, 25 minut do Londynu",
@@ -2131,7 +2130,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Walton-on-Thames",
-        "district": "Surrey",
         "country": "Wielka Brytania",
         "price per night": 217.0,
         "number of amenities": 62,
@@ -2140,7 +2138,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Surrey"
     },
     {
         "name": "Przyjemny,rodzinny pensjonat",
@@ -2148,7 +2147,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Devon",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 314.0,
         "number of amenities": 5,
@@ -2157,7 +2155,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Samodzielne Petite Prywatne studio, zdezynfekowane",
@@ -2165,7 +2164,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "Cheadle Hulme",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 222.0,
         "number of amenities": 39,
@@ -2174,7 +2172,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Prywatny apartament \" Garden\" w Cadnam, Nowy Las",
@@ -2182,7 +2181,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Hampshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 324.0,
         "number of amenities": 22,
@@ -2191,7 +2189,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Niedawno odnowione studio",
@@ -2199,7 +2198,6 @@
         "general rating": 4.74,
         "number of guests": 2,
         "city": "Dorset",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 220.0,
         "number of amenities": 27,
@@ -2208,7 +2206,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "North Piddle samodzielne studio",
@@ -2216,7 +2215,6 @@
         "general rating": 4.9,
         "number of guests": 3,
         "city": "Worcester",
-        "district": "Worcestershire",
         "country": "Wielka Brytania",
         "price per night": 210.0,
         "number of amenities": 38,
@@ -2225,7 +2223,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Worcestershire"
     },
     {
         "name": "Przestronny pok\u00f3j z \u0142\u00f3\u017ckiem podw\u00f3jnym blisko Gatwick",
@@ -2233,7 +2232,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "West Sussex",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 209.0,
         "number of amenities": 28,
@@ -2242,7 +2240,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Cichy pok\u00f3j, dom rodzinny, blisko lotniska",
@@ -2250,7 +2249,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Gatley",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 127.0,
         "number of amenities": 24,
@@ -2259,7 +2257,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Domek Elder, Lochranza, Isle of Arran",
@@ -2267,7 +2266,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "North Ayrshire Council",
-        "district": "Szkocja",
         "country": "Wielka Brytania",
         "price per night": 308.0,
         "number of amenities": 41,
@@ -2276,7 +2274,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Szkocja"
     },
     {
         "name": "Pi\u0119kna wiejska chata ze strzech\u0105 (pok\u00f3j 3)",
@@ -2284,7 +2283,6 @@
         "general rating": 4.63,
         "number of guests": null,
         "city": "Cheveley",
-        "district": "Suffolk",
         "country": "Wielka Brytania",
         "price per night": 159.0,
         "number of amenities": 28,
@@ -2293,7 +2291,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Suffolk"
     },
     {
         "name": "Cosy single room",
@@ -2301,7 +2300,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 115.0,
         "number of amenities": 34,
@@ -2310,7 +2308,8 @@
         "communication rating": 4.7,
         "location rating": 4.6,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Lekki i kompaktowy ogr\u00f3d zewn\u0119trzny/ kabina",
@@ -2318,7 +2317,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Surrey",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 183.0,
         "number of amenities": 24,
@@ -2327,7 +2325,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Hillside kryj\u00f3wka w Upper Wye Valley",
@@ -2335,7 +2334,6 @@
         "general rating": 4.98,
         "number of guests": 2,
         "city": "Builth Wells",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 492.0,
         "number of amenities": 25,
@@ -2344,7 +2342,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Wales"
     },
     {
         "name": "Przytulny pok\u00f3j dwuosobowy - serce Waterloo/Southbank",
@@ -2352,7 +2351,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 455.0,
         "number of amenities": 46,
@@ -2361,7 +2359,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Dom dobrych wibracji i pozytywnej energii",
@@ -2369,7 +2368,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 167.0,
         "number of amenities": 33,
@@ -2378,7 +2376,8 @@
         "communication rating": 4.9,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Wi\u0119ksza przestrze\u0144 w bardzo spokojnym, ale wygodnym miejscu",
@@ -2386,7 +2385,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 105.0,
         "number of amenities": 24,
@@ -2395,7 +2393,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Pi\u0119kny pok\u00f3j w centrum Londynu",
@@ -2403,7 +2402,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 408.0,
         "number of amenities": 40,
@@ -2412,7 +2410,8 @@
         "communication rating": 5.0,
         "location rating": 4.1,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "mieszkanie z kuchni\u0105 parking Wi-Fi sky tv",
@@ -2420,7 +2419,6 @@
         "general rating": 4.78,
         "number of guests": 2,
         "city": "Newton Mearns",
-        "district": "Szkocja",
         "country": "Wielka Brytania",
         "price per night": 217.0,
         "number of amenities": 18,
@@ -2429,7 +2427,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Szkocja"
     },
     {
         "name": "Dom Longbeach - Torcross -\"Secret Spot\".",
@@ -2437,7 +2436,6 @@
         "general rating": 4.96,
         "number of guests": 2,
         "city": "Devon",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 350.0,
         "number of amenities": 30,
@@ -2446,7 +2444,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Stylowe, samodzielne mieszkanie",
@@ -2454,7 +2453,6 @@
         "general rating": 4.91,
         "number of guests": 2,
         "city": "Pembrokeshire",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 230.0,
         "number of amenities": 33,
@@ -2463,7 +2461,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Du\u017cy, jasny pok\u00f3j z \u0142azienk\u0105 i szybkim Wi-Fi",
@@ -2471,7 +2470,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": "Brynmill",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 173.0,
         "number of amenities": 18,
@@ -2480,7 +2478,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Woodlands  Retreat - Seven Sisters / Dogs welcome",
@@ -2488,7 +2487,6 @@
         "general rating": 4.89,
         "number of guests": 2,
         "city": "East Sussex",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 392.0,
         "number of amenities": 50,
@@ -2497,7 +2495,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Pi\u0119kny pok\u00f3j jednoosobowy w pobli\u017cu dworca i bezp\u0142atny parking",
@@ -2505,7 +2504,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 125.0,
         "number of amenities": 27,
@@ -2514,7 +2512,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Centralna baza wypadowa do zwiedzania Windermere",
@@ -2522,7 +2521,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Cumbria",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 338.0,
         "number of amenities": 16,
@@ -2531,7 +2529,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Prywatna \u0142azienka i sypialnia - w pobli\u017cu Heathrow i metro",
@@ -2539,7 +2538,6 @@
         "general rating": 4.93,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 199.0,
         "number of amenities": 44,
@@ -2548,7 +2546,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.6,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Dom ze \u015bniadaniem kontynentalnym, BS16",
@@ -2556,7 +2555,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Bristol City",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 136.0,
         "number of amenities": 25,
@@ -2565,7 +2563,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Dobrze po\u0142o\u017cony pok\u00f3j w Castleford",
@@ -2573,7 +2572,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "West Yorkshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 160.0,
         "number of amenities": 25,
@@ -2582,7 +2580,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Riverside Meadow bell tent glamping",
@@ -2590,7 +2589,6 @@
         "general rating": 4.93,
         "number of guests": 4,
         "city": "Aberystwyth",
-        "district": "Ceredigion",
         "country": "Wielka Brytania",
         "price per night": 314.0,
         "number of amenities": 37,
@@ -2599,7 +2597,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Ceredigion"
     },
     {
         "name": "Miasto 15 min/5 przystank\u00f3w metrem - 5* - ze \u015bniadaniem",
@@ -2607,7 +2606,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Londyn",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 363.0,
         "number of amenities": 43,
@@ -2616,7 +2614,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Nowo\u015b\u0107 nr 7 - Brynmill - nadmorski - 50in Smart TV",
@@ -2624,7 +2623,6 @@
         "general rating": 4.62,
         "number of guests": null,
         "city": "Brynmill",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 136.0,
         "number of amenities": 29,
@@ -2633,7 +2631,8 @@
         "communication rating": 4.7,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wales"
     },
     {
         "name": "Urocza przestronna sypialnia z \u0142\u00f3\u017ckiem podw\u00f3jnym i prywatny salon",
@@ -2641,7 +2640,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Denbighshire",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 316.0,
         "number of amenities": 52,
@@ -2650,7 +2648,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wales"
     },
     {
         "name": "Przytulny pok\u00f3j dwuosobowy w spokojnej i wygodnej lokalizacji",
@@ -2658,7 +2657,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Devon",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 167.0,
         "number of amenities": 41,
@@ -2667,7 +2665,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Przyjazne dla zwierz\u0105t i przytulne miejsce dla dwojga",
@@ -2675,7 +2674,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Bassenthwaite",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 439.0,
         "number of amenities": 38,
@@ -2684,7 +2682,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Przytulne miejsce na pobyt w tym domu, bez wychodzenia z domu.",
@@ -2692,7 +2691,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Shotton",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 157.0,
         "number of amenities": 16,
@@ -2701,7 +2699,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wales"
     },
     {
         "name": "Pok\u00f3j 5 - widok na pla\u017c\u0119 Oystermouth Rd",
@@ -2709,7 +2708,6 @@
         "general rating": 4.56,
         "number of guests": null,
         "city": "Swansea",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 136.0,
         "number of amenities": 30,
@@ -2718,7 +2716,8 @@
         "communication rating": 4.7,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wales"
     },
     {
         "name": "Dziwny, od\u0142\u0105czony bungalow.",
@@ -2726,7 +2725,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Suffolk",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 188.0,
         "number of amenities": 52,
@@ -2735,7 +2733,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Przyjazne dla zwierz\u0105t i przytulne miejsce dla dwojga",
@@ -2743,7 +2742,6 @@
         "general rating": 4.9,
         "number of guests": 2,
         "city": "Bassenthwaite",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 439.0,
         "number of amenities": 38,
@@ -2752,7 +2750,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Przytulne miejsce na pobyt w tym domu, bez wychodzenia z domu.",
@@ -2760,7 +2759,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Shotton",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 157.0,
         "number of amenities": 16,
@@ -2769,7 +2767,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wales"
     },
     {
         "name": "Pok\u00f3j 5 - widok na pla\u017c\u0119 Oystermouth Rd",
@@ -2777,7 +2776,6 @@
         "general rating": 4.56,
         "number of guests": null,
         "city": "Swansea",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 136.0,
         "number of amenities": 30,
@@ -2786,7 +2784,8 @@
         "communication rating": 4.7,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Wales"
     },
     {
         "name": "Dziwny, od\u0142\u0105czony bungalow.",
@@ -2794,7 +2793,6 @@
         "general rating": 4.94,
         "number of guests": null,
         "city": "Suffolk",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 188.0,
         "number of amenities": 52,
@@ -2803,7 +2801,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Dost\u0119pny pok\u00f3j 1 osobowy,Komfortowy, Dobra lokalizacja.",
@@ -2811,7 +2810,6 @@
         "general rating": 4.25,
         "number of guests": null,
         "city": "Tondu",
-        "district": "Cymru",
         "country": "Wielka Brytania",
         "price per night": 131.0,
         "number of amenities": 12,
@@ -2820,7 +2818,8 @@
         "communication rating": 4.5,
         "location rating": 4.3,
         "check in rating": 4.6,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Cymru"
     },
     {
         "name": "Chatka pla\u017cowa",
@@ -2828,7 +2827,6 @@
         "general rating": 4.68,
         "number of guests": null,
         "city": "Arnside",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 203.0,
         "number of amenities": 48,
@@ -2837,7 +2835,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "'Poddasze na 19' King-size,przytulna sypialnia&ensuite",
@@ -2845,7 +2844,6 @@
         "general rating": 4.93,
         "number of guests": 3,
         "city": "Shepshed",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 178.0,
         "number of amenities": 34,
@@ -2854,7 +2852,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy w domu Riverside",
@@ -2862,7 +2861,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Maidenhead",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 204.0,
         "number of amenities": 34,
@@ -2871,7 +2869,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Pi\u0119kny pok\u00f3j w domu Winscombe 16 minut od lotniska",
@@ -2879,7 +2878,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "North Somerset",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 112.0,
         "number of amenities": 23,
@@ -2888,7 +2886,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Wyj\u0105tkowy dom w okresie: Halifax - Du\u017cy pok\u00f3j 1 osoba.",
@@ -2896,7 +2895,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Halifax",
-        "district": "West Yorkshire",
         "country": "Wielka Brytania",
         "price per night": 116.0,
         "number of amenities": 41,
@@ -2905,7 +2903,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "West Yorkshire"
     },
     {
         "name": "Wygodny, cichy dom z darmowym Wi-Fi.",
@@ -2913,7 +2912,6 @@
         "general rating": 4.96,
         "number of guests": null,
         "city": "Bournemouth",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 139.0,
         "number of amenities": 18,
@@ -2922,7 +2920,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Proste podw\u00f3jne i ma\u0142e prywatne prysznic/WC pok\u00f3j",
@@ -2930,7 +2929,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Totnes",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 167.0,
         "number of amenities": 30,
@@ -2939,7 +2937,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": null
     },
     {
         "name": "Przestronny pok\u00f3j dwuosobowy w Godalming",
@@ -2947,7 +2946,6 @@
         "general rating": 4.78,
         "number of guests": null,
         "city": "Surrey",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 178.0,
         "number of amenities": 23,
@@ -2956,7 +2954,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy w wygodnym i przytulnym domu w Cwmbran",
@@ -2964,7 +2963,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Cwmbran",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 152.0,
         "number of amenities": 42,
@@ -2973,7 +2971,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Wales"
     },
     {
         "name": "domek go\u015bcinny Bentleys pojedynczy standard",
@@ -2981,7 +2980,6 @@
         "general rating": 4.43,
         "number of guests": null,
         "city": "Tyne and Wear",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 111.0,
         "number of amenities": 12,
@@ -2990,7 +2988,8 @@
         "communication rating": 4.7,
         "location rating": 4.4,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Anglia"
     },
     {
         "name": "Przestronny pok\u00f3j do odpoczynku",
@@ -2998,7 +2997,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Surrey",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 261.0,
         "number of amenities": 23,
@@ -3007,7 +3005,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy w pobli\u017cu szpitala QA",
@@ -3015,7 +3014,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Cosham",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 146.0,
         "number of amenities": 12,
@@ -3024,7 +3022,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Uroczy, jasny pok\u00f3j dwuosobowy z miejscem parkingowym.",
@@ -3032,7 +3031,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "West Sussex",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 185.0,
         "number of amenities": 27,
@@ -3041,7 +3039,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Wygodna sypialnia dwuosobowa",
@@ -3049,7 +3048,6 @@
         "general rating": 4.91,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 188.0,
         "number of amenities": 40,
@@ -3058,7 +3056,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "pi\u0119kny, jasny i spokojny pok\u00f3j",
@@ -3066,7 +3065,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "East Sussex",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 158.0,
         "number of amenities": 15,
@@ -3075,7 +3073,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Anglia"
     },
     {
         "name": "Najlepsze miejsce na sp\u0119dzenie czasu",
@@ -3083,7 +3082,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Leicester",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 115.0,
         "number of amenities": 20,
@@ -3092,7 +3090,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Anglia"
     },
     {
         "name": "Zachwycaj\u0105cy pok\u00f3j dwuosobowy w Pinner",
@@ -3100,7 +3099,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 209.0,
         "number of amenities": 45,
@@ -3109,7 +3107,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Anglia"
     },
     {
         "name": "PubLove @ The Crown",
@@ -3117,7 +3116,6 @@
         "general rating": 4.25,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 107.0,
         "number of amenities": 14,
@@ -3126,7 +3124,8 @@
         "communication rating": 4.6,
         "location rating": 4.5,
         "check in rating": 4.6,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Anglia"
     },
     {
         "name": "Komfortowy pok\u00f3j w pobli\u017cu centrum miasta.",
@@ -3134,7 +3133,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Merseyside",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 105.0,
         "number of amenities": 45,
@@ -3143,7 +3141,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j jednoosobowy w tooting",
@@ -3151,7 +3150,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 157.0,
         "number of amenities": 11,
@@ -3160,7 +3158,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Anglia"
     },
     {
         "name": "Cosy Double Room | City Centre | Self Check-in",
@@ -3168,7 +3167,6 @@
         "general rating": null,
         "number of guests": 2,
         "city": "Belfast",
-        "district": "Northern Ireland",
         "country": "Wielka Brytania",
         "price per night": 167.0,
         "number of amenities": 43,
@@ -3177,7 +3175,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Northern Ireland"
     },
     {
         "name": "The Furzebrook Snug Guest Suite - Jurassic Coast",
@@ -3185,7 +3184,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Dorset",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 288.0,
         "number of amenities": 20,
@@ -3194,7 +3192,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.8,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Pi\u0119kny apartament z 1 sypialni\u0105 i jadalni\u0105 na \u015bwie\u017cym powietrzu",
@@ -3202,7 +3201,6 @@
         "general rating": 4.92,
         "number of guests": 4,
         "city": "Pontardawe",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 262.0,
         "number of amenities": 48,
@@ -3211,7 +3209,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Pok\u00f3j z prywatnym prysznicemi toalet\u0105",
@@ -3219,7 +3218,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "West Sussex",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 173.0,
         "number of amenities": 12,
@@ -3228,7 +3226,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Anglia"
     },
     {
         "name": "Pe\u0142ny domek parterowy w Eastwood - DH Lawrence Country",
@@ -3236,7 +3235,6 @@
         "general rating": 5.0,
         "number of guests": 4,
         "city": "Eastwood",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 250.0,
         "number of amenities": 36,
@@ -3245,7 +3243,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Niesamowite widoki na Tamiz\u0119",
@@ -3253,7 +3252,6 @@
         "general rating": 4.53,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 183.0,
         "number of amenities": 39,
@@ -3262,7 +3260,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Anglia"
     },
     {
         "name": "Przestronny, nowoczesny pok\u00f3j w pobli\u017cu centrum miasta.",
@@ -3270,7 +3269,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Merseyside",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 92.0,
         "number of amenities": 39,
@@ -3279,7 +3277,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Nowoczesny loft Sypialnia w pobli\u017cu centrum miasta",
@@ -3287,7 +3286,6 @@
         "general rating": 4.79,
         "number of guests": null,
         "city": "Merseyside",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 99.0,
         "number of amenities": 39,
@@ -3296,7 +3294,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Luksusowy, cichy pok\u00f3j dwuosobowy w Londynie",
@@ -3304,7 +3303,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 382.0,
         "number of amenities": 64,
@@ -3313,7 +3311,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "Charyzmatyczny i spokojny prywatny domek go\u015bcinny.",
@@ -3321,7 +3320,6 @@
         "general rating": 4.66,
         "number of guests": 2,
         "city": "South Yorkshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 186.0,
         "number of amenities": 41,
@@ -3330,7 +3328,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "En-Suite du\u017cy luksusowy pok\u00f3j w centrum miasta",
@@ -3338,7 +3337,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Manchester",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 228.0,
         "number of amenities": 31,
@@ -3347,7 +3345,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Niesamowite widoki na Tamiz\u0119",
@@ -3355,7 +3354,6 @@
         "general rating": 4.53,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 183.0,
         "number of amenities": 39,
@@ -3364,7 +3362,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": "Anglia"
     },
     {
         "name": "Przestronny, nowoczesny pok\u00f3j w pobli\u017cu centrum miasta.",
@@ -3372,7 +3371,6 @@
         "general rating": 4.89,
         "number of guests": null,
         "city": "Merseyside",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 92.0,
         "number of amenities": 39,
@@ -3381,7 +3379,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Nowoczesny loft Sypialnia w pobli\u017cu centrum miasta",
@@ -3389,7 +3388,6 @@
         "general rating": 4.79,
         "number of guests": null,
         "city": "Merseyside",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 99.0,
         "number of amenities": 39,
@@ -3398,7 +3396,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Luksusowy, cichy pok\u00f3j dwuosobowy w Londynie",
@@ -3406,7 +3405,6 @@
         "general rating": 4.87,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 382.0,
         "number of amenities": 64,
@@ -3415,7 +3413,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "Charyzmatyczny i spokojny prywatny domek go\u015bcinny.",
@@ -3423,7 +3422,6 @@
         "general rating": 4.66,
         "number of guests": 2,
         "city": "South Yorkshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 186.0,
         "number of amenities": 41,
@@ -3432,7 +3430,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "En-Suite du\u017cy luksusowy pok\u00f3j w centrum miasta",
@@ -3440,7 +3439,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Manchester",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 228.0,
         "number of amenities": 31,
@@ -3449,7 +3447,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Wyjazd nad morze",
@@ -3457,7 +3456,6 @@
         "general rating": 4.76,
         "number of guests": 2,
         "city": "Suffolk",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 272.0,
         "number of amenities": 46,
@@ -3466,7 +3464,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Robs house",
@@ -3474,7 +3473,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "Merseyside",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 99.0,
         "number of amenities": 22,
@@ -3483,7 +3481,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Anglia"
     },
     {
         "name": "Przestronna sypialnia na poddaszu w pobli\u017cu Wembley Park",
@@ -3491,7 +3490,6 @@
         "general rating": 4.81,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 163.0,
         "number of amenities": 22,
@@ -3500,7 +3498,8 @@
         "communication rating": 4.9,
         "location rating": 4.5,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Pi\u0119kny pok\u00f3j dwuosobowy w stylowym mieszkaniu(wsp\u00f3lne mieszkanie)",
@@ -3508,7 +3507,6 @@
         "general rating": 4.71,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 193.0,
         "number of amenities": 22,
@@ -3517,7 +3515,8 @@
         "communication rating": 4.8,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Czyszczenie \u2022 Pok\u00f3j dwuosobowy \u2022 \u0142atwy dost\u0119p do Liverpoolu",
@@ -3525,7 +3524,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Birkenhead",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 168.0,
         "number of amenities": 17,
@@ -3534,7 +3532,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy w Brick Lane f3r2",
@@ -3542,7 +3541,6 @@
         "general rating": 3.6,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 220.0,
         "number of amenities": 9,
@@ -3551,7 +3549,8 @@
         "communication rating": 4.5,
         "location rating": 4.3,
         "check in rating": 4.6,
-        "value rating": 3.8
+        "value rating": 3.8,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j go\u015bcinny,  w\u0142asny wst\u0119p, w\u0142asny catering.",
@@ -3559,7 +3558,6 @@
         "general rating": 4.96,
         "number of guests": 2,
         "city": "Stewarton",
-        "district": "Szkocja",
         "country": "Wielka Brytania",
         "price per night": 178.0,
         "number of amenities": 51,
@@ -3568,7 +3566,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Szkocja"
     },
     {
         "name": "Prywatny pok\u00f3j w hrabstwie Durham",
@@ -3576,7 +3575,6 @@
         "general rating": null,
         "number of guests": null,
         "city": "County Durham",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 115.0,
         "number of amenities": 44,
@@ -3585,7 +3583,8 @@
         "communication rating": null,
         "location rating": null,
         "check in rating": null,
-        "value rating": null
+        "value rating": null,
+        "region": "Anglia"
     },
     {
         "name": "Przytulna sypialnia na li\u015bciastych przedmie\u015bciach",
@@ -3593,7 +3592,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Nether Edge",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 131.0,
         "number of amenities": 33,
@@ -3602,7 +3600,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Przytulne, samodzielne studio z 1 sypialni\u0105",
@@ -3610,7 +3609,6 @@
         "general rating": 4.88,
         "number of guests": 2,
         "city": "County Durham",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 173.0,
         "number of amenities": 31,
@@ -3619,7 +3617,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "P\u00f3\u0142nocny Anio\u0142 - NOMA",
@@ -3627,7 +3626,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Greater Manchester",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 361.0,
         "number of amenities": 44,
@@ -3636,7 +3634,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "podw\u00f3jne \u0142\u00f3\u017cko w pobli\u017cu centrum miasta",
@@ -3644,7 +3643,6 @@
         "general rating": 4.57,
         "number of guests": null,
         "city": "Merseyside",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 131.0,
         "number of amenities": 24,
@@ -3653,7 +3651,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Dwupoziomowy apartament w centrum miasta. Taras na dachu.",
@@ -3661,7 +3660,6 @@
         "general rating": 4.92,
         "number of guests": null,
         "city": "Manchester",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 324.0,
         "number of amenities": 54,
@@ -3670,7 +3668,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "Skromne, proste mieszkanie z 1 sypialni\u0105",
@@ -3678,7 +3677,6 @@
         "general rating": 4.94,
         "number of guests": 2,
         "city": "County Durham",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 173.0,
         "number of amenities": 27,
@@ -3687,7 +3685,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Du\u017ca sypialnia i nowoczesna \u0142azienka (TYLKO POK\u00d3J)",
@@ -3695,7 +3694,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "East Sussex",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 199.0,
         "number of amenities": 43,
@@ -3704,7 +3702,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Przytulny pok\u00f3j dwuosobowy w Southsea",
@@ -3712,7 +3711,6 @@
         "general rating": 4.5,
         "number of guests": null,
         "city": "Portsmouth",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 165.0,
         "number of amenities": 10,
@@ -3721,7 +3719,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 4.5,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": "Anglia"
     },
     {
         "name": "Runcorn Gem",
@@ -3729,7 +3728,6 @@
         "general rating": 4.72,
         "number of guests": 4,
         "city": "Borough of Halton",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 265.0,
         "number of amenities": 42,
@@ -3738,7 +3736,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j jednoosobowy",
@@ -3746,7 +3745,6 @@
         "general rating": 4.27,
         "number of guests": null,
         "city": "Anfield",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 64.0,
         "number of amenities": 26,
@@ -3755,7 +3753,8 @@
         "communication rating": 4.7,
         "location rating": 4.5,
         "check in rating": 4.7,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Anglia"
     },
     {
         "name": "Prywatny pok\u00f3j rodzinny blisko Tube & Tower Bridge",
@@ -3763,7 +3762,6 @@
         "general rating": 4.57,
         "number of guests": null,
         "city": "Greater London",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 235.0,
         "number of amenities": 18,
@@ -3772,7 +3770,8 @@
         "communication rating": 4.8,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "Romantic Guest Room-Double-Penny Lane L18",
@@ -3780,7 +3779,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Liverpool",
-        "district": "United Kingdom",
         "country": "Wielka Brytania",
         "price per night": 96.0,
         "number of amenities": 40,
@@ -3789,7 +3787,8 @@
         "communication rating": 4.9,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "United Kingdom"
     },
     {
         "name": "Pi\u0119kny apartament z prywatnym wej\u015bciem i ogrodem",
@@ -3797,7 +3796,6 @@
         "general rating": 4.85,
         "number of guests": 2,
         "city": "Hampshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 199.0,
         "number of amenities": 28,
@@ -3806,7 +3804,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Pojedynczy pok\u00f3j w dobrej lokalizacji",
@@ -3814,7 +3813,6 @@
         "general rating": 4.75,
         "number of guests": null,
         "city": "Cardiff",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 105.0,
         "number of amenities": 38,
@@ -3823,7 +3821,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Samodzielny ma\u0142y aneks.",
@@ -3831,7 +3830,6 @@
         "general rating": 4.84,
         "number of guests": 2,
         "city": "Lickey End",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 200.0,
         "number of amenities": 36,
@@ -3840,7 +3838,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy +bezp\u0142atny parking",
@@ -3848,7 +3847,6 @@
         "general rating": 4.5,
         "number of guests": null,
         "city": "Surrey",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 205.0,
         "number of amenities": 17,
@@ -3857,7 +3855,8 @@
         "communication rating": 4.8,
         "location rating": 4.5,
         "check in rating": 4.7,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j dwuosobowy w Bangor",
@@ -3865,7 +3864,6 @@
         "general rating": 4.49,
         "number of guests": null,
         "city": "Gwynedd",
-        "district": "Cymru",
         "country": "Wielka Brytania",
         "price per night": 169.0,
         "number of amenities": 10,
@@ -3874,7 +3872,8 @@
         "communication rating": 4.7,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Cymru"
     },
     {
         "name": "Pi\u0119kny pok\u00f3j | \u0141\u00f3\u017cko typu King Size | Blisko centrum",
@@ -3882,7 +3881,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Easton",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 157.0,
         "number of amenities": 28,
@@ -3891,7 +3889,8 @@
         "communication rating": 5.0,
         "location rating": 4.4,
         "check in rating": 5.0,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j jednoosobowy z \u0142azienk\u0105 i aneksem kuchennym",
@@ -3899,7 +3898,6 @@
         "general rating": 4.98,
         "number of guests": null,
         "city": "Manchester",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 105.0,
         "number of amenities": 49,
@@ -3908,7 +3906,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Ciche pojedyncze miejsce - Bez k\u0142opot\u00f3w - Bez stresu",
@@ -3916,7 +3915,6 @@
         "general rating": 4.61,
         "number of guests": null,
         "city": "Blackpool",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 111.0,
         "number of amenities": 17,
@@ -3925,7 +3923,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.8,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j 1 - Pok\u00f3j dwuosobowy z En Suite w centrum miasta!",
@@ -3933,7 +3932,6 @@
         "general rating": 4.17,
         "number of guests": null,
         "city": "Belfast",
-        "district": "Northern Ireland",
         "country": "Wielka Brytania",
         "price per night": 194.0,
         "number of amenities": 39,
@@ -3942,7 +3940,8 @@
         "communication rating": 4.0,
         "location rating": 4.6,
         "check in rating": 4.7,
-        "value rating": 4.4
+        "value rating": 4.4,
+        "region": "Northern Ireland"
     },
     {
         "name": "Samodzielnie zarezerwowany apartament z \u0142azienk\u0105",
@@ -3950,7 +3949,6 @@
         "general rating": 4.92,
         "number of guests": 2,
         "city": "Braunstone Town",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 188.0,
         "number of amenities": 24,
@@ -3959,7 +3957,8 @@
         "communication rating": 5.0,
         "location rating": 5.0,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "****brak CZYSZCZENIA FEE2 ****** **prywatny pok\u00f3j NEWCASTLE",
@@ -3967,7 +3966,6 @@
         "general rating": 4.83,
         "number of guests": null,
         "city": "Tyne and Wear",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 152.0,
         "number of amenities": 35,
@@ -3976,7 +3974,8 @@
         "communication rating": 4.9,
         "location rating": 4.7,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Mieszkanie bardzo blisko nadmorskiego parku widokowego (SCF7)",
@@ -3984,7 +3983,6 @@
         "general rating": 4.34,
         "number of guests": 3,
         "city": "Tyne and Wear",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 131.0,
         "number of amenities": 22,
@@ -3993,7 +3991,8 @@
         "communication rating": 4.7,
         "location rating": 4.9,
         "check in rating": 4.8,
-        "value rating": 4.7
+        "value rating": 4.7,
+        "region": "Anglia"
     },
     {
         "name": "Stylowa sypialnia dwuosobowa z prywatn\u0105 \u0142azienk\u0105",
@@ -4001,7 +4000,6 @@
         "general rating": 4.82,
         "number of guests": null,
         "city": "Essex",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 157.0,
         "number of amenities": 26,
@@ -4010,7 +4008,8 @@
         "communication rating": 4.9,
         "location rating": 4.9,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Samodzielne studio na parterze Bedford PARKING",
@@ -4018,7 +4017,6 @@
         "general rating": 4.93,
         "number of guests": 3,
         "city": "Bedford",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 256.0,
         "number of amenities": 43,
@@ -4027,7 +4025,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": null
     },
     {
         "name": "KWIATOWY (pok\u00f3j dwuosobowy) @ Blueberry-Linden Place",
@@ -4035,7 +4034,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Nottinghamshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 134.0,
         "number of amenities": 53,
@@ -4044,7 +4042,8 @@
         "communication rating": 5.0,
         "location rating": 4.7,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Zrelaksowany pok\u00f3j z dwuosobowym \u0142\u00f3\u017ckiem w pobli\u017cu centrum miasta R1",
@@ -4052,7 +4051,6 @@
         "general rating": 4.29,
         "number of guests": 2,
         "city": "Toxteth",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 94.0,
         "number of amenities": 25,
@@ -4061,7 +4059,8 @@
         "communication rating": 4.7,
         "location rating": 4.0,
         "check in rating": 4.7,
-        "value rating": 4.3
+        "value rating": 4.3,
+        "region": "Anglia"
     },
     {
         "name": "Prywatna sypialnia w przytulnym domu. Darmowy parking.",
@@ -4069,7 +4068,6 @@
         "general rating": 4.68,
         "number of guests": null,
         "city": "Tyne and Wear",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 131.0,
         "number of amenities": 17,
@@ -4078,7 +4076,8 @@
         "communication rating": 5.0,
         "location rating": 4.5,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Pok\u00f3j trzyosobowy w pobli\u017cu MUFC i Metrolink",
@@ -4086,7 +4085,6 @@
         "general rating": 4.86,
         "number of guests": null,
         "city": "Stretford",
-        "district": "trafford",
         "country": "Wielka Brytania",
         "price per night": 209.0,
         "number of amenities": 45,
@@ -4095,7 +4093,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "trafford"
     },
     {
         "name": "Jako\u015b\u0107 i warto\u015b\u0107 zakwaterowania w pobli\u017cu Notting Hill",
@@ -4103,7 +4102,6 @@
         "general rating": 4.48,
         "number of guests": null,
         "city": "Londyn",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 199.0,
         "number of amenities": 24,
@@ -4112,7 +4110,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 4.5
+        "value rating": 4.5,
+        "region": null
     },
     {
         "name": "Stylowa sypialnia w pobli\u017cu centrum miasta",
@@ -4120,7 +4119,6 @@
         "general rating": 4.85,
         "number of guests": null,
         "city": "Cheshire West and Chester",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 272.0,
         "number of amenities": 44,
@@ -4129,7 +4127,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Super Double Room - St Leonards",
@@ -4137,7 +4136,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Saint Leonards",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 131.0,
         "number of amenities": 32,
@@ -4146,7 +4144,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "TYLKO DLA KOBIET ( bez m\u0119\u017cczyzn Wygodny pok\u00f3j dwuosobowy",
@@ -4154,7 +4153,6 @@
         "general rating": 4.45,
         "number of guests": null,
         "city": "Manchester",
-        "district": null,
         "country": "Wielka Brytania",
         "price per night": 131.0,
         "number of amenities": 31,
@@ -4163,7 +4161,8 @@
         "communication rating": 4.8,
         "location rating": 4.4,
         "check in rating": 4.8,
-        "value rating": 4.6
+        "value rating": 4.6,
+        "region": null
     },
     {
         "name": "Przytulne mieszkanie na pierwszym pi\u0119trze",
@@ -4171,7 +4170,6 @@
         "general rating": 4.87,
         "number of guests": 2,
         "city": "Staffordshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 216.0,
         "number of amenities": 27,
@@ -4180,7 +4178,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Prywatny pok\u00f3j w Swinton obok Golf Club",
@@ -4188,7 +4187,6 @@
         "general rating": 4.9,
         "number of guests": null,
         "city": "Swinton",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 105.0,
         "number of amenities": 48,
@@ -4197,7 +4195,8 @@
         "communication rating": 5.0,
         "location rating": 4.8,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Anglia"
     },
     {
         "name": "Przytulny pok\u00f3j dwuosobowy w Ashton-Under-Lyne",
@@ -4205,7 +4204,6 @@
         "general rating": 5.0,
         "number of guests": null,
         "city": "Greater Manchester",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 154.0,
         "number of amenities": 49,
@@ -4214,7 +4212,8 @@
         "communication rating": 5.0,
         "location rating": 4.6,
         "check in rating": 4.9,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Anglia"
     },
     {
         "name": "Przytulne, przytulne 1 \u0142\u00f3\u017cko. 1.5 mil od morza!",
@@ -4222,7 +4221,6 @@
         "general rating": 4.95,
         "number of guests": null,
         "city": "Gwynedd",
-        "district": "Wales",
         "country": "Wielka Brytania",
         "price per night": 230.0,
         "number of amenities": 51,
@@ -4231,7 +4229,8 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 4.9
+        "value rating": 4.9,
+        "region": "Wales"
     },
     {
         "name": "Du\u017cy i nowoczesny loft, obok Bicester Village. \u6b22\u8fce",
@@ -4239,7 +4238,6 @@
         "general rating": 4.88,
         "number of guests": null,
         "city": "Oxfordshire",
-        "district": "Anglia",
         "country": "Wielka Brytania",
         "price per night": 282.0,
         "number of amenities": 34,
@@ -4248,7 +4246,8 @@
         "communication rating": 4.9,
         "location rating": 4.8,
         "check in rating": 4.9,
-        "value rating": 4.8
+        "value rating": 4.8,
+        "region": "Anglia"
     },
     {
         "name": "Cottage Room z w\u0142asnym wej\u015bciem, Sherwood Forest.",
@@ -4256,7 +4255,6 @@
         "general rating": 4.95,
         "number of guests": 3,
         "city": "Walesby",
-        "district": "Nottinghamshire",
         "country": "Wielka Brytania",
         "price per night": 214.0,
         "number of amenities": 41,
@@ -4265,6 +4263,7 @@
         "communication rating": 5.0,
         "location rating": 4.9,
         "check in rating": 5.0,
-        "value rating": 5.0
+        "value rating": 5.0,
+        "region": "Nottinghamshire"
     }
 ]
